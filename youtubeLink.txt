@@ -4,54 +4,10 @@
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
 
-Sky News || SkyNews.yt || News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+ManaTolivelugu || ManaTolivelugu.yt || News
+https://www.youtube.com/@ManaToliVelugu/live
 
-France 24 (English) || France24En.yt || News
-https://www.youtube.com/watch?v=tkDUSYHoKxE
+ManaTolivelugu1 || ManaTolivelugu1.yt || News
+https://www.youtube.com/@ManaToliVelugu/live1
 
-CGTN Europe || CGTN Europe.yt || News
-https://www.youtube.com/watch?v=UP5z9dRC6RU
-
-CNA || CNA.yt || News
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-ABC News (US) || ABCNewsUS.yt || News
-https://www.youtube.com/watch?v=OOtxXPaQvoM
-
-Bloomberg Global || Bloomberg.yt || News
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-Euronews || EuronewsEN.yt || News
-https://www.youtube.com/watch?v=pykpO5kQJ98
-
-NDTV 24x7 || NDTV.yt || News
-https://www.youtube.com/watch?v=Nen3UXaWDDE
-
-Al Jazeera English || AlJazeera.yt || News
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-
-TRT World || TRTWorld.yt || News
-https://www.youtube.com/watch?v=5VF4aor94gw
-
-CNBC Marathon || CNBCMarathon.yt || News
-https://www.youtube.com/watch?v=9NyxcX3rhQs
-
-DW News || DWNews.yt || News
-https://www.youtube.com/watch?v=pqabxBKzZ6M
-
-NHK World Japan || NHKWorld.yt || News
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
-Relaxing Jazz Piano Radio || JazzRadio.yt || Music
-https://www.youtube.com/watch?v=Dx5qFachd3A
-
-Epidemic Pop || EpidemicPop.yt || Music
-https://www.youtube.com/watch?v=wrEckgZZapI
-
-TOKYO Cafe || TokyoCafe.yt || Music
-https://www.youtube.com/watch?v=6uddGul0oAc
-
-NASA Starbase Live || NASALive.yt || Live
-https://www.youtube.com/watch?v=mhJRzQsLZGg
 
