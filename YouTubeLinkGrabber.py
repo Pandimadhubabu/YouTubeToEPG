@@ -99,7 +99,7 @@ Grabs the live-streaming M3U8 file
             end = link.find('.m3u8') + 5
 
             stream_title = soup.find("meta", property="og:title")["content"]
-            stream_desc = soup.find("meta", property="og:description")["content"]
+            stream_desc = soup.find("meta", property="og:title")["content"]
             stream_image_url = soup.find("meta", property="og:image")["content"]
             channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
 
