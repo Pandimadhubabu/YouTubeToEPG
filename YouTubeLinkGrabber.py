@@ -7,7 +7,7 @@ import requests
 from lxml import etree
 from bs4 import BeautifulSoup
 
-tz = pytz.timezone('Europe/London')
+tz = pytz.timezone('Asia/Kolkata')
 channels = []
 
 
