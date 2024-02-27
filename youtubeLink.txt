@@ -4,23 +4,23 @@
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
 
-ManaTolivelugu || ManaTolivelugu || News
+ManaTolivelugu || ManaTolivelugu.yt || News
 https://www.youtube.com/@ManaToliVelugu/live
-Live Events || NarendraModi || Exclusive		
+Live Events || NarendraModi.yt || Exclusive		
 https://www.youtube.com/channel/@NarendraModi/live	
-Live Events || ANINewsIndia || Exclusive		
+Live Events || ANINewsIndia.yt || Exclusive		
 https://www.youtube.com/channel/@ANINewsIndia/live	
-Live Events || Reuters || Exclusive		
+Live Events || Reuters.yt || Exclusive		
 https://www.youtube.com/channel/@Reuters/live	
-Mana Toli Velugu || ManaToliVelugu || Telugu		
+Mana Toli Velugu || ManaToliVelugu.yt || Telugu		
 https://www.youtube.com/channel/@ManaToliVelugu/live	
-TG Live || SAVYMedia || Telugu		
+TG Live || SAVYMedia.yt || Telugu		
 https://www.youtube.com/channel/@SAVYMedia/live	
-TG Government || IPRTelanganaGovt || Telugu		
+TG Government || IPRTelanganaGovt.yt || Telugu		
 https://www.youtube.com/channel/@IPRTelanganaGovt/live	
-AP Government || IPRAPDept || Telugu		
+AP Government || IPRAPDept.yt || Telugu		
 https://www.youtube.com/channel/@IPRAPDept/live
-TV9TeluguLive || TV9TeluguLive || Telugu		
+TV9TeluguLive || TV9TeluguLive.yt || Telugu		
 https://www.youtube.com/channel/@TV9TeluguLive/live
 
 
