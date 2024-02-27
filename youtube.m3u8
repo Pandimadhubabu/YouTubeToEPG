@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709035098/ei/-nndZdCGHsLUsfIPz_uw8AQ/ip/13.83.123.127/id/1cWKWogiwQE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8F2cEZlrEF3q473glj5qgJaGuSNtaQFO5ui5IAQeUz5rQwXs_Nk-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQAhC_J8LaoRjKPeHZlboLt6mgcvnBKb1MwPklHj5mssCIQD4nuOyUON2VTLIt-TY2cXWf_yX4wJUNXgEAxpvM_QArA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709035998/ei/fn3dZcuAB92M_9EPu_qu2Aw/ip/20.51.206.96/id/1cWKWogiwQE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzjQ21mNSznJE7dscfrMf5HNrDaVaM8zBIEWalE-rRo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALonw1QT13fzPzwIbtZzL7ok1cjUMhp5nnHoytMA-A9cAiEAnVlz3V3kBwKwiT_kpxE4EAn0cTgycKWUFMR-a0Lfmqs%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ManaTolivelugu1.yt" tvg-name="ManaTolivelugu1" group-title="News", ManaTolivelugu1
 https://www.youtube.com/watch?v=1oh9IEwBbFY
