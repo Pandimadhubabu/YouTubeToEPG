@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu" start="20240227110000 +0530" stop="20240227140000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240227140000 +0530" stop="20240227170000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240227170000 +0530" stop="20240227200000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240227200000 +0530" stop="20240227230000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240227230000 +0530" stop="20240228020000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240228020000 +0530" stop="20240228050000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240228050000 +0530" stop="20240228080000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu" start="20240228080000 +0530" stop="20240228110000 +0530">
+    <title lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</title>
+    <desc lang="en">LIVE :CM Revanth Reddy will be Launching Mahalakshmi &amp; Gruha Jyothi schemes at Secretariat</desc>
+    <icon src="https://i.ytimg.com/vi/xDC1A1iwKyQ/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
