@@ -2,44 +2,216 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240228030000 +0530" stop="20240228060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228050000 +0530" stop="20240228080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240228060000 +0530" stop="20240228090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228080000 +0530" stop="20240228110000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240228090000 +0530" stop="20240228120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228110000 +0530" stop="20240228140000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240228120000 +0530" stop="20240228150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228140000 +0530" stop="20240228170000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240228150000 +0530" stop="20240228180000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228170000 +0530" stop="20240228200000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240228180000 +0530" stop="20240228210000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228200000 +0530" stop="20240228230000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240228210000 +0530" stop="20240229000000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240228230000 +0530" stop="20240229020000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240229000000 +0530" stop="20240229030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240229020000 +0530" stop="20240229050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240228050000 +0530" stop="20240228080000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240228080000 +0530" stop="20240228110000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240228110000 +0530" stop="20240228140000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240228140000 +0530" stop="20240228170000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240228170000 +0530" stop="20240228200000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240228200000 +0530" stop="20240228230000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240228230000 +0530" stop="20240229020000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240229020000 +0530" stop="20240229050000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</title>
+    <desc lang="en">LIVE: PM Narendra Modi launches various projects in Thoothukudi, Tamil Nadu |Tamil Nadu Development</desc>
+    <icon src="https://i.ytimg.com/vi/ywlyxYOYDd8/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
+  <programme channel="ManaToliVelugu.yt" start="20240228050000 +0530" stop="20240228080000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240228080000 +0530" stop="20240228110000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240228110000 +0530" stop="20240228140000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240228140000 +0530" stop="20240228170000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240228170000 +0530" stop="20240228200000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240228200000 +0530" stop="20240228230000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240228230000 +0530" stop="20240229020000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229020000 +0530" stop="20240229050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4sNExNOaquA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRAPDept.yt">
+    <display-name lang="en">AP Government</display-name>
+  </channel>
+  <programme channel="IPRAPDept.yt" start="20240228050000 +0530" stop="20240228080000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240228080000 +0530" stop="20240228110000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240228110000 +0530" stop="20240228140000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240228140000 +0530" stop="20240228170000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240228170000 +0530" stop="20240228200000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240228200000 +0530" stop="20240228230000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240228230000 +0530" stop="20240229020000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240229020000 +0530" stop="20240229050000 +0530">
+    <title lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</title>
+    <desc lang="en">Hon’ble CM will be Distributing Financial Assistance to Farmers under “YSR Rythu Bharosa - PM Kisan”</desc>
+    <icon src="https://i.ytimg.com/vi/32sy-CANazM/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="TV9TeluguLive.yt">
+    <display-name lang="en">TV9TeluguLive</display-name>
+  </channel>
+  <programme channel="TV9TeluguLive.yt" start="20240228050000 +0530" stop="20240228080000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240228080000 +0530" stop="20240228110000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240228110000 +0530" stop="20240228140000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240228140000 +0530" stop="20240228170000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240228170000 +0530" stop="20240228200000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240228200000 +0530" stop="20240228230000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240228230000 +0530" stop="20240229020000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240229020000 +0530" stop="20240229050000 +0530">
+    <title lang="en">CPI Narayana Press Meet LIVE - TV9</title>
+    <desc lang="en">CPI Narayana Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/ONsiPIMLg4g/hqdefault_live.jpg"/>
   </programme>
 </tv>
