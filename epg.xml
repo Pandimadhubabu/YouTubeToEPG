@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240228180000 +0530" stop="20240228210000 +0530">
-    <title lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</title>
-    <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/OnTtt-wA__s/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240228210000 +0530" stop="20240229000000 +0530">
     <title lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</title>
     <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
@@ -42,57 +37,57 @@
     <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/OnTtt-wA__s/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240228180000 +0530" stop="20240228210000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240228210000 +0530" stop="20240229000000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240229000000 +0530" stop="20240229030000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240229030000 +0530" stop="20240229060000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240229060000 +0530" stop="20240229090000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
-    <icon src="https://i.ytimg.com/vi/MW_87Htbzr8/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240228180000 +0530" stop="20240228210000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
     <title lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</title>
     <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/OnTtt-wA__s/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240228210000 +0530" stop="20240229000000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229000000 +0530" stop="20240229030000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229030000 +0530" stop="20240229060000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229060000 +0530" stop="20240229090000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</title>
+    <desc lang="en">LIVE: 'Rust' set armorer tried in death of cinematographer</desc>
+    <icon src="https://i.ytimg.com/vi/kUJuD3GhK0E/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
   <programme channel="ManaToliVelugu.yt" start="20240228210000 +0530" stop="20240229000000 +0530">
     <title lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</title>
     <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
@@ -128,47 +123,52 @@
     <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/OnTtt-wA__s/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</title>
+    <desc lang="en">LIVE : ఏం పీకనీకి పోతున్నవ్! మీ అయ్యను కూడా తీస్కపో  | Uttam Kumar Reddy press Meet | manaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/OnTtt-wA__s/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240228180000 +0530" stop="20240228210000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240228210000 +0530" stop="20240229000000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229000000 +0530" stop="20240229030000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229030000 +0530" stop="20240229060000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229060000 +0530" stop="20240229090000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
-    <title lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</title>
-    <desc lang="en">పవన్ పవర్ ఫుల్ స్పీచ్ హైలైట్స్ LIVE : Pawan Kalyan Powerful Speech Highlights @ Tadepalligudem  -TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wtWqksKMf0k/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
