@@ -1,45 +1,131 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240229030000 +0530" stop="20240229060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229060000 +0530" stop="20240229090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
+  <programme channel="ManaToliVelugu.yt" start="20240229030000 +0530" stop="20240229060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229060000 +0530" stop="20240229090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1QhDzm3_bA0/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240229000000 +0530" stop="20240229030000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229030000 +0530" stop="20240229060000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229060000 +0530" stop="20240229090000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
+    <title lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 29-02-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/WoS90fMjy2c/maxresdefault_live.jpg"/>
   </programme>
 </tv>
