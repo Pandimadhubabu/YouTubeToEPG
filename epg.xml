@@ -1,131 +1,174 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
-    <title lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</title>
-    <desc lang="en">LIVE: BJP Press conference | Sudhanshu Trivedi | TMC | Congress |Sandeshkhali |Shahjahan Sheikh</desc>
-    <icon src="https://i.ytimg.com/vi/85La12LEiKs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
+  <programme channel="ANINewsIndia.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
+    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
+    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
+    <icon src="https://i.ytimg.com/vi/vgjiK4ZeCT0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
-    <title lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</title>
-    <desc lang="en">LIVE: UN rights chief present human rights situation in Occupied Palestinian Territory | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/TiueMa8gXt0/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
+    <title lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA Mandula Samuel Press Meet | ఎమ్మెల్యే మందుల సామేల్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2v2oB1MdsaE/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240229090000 +0530" stop="20240229120000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229120000 +0530" stop="20240229150000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229150000 +0530" stop="20240229180000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229180000 +0530" stop="20240229210000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240229210000 +0530" stop="20240301000000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
-    <title lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</title>
-    <desc lang="en">BJP Kushboo LIVE |  Vijaya Sankalpa Yatra @ Bowenpally  - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/0D0vmuHqhoI/maxresdefault_live.jpg"/>
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
+    <title lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</title>
+    <desc lang="en">TRS Srinivas Goud Press Meet LIVE - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/WnOjuGKvUu0/hqdefault_live.jpg"/>
   </programme>
 </tv>
