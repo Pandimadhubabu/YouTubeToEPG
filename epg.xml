@@ -1,184 +1,93 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240302030000 +0530" stop="20240302060000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240302060000 +0530" stop="20240302090000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240302090000 +0530" stop="20240302120000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240302120000 +0530" stop="20240302150000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240302030000 +0530" stop="20240302060000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240302060000 +0530" stop="20240302090000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240302090000 +0530" stop="20240302120000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240302120000 +0530" stop="20240302150000 +0530">
-    <title lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</title>
-    <desc lang="en">Live: Rameshwaram cafe blast: Forensic team collects evidence | Dy CM DK Shivakumar's  PC</desc>
-    <icon src="https://i.ytimg.com/vi/GkEFA3l6mBU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240302150000 +0530" stop="20240302180000 +0530">
+    <title lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</title>
+    <desc lang="en">Live: PM Modi Slams Mamata and ‘INDIA’ Bloc on Sandeshkhali Horror | TMC | Arambagh | West Bengal</desc>
+    <icon src="https://i.ytimg.com/vi/OnOyD3bWopo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240302030000 +0530" stop="20240302060000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240302060000 +0530" stop="20240302090000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240302090000 +0530" stop="20240302120000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240302120000 +0530" stop="20240302150000 +0530">
-    <title lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</title>
-    <desc lang="en">LIVE:Judge hears Donald Trump's request to delay classified documents case</desc>
-    <icon src="https://i.ytimg.com/vi/orm2aY52bNs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240302030000 +0530" stop="20240302060000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240302060000 +0530" stop="20240302090000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240302090000 +0530" stop="20240302120000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240302120000 +0530" stop="20240302150000 +0530">
-    <title lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</title>
-    <desc lang="en">Live ; తీన్మార్ మల్లన్న సంచలన ప్రెస్ మీట్ !! Theenmar Mallanna Press Meet On medigadda ||</desc>
-    <icon src="https://i.ytimg.com/vi/7GuEObgJ3EI/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240302150000 +0530" stop="20240302180000 +0530">
+    <title lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</title>
+    <desc lang="en">LIVE: Closing arguments on bid to disqualify Georgia prosecutor Fani Willis in Trump case</desc>
+    <icon src="https://i.ytimg.com/vi/TNJtpbGG7uw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/bv6cK2Yx1LU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
     <title lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</title>
     <desc lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</desc>
@@ -210,6 +119,11 @@
     <icon src="https://i.ytimg.com/vi/bv6cK2Yx1LU/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240302120000 +0530" stop="20240302150000 +0530">
+    <title lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</title>
+    <desc lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</desc>
+    <icon src="https://i.ytimg.com/vi/bv6cK2Yx1LU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240302150000 +0530" stop="20240302180000 +0530">
     <title lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</title>
     <desc lang="en">Big News Big Debate LIVE : నీళ్లు - నిప్పులు | Medigadda Barrage Politics | TV9 Rajinikanth</desc>
     <icon src="https://i.ytimg.com/vi/bv6cK2Yx1LU/maxresdefault_live.jpg"/>
