@@ -1,88 +1,131 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301120000 +0530" stop="20240301150000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301120000 +0530" stop="20240301150000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
-    <title lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</title>
-    <desc lang="en">ANI Exclusive | Microsoft co-founder Bill Gates talks about India, PM Modi and more</desc>
-    <icon src="https://i.ytimg.com/vi/nKEEFfWpyIU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
+  <programme channel="ManaToliVelugu.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301120000 +0530" stop="20240301150000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DWadYilaocU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240301000000 +0530" stop="20240301030000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301030000 +0530" stop="20240301060000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301060000 +0530" stop="20240301090000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301090000 +0530" stop="20240301120000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301120000 +0530" stop="20240301150000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301150000 +0530" stop="20240301180000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301180000 +0530" stop="20240301210000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240301210000 +0530" stop="20240302000000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240302000000 +0530" stop="20240302030000 +0530">
+    <title lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</title>
+    <desc lang="en">BRS MLA KTR Press Meet LIVE | కేటీఆర్ కీలక ప్రెస్ మీట్ - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/lerMVTcdaYY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
