@@ -1,88 +1,45 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240302180000 +0530" stop="20240302210000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240302210000 +0530" stop="20240303000000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240303000000 +0530" stop="20240303030000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240303030000 +0530" stop="20240303060000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240303060000 +0530" stop="20240303090000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240303090000 +0530" stop="20240303120000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240303120000 +0530" stop="20240303150000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</title>
-    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Begusarai, Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/BeR9rQGC8JQ/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240302180000 +0530" stop="20240302210000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240302210000 +0530" stop="20240303000000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303000000 +0530" stop="20240303030000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303030000 +0530" stop="20240303060000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303060000 +0530" stop="20240303090000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303090000 +0530" stop="20240303120000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303120000 +0530" stop="20240303150000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</title>
-    <desc lang="en">Weekend Hour With Murali Krishna: తెలంగాణ బీజేపీ ఎంపీ అభ్యర్థులు వీళ్లే | BJP's First Candidate List</desc>
-    <icon src="https://i.ytimg.com/vi/kFvRCanbnpc/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
