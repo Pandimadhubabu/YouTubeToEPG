@@ -1,141 +1,50 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240303060000 +0530" stop="20240303090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240303090000 +0530" stop="20240303120000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240303120000 +0530" stop="20240303150000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240303210000 +0530" stop="20240304000000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240304000000 +0530" stop="20240304030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240304030000 +0530" stop="20240304060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240303060000 +0530" stop="20240303090000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240303090000 +0530" stop="20240303120000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240303120000 +0530" stop="20240303150000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240303210000 +0530" stop="20240304000000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240304000000 +0530" stop="20240304030000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240304030000 +0530" stop="20240304060000 +0530">
-    <title lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</title>
-    <desc lang="en">Lok Sabha Polls 2024: BJP heavyweights feature in list as party unveils names of 195 candidates</desc>
-    <icon src="https://i.ytimg.com/vi/rEIv_Oy0_wY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240303060000 +0530" stop="20240303090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240303090000 +0530" stop="20240303120000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240303120000 +0530" stop="20240303150000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240303210000 +0530" stop="20240304000000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240304000000 +0530" stop="20240304030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240304030000 +0530" stop="20240304060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/I_nTqGGuhFk/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240304060000 +0530" stop="20240304090000 +0530">
+    <title lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</title>
+    <desc lang="en">Live: INDIA Alliance’s ‘Jan Vishwas Mega rally’ | Tejashwi Yadav | Akhilesh Yadav | Rahul Gandhi</desc>
+    <icon src="https://i.ytimg.com/vi/-9h1Xs2M9es/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240303060000 +0530" stop="20240303090000 +0530">
-    <title lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</title>
-    <desc lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/Fx3KCdKoFpw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303090000 +0530" stop="20240303120000 +0530">
     <title lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</title>
     <desc lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</desc>
@@ -167,6 +76,11 @@
     <icon src="https://i.ytimg.com/vi/Fx3KCdKoFpw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240304030000 +0530" stop="20240304060000 +0530">
+    <title lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</title>
+    <desc lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Fx3KCdKoFpw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240304060000 +0530" stop="20240304090000 +0530">
     <title lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</title>
     <desc lang="en">టీడీపీ Vs వైసీపీ..ఎవరి పాలన బెటర్? LIVE | TDP Parthasarathy Exclusive Interview &amp; 5 Editors - TV9</desc>
     <icon src="https://i.ytimg.com/vi/Fx3KCdKoFpw/maxresdefault_live.jpg"/>
