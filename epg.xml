@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/FD6-20T-ngk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
     <title lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</title>
     <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/FD6-20T-ngk/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240304150000 +0530" stop="20240304180000 +0530">
     <title lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</title>
     <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/FD6-20T-ngk/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
   <programme channel="ManaToliVelugu.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
     <title lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</title>
     <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
@@ -85,47 +80,52 @@
     <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/FD6-20T-ngk/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240304150000 +0530" stop="20240304180000 +0530">
+    <title lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : CM Revanth Reddy will be Releasing Book authored by Sri P.S.Rama Mohan Rao | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/FD6-20T-ngk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240303150000 +0530" stop="20240303180000 +0530">
-    <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
-    <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303180000 +0530" stop="20240303210000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240303210000 +0530" stop="20240304000000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240304000000 +0530" stop="20240304030000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240304030000 +0530" stop="20240304060000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240304060000 +0530" stop="20240304090000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240304090000 +0530" stop="20240304120000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240304120000 +0530" stop="20240304150000 +0530">
     <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
     <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/kZgL6TwlTn4/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240304150000 +0530" stop="20240304180000 +0530">
+    <title lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</title>
+    <desc lang="en">పొత్తు లేదా పుష్పా? LIVE | Alliance Politics in AP | BJP Vs TDP-JanaSena - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/rtA3JDCu2lQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
