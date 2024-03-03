@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709500152/ei/mJLkZcOUGpjo2_gP0IeZ4Aw/ip/172.183.112.120/id/FD6-20T-ngk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1mVwo9Knq98zU-Olvw-LQSXel2Ui8iX5n7y-lRqlDA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIKJkLaRDy3JS15CB9HvIIcAj9WjosY6rSNayQeAl8AnAiB8g1mNi3N3d8No440PceUg-xTFnBq_K0jD-7d0u_3L5g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -13,16 +13,16 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ManaToliVelugu.yt" tvg-name="Mana Toli Velugu" group-title="Telugu", Mana Toli Velugu
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709500154/ei/mpLkZfjyDfeIybgPtZmY2As/ip/172.183.112.120/id/FD6-20T-ngk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6ITl3r-3NQ1wC0BfE9i9L_ZJCobfW0Ydpt2fUxBQy4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgD14HKnotV7usgu3KMCX5HS35L3cmH-qcwiE3k-orlZkCIGRb5ihpaYFwiumBzPBURJgneoj3V3u5pmeOznbjQHk0/file/index.m3u8
 
 #EXTINF:-1 tvg-id="SAVYMedia.yt" tvg-name="TG Live" group-title="Telugu", TG Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709489844/ei/VGrkZfX6MdqKsfIPqeqPsA0/ip/52.190.187.34/id/xJzkiEpQrKI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7Ij95D4FOshkXLkb1M0bl4NfbSqH1KF2fRh-pBKs1I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGANtAE8QuvYxFyuzbavWoynMKRB7Q3v7uqjBiW88QBoCIQCM-4GGaqsbO01bmUNNQ2p-Z_USI3dH2lu4hNMh4MZ98w%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="IPRTelanganaGovt.yt" tvg-name="TG Government" group-title="Telugu", TG Government
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709489845/ei/VWrkZfTUF9m5sfIPluyVuAQ/ip/52.190.187.34/id/A8CTXiyxN1w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1VgT-dfaMMEkaYM0njt6ptnheUCtD7kB74d5E50jdo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbWkmnsib7zo1vPecdcB7o_kH7jx-p615MFwFa8CmiVcCIQC5J0dWDjQd16YA1WeBouurV7nlFtzgLTnvZPGsHoNkZw%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="IPRAPDept.yt" tvg-name="AP Government" group-title="Telugu", AP Government
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="TV9TeluguLive.yt" tvg-name="TV9TeluguLive" group-title="Telugu", TV9TeluguLive
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709489846/ei/VmrkZem5FMyTsfIPvvCvoA8/ip/52.190.187.34/id/WCvXHkA7J40.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzuD3iNh2wFo2KqiOKNcm9-P_M7qnipBHodgdS1LshE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOvWtvk-8_PqM0nNW7EkgHe9W0v8N9I1DzZx22Kw5uRHAiEA7FihMcUJsBYTtbe9-3TpojRDt-1emu4x5SYquawmEOo%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709500155/ei/m5LkZZzWMayK2_gPkbaz0As/ip/172.183.112.120/id/kZgL6TwlTn4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3PzIYuTC1LCJyjhgXgyDnR4Uu1gGPCKHSty2gC2deA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANYuAT0WgcLcDvPTjiTAXN15ZPawYJManCpxeCHPQyy_AiAL6nArZGViJ1Mp8C9rpCd7iEslXcxNvq62ZOEVDIMpVw%3D%3D/file/index.m3u8
