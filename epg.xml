@@ -1,174 +1,45 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</title>
-    <desc lang="en">LIVE: Congress Public Rally in Badnawar| Bharat Jodo Nyay Yatra |Mallikarjun Kharge | Rahul Gandhi</desc>
-    <icon src="https://i.ytimg.com/vi/rgwKZRmYCYk/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham Program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/SVlesu4VWhY/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</title>
-    <desc lang="en">Hon’ble CM Sri.A.Revanth Reddy will participate in Inauguration of Rythu Nestham program Secretariat</desc>
-    <icon src="https://i.ytimg.com/vi/pwvCe46us5s/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE |  Inauguration of Rythu Nestham Program @ Secretariat - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/gUIH9k0-YVI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240307090000 +0530" stop="20240307120000 +0530">
+    <title lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</title>
+    <desc lang="en">LIVE | రేవంత్ రెడ్డి భారీ బహిరంగ సభ | Telangana Congress Public Meeting - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/TXSd8_f9ZB0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
