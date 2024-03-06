@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240306030000 +0530" stop="20240306060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vnt1d8iXJFs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
@@ -42,100 +37,57 @@
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/vnt1d8iXJFs/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240306030000 +0530" stop="20240306060000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</title>
-    <desc lang="en">PM Narendra Modi to inaugurate India's first underwater metro tunnel in Kolkata today</desc>
-    <icon src="https://i.ytimg.com/vi/wAkmbRBd6EE/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240306030000 +0530" stop="20240306060000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</title>
-    <desc lang="en">LIVE: Donald Trump reacts to Super Tuesday results | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/VVn2KnDxfg4/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240306030000 +0530" stop="20240306060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/vnt1d8iXJFs/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference | BJP | Tamil Nadu | Election | Alliance</desc>
+    <icon src="https://i.ytimg.com/vi/PuAeQHYMQv4/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
   <programme channel="ManaToliVelugu.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
@@ -171,47 +123,95 @@
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/vnt1d8iXJFs/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/vnt1d8iXJFs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRAPDept.yt">
+    <display-name lang="en">AP Government</display-name>
+  </channel>
+  <programme channel="IPRAPDept.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Twin Tunnels of Pula Subbaiah Veligonda Project</desc>
+    <icon src="https://i.ytimg.com/vi/W6Gy55oQ69A/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240306030000 +0530" stop="20240306060000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306060000 +0530" stop="20240306090000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306090000 +0530" stop="20240306120000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306120000 +0530" stop="20240306150000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306150000 +0530" stop="20240306180000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 06-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/so8CRlZXz5I/maxresdefault_live.jpg"/>
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
+    <title lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</title>
+    <desc lang="en">CM YS Jagan LIVE | Inaugurate Veligonda Project Twin Tunnels  | 20 ఏళ్ల 'కల' సాకారం - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/FpkoZnDnCrk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
