@@ -2,11 +2,6 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</title>
-    <desc lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</desc>
-    <icon src="https://i.ytimg.com/vi/AsV9j330mQc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
     <title lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</title>
     <desc lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</desc>
@@ -42,47 +37,52 @@
     <desc lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</desc>
     <icon src="https://i.ytimg.com/vi/AsV9j330mQc/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Reuters.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
+    <title lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</title>
+    <desc lang="en">LIVE: Closing arguments in 'Rust' film armorer trial over cinematographer's death</desc>
+    <icon src="https://i.ytimg.com/vi/AsV9j330mQc/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240306180000 +0530" stop="20240306210000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240306210000 +0530" stop="20240307000000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307090000 +0530" stop="20240307120000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307120000 +0530" stop="20240307150000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307150000 +0530" stop="20240307180000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/aPctt1HczqU/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
