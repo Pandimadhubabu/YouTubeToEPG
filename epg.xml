@@ -2,11 +2,6 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
     <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
     <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
@@ -42,90 +37,52 @@
     <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
     <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
-    <title lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</title>
-    <desc lang="en">LIVE: James Crumbley, father of Michigan high school shooter, goes on trial for involuntary mansl…</desc>
-    <icon src="https://i.ytimg.com/vi/X6EnvNja-rc/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
+    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
+    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
-    <title lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</title>
-    <desc lang="en">Big News Big Debate LIVE : పొత్తు పొడుస్తోంది.! | TDP-Jana Sena-BJP alliance in AP | TV9 Rajinikanth</desc>
-    <icon src="https://i.ytimg.com/vi/w5_PixsHQq8/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
