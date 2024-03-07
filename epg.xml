@@ -1,88 +1,174 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240307090000 +0530" stop="20240307120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240307120000 +0530" stop="20240307150000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240307150000 +0530" stop="20240307180000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
-    <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240307090000 +0530" stop="20240307120000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240307120000 +0530" stop="20240307150000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240307150000 +0530" stop="20240307180000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ANINewsIndia.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</title>
-    <desc lang="en">LIVE: EAM S Jaishankar remarks at raisina roundtable in Tokyo, Japan</desc>
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
     <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
+    <title lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</title>
+    <desc lang="en">“Deal with reality…” Jaishankar about big power shifts in Indo-Pacific at Raisina dialogue in Tokyo</desc>
+    <icon src="https://i.ytimg.com/vi/GJWAyRiWDAw/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
+  <programme channel="ManaToliVelugu.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307090000 +0530" stop="20240307120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307120000 +0530" stop="20240307150000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307150000 +0530" stop="20240307180000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/pRrlHihtbpk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240307000000 +0530" stop="20240307030000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307030000 +0530" stop="20240307060000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307060000 +0530" stop="20240307090000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307090000 +0530" stop="20240307120000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307120000 +0530" stop="20240307150000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307150000 +0530" stop="20240307180000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307180000 +0530" stop="20240307210000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
+    <title lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</title>
+    <desc lang="en">News 100 LIVE | Speed News | News Express | 07-03-2024 - TV9 Exclusive</desc>
+    <icon src="https://i.ytimg.com/vi/Pv4oyJ76Ras/maxresdefault_live.jpg"/>
   </programme>
 </tv>
