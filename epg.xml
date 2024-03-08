@@ -1,12 +1,179 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
+    <title lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</title>
+    <desc lang="en">Live: EAM S Jaishankar at Interacts Nikkei on India-Japan Special Strategic Partnership</desc>
+    <icon src="https://i.ytimg.com/vi/H4oswQILL8s/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
+    <title lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</title>
+    <desc lang="en">LIVE: President Joe Biden delivers annual State of the Union address | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gwVzkAzZY_s/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
+  <programme channel="ManaToliVelugu.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
+    <title lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</title>
+    <desc lang="en">Live : మహా శివరాత్రి వేడుకలు | Mahashivratri Grand Celebration 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/HZAcOraAnFs/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="IPRTelanganaGovt.yt">
     <display-name lang="en">TG Government</display-name>
   </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
-    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
-    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
-    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="IPRTelanganaGovt.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
     <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
     <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
@@ -42,47 +209,52 @@
     <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
     <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="IPRTelanganaGovt.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
+    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
+    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/VOkxgMRNK1k/maxresdefault_live.jpg"/>
   </programme>
 </tv>
