@@ -1,55 +1,50 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="IPRTelanganaGovt.yt">
+    <display-name lang="en">TG Government</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308030000 +0530" stop="20240308060000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308060000 +0530" stop="20240308090000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308090000 +0530" stop="20240308120000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308120000 +0530" stop="20240308150000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308150000 +0530" stop="20240308180000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</title>
-    <desc lang="en">LIVE: Union Cabinet PC | Good News for Central Govt. Employees | DA Hike | Jute MSP | LPG Cylinder</desc>
-    <icon src="https://i.ytimg.com/vi/Ddbci4jZq9Y/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
+    <title lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</title>
+    <desc lang="en">Govt of Telangana Organizing Maha Shivaratri Jathara at Sri Rajarajeshwara Swamy Temple Vemulawada</desc>
+    <icon src="https://i.ytimg.com/vi/kfIXwSn_Nr4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240307210000 +0530" stop="20240308000000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308000000 +0530" stop="20240308030000 +0530">
     <title lang="en">TV9 Telugu News LIVE</title>
     <desc lang="en">TV9 Telugu News LIVE</desc>
@@ -81,6 +76,11 @@
     <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
     <title lang="en">TV9 Telugu News LIVE</title>
     <desc lang="en">TV9 Telugu News LIVE</desc>
     <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
