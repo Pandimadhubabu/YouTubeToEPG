@@ -1,55 +1,7 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
     <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
     <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
@@ -85,133 +37,95 @@
     <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
     <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
+    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
+    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="Reuters.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
-    <title lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</title>
-    <desc lang="en">LIVE: Thousands march in Madrid on International Women's Day over equality</desc>
-    <icon src="https://i.ytimg.com/vi/kcGz7qScwg0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaToliVelugu.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</title>
-    <desc lang="en">LIVE : CM Revanth Reddy will be laying foundation stone for Old City Metro Rail Project</desc>
-    <icon src="https://i.ytimg.com/vi/u3GSe7TXbro/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
+    <title lang="en">LIVE: Argentine women march on International Women's Day</title>
+    <desc lang="en">LIVE: Argentine women march on International Women's Day</desc>
+    <icon src="https://i.ytimg.com/vi/lQROIu6z2uQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240308180000 +0530" stop="20240308210000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240308210000 +0530" stop="20240309000000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309000000 +0530" stop="20240309030000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
-    <title lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</title>
-    <desc lang="en">LIVE : శైవ క్షేత్రాల నుంచి ప్రత్యక్ష ప్రసారం | Mahashivratri Celebrations in Telugu States - TV9</desc>
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
+    <title lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</title>
+    <desc lang="en">LIVE : శ్రీశైల మల్లన్న కల్యాణం  | Srisailam Mallanna Kalyanam | Mahashivratri  - TV9</desc>
     <icon src="https://i.ytimg.com/vi/10zW04q7CwM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
