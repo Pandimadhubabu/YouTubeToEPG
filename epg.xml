@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
-    <title lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</title>
-    <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/gBQdTXqa7aU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
     <title lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</title>
     <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/gBQdTXqa7aU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240310180000 +0530" stop="20240310210000 +0530">
+    <title lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</title>
+    <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/gBQdTXqa7aU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
-    <title lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</title>
-    <desc lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</desc>
-    <icon src="https://i.ytimg.com/vi/V0NTgfIvP1Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
     <title lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</title>
     <desc lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</desc>
@@ -85,14 +80,14 @@
     <desc lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</desc>
     <icon src="https://i.ytimg.com/vi/V0NTgfIvP1Y/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ANINewsIndia.yt" start="20240310180000 +0530" stop="20240310210000 +0530">
+    <title lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</title>
+    <desc lang="en">LIVE: PM Modi offers prayer at Shri Kashi Vishwanath Mandir in Kashi</desc>
+    <icon src="https://i.ytimg.com/vi/V0NTgfIvP1Y/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ManaToliVelugu.yt">
     <display-name lang="en">Mana Toli Velugu</display-name>
   </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
-    <title lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</title>
-    <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/gBQdTXqa7aU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaToliVelugu.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
     <title lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</title>
     <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
@@ -128,47 +123,52 @@
     <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/gBQdTXqa7aU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240310180000 +0530" stop="20240310210000 +0530">
+    <title lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</title>
+    <desc lang="en">ఎమ్మెల్సీ అభ్యర్థిగా మేనిఫెస్టో విడుదల చేస్తున్న జడ్సన్ ! | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/gBQdTXqa7aU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310000000 +0530" stop="20240310030000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310030000 +0530" stop="20240310060000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310060000 +0530" stop="20240310090000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310090000 +0530" stop="20240310120000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310120000 +0530" stop="20240310150000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310150000 +0530" stop="20240310180000 +0530">
-    <title lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</title>
-    <desc lang="en">LIVE | సీఎం రేవంత్ రెడ్డి పవర్ ఫుల్ స్పీచ్ | Revanth Reddy Speech @ Praja Divena Sabha - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/wWjuilJE2GQ/maxresdefault_live.jpg"/>
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240310180000 +0530" stop="20240310210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
