@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/3-TS_m5UqJQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
@@ -42,57 +37,57 @@
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/3-TS_m5UqJQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240310000000 +0530" stop="20240310030000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</title>
-    <desc lang="en">LIVE: PM Narendra Modi presents 1st ever 'National Creators Awards' at Bharat Mandapam</desc>
-    <icon src="https://i.ytimg.com/vi/c-YUMFFeUkc/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240310030000 +0530" stop="20240310060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/3-TS_m5UqJQ/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240310000000 +0530" stop="20240310030000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240310030000 +0530" stop="20240310060000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends Viksit Bharat Viksit Northeast programme in Arunachal Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/rOnlFfrY9XI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
   <programme channel="ManaToliVelugu.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
@@ -128,47 +123,52 @@
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/3-TS_m5UqJQ/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240310030000 +0530" stop="20240310060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/3-TS_m5UqJQ/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240309030000 +0530" stop="20240309060000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309060000 +0530" stop="20240309090000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309090000 +0530" stop="20240309120000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309120000 +0530" stop="20240309150000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309150000 +0530" stop="20240309180000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309180000 +0530" stop="20240309210000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240309210000 +0530" stop="20240310000000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310000000 +0530" stop="20240310030000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 09-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/gLwPWO21chA/maxresdefault_live.jpg"/>
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240310030000 +0530" stop="20240310060000 +0530">
+    <title lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</title>
+    <desc lang="en">తొడగొట్టే మల్లన్న భయపడ్డారా? LIVE | Is Malla Reddy Afraid of  Congress Govt? - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/Mp397C6kJsk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
