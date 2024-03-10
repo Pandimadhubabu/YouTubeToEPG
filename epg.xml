@@ -2,11 +2,6 @@
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240310150000 +0530" stop="20240310180000 +0530">
-    <title lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</title>
-    <desc lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/5HhTM6nGIcA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240310180000 +0530" stop="20240310210000 +0530">
     <title lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</title>
     <desc lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</desc>
@@ -38,6 +33,11 @@
     <icon src="https://i.ytimg.com/vi/5HhTM6nGIcA/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311120000 +0530" stop="20240311150000 +0530">
+    <title lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</title>
+    <desc lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/5HhTM6nGIcA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240311150000 +0530" stop="20240311180000 +0530">
     <title lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</title>
     <desc lang="en">Weekend Hour With Murali Krishna LIVE | యుద్ధం.. సిద్ధం | AP Politics - TV9</desc>
     <icon src="https://i.ytimg.com/vi/5HhTM6nGIcA/maxresdefault_live.jpg"/>
