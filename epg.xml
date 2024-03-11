@@ -2,11 +2,6 @@
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240310210000 +0530" stop="20240311000000 +0530">
-    <title lang="en">TV9 Telugu News LIVE</title>
-    <desc lang="en">TV9 Telugu News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311000000 +0530" stop="20240311030000 +0530">
     <title lang="en">TV9 Telugu News LIVE</title>
     <desc lang="en">TV9 Telugu News LIVE</desc>
@@ -38,6 +33,11 @@
     <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311180000 +0530" stop="20240311210000 +0530">
+    <title lang="en">TV9 Telugu News LIVE</title>
+    <desc lang="en">TV9 Telugu News LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240311210000 +0530" stop="20240312000000 +0530">
     <title lang="en">TV9 Telugu News LIVE</title>
     <desc lang="en">TV9 Telugu News LIVE</desc>
     <icon src="https://i.ytimg.com/vi/II_m28Bm-iM/maxresdefault_live.jpg"/>
