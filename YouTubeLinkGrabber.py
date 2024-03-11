@@ -24,13 +24,13 @@ Generate 3-hourly blocks of times based on a current date
 
     # Generate start times that are spaced out by three hours
     for x in range(7):
-        last_hour += timedelta(hours=3)
+        last_hour += timedelta(hours=1)
         start_dates.append(last_hour)
 
     # Copy everything except the first start date to a new list, then add a final end date three hours after the last
     # start date
     end_dates = start_dates[1:]
-    end_dates.append(start_dates[-1] + timedelta(hours=3))
+    end_dates.append(start_dates[-1] + timedelta(hours=1))
 
     return start_dates, end_dates
 
