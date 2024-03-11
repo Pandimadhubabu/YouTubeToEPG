@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240311090000 +0530" stop="20240311100000 +0530">
-    <title lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</title>
-    <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
-    <icon src="https://i.ytimg.com/vi/N2AXWLYORBg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
     <title lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</title>
     <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
@@ -42,57 +37,57 @@
     <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
     <icon src="https://i.ytimg.com/vi/N2AXWLYORBg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240311090000 +0530" stop="20240311100000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311110000 +0530" stop="20240311120000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311120000 +0530" stop="20240311130000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311130000 +0530" stop="20240311140000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311140000 +0530" stop="20240311150000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311150000 +0530" stop="20240311160000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240311160000 +0530" stop="20240311170000 +0530">
-    <title lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</title>
-    <desc lang="en">Live: Union Minister Rajeev Chandrasekhar on announcement of 10 AI labs for Thiruvananthapuram.</desc>
-    <icon src="https://i.ytimg.com/vi/nSWI8Uxzf0E/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240311090000 +0530" stop="20240311100000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240311170000 +0530" stop="20240311180000 +0530">
     <title lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</title>
     <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
     <icon src="https://i.ytimg.com/vi/N2AXWLYORBg/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311110000 +0530" stop="20240311120000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311120000 +0530" stop="20240311130000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311130000 +0530" stop="20240311140000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311140000 +0530" stop="20240311150000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311150000 +0530" stop="20240311160000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311160000 +0530" stop="20240311170000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240311170000 +0530" stop="20240311180000 +0530">
+    <title lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</title>
+    <desc lang="en">LIVE: Congress Press Conference | Mallikarjun Kharge | BJP | Constitution | SBI | Electoral bond</desc>
+    <icon src="https://i.ytimg.com/vi/Nolc1zptq24/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
   <programme channel="ManaToliVelugu.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
     <title lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</title>
     <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
@@ -128,133 +123,52 @@
     <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
     <icon src="https://i.ytimg.com/vi/N2AXWLYORBg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240311090000 +0530" stop="20240311100000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311110000 +0530" stop="20240311120000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311120000 +0530" stop="20240311130000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311130000 +0530" stop="20240311140000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311140000 +0530" stop="20240311150000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311150000 +0530" stop="20240311160000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240311160000 +0530" stop="20240311170000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/sAnWfVmMMts/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311090000 +0530" stop="20240311100000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311110000 +0530" stop="20240311120000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311120000 +0530" stop="20240311130000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311130000 +0530" stop="20240311140000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311140000 +0530" stop="20240311150000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311150000 +0530" stop="20240311160000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240311160000 +0530" stop="20240311170000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Launch Indiramma Housing Scheme at Market ground Bhadrachalam</desc>
-    <icon src="https://i.ytimg.com/vi/4cNc_fb-67k/maxresdefault_live.jpg"/>
+  <programme channel="ManaToliVelugu.yt" start="20240311170000 +0530" stop="20240311180000 +0530">
+    <title lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</title>
+    <desc lang="en">LIVE: ఇందిరమ్మ ఇండ్ల  ప్రారంభోత్సవంలో  సీఎం రేవంత్ | CM Revanth will Launch Indiramma Housing Scheme</desc>
+    <icon src="https://i.ytimg.com/vi/N2AXWLYORBg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240311090000 +0530" stop="20240311100000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311100000 +0530" stop="20240311110000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311110000 +0530" stop="20240311120000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311120000 +0530" stop="20240311130000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311130000 +0530" stop="20240311140000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311140000 +0530" stop="20240311150000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311150000 +0530" stop="20240311160000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240311160000 +0530" stop="20240311170000 +0530">
-    <title lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</title>
-    <desc lang="en">CM Revanth Reddy LIVE | భారీ బహిరంగ సభ | Indiramma Housing Scheme @ Bhadrachalam - TV9</desc>
-    <icon src="https://i.ytimg.com/vi/SD_GFLwTj3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240311170000 +0530" stop="20240311180000 +0530">
+    <title lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</title>
+    <desc lang="en">LIVE | 2028 లో ముఖ్యమంత్రి నేనే..  అధికారులకు కేవీఆర్‌ వార్నింగ్ | Kamareddy MLA Comments - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/peF-1nX9w10/maxresdefault_live.jpg"/>
   </programme>
 </tv>
