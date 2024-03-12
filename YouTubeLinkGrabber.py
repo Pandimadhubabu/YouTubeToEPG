@@ -23,7 +23,7 @@ Generate 1-hourly blocks of times based on a current date
     start_dates = [last_hour]
 
     # Generate start times that are spaced out by three hours
-    for x in range(1):
+    for x in range(0):
         last_hour += timedelta(hours=1)
         start_dates.append(last_hour)
 
