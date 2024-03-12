@@ -2,25 +2,33 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
-    <title lang="en">LIVE ; అమిత్ షా బహిరంగ సభ | Amith Shah Public Meeting | Secunderabad | ManaTolivelugu</title>
-    <desc lang="en">LIVE ; అమిత్ షా బహిరంగ సభ | Amith Shah Public Meeting | Secunderabad | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/6YSojS_U-n4/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
+    <title lang="en">LIVE : మహిళా శక్తితో రేవంత్ బహిరంగ సభ | CM Revanth Reddy will participate in Mahila Sadassu-2024</title>
+    <desc lang="en">LIVE : మహిళా శక్తితో రేవంత్ బహిరంగ సభ | CM Revanth Reddy will participate in Mahila Sadassu-2024</desc>
+    <icon src="https://i.ytimg.com/vi/557clz_ZPto/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses Social Media Warriors Meet in Secunderabad, Telangana</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses Social Media Warriors Meet in Secunderabad, Telangana</desc>
+  <programme channel="ANINewsIndia.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
+    <title lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</title>
+    <desc lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</desc>
     <icon src="https://i.ytimg.com/vi/0E5uyHQQlCw/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="IPRAPDept.yt">
-    <display-name lang="en">AP Government</display-name>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="IPRAPDept.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
-    <title lang="en">Hon’ble CM will be Inaugurating Juvvaladinne Fishing Harbour in Bogole Mandal,Nellore Dist.Virtually</title>
-    <desc lang="en">Hon’ble CM will be Inaugurating Juvvaladinne Fishing Harbour in Bogole Mandal,Nellore Dist.Virtually</desc>
-    <icon src="https://i.ytimg.com/vi/YlJDoPvTm2I/maxresdefault_live.jpg"/>
+  <programme channel="SAVYMedia.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at  Parade grounds</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at  Parade grounds</desc>
+    <icon src="https://i.ytimg.com/vi/smDDhn9wMpQ/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRTelanganaGovt.yt">
+    <display-name lang="en">TG Government</display-name>
+  </channel>
+  <programme channel="IPRTelanganaGovt.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at Parade grounds</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at Parade grounds</desc>
+    <icon src="https://i.ytimg.com/vi/Rxx0jvTFZtc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
