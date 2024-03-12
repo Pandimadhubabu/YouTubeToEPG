@@ -2,27 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
-    <title lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/343AZVZsT2E/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/343AZVZsT2E/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</title>
+    <desc lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/Nvb14PjXM8w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</title>
+    <desc lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</desc>
+    <icon src="https://i.ytimg.com/vi/Nvb14PjXM8w/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
-    <title lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</title>
-    <desc lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</desc>
-    <icon src="https://i.ytimg.com/vi/ZhfwbiADGxc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</title>
-    <desc lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</desc>
-    <icon src="https://i.ytimg.com/vi/ZhfwbiADGxc/maxresdefault_live.jpg"/>
+    <title lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</title>
+    <desc lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</desc>
+    <icon src="https://i.ytimg.com/vi/49c9l6Ba1dE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</title>
+    <desc lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</desc>
+    <icon src="https://i.ytimg.com/vi/49c9l6Ba1dE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
+    <title lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</title>
+    <desc lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/QAJU_jlefBw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</title>
+    <desc lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/QAJU_jlefBw/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
+    <title lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</title>
+    <desc lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</desc>
+    <icon src="https://i.ytimg.com/vi/dyojumgs7hk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</title>
+    <desc lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</desc>
+    <icon src="https://i.ytimg.com/vi/dyojumgs7hk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
