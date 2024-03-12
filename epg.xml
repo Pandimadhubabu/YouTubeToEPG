@@ -1,26 +1,18 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312150000 +0530" stop="20240312160000 +0530">
-    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/uZo5Uxtziy0/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312150000 +0530" stop="20240312160000 +0530">
-    <title lang="en">“Jhooth bol rahe hain…”HM Shah accuses opposition parties of misleading public over CAA</title>
-    <desc lang="en">“Jhooth bol rahe hain…”HM Shah accuses opposition parties of misleading public over CAA</desc>
-    <icon src="https://i.ytimg.com/vi/CxdGOoVC9AM/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240312160000 +0530" stop="20240312170000 +0530">
+    <title lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</title>
+    <desc lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/0E5uyHQQlCw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240312150000 +0530" stop="20240312160000 +0530">
-    <title lang="en">LIVE: Special Counsel Robert Hur to defend Joe Biden 'poor memory' report to House panel</title>
-    <desc lang="en">LIVE: Special Counsel Robert Hur to defend Joe Biden 'poor memory' report to House panel</desc>
-    <icon src="https://i.ytimg.com/vi/Kj8Cr90ydBc/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240312160000 +0530" stop="20240312170000 +0530">
+    <title lang="en">LIVE: Schumer, McConnell meet with Polish president at US Capitol</title>
+    <desc lang="en">LIVE: Schumer, McConnell meet with Polish president at US Capitol</desc>
+    <icon src="https://i.ytimg.com/vi/UUb6EwCjx44/maxresdefault_live.jpg"/>
   </programme>
 </tv>
