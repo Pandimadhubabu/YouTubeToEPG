@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312140000 +0530" stop="20240312150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240312150000 +0530" stop="20240312160000 +0530">
     <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/uZo5Uxtziy0/maxresdefault_live.jpg"/>
@@ -10,7 +10,7 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312140000 +0530" stop="20240312150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240312150000 +0530" stop="20240312160000 +0530">
     <title lang="en">“Jhooth bol rahe hain…”HM Shah accuses opposition parties of misleading public over CAA</title>
     <desc lang="en">“Jhooth bol rahe hain…”HM Shah accuses opposition parties of misleading public over CAA</desc>
     <icon src="https://i.ytimg.com/vi/CxdGOoVC9AM/maxresdefault_live.jpg"/>
@@ -18,25 +18,9 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240312140000 +0530" stop="20240312150000 +0530">
+  <programme channel="Reuters.yt" start="20240312150000 +0530" stop="20240312160000 +0530">
     <title lang="en">LIVE: Special Counsel Robert Hur to defend Joe Biden 'poor memory' report to House panel</title>
     <desc lang="en">LIVE: Special Counsel Robert Hur to defend Joe Biden 'poor memory' report to House panel</desc>
     <icon src="https://i.ytimg.com/vi/Kj8Cr90ydBc/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240312140000 +0530" stop="20240312150000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at  Parade grounds</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at  Parade grounds</desc>
-    <icon src="https://i.ytimg.com/vi/smDDhn9wMpQ/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240312140000 +0530" stop="20240312150000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at Parade grounds</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at Parade grounds</desc>
-    <icon src="https://i.ytimg.com/vi/Rxx0jvTFZtc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
