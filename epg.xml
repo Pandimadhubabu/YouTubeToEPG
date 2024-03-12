@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
     <title lang="en">LIVE ; అమిత్ షా బహిరంగ సభ | Amith Shah Public Meeting | Secunderabad | ManaTolivelugu</title>
     <desc lang="en">LIVE ; అమిత్ షా బహిరంగ సభ | Amith Shah Public Meeting | Secunderabad | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/6YSojS_U-n4/maxresdefault_live.jpg"/>
@@ -10,17 +10,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
-    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference</title>
-    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference</desc>
-    <icon src="https://i.ytimg.com/vi/AF0Y4LHsiuw/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
+    <title lang="en">LIVE: HM Amit Shah addresses Social Media Warriors Meet in Secunderabad, Telangana</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses Social Media Warriors Meet in Secunderabad, Telangana</desc>
+    <icon src="https://i.ytimg.com/vi/0E5uyHQQlCw/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="IPRAPDept.yt">
+    <display-name lang="en">AP Government</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
-    <title lang="en">LIVE: Crew-7 returns to Earth after International Space Station stay | REUTERS</title>
-    <desc lang="en">LIVE: Crew-7 returns to Earth after International Space Station stay | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/MedK2qjNep0/maxresdefault_live.jpg"/>
+  <programme channel="IPRAPDept.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
+    <title lang="en">Hon’ble CM will be Inaugurating Juvvaladinne Fishing Harbour in Bogole Mandal,Nellore Dist.Virtually</title>
+    <desc lang="en">Hon’ble CM will be Inaugurating Juvvaladinne Fishing Harbour in Bogole Mandal,Nellore Dist.Virtually</desc>
+    <icon src="https://i.ytimg.com/vi/YlJDoPvTm2I/maxresdefault_live.jpg"/>
   </programme>
 </tv>
