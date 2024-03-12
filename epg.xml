@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312060000 +0530" stop="20240312070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
     <title lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</title>
     <desc lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/343AZVZsT2E/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
     <title lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</title>
     <desc lang="en">LIVE : Deputy CM Batti Vikramarka will be launching new Electric Green Metro Buses | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/343AZVZsT2E/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312060000 +0530" stop="20240312070000 +0530">
-    <title lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</title>
-    <desc lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</desc>
-    <icon src="https://i.ytimg.com/vi/ZhfwbiADGxc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
     <title lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</title>
     <desc lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</desc>
     <icon src="https://i.ytimg.com/vi/ZhfwbiADGxc/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240312060000 +0530" stop="20240312070000 +0530">
-    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will be launching  new Electric Green Metro Buses</title>
-    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will be launching  new Electric Green Metro Buses</desc>
-    <icon src="https://i.ytimg.com/vi/CJ1lxwty8LM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
-    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will be launching  new Electric Green Metro Buses</title>
-    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will be launching  new Electric Green Metro Buses</desc>
-    <icon src="https://i.ytimg.com/vi/CJ1lxwty8LM/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
+    <title lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</title>
+    <desc lang="en">Live: Breaking News | Manohar Lal Khattar resigns as CM of Haryana | Chandigarh | Rajbhawan</desc>
+    <icon src="https://i.ytimg.com/vi/ZhfwbiADGxc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
