@@ -2,31 +2,23 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/WXUHc3qMspc/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">LIVE: PM Modi attends Exercise Bharat Shakti in Pokhran, Rajasthan</title>
-    <desc lang="en">LIVE: PM Modi attends Exercise Bharat Shakti in Pokhran, Rajasthan</desc>
-    <icon src="https://i.ytimg.com/vi/5BQzCzkbovc/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
+    <title lang="en">LIVE ; అమిత్ షా బహిరంగ సభ | Amith Shah Public Meeting | Secunderabad | ManaTolivelugu</title>
+    <desc lang="en">LIVE ; అమిత్ షా బహిరంగ సభ | Amith Shah Public Meeting | Secunderabad | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/6YSojS_U-n4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">Live: AIMIM Chief Asaduddin Owaisi's first reaction after Modi govt implements CAA</title>
-    <desc lang="en">Live: AIMIM Chief Asaduddin Owaisi's first reaction after Modi govt implements CAA</desc>
-    <icon src="https://i.ytimg.com/vi/4lUEpZzr9Pg/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference</desc>
+    <icon src="https://i.ytimg.com/vi/AF0Y4LHsiuw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+  <programme channel="Reuters.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
     <title lang="en">LIVE: Crew-7 returns to Earth after International Space Station stay | REUTERS</title>
     <desc lang="en">LIVE: Crew-7 returns to Earth after International Space Station stay | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/MedK2qjNep0/maxresdefault_live.jpg"/>
