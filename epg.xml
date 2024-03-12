@@ -2,7 +2,7 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312170000 +0530" stop="20240312180000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240312180000 +0530" stop="20240312190000 +0530">
     <title lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</title>
     <desc lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</desc>
     <icon src="https://i.ytimg.com/vi/0E5uyHQQlCw/maxresdefault_live.jpg"/>
@@ -10,9 +10,9 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240312170000 +0530" stop="20240312180000 +0530">
-    <title lang="en">LIVE: House Speaker Mike Johnson meets with Polish President Andrzej Dud</title>
-    <desc lang="en">LIVE: House Speaker Mike Johnson meets with Polish President Andrzej Dud</desc>
-    <icon src="https://i.ytimg.com/vi/7BGcOy8UCIk/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240312180000 +0530" stop="20240312190000 +0530">
+    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</title>
+    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</desc>
+    <icon src="https://i.ytimg.com/vi/B5poDJ7F5lE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
