@@ -2,9 +2,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312190000 +0530" stop="20240312200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240312200000 +0530" stop="20240312210000 +0530">
     <title lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</title>
     <desc lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</desc>
     <icon src="https://i.ytimg.com/vi/0E5uyHQQlCw/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240312200000 +0530" stop="20240312210000 +0530">
+    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
+    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
+    <icon src="https://i.ytimg.com/vi/fuWDKNWF4KA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
