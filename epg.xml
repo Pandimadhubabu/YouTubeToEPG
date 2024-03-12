@@ -2,11 +2,6 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312030000 +0530" stop="20240312040000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/tmXof4N92Ok/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240312040000 +0530" stop="20240312050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
@@ -42,14 +37,100 @@
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/tmXof4N92Ok/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ManaToliVelugu.yt">
-    <display-name lang="en">Mana Toli Velugu</display-name>
-  </channel>
-  <programme channel="ManaToliVelugu.yt" start="20240312030000 +0530" stop="20240312040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/tmXof4N92Ok/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240312040000 +0530" stop="20240312050000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312050000 +0530" stop="20240312060000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312060000 +0530" stop="20240312070000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</title>
+    <desc lang="en">LIVE: PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad</desc>
+    <icon src="https://i.ytimg.com/vi/Our0K71vtUY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240312040000 +0530" stop="20240312050000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312050000 +0530" stop="20240312060000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312060000 +0530" stop="20240312070000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
+    <title lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</title>
+    <desc lang="en">PM Modi inaugurates, dedicates &amp; lays foundation stone of various projects in Ahmedabad, Gujarat</desc>
+    <icon src="https://i.ytimg.com/vi/f4tuI8BthJA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ManaToliVelugu.yt">
+    <display-name lang="en">Mana Toli Velugu</display-name>
+  </channel>
   <programme channel="ManaToliVelugu.yt" start="20240312040000 +0530" stop="20240312050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
@@ -85,47 +166,52 @@
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/tmXof4N92Ok/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaToliVelugu.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/tmXof4N92Ok/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="TV9TeluguLive.yt">
     <display-name lang="en">TV9TeluguLive</display-name>
   </channel>
-  <programme channel="TV9TeluguLive.yt" start="20240312030000 +0530" stop="20240312040000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312040000 +0530" stop="20240312050000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312050000 +0530" stop="20240312060000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312060000 +0530" stop="20240312070000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312070000 +0530" stop="20240312080000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="TV9TeluguLive.yt" start="20240312100000 +0530" stop="20240312110000 +0530">
-    <title lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</title>
-    <desc lang="en">News 100 LIVE | Speed News | News Express | 12-03-2024 - TV9 Exclusive</desc>
-    <icon src="https://i.ytimg.com/vi/9T24ciLOXhM/maxresdefault_live.jpg"/>
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TV9TeluguLive.yt" start="20240312110000 +0530" stop="20240312120000 +0530">
+    <title lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</title>
+    <desc lang="en">తగ్గిన పవన్ కళ్యాణ్.. పొత్తులో బిగ్ ట్విస్ట్.! LIVE | Pawan Kalyan Over Seat Sharing Twist - TV9</desc>
+    <icon src="https://i.ytimg.com/vi/D6HBCp_muiE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
