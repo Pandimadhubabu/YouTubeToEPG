@@ -2,23 +2,23 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
-    <title lang="en">LIVE : మహిళా శక్తితో రేవంత్ బహిరంగ సభ | CM Revanth Reddy will participate in Mahila Sadassu-2024</title>
-    <desc lang="en">LIVE : మహిళా శక్తితో రేవంత్ బహిరంగ సభ | CM Revanth Reddy will participate in Mahila Sadassu-2024</desc>
-    <icon src="https://i.ytimg.com/vi/557clz_ZPto/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240312130000 +0530" stop="20240312140000 +0530">
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/uZo5Uxtziy0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
-    <title lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</title>
-    <desc lang="en">LIVE: HM Shah addresses Vijay sankalp sammelan in Hyderabad | Madhavi Latha | AIMIM | Congress |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/0E5uyHQQlCw/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240312130000 +0530" stop="20240312140000 +0530">
+    <title lang="en">LIVE: Congress party briefing by KC Venugopal| Congress announces Loksabha Candidate 2nd List</title>
+    <desc lang="en">LIVE: Congress party briefing by KC Venugopal| Congress announces Loksabha Candidate 2nd List</desc>
+    <icon src="https://i.ytimg.com/vi/EgF8vWhg6Wg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240312130000 +0530" stop="20240312140000 +0530">
     <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at  Parade grounds</title>
     <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at  Parade grounds</desc>
     <icon src="https://i.ytimg.com/vi/smDDhn9wMpQ/maxresdefault_live.jpg"/>
@@ -26,9 +26,9 @@
   <channel id="IPRTelanganaGovt.yt">
     <display-name lang="en">TG Government</display-name>
   </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240312120000 +0530" stop="20240312130000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at Parade grounds</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Mahila Sadassu-2024 at Parade grounds</desc>
-    <icon src="https://i.ytimg.com/vi/Rxx0jvTFZtc/maxresdefault_live.jpg"/>
+  <programme channel="IPRTelanganaGovt.yt" start="20240312130000 +0530" stop="20240312140000 +0530">
+    <title lang="en">Cabinet Briefing</title>
+    <desc lang="en">Cabinet Briefing</desc>
+    <icon src="https://i.ytimg.com/vi/i8dzw7mjMAw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
