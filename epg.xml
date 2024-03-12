@@ -2,53 +2,33 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</title>
-    <desc lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/Nvb14PjXM8w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</title>
-    <desc lang="en">LIVE : ఉరితాళ్లతో ఉప్పల్ భూబాధితుల ప్రెస్ మీట్ !! | sai priya nagar plot owners association LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/Nvb14PjXM8w/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WXUHc3qMspc/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
+    <title lang="en">LIVE: PM Modi attends Exercise Bharat Shakti in Pokhran, Rajasthan</title>
+    <desc lang="en">LIVE: PM Modi attends Exercise Bharat Shakti in Pokhran, Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/5BQzCzkbovc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</title>
-    <desc lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</desc>
-    <icon src="https://i.ytimg.com/vi/49c9l6Ba1dE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</title>
-    <desc lang="en">"CAA will be repealed if…" Shashi Tharoor after Modi Govt implements Citizenship Amendment Act</desc>
-    <icon src="https://i.ytimg.com/vi/49c9l6Ba1dE/maxresdefault_live.jpg"/>
+    <title lang="en">Live: AIMIM Chief Asaduddin Owaisi's first reaction after Modi govt implements CAA</title>
+    <desc lang="en">Live: AIMIM Chief Asaduddin Owaisi's first reaction after Modi govt implements CAA</desc>
+    <icon src="https://i.ytimg.com/vi/4lUEpZzr9Pg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</title>
-    <desc lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/QAJU_jlefBw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</title>
-    <desc lang="en">LIVE: Ursula von der Leyen speaks in European Parliament | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/QAJU_jlefBw/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240312080000 +0530" stop="20240312090000 +0530">
-    <title lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</title>
-    <desc lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</desc>
-    <icon src="https://i.ytimg.com/vi/dyojumgs7hk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240312090000 +0530" stop="20240312100000 +0530">
-    <title lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</title>
-    <desc lang="en">Hon’ble Dep.CM Sri.Mallu Batti Vikramarka will Lay foundation Stone @Singareni Colleries Guest House</desc>
-    <icon src="https://i.ytimg.com/vi/dyojumgs7hk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Crew-7 returns to Earth after International Space Station stay | REUTERS</title>
+    <desc lang="en">LIVE: Crew-7 returns to Earth after International Space Station stay | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/MedK2qjNep0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
