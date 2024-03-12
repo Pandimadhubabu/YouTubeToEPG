@@ -13,7 +13,7 @@ channels = []
 
 def generate_times(curr_dt: datetime):
     """
-Generate 3-hourly blocks of times based on a current date
+Generate 1-hourly blocks of times based on a current date
     :param curr_dt: The current time the script is executed
     :return: A tuple that contains a list of start dates and a list of end dates
     """
