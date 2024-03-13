@@ -2,25 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240313050000 +0530" stop="20240313060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240313060000 +0530" stop="20240313070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/G3WPDfyXWOk/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240313050000 +0530" stop="20240313060000 +0530">
-    <title lang="en">LIVE: Prime Minister Narendra Modi participates in ‘India’s Techade: Chips for Viksit Bharat'</title>
-    <desc lang="en">LIVE: Prime Minister Narendra Modi participates in ‘India’s Techade: Chips for Viksit Bharat'</desc>
-    <icon src="https://i.ytimg.com/vi/7QCn20wo8oY/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240313050000 +0530" stop="20240313060000 +0530">
-    <title lang="en">LIVE: PM Modi participates in ‘India’s Techade: Chips for Viksit Bharat'</title>
-    <desc lang="en">LIVE: PM Modi participates in ‘India’s Techade: Chips for Viksit Bharat'</desc>
-    <icon src="https://i.ytimg.com/vi/CXdxEhPK2PE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240313060000 +0530" stop="20240313070000 +0530">
+    <title lang="en">LIVE: Another jolt for Congress, Senior Maharashtra Congress leader Padmakar Valvi joins BJP</title>
+    <desc lang="en">LIVE: Another jolt for Congress, Senior Maharashtra Congress leader Padmakar Valvi joins BJP</desc>
+    <icon src="https://i.ytimg.com/vi/ti9mS_Npda8/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240313060000 +0530" stop="20240313070000 +0530">
+    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will participate in Public Meeting l Makthal</title>
+    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will participate in Public Meeting l Makthal</desc>
+    <icon src="https://i.ytimg.com/vi/2-fx31D3wlo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
