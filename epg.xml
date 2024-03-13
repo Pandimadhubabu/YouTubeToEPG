@@ -1,10 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240313180000 +0530" stop="20240313190000 +0530">
-    <title lang="en">LIVE: Muslim worshippers gather for evening prayers in Mecca</title>
-    <desc lang="en">LIVE: Muslim worshippers gather for evening prayers in Mecca</desc>
-    <icon src="https://i.ytimg.com/vi/xKWVGOxxtEg/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
