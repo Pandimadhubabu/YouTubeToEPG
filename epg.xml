@@ -1,1 +1,10 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240313010000 +0530" stop="20240313020000 +0530">
+    <title lang="en">LIVE: Thailand celebrates national elephant day</title>
+    <desc lang="en">LIVE: Thailand celebrates national elephant day</desc>
+    <icon src="https://i.ytimg.com/vi/FpvY9R5eREc/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
