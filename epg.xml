@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240313130000 +0530" stop="20240313140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240313140000 +0530" stop="20240313150000 +0530">
     <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/5sG4My-2iH0/maxresdefault_live.jpg"/>
@@ -10,9 +10,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240313130000 +0530" stop="20240313140000 +0530">
-    <title lang="en">LIVE: Election Commission | Lok Sabha Election 2024 preparedness | J&amp;K Election soon | PoK Refugees</title>
-    <desc lang="en">LIVE: Election Commission | Lok Sabha Election 2024 preparedness | J&amp;K Election soon | PoK Refugees</desc>
-    <icon src="https://i.ytimg.com/vi/SIOwEFaPLa0/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240313140000 +0530" stop="20240313150000 +0530">
+    <title lang="en">LIVE: Chairman Adani Group, Gautam Adani shares his journey and success mantra</title>
+    <desc lang="en">LIVE: Chairman Adani Group, Gautam Adani shares his journey and success mantra</desc>
+    <icon src="https://i.ytimg.com/vi/P5kdPBj7ZPA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240313140000 +0530" stop="20240313150000 +0530">
+    <title lang="en">LIVE: US House of Representatives vote on TikTok bill</title>
+    <desc lang="en">LIVE: US House of Representatives vote on TikTok bill</desc>
+    <icon src="https://i.ytimg.com/vi/c3rdysFwGks/maxresdefault_live.jpg"/>
   </programme>
 </tv>
