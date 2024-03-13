@@ -1,10 +1,10 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240313010000 +0530" stop="20240313020000 +0530">
-    <title lang="en">LIVE: Thailand celebrates national elephant day</title>
-    <desc lang="en">LIVE: Thailand celebrates national elephant day</desc>
-    <icon src="https://i.ytimg.com/vi/FpvY9R5eREc/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240313020000 +0530" stop="20240313030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/G3WPDfyXWOk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
