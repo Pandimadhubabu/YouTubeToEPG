@@ -2,15 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240313120000 +0530" stop="20240313130000 +0530">
-    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/g_HCDWg_H1s/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240313130000 +0530" stop="20240313140000 +0530">
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/5sG4My-2iH0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240313120000 +0530" stop="20240313130000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240313130000 +0530" stop="20240313140000 +0530">
     <title lang="en">LIVE: Election Commission | Lok Sabha Election 2024 preparedness | J&amp;K Election soon | PoK Refugees</title>
     <desc lang="en">LIVE: Election Commission | Lok Sabha Election 2024 preparedness | J&amp;K Election soon | PoK Refugees</desc>
     <icon src="https://i.ytimg.com/vi/SIOwEFaPLa0/maxresdefault_live.jpg"/>
