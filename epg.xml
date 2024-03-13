@@ -2,15 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240313080000 +0530" stop="20240313090000 +0530">
-    <title lang="en">LIVE: ఎమ్మెల్సీ జీవన్ రెడ్డి ప్రెస్ మీట్ | MLC Jeevan Reddy Pressmeet | Gandhibhavan |ManaTolivelugu</title>
-    <desc lang="en">LIVE: ఎమ్మెల్సీ జీవన్ రెడ్డి ప్రెస్ మీట్ | MLC Jeevan Reddy Pressmeet | Gandhibhavan |ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/QkvGHHLp9ts/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240313090000 +0530" stop="20240313100000 +0530">
+    <title lang="en">LIVE: చిక్కడపల్లి లైబ్రరీలో నిరుద్యోగుల ధూం ధాం !! | Central Library Student Protest |manatolivelugu</title>
+    <desc lang="en">LIVE: చిక్కడపల్లి లైబ్రరీలో నిరుద్యోగుల ధూం ధాం !! | Central Library Student Protest |manatolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Maeo3CFv2CM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240313080000 +0530" stop="20240313090000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240313090000 +0530" stop="20240313100000 +0530">
     <title lang="en">LIVE: Union Minister Ashwini Vaishnaw explains about India's semiconductor mission</title>
     <desc lang="en">LIVE: Union Minister Ashwini Vaishnaw explains about India's semiconductor mission</desc>
     <icon src="https://i.ytimg.com/vi/jyTFXZk5Zyc/maxresdefault_live.jpg"/>
@@ -18,7 +18,7 @@
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240313080000 +0530" stop="20240313090000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240313090000 +0530" stop="20240313100000 +0530">
     <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will participate in Public Meeting l Makthal</title>
     <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will participate in Public Meeting l Makthal</desc>
     <icon src="https://i.ytimg.com/vi/2-fx31D3wlo/maxresdefault_live.jpg"/>
