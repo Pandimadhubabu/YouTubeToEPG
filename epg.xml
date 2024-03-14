@@ -2,17 +2,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240314160000 +0530" stop="20240314170000 +0530">
-    <title lang="en">LIVE: West Bengal CM Mamata Banerjee seriously injured I admitted at SSKM Hospital I live updates</title>
-    <desc lang="en">LIVE: West Bengal CM Mamata Banerjee seriously injured I admitted at SSKM Hospital I live updates</desc>
+  <programme channel="ANINewsIndia.yt" start="20240314170000 +0530" stop="20240314180000 +0530">
+    <title lang="en">LIVE: West Bengal CM Mamata Banerjee seriously injured| leaves from SSKM Hospital | Live updates</title>
+    <desc lang="en">LIVE: West Bengal CM Mamata Banerjee seriously injured| leaves from SSKM Hospital | Live updates</desc>
     <icon src="https://i.ytimg.com/vi/QwFrq133h4A/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240314160000 +0530" stop="20240314170000 +0530">
-    <title lang="en">Rafah live stream now, where 1.3 million Gazans are displaced</title>
-    <desc lang="en">Rafah live stream now, where 1.3 million Gazans are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/ky7O6BvwlMY/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240314170000 +0530" stop="20240314180000 +0530">
+    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
+    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
+    <icon src="https://i.ytimg.com/vi/qKrRTgYEd5M/maxresdefault_live.jpg"/>
   </programme>
 </tv>
