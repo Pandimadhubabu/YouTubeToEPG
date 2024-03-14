@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240314100000 +0530" stop="20240314110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240314110000 +0530" stop="20240314120000 +0530">
     <title lang="en">LIVE : కెసిఆర్ పెట్టిన అక్రమ కేసులు ఎత్తేయాల్సిందే ! | TG Intellectual round table | Mana Tolivelugu</title>
     <desc lang="en">LIVE : కెసిఆర్ పెట్టిన అక్రమ కేసులు ఎత్తేయాల్సిందే ! | TG Intellectual round table | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/2FccOoBAMU4/maxresdefault_live.jpg"/>
@@ -10,9 +10,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240314100000 +0530" stop="20240314110000 +0530">
-    <title lang="en">LIVE:BJP PC|Preneet Kaur,suspended Congress MP and wife of former Punjab CM Amarinder Singh join BJP</title>
-    <desc lang="en">LIVE:BJP PC|Preneet Kaur,suspended Congress MP and wife of former Punjab CM Amarinder Singh join BJP</desc>
-    <icon src="https://i.ytimg.com/vi/mK3PjZsxKTg/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240314110000 +0530" stop="20240314120000 +0530">
+    <title lang="en">LIVE: Hindu refugees from Pakistan &amp; Afghanistan protest against Arvind Kejriwal over CAA remark</title>
+    <desc lang="en">LIVE: Hindu refugees from Pakistan &amp; Afghanistan protest against Arvind Kejriwal over CAA remark</desc>
+    <icon src="https://i.ytimg.com/vi/xWuIjj_4uv8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
