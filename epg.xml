@@ -2,9 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240314050000 +0530" stop="20240314060000 +0530">
-    <title lang="en">LIVE : రామంతపూర్ లో ఈటల ఆత్మీయ సమ్మెళనం | Bjp Etela Rajeder LIve || ManaTolivelugu</title>
-    <desc lang="en">LIVE : రామంతపూర్ లో ఈటల ఆత్మీయ సమ్మెళనం | Bjp Etela Rajeder LIve || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/jlBLWycpZeM/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240314060000 +0530" stop="20240314070000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/z3ed7IVhPFo/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240314060000 +0530" stop="20240314070000 +0530">
+    <title lang="en">LIVE: HM Amit Shah’s point-by-point rebuttal to Opposition on CAA at ANI Podcast with Smita Prakash</title>
+    <desc lang="en">LIVE: HM Amit Shah’s point-by-point rebuttal to Opposition on CAA at ANI Podcast with Smita Prakash</desc>
+    <icon src="https://i.ytimg.com/vi/PngkjJuxHig/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRAPDept.yt">
+    <display-name lang="en">AP Government</display-name>
+  </channel>
+  <programme channel="IPRAPDept.yt" start="20240314060000 +0530" stop="20240314070000 +0530">
+    <title lang="en">Hon'ble CM of AP will be Distributing Financial Assistance under "YSR EBC Nestham" at Banaganapalli</title>
+    <desc lang="en">Hon'ble CM of AP will be Distributing Financial Assistance under "YSR EBC Nestham" at Banaganapalli</desc>
+    <icon src="https://i.ytimg.com/vi/Nu3ai29zAtU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
