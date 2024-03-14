@@ -2,17 +2,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240314200000 +0530" stop="20240314210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240314210000 +0530" stop="20240314220000 +0530">
     <title lang="en">“Hum Bhi Talwar Uthate…” BJP’s Madhavi Latha appeals people to watch ‘Razakar’</title>
     <desc lang="en">“Hum Bhi Talwar Uthate…” BJP’s Madhavi Latha appeals people to watch ‘Razakar’</desc>
     <icon src="https://i.ytimg.com/vi/Pch7ifT1Vh8/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240314200000 +0530" stop="20240314210000 +0530">
-    <title lang="en">LIVE: Israeli protesters call for release of female hostages held in Gaza</title>
-    <desc lang="en">LIVE: Israeli protesters call for release of female hostages held in Gaza</desc>
-    <icon src="https://i.ytimg.com/vi/Fx5KEHxK-nk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
