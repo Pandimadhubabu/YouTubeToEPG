@@ -2,25 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240314120000 +0530" stop="20240314130000 +0530">
-    <title lang="en">LIVE : కెసిఆర్ పెట్టిన అక్రమ కేసులు ఎత్తేయాల్సిందే ! | TG Intellectual round table | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : కెసిఆర్ పెట్టిన అక్రమ కేసులు ఎత్తేయాల్సిందే ! | TG Intellectual round table | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/2FccOoBAMU4/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240314120000 +0530" stop="20240314130000 +0530">
-    <title lang="en">LIVE: PM Modi distributes loans to beneficiaries under PM SVANidhi scheme in Delhi</title>
-    <desc lang="en">LIVE: PM Modi distributes loans to beneficiaries under PM SVANidhi scheme in Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/lqnk-A5l1PE/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240314130000 +0530" stop="20240314140000 +0530">
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/lJYPQRXzPi4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240314120000 +0530" stop="20240314130000 +0530">
-    <title lang="en">LIVE: PM Modi distributes loans to beneficiaries under PM SVANidhi scheme in Delhi</title>
-    <desc lang="en">LIVE: PM Modi distributes loans to beneficiaries under PM SVANidhi scheme in Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/YbLo-hmTSps/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240314130000 +0530" stop="20240314140000 +0530">
+    <title lang="en">"Rules for man is different..." Sudha Murty's inspiring speech draws applause by wives of Armymen</title>
+    <desc lang="en">"Rules for man is different..." Sudha Murty's inspiring speech draws applause by wives of Armymen</desc>
+    <icon src="https://i.ytimg.com/vi/Z3c0Y4tZhHM/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240314130000 +0530" stop="20240314140000 +0530">
+    <title lang="en">LIVE:  Donald Trump expected to attend hearing seeking dismissal of classified documents case</title>
+    <desc lang="en">LIVE:  Donald Trump expected to attend hearing seeking dismissal of classified documents case</desc>
+    <icon src="https://i.ytimg.com/vi/OQ2cj1VJOkU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
