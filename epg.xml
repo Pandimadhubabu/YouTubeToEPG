@@ -2,49 +2,17 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240315130000 +0530" stop="20240315140000 +0530">
-    <title lang="en">LIVE : మోడీ రోడ్ షో @మల్కాజ్ గిరి | Modi Road show | Malkajgiir | ManaTolivelugu</title>
-    <desc lang="en">LIVE : మోడీ రోడ్ షో @మల్కాజ్ గిరి | Modi Road show | Malkajgiir | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/EkRwM_VuUUQ/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240315130000 +0530" stop="20240315140000 +0530">
-    <title lang="en">LIVE: PM Modi's marvellous road show in Malkajgiri, Hyderabad in Telangana</title>
-    <desc lang="en">LIVE: PM Modi's marvellous road show in Malkajgiri, Hyderabad in Telangana</desc>
-    <icon src="https://i.ytimg.com/vi/et2ewzdRq4g/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240315140000 +0530" stop="20240315150000 +0530">
+    <title lang="en">LIVE : కవిత ఇంటి దగ్గర ప్రస్తుత పరిస్థితి | MLC Kavitha Arrest Exclusive | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కవిత ఇంటి దగ్గర ప్రస్తుత పరిస్థితి | MLC Kavitha Arrest Exclusive | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/qT-s-ccV-YI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240315130000 +0530" stop="20240315140000 +0530">
-    <title lang="en">Live: Bhutan PM Dasho Tshering Tobgay addresses on ‘India-Bhutan Tourism: Expanding Horizons’</title>
-    <desc lang="en">Live: Bhutan PM Dasho Tshering Tobgay addresses on ‘India-Bhutan Tourism: Expanding Horizons’</desc>
-    <icon src="https://i.ytimg.com/vi/wqE2tTUELE8/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240315130000 +0530" stop="20240315140000 +0530">
-    <title lang="en">LIVE: German Chancellor Olaf Scholz, Polish Prime Minister Donald Tusk and French President Emman…</title>
-    <desc lang="en">LIVE: German Chancellor Olaf Scholz, Polish Prime Minister Donald Tusk and French President Emman…</desc>
-    <icon src="https://i.ytimg.com/vi/b9IQrR1voYE/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240315130000 +0530" stop="20240315140000 +0530">
-    <title lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Dawat-e-Iftar 2024 at L.B Stadium</title>
-    <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Dawat-e-Iftar 2024 at L.B Stadium</desc>
-    <icon src="https://i.ytimg.com/vi/DIh26N7JGgU/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240315130000 +0530" stop="20240315140000 +0530">
-    <title lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Dawat-e-Iftar 2024 at L.B Stadium</title>
-    <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Dawat-e-Iftar 2024 at L.B Stadium</desc>
-    <icon src="https://i.ytimg.com/vi/2074yDRDZyc/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240315140000 +0530" stop="20240315150000 +0530">
+    <title lang="en">Breaking News : Delhi Liquor Policy Case: BRS MLC K Kavitha has been arrested by ED | Liquorgate</title>
+    <desc lang="en">Breaking News : Delhi Liquor Policy Case: BRS MLC K Kavitha has been arrested by ED | Liquorgate</desc>
+    <icon src="https://i.ytimg.com/vi/4Q4faNUHJ6Q/maxresdefault_live.jpg"/>
   </programme>
 </tv>
