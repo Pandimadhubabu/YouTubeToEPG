@@ -2,17 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240315150000 +0530" stop="20240315160000 +0530">
-    <title lang="en">LIVE : కవిత అరెస్ట్.. స్పెషల్ ఫ్లైట్ లో ఢిల్లీకి.. | Mlc Kavitha Arrest | Delhi Liquor Case</title>
-    <desc lang="en">LIVE : కవిత అరెస్ట్.. స్పెషల్ ఫ్లైట్ లో ఢిల్లీకి.. | Mlc Kavitha Arrest | Delhi Liquor Case</desc>
-    <icon src="https://i.ytimg.com/vi/iZ10BbsRVUA/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240315160000 +0530" stop="20240315170000 +0530">
+    <title lang="en">LIVE : కవిత అరెస్ట్ పై బిఆర్ఎస్ సంచలన  ప్రెస్ మీట్ | BRS Leaders Press Meet | Kavitha Arrest</title>
+    <desc lang="en">LIVE : కవిత అరెస్ట్ పై బిఆర్ఎస్ సంచలన  ప్రెస్ మీట్ | BRS Leaders Press Meet | Kavitha Arrest</desc>
+    <icon src="https://i.ytimg.com/vi/RErZq2nyv4I/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240315150000 +0530" stop="20240315160000 +0530">
-    <title lang="en">Breaking News : Delhi Liquor Policy Case: BRS MLC K Kavitha has been arrested by ED | Liquorgate</title>
-    <desc lang="en">Breaking News : Delhi Liquor Policy Case: BRS MLC K Kavitha has been arrested by ED | Liquorgate</desc>
-    <icon src="https://i.ytimg.com/vi/4Q4faNUHJ6Q/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240315160000 +0530" stop="20240315170000 +0530">
+    <title lang="en">LIVE: PM Modi's Mega Road Show in Malkajgiri, Hyderabad in Telangana</title>
+    <desc lang="en">LIVE: PM Modi's Mega Road Show in Malkajgiri, Hyderabad in Telangana</desc>
+    <icon src="https://i.ytimg.com/vi/amliaBN62CY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240315160000 +0530" stop="20240315170000 +0530">
+    <title lang="en">LIVE: NYPD news conference on Brooklyn subway shooting &amp; stabbing</title>
+    <desc lang="en">LIVE: NYPD news conference on Brooklyn subway shooting &amp; stabbing</desc>
+    <icon src="https://i.ytimg.com/vi/yNs9CQL0x9g/hqdefault_live.jpg"/>
   </programme>
 </tv>
