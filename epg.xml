@@ -2,9 +2,9 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240315190000 +0530" stop="20240315200000 +0530">
-    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre</title>
-    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre</desc>
-    <icon src="https://i.ytimg.com/vi/eAjappYgHp4/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240315200000 +0530" stop="20240315210000 +0530">
+    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
+    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
+    <icon src="https://i.ytimg.com/vi/tTeE7mUBqlc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
