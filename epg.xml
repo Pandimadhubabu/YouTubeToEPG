@@ -2,7 +2,7 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240315220000 +0530" stop="20240315230000 +0530">
+  <programme channel="Reuters.yt" start="20240315230000 +0530" stop="20240316000000 +0530">
     <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
     <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
     <icon src="https://i.ytimg.com/vi/tTeE7mUBqlc/maxresdefault_live.jpg"/>
