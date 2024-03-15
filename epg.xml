@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240315040000 +0530" stop="20240315050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240315050000 +0530" stop="20240315060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/lZppJqSjdas/maxresdefault_live.jpg"/>
@@ -10,9 +10,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240315040000 +0530" stop="20240315050000 +0530">
-    <title lang="en">Live: Dr Manmohan Vaidya (RSS ) holds press Conference on Ram Mandir &amp; Future Plans</title>
-    <desc lang="en">Live: Dr Manmohan Vaidya (RSS ) holds press Conference on Ram Mandir &amp; Future Plans</desc>
-    <icon src="https://i.ytimg.com/vi/F0PAmB_Ei_Y/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240315050000 +0530" stop="20240315060000 +0530">
+    <title lang="en">Live: PC by B.S.Yediyurappa on booked under POCSO Act for allegedly sexually assaulting a minor</title>
+    <desc lang="en">Live: PC by B.S.Yediyurappa on booked under POCSO Act for allegedly sexually assaulting a minor</desc>
+    <icon src="https://i.ytimg.com/vi/BUV2UcDQtiU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
