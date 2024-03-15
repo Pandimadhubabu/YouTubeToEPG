@@ -1,18 +1,10 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240315170000 +0530" stop="20240315180000 +0530">
-    <title lang="en">LIVE : కవిత అరెస్ట్ పై బిఆర్ఎస్ సంచలన  ప్రెస్ మీట్ | BRS Leaders Press Meet | Kavitha Arrest</title>
-    <desc lang="en">LIVE : కవిత అరెస్ట్ పై బిఆర్ఎస్ సంచలన  ప్రెస్ మీట్ | BRS Leaders Press Meet | Kavitha Arrest</desc>
-    <icon src="https://i.ytimg.com/vi/RErZq2nyv4I/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240315170000 +0530" stop="20240315180000 +0530">
-    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
-    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
-    <icon src="https://i.ytimg.com/vi/tTeE7mUBqlc/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240315180000 +0530" stop="20240315190000 +0530">
+    <title lang="en">LIVE: US Vice President Kamala Harris discusses marijuana policy reforms</title>
+    <desc lang="en">LIVE: US Vice President Kamala Harris discusses marijuana policy reforms</desc>
+    <icon src="https://i.ytimg.com/vi/QsvjQcwfjIw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
