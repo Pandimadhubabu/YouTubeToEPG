@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240315100000 +0530" stop="20240315110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240315110000 +0530" stop="20240315120000 +0530">
     <title lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/zU9Iw55dx_4/maxresdefault_live.jpg"/>
@@ -10,17 +10,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240315100000 +0530" stop="20240315110000 +0530">
-    <title lang="en">LIVE: Press Briefing by MEA Spokesperson Randhir Jaiswal on Comments made by some countries on CAA</title>
-    <desc lang="en">LIVE: Press Briefing by MEA Spokesperson Randhir Jaiswal on Comments made by some countries on CAA</desc>
-    <icon src="https://i.ytimg.com/vi/tdrWiiKuskY/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240315110000 +0530" stop="20240315120000 +0530">
+    <title lang="en">LIVE: PM Modi attends a public meeting in Pathanamthitta, Kerala</title>
+    <desc lang="en">LIVE: PM Modi attends a public meeting in Pathanamthitta, Kerala</desc>
+    <icon src="https://i.ytimg.com/vi/j2LAnSFHoEU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240315100000 +0530" stop="20240315110000 +0530">
-    <title lang="en">LIVE: Ramadan's first Friday prayers at Jerusalem’s Al-Aqsa</title>
-    <desc lang="en">LIVE: Ramadan's first Friday prayers at Jerusalem’s Al-Aqsa</desc>
-    <icon src="https://i.ytimg.com/vi/WTk9IVVLI64/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240315110000 +0530" stop="20240315120000 +0530">
+    <title lang="en">LIVE: View of the Kremlin during Russia’s presidential election</title>
+    <desc lang="en">LIVE: View of the Kremlin during Russia’s presidential election</desc>
+    <icon src="https://i.ytimg.com/vi/cFonaouEtaU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
