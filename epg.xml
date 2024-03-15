@@ -2,15 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240315060000 +0530" stop="20240315070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/lZppJqSjdas/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240315070000 +0530" stop="20240315080000 +0530">
+    <title lang="en">LIVE : ఎమ్మెల్యే గూడెం మహిపాల్ రెడ్డి సోదరుడి అరెస్ట్ పై హరీష్ రావు | Patancheru | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎమ్మెల్యే గూడెం మహిపాల్ రెడ్డి సోదరుడి అరెస్ట్ పై హరీష్ రావు | Patancheru | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/PyrlBLhk4Kg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240315060000 +0530" stop="20240315070000 +0530">
+  <programme channel="NarendraModi.yt" start="20240315070000 +0530" stop="20240315080000 +0530">
     <title lang="en">PM Modi Live |  Public meeting in Kanyakumari, Tamil Nadu</title>
     <desc lang="en">PM Modi Live |  Public meeting in Kanyakumari, Tamil Nadu</desc>
     <icon src="https://i.ytimg.com/vi/xrzx3selcDo/maxresdefault_live.jpg"/>
@@ -18,9 +18,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240315060000 +0530" stop="20240315070000 +0530">
-    <title lang="en">LIVE:PM Modi attends a public meeting in Kanyakumari, Tamil Nadu</title>
-    <desc lang="en">LIVE:PM Modi attends a public meeting in Kanyakumari, Tamil Nadu</desc>
-    <icon src="https://i.ytimg.com/vi/ystBoA7pEfs/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240315070000 +0530" stop="20240315080000 +0530">
+    <title lang="en">Tamil Nadu: K Annamalai’s best speech ever; slams Congress, DMK in front of PM Modi in Kanniyakumari</title>
+    <desc lang="en">Tamil Nadu: K Annamalai’s best speech ever; slams Congress, DMK in front of PM Modi in Kanniyakumari</desc>
+    <icon src="https://i.ytimg.com/vi/W5VO1Q-C_GM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
