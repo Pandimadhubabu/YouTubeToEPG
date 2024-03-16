@@ -2,15 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240316100000 +0530" stop="20240316110000 +0530">
-    <title lang="en">LIVE : Election Commission Of India Press Meet LIVE | Lok Sabha Elections 2024 | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Election Commission Of India Press Meet LIVE | Lok Sabha Elections 2024 | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/rNTHxdiWr3s/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240316110000 +0530" stop="20240316120000 +0530">
+    <title lang="en">LIVE : బీఎస్పీకి RSP రాజీనామా! మరికాసేపట్లో గడీ ప్రవేశం | RSP Resign From BSP | KCR | ManaTolivelugu</title>
+    <desc lang="en">LIVE : బీఎస్పీకి RSP రాజీనామా! మరికాసేపట్లో గడీ ప్రవేశం | RSP Resign From BSP | KCR | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/v7AFY-bjhd0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240316100000 +0530" stop="20240316110000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240316110000 +0530" stop="20240316120000 +0530">
     <title lang="en">LIVE: Lok Sabha election 2024 | Election Commission of India Announces Polling Dates</title>
     <desc lang="en">LIVE: Lok Sabha election 2024 | Election Commission of India Announces Polling Dates</desc>
     <icon src="https://i.ytimg.com/vi/ODw6RxExB-U/maxresdefault_live.jpg"/>
