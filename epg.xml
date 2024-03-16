@@ -2,25 +2,17 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240316090000 +0530" stop="20240316100000 +0530">
-    <title lang="en">LIVE : కవిత అరెస్టుపై సీఎం రేవంత్ సంచలన ప్రెస్ మీట్ | CM Revanth Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కవిత అరెస్టుపై సీఎం రేవంత్ సంచలన ప్రెస్ మీట్ | CM Revanth Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/kruDtJ-6bZk/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240316090000 +0530" stop="20240316100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Kalaburagi, Karnataka | PM Modi's speech Live</title>
-    <desc lang="en">PM Modi Live | Public meeting in Kalaburagi, Karnataka | PM Modi's speech Live</desc>
-    <icon src="https://i.ytimg.com/vi/xXhYRFh1BP8/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240316100000 +0530" stop="20240316110000 +0530">
+    <title lang="en">LIVE : Election Commission Of India Press Meet LIVE | Lok Sabha Elections 2024 | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Election Commission Of India Press Meet LIVE | Lok Sabha Elections 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rNTHxdiWr3s/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240316090000 +0530" stop="20240316100000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi attends a public meeting in Gulbarga, Karnataka | PM Modi's speech Live</title>
-    <desc lang="en">LIVE: PM Narendra Modi attends a public meeting in Gulbarga, Karnataka | PM Modi's speech Live</desc>
-    <icon src="https://i.ytimg.com/vi/d923EMYJQfM/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240316100000 +0530" stop="20240316110000 +0530">
+    <title lang="en">LIVE: Lok Sabha election 2024 | Election Commission of India Announces Polling Dates</title>
+    <desc lang="en">LIVE: Lok Sabha election 2024 | Election Commission of India Announces Polling Dates</desc>
+    <icon src="https://i.ytimg.com/vi/ODw6RxExB-U/maxresdefault_live.jpg"/>
   </programme>
 </tv>
