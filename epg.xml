@@ -2,33 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240316080000 +0530" stop="20240316090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240316090000 +0530" stop="20240316100000 +0530">
     <title lang="en">LIVE : కవిత అరెస్టుపై సీఎం రేవంత్ సంచలన ప్రెస్ మీట్ | CM Revanth Reddy Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : కవిత అరెస్టుపై సీఎం రేవంత్ సంచలన ప్రెస్ మీట్ | CM Revanth Reddy Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/kruDtJ-6bZk/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240316090000 +0530" stop="20240316100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Kalaburagi, Karnataka | PM Modi's speech Live</title>
+    <desc lang="en">PM Modi Live | Public meeting in Kalaburagi, Karnataka | PM Modi's speech Live</desc>
+    <icon src="https://i.ytimg.com/vi/xXhYRFh1BP8/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240316080000 +0530" stop="20240316090000 +0530">
-    <title lang="en">LIVE: Famous Singer Anuradha Paudwal Joins BJP ahead of Lok Sabha polls 2024 | BJP PC</title>
-    <desc lang="en">LIVE: Famous Singer Anuradha Paudwal Joins BJP ahead of Lok Sabha polls 2024 | BJP PC</desc>
-    <icon src="https://i.ytimg.com/vi/TwEw4njmNcI/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240316080000 +0530" stop="20240316090000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will Address the Media at Residency</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will Address the Media at Residency</desc>
-    <icon src="https://i.ytimg.com/vi/nVMQ5igxlys/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240316080000 +0530" stop="20240316090000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will Address the Media at Residency</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will Address the Media at Residency</desc>
-    <icon src="https://i.ytimg.com/vi/5C-SUvCCBWk/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240316090000 +0530" stop="20240316100000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends a public meeting in Gulbarga, Karnataka | PM Modi's speech Live</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends a public meeting in Gulbarga, Karnataka | PM Modi's speech Live</desc>
+    <icon src="https://i.ytimg.com/vi/d923EMYJQfM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
