@@ -1,16 +1,8 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240316150000 +0530" stop="20240316160000 +0530">
-    <title lang="en">LIVE : బీఎస్పీకి RSP రాజీనామా! మరికాసేపట్లో గడీ ప్రవేశం | RSP Resign From BSP | KCR | ManaTolivelugu</title>
-    <desc lang="en">LIVE : బీఎస్పీకి RSP రాజీనామా! మరికాసేపట్లో గడీ ప్రవేశం | RSP Resign From BSP | KCR | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/v7AFY-bjhd0/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240316150000 +0530" stop="20240316160000 +0530">
+  <programme channel="NarendraModi.yt" start="20240316160000 +0530" stop="20240316170000 +0530">
     <title lang="en">LIVE: PM Modi attends the India Today Conclave 2024</title>
     <desc lang="en">LIVE: PM Modi attends the India Today Conclave 2024</desc>
     <icon src="https://i.ytimg.com/vi/54PouFqfLm8/maxresdefault_live.jpg"/>
@@ -18,7 +10,7 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240316150000 +0530" stop="20240316160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240316160000 +0530" stop="20240316170000 +0530">
     <title lang="en">“Heroes of the country…” NSA Doval’s emotional speech on Gen Bipin Rawat’s birth anniversary</title>
     <desc lang="en">“Heroes of the country…” NSA Doval’s emotional speech on Gen Bipin Rawat’s birth anniversary</desc>
     <icon src="https://i.ytimg.com/vi/cyiE2C-fvY4/maxresdefault_live.jpg"/>
