@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710583819/ei/qxv1ZbmmJ-Ljj-8P3OKbyAQ/ip/20.55.14.255/id/5i8oufVAPHk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123457/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw_Istxk7CREE2rlkkjhGpPAXs8A3r5e3fjGuu_b4fw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZQCSoj3uwok9Em5GhW-jPJeqUQjp6nCprkL75eHf0jkCIEGrakXPX-S19gqeVH5EzT0JXzprso8RhgKoRtrW9vEq/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710587368/ei/iCn1ZbyYDd2H_9EPwsSyoAQ/ip/40.79.247.106/id/5i8oufVAPHk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7Qi30srNBIgDd9Y9gC0DEyF9UJBqqOFJ8-6LS_3C_8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcZb1yOUmQ-YbnjKU5KrL-jv9yMnP00yXW6kXccKeZzsCIBqsXAX0Ol_wurdOMuvxqFzXW0Shk3rGKWqK8Iv2AzRj/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
