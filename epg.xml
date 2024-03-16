@@ -2,17 +2,17 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240316110000 +0530" stop="20240316120000 +0530">
-    <title lang="en">LIVE : బీఎస్పీకి RSP రాజీనామా! మరికాసేపట్లో గడీ ప్రవేశం | RSP Resign From BSP | KCR | ManaTolivelugu</title>
-    <desc lang="en">LIVE : బీఎస్పీకి RSP రాజీనామా! మరికాసేపట్లో గడీ ప్రవేశం | RSP Resign From BSP | KCR | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/v7AFY-bjhd0/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240316120000 +0530" stop="20240316130000 +0530">
+    <title lang="en">LIVE : బీఅర్ఎస్ లో చేరుతున్న RSP | RSP Joins BRS | KCR | ManaTolivelugu</title>
+    <desc lang="en">LIVE : బీఅర్ఎస్ లో చేరుతున్న RSP | RSP Joins BRS | KCR | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/NA3Q3KbP5Sc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240316110000 +0530" stop="20240316120000 +0530">
-    <title lang="en">LIVE: Lok Sabha election 2024 | Election Commission of India Announces Polling Dates</title>
-    <desc lang="en">LIVE: Lok Sabha election 2024 | Election Commission of India Announces Polling Dates</desc>
-    <icon src="https://i.ytimg.com/vi/ODw6RxExB-U/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240316120000 +0530" stop="20240316130000 +0530">
+    <title lang="en">Live: Press briefing by Tamil Nadu BJP president K. Annamalai in Chennai</title>
+    <desc lang="en">Live: Press briefing by Tamil Nadu BJP president K. Annamalai in Chennai</desc>
+    <icon src="https://i.ytimg.com/vi/-Ge8j9h3N60/maxresdefault_live.jpg"/>
   </programme>
 </tv>
