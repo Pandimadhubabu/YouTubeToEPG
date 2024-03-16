@@ -2,25 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240316060000 +0530" stop="20240316070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/5i8oufVAPHk/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240316070000 +0530" stop="20240316080000 +0530">
+    <title lang="en">LIVE : MP Dharmapuri Arind Press Meet | ధర్మపురి అరవింద్ ప్రెస్ మీట్ | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : MP Dharmapuri Arind Press Meet | ధర్మపురి అరవింద్ ప్రెస్ మీట్ | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/EfQS7aiERD0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240316070000 +0530" stop="20240316080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Nagarkurnool, Telangana | PM Modi's Speech Live</title>
+    <desc lang="en">PM Modi Live | Public meeting in Nagarkurnool, Telangana | PM Modi's Speech Live</desc>
+    <icon src="https://i.ytimg.com/vi/zEEkoS7Qb68/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240316060000 +0530" stop="20240316070000 +0530">
-    <title lang="en">LIVE: Special Press Briefing By Congress President Mallikarjun Kharge in Bengaluru, Karnataka</title>
-    <desc lang="en">LIVE: Special Press Briefing By Congress President Mallikarjun Kharge in Bengaluru, Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/jtz0L_1U96A/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240316060000 +0530" stop="20240316070000 +0530">
-    <title lang="en">Hon'ble Chief Justice,High Court for the State of Telangana will launch Short Films on NALSA Schemes</title>
-    <desc lang="en">Hon'ble Chief Justice,High Court for the State of Telangana will launch Short Films on NALSA Schemes</desc>
-    <icon src="https://i.ytimg.com/vi/KP2OuROAt58/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240316070000 +0530" stop="20240316080000 +0530">
+    <title lang="en">Live: Press Conference by Congress leader Jairam Ramesh | Mumbai</title>
+    <desc lang="en">Live: Press Conference by Congress leader Jairam Ramesh | Mumbai</desc>
+    <icon src="https://i.ytimg.com/vi/Iv07aPxeNKU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
