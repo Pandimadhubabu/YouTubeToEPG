@@ -1,16 +1,16 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240317130000 +0530" stop="20240317140000 +0530">
-    <title lang="en">LIVE : బీజేపీలో చేరిన ఆరూరి రమేష్ | Aroori Ramesh Joins BJP | Kishan reddy | ManaTolivelugu</title>
-    <desc lang="en">LIVE : బీజేపీలో చేరిన ఆరూరి రమేష్ | Aroori Ramesh Joins BJP | Kishan reddy | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/z_9tL9QGF-0/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240317140000 +0530" stop="20240317150000 +0530">
+    <title lang="en">LIVE: INDIA bloc rally in Mumbai's Shivaji Park | Rahul Gandhi |DMK Shiv Sena (UBT) NCP |RJD | SP</title>
+    <desc lang="en">LIVE: INDIA bloc rally in Mumbai's Shivaji Park | Rahul Gandhi |DMK Shiv Sena (UBT) NCP |RJD | SP</desc>
+    <icon src="https://i.ytimg.com/vi/M6KceaDczZA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240317130000 +0530" stop="20240317140000 +0530">
+  <programme channel="Reuters.yt" start="20240317140000 +0530" stop="20240317150000 +0530">
     <title lang="en">LIVE: Volcano erupts in Iceland</title>
     <desc lang="en">LIVE: Volcano erupts in Iceland</desc>
     <icon src="https://i.ytimg.com/vi/blSY8UvI62M/maxresdefault_live.jpg"/>
