@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240317040000 +0530" stop="20240317050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240317050000 +0530" stop="20240317060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Uq1oYT_-nts/maxresdefault_live.jpg"/>
@@ -10,7 +10,7 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240317040000 +0530" stop="20240317050000 +0530">
+  <programme channel="Reuters.yt" start="20240317050000 +0530" stop="20240317060000 +0530">
     <title lang="en">LIVE: Volcano erupts in Iceland</title>
     <desc lang="en">LIVE: Volcano erupts in Iceland</desc>
     <icon src="https://i.ytimg.com/vi/blSY8UvI62M/maxresdefault_live.jpg"/>
