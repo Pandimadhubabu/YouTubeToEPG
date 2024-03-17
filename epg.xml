@@ -2,15 +2,23 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240317060000 +0530" stop="20240317070000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy Meet The Press | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy Meet The Press | Mana Tolivelugu</desc>
+  <programme channel="ManaTolivelugu.yt" start="20240317070000 +0530" stop="20240317080000 +0530">
+    <title lang="en">LIVE : CM Revanth Reddy Meet The Press | సీఎం రేవంత్ మీట్ ది  ప్రెస్ | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : CM Revanth Reddy Meet The Press | సీఎం రేవంత్ మీట్ ది  ప్రెస్ | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_UHiyDinpk0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240317070000 +0530" stop="20240317080000 +0530">
+    <title lang="en">LIVE: Former J&amp;K CM and DPAP Chief Ghulam Nabi Azad addresses Public Rally</title>
+    <desc lang="en">LIVE: Former J&amp;K CM and DPAP Chief Ghulam Nabi Azad addresses Public Rally</desc>
+    <icon src="https://i.ytimg.com/vi/l0dVhQuoKDQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240317060000 +0530" stop="20240317070000 +0530">
+  <programme channel="Reuters.yt" start="20240317070000 +0530" stop="20240317080000 +0530">
     <title lang="en">LIVE: Volcano erupts in Iceland</title>
     <desc lang="en">LIVE: Volcano erupts in Iceland</desc>
     <icon src="https://i.ytimg.com/vi/blSY8UvI62M/maxresdefault_live.jpg"/>
@@ -18,7 +26,7 @@
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240317060000 +0530" stop="20240317070000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240317070000 +0530" stop="20240317080000 +0530">
     <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Meet the Media Programme</title>
     <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Meet the Media Programme</desc>
     <icon src="https://i.ytimg.com/vi/G-8EhISpR6k/maxresdefault_live.jpg"/>
