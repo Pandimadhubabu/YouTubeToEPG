@@ -2,31 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240317120000 +0530" stop="20240317130000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240317130000 +0530" stop="20240317140000 +0530">
     <title lang="en">LIVE : బీజేపీలో చేరిన ఆరూరి రమేష్ | Aroori Ramesh Joins BJP | Kishan reddy | ManaTolivelugu</title>
     <desc lang="en">LIVE : బీజేపీలో చేరిన ఆరూరి రమేష్ | Aroori Ramesh Joins BJP | Kishan reddy | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/z_9tL9QGF-0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240317120000 +0530" stop="20240317130000 +0530">
-    <title lang="en">PM Modi Live | Public rally in Palnadu, Andhra Pradesh |  PM Modi's speech Live</title>
-    <desc lang="en">PM Modi Live | Public rally in Palnadu, Andhra Pradesh |  PM Modi's speech Live</desc>
-    <icon src="https://i.ytimg.com/vi/8rdJWzq6TxM/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240317120000 +0530" stop="20240317130000 +0530">
-    <title lang="en">Live: PM Modi addresses 1st NDA rally with Chandrababu Naidu, Pawan Kalyan | Lok Sabha polls 2024</title>
-    <desc lang="en">Live: PM Modi addresses 1st NDA rally with Chandrababu Naidu, Pawan Kalyan | Lok Sabha polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/4_WN-H55tOg/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240317120000 +0530" stop="20240317130000 +0530">
+  <programme channel="Reuters.yt" start="20240317130000 +0530" stop="20240317140000 +0530">
     <title lang="en">LIVE: Volcano erupts in Iceland</title>
     <desc lang="en">LIVE: Volcano erupts in Iceland</desc>
     <icon src="https://i.ytimg.com/vi/blSY8UvI62M/maxresdefault_live.jpg"/>
