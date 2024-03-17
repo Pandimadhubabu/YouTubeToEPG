@@ -2,7 +2,7 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240317160000 +0530" stop="20240317170000 +0530">
+  <programme channel="Reuters.yt" start="20240317170000 +0530" stop="20240317180000 +0530">
     <title lang="en">LIVE: Volcano erupts in Iceland</title>
     <desc lang="en">LIVE: Volcano erupts in Iceland</desc>
     <icon src="https://i.ytimg.com/vi/blSY8UvI62M/maxresdefault_live.jpg"/>
@@ -10,7 +10,7 @@
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240317160000 +0530" stop="20240317170000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240317170000 +0530" stop="20240317180000 +0530">
     <title lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</title>
     <desc lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</desc>
     <icon src="https://i.ytimg.com/vi/BaIf7prIeT8/maxresdefault_live.jpg"/>
