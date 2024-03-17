@@ -1,18 +1,18 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240317150000 +0530" stop="20240317160000 +0530">
-    <title lang="en">LIVE: INDIA bloc rally in Mumbai's Shivaji Park | Rahul Gandhi | MK Stalin | Tejashwi Yadav Speech</title>
-    <desc lang="en">LIVE: INDIA bloc rally in Mumbai's Shivaji Park | Rahul Gandhi | MK Stalin | Tejashwi Yadav Speech</desc>
-    <icon src="https://i.ytimg.com/vi/M6KceaDczZA/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240317150000 +0530" stop="20240317160000 +0530">
+  <programme channel="Reuters.yt" start="20240317160000 +0530" stop="20240317170000 +0530">
     <title lang="en">LIVE: Volcano erupts in Iceland</title>
     <desc lang="en">LIVE: Volcano erupts in Iceland</desc>
     <icon src="https://i.ytimg.com/vi/blSY8UvI62M/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240317160000 +0530" stop="20240317170000 +0530">
+    <title lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</title>
+    <desc lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</desc>
+    <icon src="https://i.ytimg.com/vi/BaIf7prIeT8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
