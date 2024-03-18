@@ -2,23 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240318060000 +0530" stop="20240318070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240318070000 +0530" stop="20240318080000 +0530">
     <title lang="en">LIVE : మోడీ బహిరంగ సభ @జగిత్యాల | Modi Public Meeting @Jagtial |  ManaTolivelugu</title>
     <desc lang="en">LIVE : మోడీ బహిరంగ సభ @జగిత్యాల | Modi Public Meeting @Jagtial |  ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/vsBysUU6WZQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240318060000 +0530" stop="20240318070000 +0530">
-    <title lang="en">PM Modi's Speech LIVE | PM Modi's Rally in Jagtial, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi's Speech LIVE | PM Modi's Rally in Jagtial, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/lqRpLW5E0L4/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240318060000 +0530" stop="20240318070000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240318070000 +0530" stop="20240318080000 +0530">
     <title lang="en">From PM Modi’s mission to DMK, Tamil Nadu BJP Chief Annamalai’s ‘big prediction’ for Lok Sabha polls</title>
     <desc lang="en">From PM Modi’s mission to DMK, Tamil Nadu BJP Chief Annamalai’s ‘big prediction’ for Lok Sabha polls</desc>
     <icon src="https://i.ytimg.com/vi/AGho_i4W-jU/maxresdefault_live.jpg"/>
