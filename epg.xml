@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240318140000 +0530" stop="20240318150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240318150000 +0530" stop="20240318160000 +0530">
     <title lang="en">LIVE : మైనంపల్లి vs  మల్లారెడ్డి కోడలు | Mynampally vs Keerthireddy | Mla Mallareddy |ManaTolivelugu</title>
     <desc lang="en">LIVE : మైనంపల్లి vs  మల్లారెడ్డి కోడలు | Mynampally vs Keerthireddy | Mla Mallareddy |ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/I0JBZiFGlqw/maxresdefault_live.jpg"/>
@@ -10,7 +10,7 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240318140000 +0530" stop="20240318150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240318150000 +0530" stop="20240318160000 +0530">
     <title lang="en">CJI DY Chandrachud gets Angry During Poll Bonds Hearing | dramatic exchanges|Arguments | SBI</title>
     <desc lang="en">CJI DY Chandrachud gets Angry During Poll Bonds Hearing | dramatic exchanges|Arguments | SBI</desc>
     <icon src="https://i.ytimg.com/vi/hKOkSji7Nmg/maxresdefault_live.jpg"/>
@@ -18,9 +18,9 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240318140000 +0530" stop="20240318150000 +0530">
-    <title lang="en">LIVE: SCOTUS weighs challenge to Biden social media companies</title>
-    <desc lang="en">LIVE: SCOTUS weighs challenge to Biden social media companies</desc>
-    <icon src="https://i.ytimg.com/vi/I-m1A-6bF9k/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240318150000 +0530" stop="20240318160000 +0530">
+    <title lang="en">LIVE: UN humanitarian coordinator holds briefing in Jerusalem</title>
+    <desc lang="en">LIVE: UN humanitarian coordinator holds briefing in Jerusalem</desc>
+    <icon src="https://i.ytimg.com/vi/cGZiaNeAjTQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
