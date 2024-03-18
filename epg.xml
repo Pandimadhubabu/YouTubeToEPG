@@ -2,23 +2,31 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240318090000 +0530" stop="20240318100000 +0530">
-    <title lang="en">LIVE : మోడీ బహిరంగ సభ @జగిత్యాల | Modi Public Meeting @Jagtial |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : మోడీ బహిరంగ సభ @జగిత్యాల | Modi Public Meeting @Jagtial |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vsBysUU6WZQ/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240318100000 +0530" stop="20240318110000 +0530">
+    <title lang="en">LIVE : Bjp Raghunadhan Rao Press Meet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Bjp Raghunadhan Rao Press Meet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/B2l4A2ilcw8/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240318100000 +0530" stop="20240318110000 +0530">
+    <title lang="en">PM Modi's Speech LIVE | PM Modi's Rally in Shivamogga, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi's Speech LIVE | PM Modi's Rally in Shivamogga, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/7gUdK6-5kNM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240318090000 +0530" stop="20240318100000 +0530">
-    <title lang="en">From PM Modi’s mission to DMK, Tamil Nadu BJP Chief Annamalai’s ‘big prediction’ for Lok Sabha polls</title>
-    <desc lang="en">From PM Modi’s mission to DMK, Tamil Nadu BJP Chief Annamalai’s ‘big prediction’ for Lok Sabha polls</desc>
-    <icon src="https://i.ytimg.com/vi/AGho_i4W-jU/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240318100000 +0530" stop="20240318110000 +0530">
+    <title lang="en">LIVE: PM Modi's Speech LIVE | PM Modi's Rally in Shivamogga, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi's Speech LIVE | PM Modi's Rally in Shivamogga, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/b2CA-EHXzCg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240318090000 +0530" stop="20240318100000 +0530">
+  <programme channel="Reuters.yt" start="20240318100000 +0530" stop="20240318110000 +0530">
     <title lang="en">LIVE: UN agencies, EU representatives discuss humanitarian situation in Gaza</title>
     <desc lang="en">LIVE: UN agencies, EU representatives discuss humanitarian situation in Gaza</desc>
     <icon src="https://i.ytimg.com/vi/bxJZG_AYzPY/maxresdefault_live.jpg"/>
