@@ -2,7 +2,7 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240318170000 +0530" stop="20240318180000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240318180000 +0530" stop="20240318190000 +0530">
     <title lang="en">CJI DY Chandrachud gets Angry During Poll Bonds Hearing | dramatic exchanges|Arguments | SBI</title>
     <desc lang="en">CJI DY Chandrachud gets Angry During Poll Bonds Hearing | dramatic exchanges|Arguments | SBI</desc>
     <icon src="https://i.ytimg.com/vi/hKOkSji7Nmg/maxresdefault_live.jpg"/>
@@ -10,15 +10,15 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240318170000 +0530" stop="20240318180000 +0530">
-    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
-    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
-    <icon src="https://i.ytimg.com/vi/eLTZftuWzDw/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240318180000 +0530" stop="20240318190000 +0530">
+    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</title>
+    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</desc>
+    <icon src="https://i.ytimg.com/vi/O-bovG2Ux3M/hqdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240318170000 +0530" stop="20240318180000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240318180000 +0530" stop="20240318190000 +0530">
     <title lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</title>
     <desc lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</desc>
     <icon src="https://i.ytimg.com/vi/SxrVWbYk3_o/maxresdefault_live.jpg"/>
