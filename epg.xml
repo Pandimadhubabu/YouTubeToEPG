@@ -2,17 +2,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319160000 +0530" stop="20240319170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240319170000 +0530" stop="20240319180000 +0530">
     <title lang="en">LIVE: Lok Sabha elections| BJP-MNS tie-up on cards, Raj Thackeray meets HM Shah |Delhi | Maharashtra</title>
     <desc lang="en">LIVE: Lok Sabha elections| BJP-MNS tie-up on cards, Raj Thackeray meets HM Shah |Delhi | Maharashtra</desc>
     <icon src="https://i.ytimg.com/vi/rvOc0noBAPY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240319160000 +0530" stop="20240319170000 +0530">
-    <title lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</title>
-    <desc lang="en">Sri Laxmi Narasimha Swamy Varshika Brahmotsavalu,Yadagirigutta.</desc>
-    <icon src="https://i.ytimg.com/vi/NWGo2huaDqw/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240319170000 +0530" stop="20240319180000 +0530">
+    <title lang="en">LIVE: IOC holds a news conference</title>
+    <desc lang="en">LIVE: IOC holds a news conference</desc>
+    <icon src="https://i.ytimg.com/vi/9kYhwcmp3Zs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
