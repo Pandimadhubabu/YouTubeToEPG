@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240319030000 +0530" stop="20240319040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240319040000 +0530" stop="20240319050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/m9WstZ6ZJ60/maxresdefault_live.jpg"/>
@@ -10,7 +10,7 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319030000 +0530" stop="20240319040000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240319040000 +0530" stop="20240319050000 +0530">
     <title lang="en">Annamalai exposes DMK as EC releases fresh electoral bonds data ahead of 2024 Lok Sabha Elections</title>
     <desc lang="en">Annamalai exposes DMK as EC releases fresh electoral bonds data ahead of 2024 Lok Sabha Elections</desc>
     <icon src="https://i.ytimg.com/vi/Xvv9sWKJg3o/maxresdefault_live.jpg"/>
