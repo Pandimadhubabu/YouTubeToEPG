@@ -1,18 +1,10 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240319060000 +0530" stop="20240319070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/m9WstZ6ZJ60/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319060000 +0530" stop="20240319070000 +0530">
-    <title lang="en">“Threatened to stab me with knife…” Bengaluru Shopkeeper assaulted for playing Hanuman Chalisa</title>
-    <desc lang="en">“Threatened to stab me with knife…” Bengaluru Shopkeeper assaulted for playing Hanuman Chalisa</desc>
-    <icon src="https://i.ytimg.com/vi/OTgDZHq-KVI/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240319070000 +0530" stop="20240319080000 +0530">
+    <title lang="en">LIVE: Press Briefing by BJP National Spokesperson Dr. Sambit Patra at BJP HQ, New Delhi</title>
+    <desc lang="en">LIVE: Press Briefing by BJP National Spokesperson Dr. Sambit Patra at BJP HQ, New Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/CN7DAYkzgkQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
