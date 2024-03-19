@@ -2,9 +2,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319140000 +0530" stop="20240319150000 +0530">
-    <title lang="en">LIVE: Rahul Gandhi's 'Shakti' remarks, BJP calls Congress MP 'Chunavi Hindu'</title>
-    <desc lang="en">LIVE: Rahul Gandhi's 'Shakti' remarks, BJP calls Congress MP 'Chunavi Hindu'</desc>
-    <icon src="https://i.ytimg.com/vi/RTqzLLMXysU/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240319150000 +0530" stop="20240319160000 +0530">
+    <title lang="en">LIVE: Lok Sabha elections| BJP-MNS tie-up on cards, Raj Thackeray meets HM Shah |Delhi | Maharashtra</title>
+    <desc lang="en">LIVE: Lok Sabha elections| BJP-MNS tie-up on cards, Raj Thackeray meets HM Shah |Delhi | Maharashtra</desc>
+    <icon src="https://i.ytimg.com/vi/rvOc0noBAPY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240319150000 +0530" stop="20240319160000 +0530">
+    <title lang="en">LIVE: Palestinians evacuated from Gaza break fast at UAE humanitarian city</title>
+    <desc lang="en">LIVE: Palestinians evacuated from Gaza break fast at UAE humanitarian city</desc>
+    <icon src="https://i.ytimg.com/vi/-GhAv4-t-ww/maxresdefault_live.jpg"/>
   </programme>
 </tv>
