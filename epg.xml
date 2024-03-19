@@ -1,10 +1,18 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240319080000 +0530" stop="20240319090000 +0530">
+    <title lang="en">PM Modi's Speech Live | PM Modi's public rally in Salem, Tamil Nadu | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi's Speech Live | PM Modi's public rally in Salem, Tamil Nadu | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/_2-eVCY4xwc/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319070000 +0530" stop="20240319080000 +0530">
-    <title lang="en">LIVE: Press Briefing by BJP National Spokesperson Dr. Sambit Patra at BJP HQ, New Delhi</title>
-    <desc lang="en">LIVE: Press Briefing by BJP National Spokesperson Dr. Sambit Patra at BJP HQ, New Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/CN7DAYkzgkQ/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240319080000 +0530" stop="20240319090000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi attends a public rally in Salem, Tamil Nadu | BJP | Lok Sabha Elections 2024</title>
+    <desc lang="en">LIVE: PM Narendra Modi attends a public rally in Salem, Tamil Nadu | BJP | Lok Sabha Elections 2024</desc>
+    <icon src="https://i.ytimg.com/vi/I7vgWU8Rtq4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
