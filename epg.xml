@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240319050000 +0530" stop="20240319060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240319060000 +0530" stop="20240319070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/m9WstZ6ZJ60/maxresdefault_live.jpg"/>
@@ -10,9 +10,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319050000 +0530" stop="20240319060000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240319060000 +0530" stop="20240319070000 +0530">
     <title lang="en">“Threatened to stab me with knife…” Bengaluru Shopkeeper assaulted for playing Hanuman Chalisa</title>
     <desc lang="en">“Threatened to stab me with knife…” Bengaluru Shopkeeper assaulted for playing Hanuman Chalisa</desc>
-    <icon src="https://i.ytimg.com/vi/mma9yQjgftk/maxresdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/OTgDZHq-KVI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
