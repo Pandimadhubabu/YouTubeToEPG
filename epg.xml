@@ -2,17 +2,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319190000 +0530" stop="20240319200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240319200000 +0530" stop="20240319210000 +0530">
     <title lang="en">Kim Jong Un flexes his military might with 'super-large' rocket launcher drills in North Korea</title>
     <desc lang="en">Kim Jong Un flexes his military might with 'super-large' rocket launcher drills in North Korea</desc>
     <icon src="https://i.ytimg.com/vi/HJPm2IkPJRo/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240319190000 +0530" stop="20240319200000 +0530">
-    <title lang="en">LIVE: Gaza doctors speak at the United Nations</title>
-    <desc lang="en">LIVE: Gaza doctors speak at the United Nations</desc>
-    <icon src="https://i.ytimg.com/vi/r8SKGsEi2jg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
