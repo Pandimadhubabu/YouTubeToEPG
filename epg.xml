@@ -2,9 +2,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240319090000 +0530" stop="20240319100000 +0530">
-    <title lang="en">LIVE: BJP Press Conference | JMM MLA Sita Soren Joins BJP | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: BJP Press Conference | JMM MLA Sita Soren Joins BJP | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/qm8ttHRDX4w/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240319100000 +0530" stop="20240319110000 +0530">
+    <title lang="en">LIVE: Taranjit Singh Sandhu, Former Ambassador of India to US Joins BJP</title>
+    <desc lang="en">LIVE: Taranjit Singh Sandhu, Former Ambassador of India to US Joins BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DZz0kxtBLoo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
