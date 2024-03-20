@@ -2,7 +2,7 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320080000 +0530" stop="20240320090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240320090000 +0530" stop="20240320100000 +0530">
     <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
     <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/-rBr1fXOVDg/maxresdefault_live.jpg"/>
@@ -10,9 +10,9 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240320080000 +0530" stop="20240320090000 +0530">
-    <title lang="en">LIVE: Samajwadi Party chief Akhilesh Yadav Press conference | Lok sabha election 2024</title>
-    <desc lang="en">LIVE: Samajwadi Party chief Akhilesh Yadav Press conference | Lok sabha election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/23O7BR2wAnQ/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240320090000 +0530" stop="20240320100000 +0530">
+    <title lang="en">LIVE: K.Annamalai PC | Tamilisai Soundararajan joins BJP | K.Annamalai |G Kishan Reddy |l. Murugan</title>
+    <desc lang="en">LIVE: K.Annamalai PC | Tamilisai Soundararajan joins BJP | K.Annamalai |G Kishan Reddy |l. Murugan</desc>
+    <icon src="https://i.ytimg.com/vi/-KeEn1pgecQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
