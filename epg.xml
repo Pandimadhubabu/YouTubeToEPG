@@ -1,10 +1,18 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320140000 +0530" stop="20240320150000 +0530">
-    <title lang="en">LIVE : Congress Ex Mp Mallu Ravi Press Meet || ManaTolivelugu</title>
-    <desc lang="en">LIVE : Congress Ex Mp Mallu Ravi Press Meet || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/If_C9zI5Mtg/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240320150000 +0530" stop="20240320160000 +0530">
+    <title lang="en">LIVE: PM Modi delivers keynote address at Rising Bharat Summit</title>
+    <desc lang="en">LIVE: PM Modi delivers keynote address at Rising Bharat Summit</desc>
+    <icon src="https://i.ytimg.com/vi/BJ3yTDYOIjg/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240320150000 +0530" stop="20240320160000 +0530">
+    <title lang="en">LIVE: Ireland's lower house after Prime Minister Leo Varadkar announces resignation</title>
+    <desc lang="en">LIVE: Ireland's lower house after Prime Minister Leo Varadkar announces resignation</desc>
+    <icon src="https://i.ytimg.com/vi/4DQYl10dL6U/maxresdefault_live.jpg"/>
   </programme>
 </tv>
