@@ -2,17 +2,9 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320030000 +0530" stop="20240320040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240320040000 +0530" stop="20240320050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/KEPgxG4zujI/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240320030000 +0530" stop="20240320040000 +0530">
-    <title lang="en">Badaun double murder case: 2 children murdered; accused killed in police encounter</title>
-    <desc lang="en">Badaun double murder case: 2 children murdered; accused killed in police encounter</desc>
-    <icon src="https://i.ytimg.com/vi/MX2duOF9pqM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
