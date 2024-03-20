@@ -2,15 +2,15 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320050000 +0530" stop="20240320060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/KEPgxG4zujI/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240320060000 +0530" stop="20240320070000 +0530">
+    <title lang="en">LIVE : తెలంగాణ కొత్త గవర్నర్ ప్రమాణ స్వీకారం | Telangana New Governor CP Radhakishan |ManaTolivelugu</title>
+    <desc lang="en">LIVE : తెలంగాణ కొత్త గవర్నర్ ప్రమాణ స్వీకారం | Telangana New Governor CP Radhakishan |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/RMDEKhzHNU4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240320050000 +0530" stop="20240320060000 +0530">
+  <programme channel="NarendraModi.yt" start="20240320060000 +0530" stop="20240320070000 +0530">
     <title lang="en">LIVE: PM Modi inaugurates Start-up Mahakumbh at Bharat Mandapam</title>
     <desc lang="en">LIVE: PM Modi inaugurates Start-up Mahakumbh at Bharat Mandapam</desc>
     <icon src="https://i.ytimg.com/vi/otpnaYwE0hs/maxresdefault_live.jpg"/>
@@ -18,9 +18,17 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240320050000 +0530" stop="20240320060000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240320060000 +0530" stop="20240320070000 +0530">
     <title lang="en">LIVE: PM Narendra Modi inaugurates Start-up Mahakumbh at Bharat Mandapam |Delhi | Mahakumbh</title>
     <desc lang="en">LIVE: PM Narendra Modi inaugurates Start-up Mahakumbh at Bharat Mandapam |Delhi | Mahakumbh</desc>
     <icon src="https://i.ytimg.com/vi/uENcZUpaSag/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRTelanganaGovt.yt">
+    <display-name lang="en">TG Government</display-name>
+  </channel>
+  <programme channel="IPRTelanganaGovt.yt" start="20240320060000 +0530" stop="20240320070000 +0530">
+    <title lang="en">SWEARING - IN - CEREMONY OF Hon'ble Governor Of Telangana Sri.CP. Radhakrishnan</title>
+    <desc lang="en">SWEARING - IN - CEREMONY OF Hon'ble Governor Of Telangana Sri.CP. Radhakrishnan</desc>
+    <icon src="https://i.ytimg.com/vi/yI5KQYxxS94/maxresdefault_live.jpg"/>
   </programme>
 </tv>
