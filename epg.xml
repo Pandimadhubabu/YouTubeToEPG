@@ -2,9 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320040000 +0530" stop="20240320050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240320050000 +0530" stop="20240320060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/KEPgxG4zujI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240320050000 +0530" stop="20240320060000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates Start-up Mahakumbh at Bharat Mandapam</title>
+    <desc lang="en">LIVE: PM Modi inaugurates Start-up Mahakumbh at Bharat Mandapam</desc>
+    <icon src="https://i.ytimg.com/vi/otpnaYwE0hs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240320050000 +0530" stop="20240320060000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi inaugurates Start-up Mahakumbh at Bharat Mandapam |Delhi | Mahakumbh</title>
+    <desc lang="en">LIVE: PM Narendra Modi inaugurates Start-up Mahakumbh at Bharat Mandapam |Delhi | Mahakumbh</desc>
+    <icon src="https://i.ytimg.com/vi/uENcZUpaSag/maxresdefault_live.jpg"/>
   </programme>
 </tv>
