@@ -1,10 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240320190000 +0530" stop="20240320200000 +0530">
-    <title lang="en">LIVE: Fed Chair Jerome Powell speaks after interest rates held steady</title>
-    <desc lang="en">LIVE: Fed Chair Jerome Powell speaks after interest rates held steady</desc>
-    <icon src="https://i.ytimg.com/vi/PSuOAleRyPQ/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
