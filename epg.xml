@@ -1,10 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240320170000 +0530" stop="20240320180000 +0530">
-    <title lang="en">LIVE: Ireland's lower house after Prime Minister Leo Varadkar announces resignation</title>
-    <desc lang="en">LIVE: Ireland's lower house after Prime Minister Leo Varadkar announces resignation</desc>
-    <icon src="https://i.ytimg.com/vi/4DQYl10dL6U/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
