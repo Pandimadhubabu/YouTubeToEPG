@@ -2,17 +2,17 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320070000 +0530" stop="20240320080000 +0530">
-    <title lang="en">LIVE : తెలంగాణ కొత్త గవర్నర్ ప్రమాణ స్వీకారం | Telangana New Governor CP Radhakrishnan</title>
-    <desc lang="en">LIVE : తెలంగాణ కొత్త గవర్నర్ ప్రమాణ స్వీకారం | Telangana New Governor CP Radhakrishnan</desc>
-    <icon src="https://i.ytimg.com/vi/RMDEKhzHNU4/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240320080000 +0530" stop="20240320090000 +0530">
+    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/-rBr1fXOVDg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240320070000 +0530" stop="20240320080000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi inaugurates Start-up Mahakumbh at Bharat Mandapam |Delhi | Mahakumbh</title>
-    <desc lang="en">LIVE: PM Narendra Modi inaugurates Start-up Mahakumbh at Bharat Mandapam |Delhi | Mahakumbh</desc>
-    <icon src="https://i.ytimg.com/vi/uENcZUpaSag/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240320080000 +0530" stop="20240320090000 +0530">
+    <title lang="en">LIVE: Samajwadi Party chief Akhilesh Yadav Press conference | Lok sabha election 2024</title>
+    <desc lang="en">LIVE: Samajwadi Party chief Akhilesh Yadav Press conference | Lok sabha election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/23O7BR2wAnQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
