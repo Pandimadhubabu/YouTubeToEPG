@@ -2,17 +2,9 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240320110000 +0530" stop="20240320120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240320120000 +0530" stop="20240320130000 +0530">
     <title lang="en">LIVE :ఎమ్మెల్యే బీర్ల ఐలయ్య  ప్రెస్ మీట్ | MLA Beerla Ilaiah Press meet | ManaTolivelugu</title>
     <desc lang="en">LIVE :ఎమ్మెల్యే బీర్ల ఐలయ్య  ప్రెస్ మీట్ | MLA Beerla Ilaiah Press meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/LJsaNojgmBM/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240320110000 +0530" stop="20240320120000 +0530">
-    <title lang="en">LIVE: Congress PC | Pappu Yadav,Former MP and National President of Jan Adhikar Party Joins Congress</title>
-    <desc lang="en">LIVE: Congress PC | Pappu Yadav,Former MP and National President of Jan Adhikar Party Joins Congress</desc>
-    <icon src="https://i.ytimg.com/vi/uURpvXaJ0mA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
