@@ -2,17 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240321090000 +0530" stop="20240321100000 +0530">
-    <title lang="en">LIVE : Bjp Rani Rudrama Press Meet | రాణి రుద్రమ ప్రెస్ మీట్ |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : Bjp Rani Rudrama Press Meet | రాణి రుద్రమ ప్రెస్ మీట్ |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/-ZPoGR-VSrY/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240321100000 +0530" stop="20240321110000 +0530">
+    <title lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ktv1DPjQgq4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240321090000 +0530" stop="20240321100000 +0530">
-    <title lang="en">LIVE:“Congress Daftar se Gyan Mila hai…”BJP hits Back on Rahul Gandhi,Congress over Democracy Remark</title>
-    <desc lang="en">LIVE:“Congress Daftar se Gyan Mila hai…”BJP hits Back on Rahul Gandhi,Congress over Democracy Remark</desc>
-    <icon src="https://i.ytimg.com/vi/lSPr4jRxdkU/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240321100000 +0530" stop="20240321110000 +0530">
+    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference| NDA Alliance | Tamil Nadu Seat Sharing</title>
+    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference| NDA Alliance | Tamil Nadu Seat Sharing</desc>
+    <icon src="https://i.ytimg.com/vi/7hv_hE9J4Co/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240321100000 +0530" stop="20240321110000 +0530">
+    <title lang="en">LIVE: Climate ministers meet in Denmark to set the course towards COP29</title>
+    <desc lang="en">LIVE: Climate ministers meet in Denmark to set the course towards COP29</desc>
+    <icon src="https://i.ytimg.com/vi/TYzswTfs2Qo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
