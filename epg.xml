@@ -2,14 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240322170000 +0530" stop="20240322180000 +0530">
-    <title lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</title>
-    <desc lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</desc>
-    <icon src="https://i.ytimg.com/vi/_JU-uu9tMd0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240322180000 +0530" stop="20240322190000 +0530">
     <title lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</title>
     <desc lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</desc>
     <icon src="https://i.ytimg.com/vi/_JU-uu9tMd0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240322190000 +0530" stop="20240322200000 +0530">
+    <title lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</title>
+    <desc lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</desc>
+    <icon src="https://i.ytimg.com/vi/_JU-uu9tMd0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240322180000 +0530" stop="20240322190000 +0530">
+    <title lang="en">LIVE: NASA briefing on Boeing crew flight test</title>
+    <desc lang="en">LIVE: NASA briefing on Boeing crew flight test</desc>
+    <icon src="https://i.ytimg.com/vi/gUBHhgSXg4s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240322190000 +0530" stop="20240322200000 +0530">
+    <title lang="en">LIVE: NASA briefing on Boeing crew flight test</title>
+    <desc lang="en">LIVE: NASA briefing on Boeing crew flight test</desc>
+    <icon src="https://i.ytimg.com/vi/gUBHhgSXg4s/maxresdefault_live.jpg"/>
   </programme>
 </tv>
