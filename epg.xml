@@ -2,17 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240321110000 +0530" stop="20240321120000 +0530">
-    <title lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference| NDA Alliance | Tamil Nadu Seat Sharing</title>
-    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamalai Press Conference| NDA Alliance | Tamil Nadu Seat Sharing</desc>
-    <icon src="https://i.ytimg.com/vi/7hv_hE9J4Co/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240322080000 +0530" stop="20240322090000 +0530">
+    <title lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</title>
+    <desc lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</desc>
+    <icon src="https://i.ytimg.com/vi/Karc1uxe9Tg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240321110000 +0530" stop="20240321120000 +0530">
-    <title lang="en">LIVE: Nuclear energy summit in Brussels</title>
-    <desc lang="en">LIVE: Nuclear energy summit in Brussels</desc>
-    <icon src="https://i.ytimg.com/vi/burvlL2G0po/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240322090000 +0530" stop="20240322100000 +0530">
+    <title lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</title>
+    <desc lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</desc>
+    <icon src="https://i.ytimg.com/vi/Karc1uxe9Tg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
