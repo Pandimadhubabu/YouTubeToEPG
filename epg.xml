@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240322090000 +0530" stop="20240322100000 +0530">
+    <title lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ww9eiqAKSMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240322100000 +0530" stop="20240322110000 +0530">
+    <title lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ww9eiqAKSMY/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240322080000 +0530" stop="20240322090000 +0530">
-    <title lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</title>
-    <desc lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</desc>
-    <icon src="https://i.ytimg.com/vi/Karc1uxe9Tg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240322090000 +0530" stop="20240322100000 +0530">
-    <title lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</title>
-    <desc lang="en">Live: PM Modi receives grand welcome at Le Meridien, Thimphu Bhutan</desc>
-    <icon src="https://i.ytimg.com/vi/Karc1uxe9Tg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</title>
+    <desc lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</desc>
+    <icon src="https://i.ytimg.com/vi/q7cRbNW3YGQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240322100000 +0530" stop="20240322110000 +0530">
+    <title lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</title>
+    <desc lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</desc>
+    <icon src="https://i.ytimg.com/vi/q7cRbNW3YGQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
