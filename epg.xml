@@ -2,27 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240322090000 +0530" stop="20240322100000 +0530">
-    <title lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ww9eiqAKSMY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240322100000 +0530" stop="20240322110000 +0530">
     <title lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/ww9eiqAKSMY/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240322110000 +0530" stop="20240322120000 +0530">
+    <title lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  మంద కృష్ణకు సంపత్ కుమార్ కౌంటర్ | Sampath Kumar Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ww9eiqAKSMY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240322100000 +0530" stop="20240322110000 +0530">
+    <title lang="en">LIVE: PM Modi attends a programme at Tendrelthang Festival Ground in Bhutan</title>
+    <desc lang="en">LIVE: PM Modi attends a programme at Tendrelthang Festival Ground in Bhutan</desc>
+    <icon src="https://i.ytimg.com/vi/qQBnBCWBznA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240322110000 +0530" stop="20240322120000 +0530">
+    <title lang="en">LIVE: PM Modi attends a programme at Tendrelthang Festival Ground in Bhutan</title>
+    <desc lang="en">LIVE: PM Modi attends a programme at Tendrelthang Festival Ground in Bhutan</desc>
+    <icon src="https://i.ytimg.com/vi/qQBnBCWBznA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240322090000 +0530" stop="20240322100000 +0530">
-    <title lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</title>
-    <desc lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</desc>
-    <icon src="https://i.ytimg.com/vi/q7cRbNW3YGQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240322100000 +0530" stop="20240322110000 +0530">
-    <title lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</title>
-    <desc lang="en">LIVE: Ceremonial welcome for PM Modi at the Tashichhoedzong Palace</desc>
-    <icon src="https://i.ytimg.com/vi/q7cRbNW3YGQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi attends a programme at Tashichho Dzong Palace in Bhutan</title>
+    <desc lang="en">LIVE: PM Modi attends a programme at Tashichho Dzong Palace in Bhutan</desc>
+    <icon src="https://i.ytimg.com/vi/Hn5T8y9Rlqs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240322110000 +0530" stop="20240322120000 +0530">
+    <title lang="en">LIVE: PM Modi attends a programme at Tashichho Dzong Palace in Bhutan</title>
+    <desc lang="en">LIVE: PM Modi attends a programme at Tashichho Dzong Palace in Bhutan</desc>
+    <icon src="https://i.ytimg.com/vi/Hn5T8y9Rlqs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240322100000 +0530" stop="20240322110000 +0530">
+    <title lang="en">LIVE: Friday prayers during Ramadan at Jerusalem's Al-Aqsa Mosque</title>
+    <desc lang="en">LIVE: Friday prayers during Ramadan at Jerusalem's Al-Aqsa Mosque</desc>
+    <icon src="https://i.ytimg.com/vi/YXqtTHf7AOs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240322110000 +0530" stop="20240322120000 +0530">
+    <title lang="en">LIVE: Friday prayers during Ramadan at Jerusalem's Al-Aqsa Mosque</title>
+    <desc lang="en">LIVE: Friday prayers during Ramadan at Jerusalem's Al-Aqsa Mosque</desc>
+    <icon src="https://i.ytimg.com/vi/YXqtTHf7AOs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
