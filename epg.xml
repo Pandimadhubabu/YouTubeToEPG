@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240322150000 +0530" stop="20240322160000 +0530">
-    <title lang="en">LIVE: PM Modi receives Bhutan’s highest civilian honour at Tashichho Dzong Palace in Bhutan</title>
-    <desc lang="en">LIVE: PM Modi receives Bhutan’s highest civilian honour at Tashichho Dzong Palace in Bhutan</desc>
-    <icon src="https://i.ytimg.com/vi/Hn5T8y9Rlqs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240322160000 +0530" stop="20240322170000 +0530">
-    <title lang="en">LIVE: PM Modi receives Bhutan’s highest civilian honour at Tashichho Dzong Palace in Bhutan</title>
-    <desc lang="en">LIVE: PM Modi receives Bhutan’s highest civilian honour at Tashichho Dzong Palace in Bhutan</desc>
-    <icon src="https://i.ytimg.com/vi/Hn5T8y9Rlqs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</title>
+    <desc lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</desc>
+    <icon src="https://i.ytimg.com/vi/_JU-uu9tMd0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240322150000 +0530" stop="20240322160000 +0530">
-    <title lang="en">LIVE: US House votes on funding bill to avoid government shutdown</title>
-    <desc lang="en">LIVE: US House votes on funding bill to avoid government shutdown</desc>
-    <icon src="https://i.ytimg.com/vi/ax-7Z2QzK4g/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240322160000 +0530" stop="20240322170000 +0530">
-    <title lang="en">LIVE: US House votes on funding bill to avoid government shutdown</title>
-    <desc lang="en">LIVE: US House votes on funding bill to avoid government shutdown</desc>
-    <icon src="https://i.ytimg.com/vi/ax-7Z2QzK4g/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240322170000 +0530" stop="20240322180000 +0530">
+    <title lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</title>
+    <desc lang="en">LIVE: BJP Leader Smriti Irani takes a dig at Delhi CM Arvind Kejriwal over Delhi excise policy</desc>
+    <icon src="https://i.ytimg.com/vi/_JU-uu9tMd0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
