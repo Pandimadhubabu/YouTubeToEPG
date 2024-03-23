@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240323090000 +0530" stop="20240323100000 +0530">
-    <title lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</title>
-    <desc lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</desc>
-    <icon src="https://i.ytimg.com/vi/mL2yjDErz-A/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240323100000 +0530" stop="20240323110000 +0530">
-    <title lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</title>
-    <desc lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</desc>
-    <icon src="https://i.ytimg.com/vi/mL2yjDErz-A/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Joint PC by BJP Leaders Sambit Patra &amp; Syed Zafar Islam On congress party Income Tax Cases</title>
+    <desc lang="en">LIVE: Joint PC by BJP Leaders Sambit Patra &amp; Syed Zafar Islam On congress party Income Tax Cases</desc>
+    <icon src="https://i.ytimg.com/vi/lzd-OjOZtCs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240323110000 +0530" stop="20240323120000 +0530">
+    <title lang="en">LIVE: Joint PC by BJP Leaders Sambit Patra &amp; Syed Zafar Islam On congress party Income Tax Cases</title>
+    <desc lang="en">LIVE: Joint PC by BJP Leaders Sambit Patra &amp; Syed Zafar Islam On congress party Income Tax Cases</desc>
+    <icon src="https://i.ytimg.com/vi/lzd-OjOZtCs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
