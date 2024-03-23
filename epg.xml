@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240323080000 +0530" stop="20240323090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/xnK6qG8BV00/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240323090000 +0530" stop="20240323100000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/xnK6qG8BV00/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240323080000 +0530" stop="20240323090000 +0530">
-    <title lang="en">Live: Six rebel MLAs of Himachal Pradesh joins BJP in Presence of Union Minister Anurag Thakur</title>
-    <desc lang="en">Live: Six rebel MLAs of Himachal Pradesh joins BJP in Presence of Union Minister Anurag Thakur</desc>
-    <icon src="https://i.ytimg.com/vi/4uz1RW5mvts/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240323090000 +0530" stop="20240323100000 +0530">
-    <title lang="en">Live: Six rebel MLAs of Himachal Pradesh joins BJP in Presence of Union Minister Anurag Thakur</title>
-    <desc lang="en">Live: Six rebel MLAs of Himachal Pradesh joins BJP in Presence of Union Minister Anurag Thakur</desc>
-    <icon src="https://i.ytimg.com/vi/4uz1RW5mvts/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</title>
+    <desc lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</desc>
+    <icon src="https://i.ytimg.com/vi/mL2yjDErz-A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240323100000 +0530" stop="20240323110000 +0530">
+    <title lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</title>
+    <desc lang="en">LIVE: Union Minister Anurag Thakur PC | Arvind Kejriwal | Delhi Liquor Policy Scam | BJP PC</desc>
+    <icon src="https://i.ytimg.com/vi/mL2yjDErz-A/maxresdefault_live.jpg"/>
   </programme>
 </tv>
