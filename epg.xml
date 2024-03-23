@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240323060000 +0530" stop="20240323070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240323070000 +0530" stop="20240323080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xnK6qG8BV00/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240323070000 +0530" stop="20240323080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240323080000 +0530" stop="20240323090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xnK6qG8BV00/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240323060000 +0530" stop="20240323070000 +0530">
-    <title lang="en">Live: AAP leaders protest along with INDIA bloc leaders against Kejriwal's arrest at Shaheedi Park</title>
-    <desc lang="en">Live: AAP leaders protest along with INDIA bloc leaders against Kejriwal's arrest at Shaheedi Park</desc>
-    <icon src="https://i.ytimg.com/vi/sTmB-uQyIbU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240323070000 +0530" stop="20240323080000 +0530">
-    <title lang="en">Live: AAP leaders protest along with INDIA bloc leaders against Kejriwal's arrest at Shaheedi Park</title>
-    <desc lang="en">Live: AAP leaders protest along with INDIA bloc leaders against Kejriwal's arrest at Shaheedi Park</desc>
-    <icon src="https://i.ytimg.com/vi/sTmB-uQyIbU/maxresdefault_live.jpg"/>
+    <title lang="en">Delhi CM Kejriwal's wife Sunita issues a video statement and reads out the CM's message from jail.</title>
+    <desc lang="en">Delhi CM Kejriwal's wife Sunita issues a video statement and reads out the CM's message from jail.</desc>
+    <icon src="https://i.ytimg.com/vi/FnF-4ybAXNI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240323080000 +0530" stop="20240323090000 +0530">
+    <title lang="en">Delhi CM Kejriwal's wife Sunita issues a video statement and reads out the CM's message from jail.</title>
+    <desc lang="en">Delhi CM Kejriwal's wife Sunita issues a video statement and reads out the CM's message from jail.</desc>
+    <icon src="https://i.ytimg.com/vi/FnF-4ybAXNI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
