@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240324090000 +0530" stop="20240324100000 +0530">
-    <title lang="en">LIVE : Bjp Raghunadhan Rao Press Meet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Bjp Raghunadhan Rao Press Meet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/9BpG6NtyeaY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240324100000 +0530" stop="20240324110000 +0530">
-    <title lang="en">LIVE : Bjp Raghunadhan Rao Press Meet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Bjp Raghunadhan Rao Press Meet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/9BpG6NtyeaY/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240324090000 +0530" stop="20240324100000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240324100000 +0530" stop="20240324110000 +0530">
     <title lang="en">Live: Huge pilgrim rush in Ayodhya for Ram Mandir darshan during ‘Choti Holi’ | Holi Celebrations</title>
     <desc lang="en">Live: Huge pilgrim rush in Ayodhya for Ram Mandir darshan during ‘Choti Holi’ | Holi Celebrations</desc>
     <icon src="https://i.ytimg.com/vi/hygHlSaNR6Q/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240324100000 +0530" stop="20240324110000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240324110000 +0530" stop="20240324120000 +0530">
     <title lang="en">Live: Huge pilgrim rush in Ayodhya for Ram Mandir darshan during ‘Choti Holi’ | Holi Celebrations</title>
     <desc lang="en">Live: Huge pilgrim rush in Ayodhya for Ram Mandir darshan during ‘Choti Holi’ | Holi Celebrations</desc>
     <icon src="https://i.ytimg.com/vi/hygHlSaNR6Q/maxresdefault_live.jpg"/>
