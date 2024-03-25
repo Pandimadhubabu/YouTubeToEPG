@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240325060000 +0530" stop="20240325070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240325070000 +0530" stop="20240325080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/20EJfAND8Vw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240325070000 +0530" stop="20240325080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240325080000 +0530" stop="20240325090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/20EJfAND8Vw/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240325060000 +0530" stop="20240325070000 +0530">
-    <title lang="en">LIVE: Kalyana Rajya Pragathi Paksha leader &amp; Gangavati MLA Gali Janardhana Reddy rejoin BJP</title>
-    <desc lang="en">LIVE: Kalyana Rajya Pragathi Paksha leader &amp; Gangavati MLA Gali Janardhana Reddy rejoin BJP</desc>
-    <icon src="https://i.ytimg.com/vi/z9tpaaFJSs4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240325070000 +0530" stop="20240325080000 +0530">
-    <title lang="en">LIVE: Kalyana Rajya Pragathi Paksha leader &amp; Gangavati MLA Gali Janardhana Reddy rejoin BJP</title>
-    <desc lang="en">LIVE: Kalyana Rajya Pragathi Paksha leader &amp; Gangavati MLA Gali Janardhana Reddy rejoin BJP</desc>
-    <icon src="https://i.ytimg.com/vi/z9tpaaFJSs4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Sanjay Raut reacts after BJP fields Kangana Ranaut from Mandi, Arun Govil from meerut</title>
+    <desc lang="en">LIVE: Sanjay Raut reacts after BJP fields Kangana Ranaut from Mandi, Arun Govil from meerut</desc>
+    <icon src="https://i.ytimg.com/vi/LvwTYQXG2XM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240325080000 +0530" stop="20240325090000 +0530">
+    <title lang="en">LIVE: Sanjay Raut reacts after BJP fields Kangana Ranaut from Mandi, Arun Govil from meerut</title>
+    <desc lang="en">LIVE: Sanjay Raut reacts after BJP fields Kangana Ranaut from Mandi, Arun Govil from meerut</desc>
+    <icon src="https://i.ytimg.com/vi/LvwTYQXG2XM/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240325070000 +0530" stop="20240325080000 +0530">
+    <title lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</title>
+    <desc lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/6itTXnpepuQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240325080000 +0530" stop="20240325090000 +0530">
+    <title lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</title>
+    <desc lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/6itTXnpepuQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
