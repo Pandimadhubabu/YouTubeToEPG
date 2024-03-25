@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240325040000 +0530" stop="20240325050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240325050000 +0530" stop="20240325060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/20EJfAND8Vw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240325050000 +0530" stop="20240325060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240325060000 +0530" stop="20240325070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/20EJfAND8Vw/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240325040000 +0530" stop="20240325050000 +0530">
-    <title lang="en">LIVE: Holi Celebration All Over India | Holi 2024 | Holi Festival 2024 | Holi 2024 News LIVE</title>
-    <desc lang="en">LIVE: Holi Celebration All Over India | Holi 2024 | Holi Festival 2024 | Holi 2024 News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/1X9YAiP_T78/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240325050000 +0530" stop="20240325060000 +0530">
-    <title lang="en">LIVE: Holi Celebration All Over India | Holi 2024 | Holi Festival 2024 | Holi 2024 News LIVE</title>
-    <desc lang="en">LIVE: Holi Celebration All Over India | Holi 2024 | Holi Festival 2024 | Holi 2024 News LIVE</desc>
-    <icon src="https://i.ytimg.com/vi/1X9YAiP_T78/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Baba Siddique Iftar party |Salman Khan,Shehnaaz Gill |Celebrities attend Iftar Party |Mumbai</title>
+    <desc lang="en">LIVE: Baba Siddique Iftar party |Salman Khan,Shehnaaz Gill |Celebrities attend Iftar Party |Mumbai</desc>
+    <icon src="https://i.ytimg.com/vi/gUcog-xKdTQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240325040000 +0530" stop="20240325050000 +0530">
-    <title lang="en">LIVE: India celebrates the festival of Holi | REUTERS</title>
-    <desc lang="en">LIVE: India celebrates the festival of Holi | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/6FjzXY1DkuE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240325050000 +0530" stop="20240325060000 +0530">
-    <title lang="en">LIVE: India celebrates the festival of Holi | REUTERS</title>
-    <desc lang="en">LIVE: India celebrates the festival of Holi | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/6FjzXY1DkuE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240325060000 +0530" stop="20240325070000 +0530">
+    <title lang="en">LIVE: Baba Siddique Iftar party |Salman Khan,Shehnaaz Gill |Celebrities attend Iftar Party |Mumbai</title>
+    <desc lang="en">LIVE: Baba Siddique Iftar party |Salman Khan,Shehnaaz Gill |Celebrities attend Iftar Party |Mumbai</desc>
+    <icon src="https://i.ytimg.com/vi/gUcog-xKdTQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
