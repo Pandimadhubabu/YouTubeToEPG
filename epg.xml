@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240325140000 +0530" stop="20240325150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240325150000 +0530" stop="20240325160000 +0530">
     <title lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</title>
     <desc lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</desc>
     <icon src="https://i.ytimg.com/vi/x1i3EI4D2sE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240325150000 +0530" stop="20240325160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240325160000 +0530" stop="20240325170000 +0530">
     <title lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</title>
     <desc lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</desc>
     <icon src="https://i.ytimg.com/vi/x1i3EI4D2sE/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240325140000 +0530" stop="20240325150000 +0530">
+  <programme channel="Reuters.yt" start="20240325150000 +0530" stop="20240325160000 +0530">
     <title lang="en">LIVE: UN Security Council vote on Gaza ceasefire</title>
     <desc lang="en">LIVE: UN Security Council vote on Gaza ceasefire</desc>
     <icon src="https://i.ytimg.com/vi/COVEXFaJDBo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240325150000 +0530" stop="20240325160000 +0530">
+  <programme channel="Reuters.yt" start="20240325160000 +0530" stop="20240325170000 +0530">
     <title lang="en">LIVE: UN Security Council vote on Gaza ceasefire</title>
     <desc lang="en">LIVE: UN Security Council vote on Gaza ceasefire</desc>
     <icon src="https://i.ytimg.com/vi/COVEXFaJDBo/maxresdefault_live.jpg"/>
