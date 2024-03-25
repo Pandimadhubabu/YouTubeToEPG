@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240325100000 +0530" stop="20240325110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240325110000 +0530" stop="20240325120000 +0530">
     <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు ప్రెస్ మీట్ | MLA Harish Rao Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు ప్రెస్ మీట్ | MLA Harish Rao Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/a7eFesy_6r4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240325110000 +0530" stop="20240325120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240325120000 +0530" stop="20240325130000 +0530">
     <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు ప్రెస్ మీట్ | MLA Harish Rao Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు ప్రెస్ మీట్ | MLA Harish Rao Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/a7eFesy_6r4/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240325100000 +0530" stop="20240325110000 +0530">
-    <title lang="en">LIVE: PC by Delhi Minister Atishi on Delhi CM Kejriwal arrest | Delhi Government | DP Campaign</title>
-    <desc lang="en">LIVE: PC by Delhi Minister Atishi on Delhi CM Kejriwal arrest | Delhi Government | DP Campaign</desc>
-    <icon src="https://i.ytimg.com/vi/e6GgktgxgIo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240325110000 +0530" stop="20240325120000 +0530">
     <title lang="en">LIVE: PC by Delhi Minister Atishi on Delhi CM Kejriwal arrest | Delhi Government | DP Campaign</title>
     <desc lang="en">LIVE: PC by Delhi Minister Atishi on Delhi CM Kejriwal arrest | Delhi Government | DP Campaign</desc>
     <icon src="https://i.ytimg.com/vi/e6GgktgxgIo/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240325100000 +0530" stop="20240325110000 +0530">
-    <title lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</title>
-    <desc lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/6itTXnpepuQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240325110000 +0530" stop="20240325120000 +0530">
-    <title lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</title>
-    <desc lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/6itTXnpepuQ/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240325120000 +0530" stop="20240325130000 +0530">
+    <title lang="en">LIVE: PC by Delhi Minister Atishi on Delhi CM Kejriwal arrest | Delhi Government | DP Campaign</title>
+    <desc lang="en">LIVE: PC by Delhi Minister Atishi on Delhi CM Kejriwal arrest | Delhi Government | DP Campaign</desc>
+    <icon src="https://i.ytimg.com/vi/e6GgktgxgIo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
