@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240325170000 +0530" stop="20240325180000 +0530">
-    <title lang="en">LIVE: ANI EXCLUSIVE |Kangana Ranaut speaks about her candidature | BJP |PM Modi |Lok Sabha Election</title>
-    <desc lang="en">LIVE: ANI EXCLUSIVE |Kangana Ranaut speaks about her candidature | BJP |PM Modi |Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/2Mmd-U3w8oc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240325180000 +0530" stop="20240325190000 +0530">
-    <title lang="en">LIVE: ANI EXCLUSIVE |Kangana Ranaut speaks about her candidature | BJP |PM Modi |Lok Sabha Election</title>
-    <desc lang="en">LIVE: ANI EXCLUSIVE |Kangana Ranaut speaks about her candidature | BJP |PM Modi |Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/2Mmd-U3w8oc/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240325170000 +0530" stop="20240325180000 +0530">
-    <title lang="en">LIVE: Hearing for trial date in Trump's criminal case over hush money</title>
-    <desc lang="en">LIVE: Hearing for trial date in Trump's criminal case over hush money</desc>
-    <icon src="https://i.ytimg.com/vi/U4iqDbY-2ZQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240325180000 +0530" stop="20240325190000 +0530">
-    <title lang="en">LIVE: Hearing for trial date in Trump's criminal case over hush money</title>
-    <desc lang="en">LIVE: Hearing for trial date in Trump's criminal case over hush money</desc>
-    <icon src="https://i.ytimg.com/vi/U4iqDbY-2ZQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
+    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
+    <icon src="https://i.ytimg.com/vi/w3JVcbsTQCA/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240325190000 +0530" stop="20240325200000 +0530">
+    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
+    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
+    <icon src="https://i.ytimg.com/vi/w3JVcbsTQCA/hqdefault_live.jpg"/>
   </programme>
 </tv>
