@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240325080000 +0530" stop="20240325090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/20EJfAND8Vw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240325090000 +0530" stop="20240325100000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/20EJfAND8Vw/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240325080000 +0530" stop="20240325090000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240325090000 +0530" stop="20240325100000 +0530">
     <title lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</title>
     <desc lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</desc>
     <icon src="https://i.ytimg.com/vi/x1i3EI4D2sE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240325090000 +0530" stop="20240325100000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240325100000 +0530" stop="20240325110000 +0530">
     <title lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</title>
     <desc lang="en">LIVE: Holi celebration with Folk singer Malini Awasthi and Manoj Tiwari | Holi Special</desc>
     <icon src="https://i.ytimg.com/vi/x1i3EI4D2sE/maxresdefault_live.jpg"/>
@@ -28,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240325080000 +0530" stop="20240325090000 +0530">
+  <programme channel="Reuters.yt" start="20240325090000 +0530" stop="20240325100000 +0530">
     <title lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</title>
     <desc lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/6itTXnpepuQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240325090000 +0530" stop="20240325100000 +0530">
+  <programme channel="Reuters.yt" start="20240325100000 +0530" stop="20240325110000 +0530">
     <title lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</title>
     <desc lang="en">LIVE: Site of deadly concert attack outside Moscow | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/6itTXnpepuQ/maxresdefault_live.jpg"/>
