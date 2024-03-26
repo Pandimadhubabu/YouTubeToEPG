@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240326140000 +0530" stop="20240326150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240326150000 +0530" stop="20240326160000 +0530">
     <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/WWPJba43HTs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240326150000 +0530" stop="20240326160000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240326160000 +0530" stop="20240326170000 +0530">
     <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/WWPJba43HTs/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240326140000 +0530" stop="20240326150000 +0530">
+  <programme channel="Reuters.yt" start="20240326150000 +0530" stop="20240326160000 +0530">
     <title lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</title>
     <desc lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</desc>
     <icon src="https://i.ytimg.com/vi/3m9kzmyck2w/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240326150000 +0530" stop="20240326160000 +0530">
+  <programme channel="Reuters.yt" start="20240326160000 +0530" stop="20240326170000 +0530">
     <title lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</title>
     <desc lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</desc>
     <icon src="https://i.ytimg.com/vi/3m9kzmyck2w/maxresdefault_live.jpg"/>
