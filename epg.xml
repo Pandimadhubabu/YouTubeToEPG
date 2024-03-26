@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240326220000 +0530" stop="20240326230000 +0530">
+  <programme channel="Reuters.yt" start="20240326230000 +0530" stop="20240327000000 +0530">
     <title lang="en">LIVE: Baltimore bridge collapse update from authorities</title>
     <desc lang="en">LIVE: Baltimore bridge collapse update from authorities</desc>
     <icon src="https://i.ytimg.com/vi/qhjjg0NjdPo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240326230000 +0530" stop="20240327000000 +0530">
+  <programme channel="Reuters.yt" start="20240327000000 +0530" stop="20240327010000 +0530">
     <title lang="en">LIVE: Baltimore bridge collapse update from authorities</title>
     <desc lang="en">LIVE: Baltimore bridge collapse update from authorities</desc>
     <icon src="https://i.ytimg.com/vi/qhjjg0NjdPo/maxresdefault_live.jpg"/>
