@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240326170000 +0530" stop="20240326180000 +0530">
+    <title lang="en">Live | Baltimore Key Bridge Collapse | US Prez Biden Press Conference | Update</title>
+    <desc lang="en">Live | Baltimore Key Bridge Collapse | US Prez Biden Press Conference | Update</desc>
+    <icon src="https://i.ytimg.com/vi/jgH262vdQWA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240326180000 +0530" stop="20240326190000 +0530">
+    <title lang="en">Live | Baltimore Key Bridge Collapse | US Prez Biden Press Conference | Update</title>
+    <desc lang="en">Live | Baltimore Key Bridge Collapse | US Prez Biden Press Conference | Update</desc>
+    <icon src="https://i.ytimg.com/vi/jgH262vdQWA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240326160000 +0530" stop="20240326170000 +0530">
-    <title lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</title>
-    <desc lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</desc>
-    <icon src="https://i.ytimg.com/vi/3m9kzmyck2w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240326170000 +0530" stop="20240326180000 +0530">
-    <title lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</title>
-    <desc lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</desc>
-    <icon src="https://i.ytimg.com/vi/3m9kzmyck2w/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Baltimore bridge collapse update from authorities</title>
+    <desc lang="en">LIVE: Baltimore bridge collapse update from authorities</desc>
+    <icon src="https://i.ytimg.com/vi/qhjjg0NjdPo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240326180000 +0530" stop="20240326190000 +0530">
+    <title lang="en">LIVE: Baltimore bridge collapse update from authorities</title>
+    <desc lang="en">LIVE: Baltimore bridge collapse update from authorities</desc>
+    <icon src="https://i.ytimg.com/vi/qhjjg0NjdPo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
