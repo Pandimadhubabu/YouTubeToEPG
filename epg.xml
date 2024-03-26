@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240326070000 +0530" stop="20240326080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240326080000 +0530" stop="20240326090000 +0530">
     <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/WauZ4FDJsng/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240326080000 +0530" stop="20240326090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240326090000 +0530" stop="20240326100000 +0530">
     <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/WauZ4FDJsng/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240326070000 +0530" stop="20240326080000 +0530">
-    <title lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</title>
-    <desc lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</desc>
-    <icon src="https://i.ytimg.com/vi/Gd36RIjbMz0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240326080000 +0530" stop="20240326090000 +0530">
-    <title lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</title>
-    <desc lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</desc>
-    <icon src="https://i.ytimg.com/vi/Gd36RIjbMz0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Mahila Morcha Holds Protest At Chengicherla After Clash Between Two Groups | Hyderabad BJP</title>
+    <desc lang="en">LIVE: BJP Mahila Morcha Holds Protest At Chengicherla After Clash Between Two Groups | Hyderabad BJP</desc>
+    <icon src="https://i.ytimg.com/vi/EE5vvzJIsts/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240326090000 +0530" stop="20240326100000 +0530">
+    <title lang="en">LIVE: BJP Mahila Morcha Holds Protest At Chengicherla After Clash Between Two Groups | Hyderabad BJP</title>
+    <desc lang="en">LIVE: BJP Mahila Morcha Holds Protest At Chengicherla After Clash Between Two Groups | Hyderabad BJP</desc>
+    <icon src="https://i.ytimg.com/vi/EE5vvzJIsts/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240326080000 +0530" stop="20240326090000 +0530">
+    <title lang="en">LIVE: Farmers protest with tractors in Brussels as EU agriculture ministers meet | REUTERS</title>
+    <desc lang="en">LIVE: Farmers protest with tractors in Brussels as EU agriculture ministers meet | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gfyIr9CS5UU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240326090000 +0530" stop="20240326100000 +0530">
+    <title lang="en">LIVE: Farmers protest with tractors in Brussels as EU agriculture ministers meet | REUTERS</title>
+    <desc lang="en">LIVE: Farmers protest with tractors in Brussels as EU agriculture ministers meet | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/gfyIr9CS5UU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
