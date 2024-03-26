@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240326110000 +0530" stop="20240326120000 +0530">
-    <title lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ADh31flCZ58/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240326120000 +0530" stop="20240326130000 +0530">
-    <title lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ADh31flCZ58/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4ZVS0REK73I/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240326110000 +0530" stop="20240326120000 +0530">
-    <title lang="en">LIVE: Press Briefing by Union Minister G Kishan Reddy | Telangana BJP President</title>
-    <desc lang="en">LIVE: Press Briefing by Union Minister G Kishan Reddy | Telangana BJP President</desc>
-    <icon src="https://i.ytimg.com/vi/2rsVkmUKdi8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240326120000 +0530" stop="20240326130000 +0530">
-    <title lang="en">LIVE: Press Briefing by Union Minister G Kishan Reddy | Telangana BJP President</title>
-    <desc lang="en">LIVE: Press Briefing by Union Minister G Kishan Reddy | Telangana BJP President</desc>
-    <icon src="https://i.ytimg.com/vi/2rsVkmUKdi8/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240326130000 +0530" stop="20240326140000 +0530">
+    <title lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4ZVS0REK73I/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240326110000 +0530" stop="20240326120000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where 1.3 Palestinian people are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where 1.3 Palestinian people are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/IhZbZtgJL1o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240326120000 +0530" stop="20240326130000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where 1.3 Palestinian people are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where 1.3 Palestinian people are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/IhZbZtgJL1o/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: News conference after court rules Julian Assange can take appeal to new hearing</title>
+    <desc lang="en">LIVE: News conference after court rules Julian Assange can take appeal to new hearing</desc>
+    <icon src="https://i.ytimg.com/vi/XNDXmsAZl0o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240326130000 +0530" stop="20240326140000 +0530">
+    <title lang="en">LIVE: News conference after court rules Julian Assange can take appeal to new hearing</title>
+    <desc lang="en">LIVE: News conference after court rules Julian Assange can take appeal to new hearing</desc>
+    <icon src="https://i.ytimg.com/vi/XNDXmsAZl0o/maxresdefault_live.jpg"/>
   </programme>
 </tv>
