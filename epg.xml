@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240326130000 +0530" stop="20240326140000 +0530">
-    <title lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/4ZVS0REK73I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240326140000 +0530" stop="20240326150000 +0530">
-    <title lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఫోన్  ట్యాపింగ్ పై రఘునందన్ రావు సంచలనం | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/4ZVS0REK73I/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WWPJba43HTs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240326150000 +0530" stop="20240326160000 +0530">
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WWPJba43HTs/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240326130000 +0530" stop="20240326140000 +0530">
-    <title lang="en">LIVE: Protesters gather as Supreme Court hears abortion pill case</title>
-    <desc lang="en">LIVE: Protesters gather as Supreme Court hears abortion pill case</desc>
-    <icon src="https://i.ytimg.com/vi/DQi0lpFr4_c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240326140000 +0530" stop="20240326150000 +0530">
-    <title lang="en">LIVE: Protesters gather as Supreme Court hears abortion pill case</title>
-    <desc lang="en">LIVE: Protesters gather as Supreme Court hears abortion pill case</desc>
-    <icon src="https://i.ytimg.com/vi/DQi0lpFr4_c/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</title>
+    <desc lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</desc>
+    <icon src="https://i.ytimg.com/vi/3m9kzmyck2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240326150000 +0530" stop="20240326160000 +0530">
+    <title lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</title>
+    <desc lang="en">LIVE: Update on situation in Gaza at UN Human Rights Council</desc>
+    <icon src="https://i.ytimg.com/vi/3m9kzmyck2w/maxresdefault_live.jpg"/>
   </programme>
 </tv>
