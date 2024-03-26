@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240326060000 +0530" stop="20240326070000 +0530">
-    <title lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ADh31flCZ58/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240326070000 +0530" stop="20240326080000 +0530">
-    <title lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఎర్రబెల్లి దయాకర్ రావు సంచలన ప్రెస్ మీట్ | Errabelli Dayakar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ADh31flCZ58/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WauZ4FDJsng/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240326080000 +0530" stop="20240326090000 +0530">
+    <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WauZ4FDJsng/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240326060000 +0530" stop="20240326070000 +0530">
-    <title lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</title>
-    <desc lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</desc>
-    <icon src="https://i.ytimg.com/vi/Gd36RIjbMz0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240326070000 +0530" stop="20240326080000 +0530">
     <title lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</title>
     <desc lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</desc>
     <icon src="https://i.ytimg.com/vi/Gd36RIjbMz0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240326060000 +0530" stop="20240326070000 +0530">
-    <title lang="en">LIVE: Indian foreign minister holds press conference in Manila | REUTERS</title>
-    <desc lang="en">LIVE: Indian foreign minister holds press conference in Manila | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/ZZzdHo0AYng/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240326070000 +0530" stop="20240326080000 +0530">
-    <title lang="en">LIVE: Indian foreign minister holds press conference in Manila | REUTERS</title>
-    <desc lang="en">LIVE: Indian foreign minister holds press conference in Manila | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/ZZzdHo0AYng/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240326080000 +0530" stop="20240326090000 +0530">
+    <title lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</title>
+    <desc lang="en">LIVE: BJP’s Protest against AAP party, demanding resignation of CM Arvind Kejriwal</desc>
+    <icon src="https://i.ytimg.com/vi/Gd36RIjbMz0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
