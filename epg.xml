@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240326190000 +0530" stop="20240326200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240326200000 +0530" stop="20240326210000 +0530">
     <title lang="en">Baltimore key bridge collapse | Update| 22 Indian crew safe | Casualties feared| Container ship Dali</title>
     <desc lang="en">Baltimore key bridge collapse | Update| 22 Indian crew safe | Casualties feared| Container ship Dali</desc>
     <icon src="https://i.ytimg.com/vi/12FUnlKwXIw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240326200000 +0530" stop="20240326210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240326210000 +0530" stop="20240326220000 +0530">
     <title lang="en">Baltimore key bridge collapse | Update| 22 Indian crew safe | Casualties feared| Container ship Dali</title>
     <desc lang="en">Baltimore key bridge collapse | Update| 22 Indian crew safe | Casualties feared| Container ship Dali</desc>
     <icon src="https://i.ytimg.com/vi/12FUnlKwXIw/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240326190000 +0530" stop="20240326200000 +0530">
-    <title lang="en">LIVE: Israeli protesters crowd in front of defense ministry</title>
-    <desc lang="en">LIVE: Israeli protesters crowd in front of defense ministry</desc>
-    <icon src="https://i.ytimg.com/vi/ecdgCyjEr7Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240326200000 +0530" stop="20240326210000 +0530">
-    <title lang="en">LIVE: Israeli protesters crowd in front of defense ministry</title>
-    <desc lang="en">LIVE: Israeli protesters crowd in front of defense ministry</desc>
-    <icon src="https://i.ytimg.com/vi/ecdgCyjEr7Y/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: RFK Jr. reveals his running mate</title>
+    <desc lang="en">LIVE: RFK Jr. reveals his running mate</desc>
+    <icon src="https://i.ytimg.com/vi/vEvy55-4OXw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240326210000 +0530" stop="20240326220000 +0530">
+    <title lang="en">LIVE: RFK Jr. reveals his running mate</title>
+    <desc lang="en">LIVE: RFK Jr. reveals his running mate</desc>
+    <icon src="https://i.ytimg.com/vi/vEvy55-4OXw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
