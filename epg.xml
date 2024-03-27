@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240327070000 +0530" stop="20240327080000 +0530">
+    <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kuaJssJYDfY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240327080000 +0530" stop="20240327090000 +0530">
+    <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kuaJssJYDfY/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240327060000 +0530" stop="20240327070000 +0530">
-    <title lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</title>
-    <desc lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</desc>
-    <icon src="https://i.ytimg.com/vi/lEs3bk0wJdg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240327070000 +0530" stop="20240327080000 +0530">
-    <title lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</title>
-    <desc lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</desc>
-    <icon src="https://i.ytimg.com/vi/lEs3bk0wJdg/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</title>
+    <desc lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</desc>
+    <icon src="https://i.ytimg.com/vi/7mM6ndobMx0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240327080000 +0530" stop="20240327090000 +0530">
+    <title lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</title>
+    <desc lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</desc>
+    <icon src="https://i.ytimg.com/vi/7mM6ndobMx0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
