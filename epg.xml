@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240327110000 +0530" stop="20240327120000 +0530">
-    <title lang="en">LIVE : ఫోన్ ట్యాపింగ్ కేసులో కేటీఆర్ జైలుకే ... | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఫోన్ ట్యాపింగ్ కేసులో కేటీఆర్ జైలుకే ... | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/hkWx5IBpO3c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240327120000 +0530" stop="20240327130000 +0530">
     <title lang="en">LIVE : ఫోన్ ట్యాపింగ్ కేసులో కేటీఆర్ జైలుకే ... | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
     <desc lang="en">LIVE : ఫోన్ ట్యాపింగ్ కేసులో కేటీఆర్ జైలుకే ... | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hkWx5IBpO3c/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240327110000 +0530" stop="20240327120000 +0530">
-    <title lang="en">LIVE: AAP MP Sushil Kumar Rinku and AAP MLA Sheetal Angural joins at BJP Ahead of LS Polls 2024</title>
-    <desc lang="en">LIVE: AAP MP Sushil Kumar Rinku and AAP MLA Sheetal Angural joins at BJP Ahead of LS Polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/THxC_yId0KY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240327120000 +0530" stop="20240327130000 +0530">
-    <title lang="en">LIVE: AAP MP Sushil Kumar Rinku and AAP MLA Sheetal Angural joins at BJP Ahead of LS Polls 2024</title>
-    <desc lang="en">LIVE: AAP MP Sushil Kumar Rinku and AAP MLA Sheetal Angural joins at BJP Ahead of LS Polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/THxC_yId0KY/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240327130000 +0530" stop="20240327140000 +0530">
+    <title lang="en">LIVE : ఫోన్ ట్యాపింగ్ కేసులో కేటీఆర్ జైలుకే ... | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఫోన్ ట్యాపింగ్ కేసులో కేటీఆర్ జైలుకే ... | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/hkWx5IBpO3c/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240327110000 +0530" stop="20240327120000 +0530">
-    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
-    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
-    <icon src="https://i.ytimg.com/vi/rQQZNVXS9aA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240327120000 +0530" stop="20240327130000 +0530">
-    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
-    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
-    <icon src="https://i.ytimg.com/vi/rQQZNVXS9aA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UN Special Rapporteur on West Bank and Gaza holds a briefing</title>
+    <desc lang="en">LIVE: UN Special Rapporteur on West Bank and Gaza holds a briefing</desc>
+    <icon src="https://i.ytimg.com/vi/pRP_5Zyz3jA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240327130000 +0530" stop="20240327140000 +0530">
+    <title lang="en">LIVE: UN Special Rapporteur on West Bank and Gaza holds a briefing</title>
+    <desc lang="en">LIVE: UN Special Rapporteur on West Bank and Gaza holds a briefing</desc>
+    <icon src="https://i.ytimg.com/vi/pRP_5Zyz3jA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
