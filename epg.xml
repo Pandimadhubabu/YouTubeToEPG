@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240327050000 +0530" stop="20240327060000 +0530">
-    <title lang="en">Live:  TN BJP President K Annamalai offers prayers at Koniamman temple | Coimbatore | LS Poll 2024</title>
-    <desc lang="en">Live:  TN BJP President K Annamalai offers prayers at Koniamman temple | Coimbatore | LS Poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/KB9gdoYP_d0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240327060000 +0530" stop="20240327070000 +0530">
-    <title lang="en">Live:  TN BJP President K Annamalai offers prayers at Koniamman temple | Coimbatore | LS Poll 2024</title>
-    <desc lang="en">Live:  TN BJP President K Annamalai offers prayers at Koniamman temple | Coimbatore | LS Poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/KB9gdoYP_d0/maxresdefault_live.jpg"/>
+    <title lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</title>
+    <desc lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</desc>
+    <icon src="https://i.ytimg.com/vi/lEs3bk0wJdg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240327050000 +0530" stop="20240327060000 +0530">
-    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
-    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
-    <icon src="https://i.ytimg.com/vi/RB14FJROtSE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240327060000 +0530" stop="20240327070000 +0530">
-    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
-    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
-    <icon src="https://i.ytimg.com/vi/RB14FJROtSE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240327070000 +0530" stop="20240327080000 +0530">
+    <title lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</title>
+    <desc lang="en">Live: TN BJP President K Annamalai Files his Nomination for LS Poll 2024 | Coimbatore | Tamil Nadu</desc>
+    <icon src="https://i.ytimg.com/vi/lEs3bk0wJdg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
