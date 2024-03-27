@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240327190000 +0530" stop="20240327200000 +0530">
+  <programme channel="Reuters.yt" start="20240327200000 +0530" stop="20240327210000 +0530">
     <title lang="en">LIVE: White House briefing</title>
     <desc lang="en">LIVE: White House briefing</desc>
     <icon src="https://i.ytimg.com/vi/0C58wsb1rUY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240327200000 +0530" stop="20240327210000 +0530">
+  <programme channel="Reuters.yt" start="20240327210000 +0530" stop="20240327220000 +0530">
     <title lang="en">LIVE: White House briefing</title>
     <desc lang="en">LIVE: White House briefing</desc>
     <icon src="https://i.ytimg.com/vi/0C58wsb1rUY/maxresdefault_live.jpg"/>
