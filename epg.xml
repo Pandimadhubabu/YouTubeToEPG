@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240327160000 +0530" stop="20240327170000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/RoUPRWdmbMo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240327170000 +0530" stop="20240327180000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/RoUPRWdmbMo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
+    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
+    <icon src="https://i.ytimg.com/vi/P-ZCwdFDtpg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240327180000 +0530" stop="20240327190000 +0530">
+    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
+    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
+    <icon src="https://i.ytimg.com/vi/P-ZCwdFDtpg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
