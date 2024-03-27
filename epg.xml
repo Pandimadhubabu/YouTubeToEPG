@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240327070000 +0530" stop="20240327080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240327080000 +0530" stop="20240327090000 +0530">
     <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/kuaJssJYDfY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240327080000 +0530" stop="20240327090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240327090000 +0530" stop="20240327100000 +0530">
     <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/kuaJssJYDfY/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240327070000 +0530" stop="20240327080000 +0530">
-    <title lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</title>
-    <desc lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</desc>
-    <icon src="https://i.ytimg.com/vi/7mM6ndobMx0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240327080000 +0530" stop="20240327090000 +0530">
-    <title lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</title>
-    <desc lang="en">Live: Tamil Nadu Chief Election Officer Sahyabrata Sahoo holds Press Meet at Secretariat in Chennai</desc>
-    <icon src="https://i.ytimg.com/vi/7mM6ndobMx0/maxresdefault_live.jpg"/>
+    <title lang="en">TN BJP President K Annamalai files nomination from Coimbatore for Lok Sabha Polls 2024| Tamil Nadu</title>
+    <desc lang="en">TN BJP President K Annamalai files nomination from Coimbatore for Lok Sabha Polls 2024| Tamil Nadu</desc>
+    <icon src="https://i.ytimg.com/vi/MvLBySmDwBY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240327090000 +0530" stop="20240327100000 +0530">
+    <title lang="en">TN BJP President K Annamalai files nomination from Coimbatore for Lok Sabha Polls 2024| Tamil Nadu</title>
+    <desc lang="en">TN BJP President K Annamalai files nomination from Coimbatore for Lok Sabha Polls 2024| Tamil Nadu</desc>
+    <icon src="https://i.ytimg.com/vi/MvLBySmDwBY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240327080000 +0530" stop="20240327090000 +0530">
+    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse | REUTERS</title>
+    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/ttnEyj4pM3I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240327090000 +0530" stop="20240327100000 +0530">
+    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse | REUTERS</title>
+    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/ttnEyj4pM3I/maxresdefault_live.jpg"/>
   </programme>
 </tv>
