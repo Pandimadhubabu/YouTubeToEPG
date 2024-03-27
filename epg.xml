@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240327220000 +0530" stop="20240327230000 +0530">
-    <title lang="en">LIVE: Maryland Governor gives bridge collapse update</title>
-    <desc lang="en">LIVE: Maryland Governor gives bridge collapse update</desc>
-    <icon src="https://i.ytimg.com/vi/1EJd3WOQLKI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240327230000 +0530" stop="20240328000000 +0530">
-    <title lang="en">LIVE: Maryland Governor gives bridge collapse update</title>
-    <desc lang="en">LIVE: Maryland Governor gives bridge collapse update</desc>
-    <icon src="https://i.ytimg.com/vi/1EJd3WOQLKI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
+    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
+    <icon src="https://i.ytimg.com/vi/kKUEzfRTPA8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240328000000 +0530" stop="20240328010000 +0530">
+    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
+    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
+    <icon src="https://i.ytimg.com/vi/kKUEzfRTPA8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
