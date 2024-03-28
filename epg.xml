@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
-    <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/O4CZnJWQN80/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240328090000 +0530" stop="20240328100000 +0530">
-    <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/O4CZnJWQN80/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
-    <title lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</title>
-    <desc lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</desc>
-    <icon src="https://i.ytimg.com/vi/fjPHEMfdzPw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240328090000 +0530" stop="20240328100000 +0530">
-    <title lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</title>
-    <desc lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</desc>
-    <icon src="https://i.ytimg.com/vi/fjPHEMfdzPw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi addresses Public meeting in Kairana, Shamli | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: CM Yogi addresses Public meeting in Kairana, Shamli | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/zjf1_59t3LE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240328100000 +0530" stop="20240328110000 +0530">
+    <title lang="en">LIVE: CM Yogi addresses Public meeting in Kairana, Shamli | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: CM Yogi addresses Public meeting in Kairana, Shamli | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/zjf1_59t3LE/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
-    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
-    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
-    <icon src="https://i.ytimg.com/vi/k_iqffeQIiQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240328090000 +0530" stop="20240328100000 +0530">
-    <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
-    <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
-    <icon src="https://i.ytimg.com/vi/k_iqffeQIiQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Pope Francis begins four days of Easter events with the Chrism Mass | REUTERS</title>
+    <desc lang="en">LIVE: Pope Francis begins four days of Easter events with the Chrism Mass | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/x6FtInpp-t8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240328100000 +0530" stop="20240328110000 +0530">
+    <title lang="en">LIVE: Pope Francis begins four days of Easter events with the Chrism Mass | REUTERS</title>
+    <desc lang="en">LIVE: Pope Francis begins four days of Easter events with the Chrism Mass | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/x6FtInpp-t8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
