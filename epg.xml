@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240328170000 +0530" stop="20240328180000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240328180000 +0530" stop="20240328190000 +0530">
     <title lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</title>
     <desc lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</desc>
     <icon src="https://i.ytimg.com/vi/ukxVKvsyyII/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240328180000 +0530" stop="20240328190000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240328190000 +0530" stop="20240328200000 +0530">
     <title lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</title>
     <desc lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</desc>
     <icon src="https://i.ytimg.com/vi/ukxVKvsyyII/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240328170000 +0530" stop="20240328180000 +0530">
-    <title lang="en">LIVE: Officials in Arizona hold a briefing on dangers of crossing the US-Mexico border</title>
-    <desc lang="en">LIVE: Officials in Arizona hold a briefing on dangers of crossing the US-Mexico border</desc>
-    <icon src="https://i.ytimg.com/vi/48yhnNIk-M0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240328180000 +0530" stop="20240328190000 +0530">
-    <title lang="en">LIVE: Officials in Arizona hold a briefing on dangers of crossing the US-Mexico border</title>
-    <desc lang="en">LIVE: Officials in Arizona hold a briefing on dangers of crossing the US-Mexico border</desc>
-    <icon src="https://i.ytimg.com/vi/48yhnNIk-M0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
+    <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
+    <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240328190000 +0530" stop="20240328200000 +0530">
+    <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
+    <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
+    <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
 </tv>
