@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240328180000 +0530" stop="20240328190000 +0530">
-    <title lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</title>
-    <desc lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</desc>
-    <icon src="https://i.ytimg.com/vi/ukxVKvsyyII/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240328190000 +0530" stop="20240328200000 +0530">
-    <title lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</title>
-    <desc lang="en">Live: BJP Hits out at Delhi CM Arvind Kejriwal over Delhi Excise policy |</desc>
-    <icon src="https://i.ytimg.com/vi/ukxVKvsyyII/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240328180000 +0530" stop="20240328190000 +0530">
+  <programme channel="Reuters.yt" start="20240328190000 +0530" stop="20240328200000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240328190000 +0530" stop="20240328200000 +0530">
+  <programme channel="Reuters.yt" start="20240328200000 +0530" stop="20240328210000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
