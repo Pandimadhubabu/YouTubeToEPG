@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240328070000 +0530" stop="20240328080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
     <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/O4CZnJWQN80/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240328090000 +0530" stop="20240328100000 +0530">
     <title lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : KTR Press Meet | Telangana Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/O4CZnJWQN80/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240328070000 +0530" stop="20240328080000 +0530">
-    <title lang="en">LIVE: Lok Sabha Member Navneet Rana Joins BJP | First Reaction After Joining BJP</title>
-    <desc lang="en">LIVE: Lok Sabha Member Navneet Rana Joins BJP | First Reaction After Joining BJP</desc>
-    <icon src="https://i.ytimg.com/vi/yfXgR3rfCC4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
-    <title lang="en">LIVE: Lok Sabha Member Navneet Rana Joins BJP | First Reaction After Joining BJP</title>
-    <desc lang="en">LIVE: Lok Sabha Member Navneet Rana Joins BJP | First Reaction After Joining BJP</desc>
-    <icon src="https://i.ytimg.com/vi/yfXgR3rfCC4/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</title>
+    <desc lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</desc>
+    <icon src="https://i.ytimg.com/vi/fjPHEMfdzPw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240328090000 +0530" stop="20240328100000 +0530">
+    <title lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</title>
+    <desc lang="en">Live: PDP chief Mehbooba Mufti Reacts On Centre considering revoking AFSPA in J&amp;K</desc>
+    <icon src="https://i.ytimg.com/vi/fjPHEMfdzPw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240328070000 +0530" stop="20240328080000 +0530">
+  <programme channel="Reuters.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
     <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
     <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
     <icon src="https://i.ytimg.com/vi/k_iqffeQIiQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240328080000 +0530" stop="20240328090000 +0530">
+  <programme channel="Reuters.yt" start="20240328090000 +0530" stop="20240328100000 +0530">
     <title lang="en">LIVE: Aftermath of Baltimore bridge collapse</title>
     <desc lang="en">LIVE: Aftermath of Baltimore bridge collapse</desc>
     <icon src="https://i.ytimg.com/vi/k_iqffeQIiQ/maxresdefault_live.jpg"/>
