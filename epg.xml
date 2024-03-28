@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240328210000 +0530" stop="20240328220000 +0530">
+  <programme channel="Reuters.yt" start="20240328220000 +0530" stop="20240328230000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240328220000 +0530" stop="20240328230000 +0530">
+  <programme channel="Reuters.yt" start="20240328230000 +0530" stop="20240329000000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
