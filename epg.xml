@@ -2,38 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240329020000 +0530" stop="20240329030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/fQNV5SwAujA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240329030000 +0530" stop="20240329040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fQNV5SwAujA/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240329020000 +0530" stop="20240329030000 +0530">
-    <title lang="en">Live: Gangster-turned-politician Mukhtar Ansari dies | Security Tightens in some districts of UP</title>
-    <desc lang="en">Live: Gangster-turned-politician Mukhtar Ansari dies | Security Tightens in some districts of UP</desc>
-    <icon src="https://i.ytimg.com/vi/wxn_s9JtN_0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240329030000 +0530" stop="20240329040000 +0530">
-    <title lang="en">Live: Gangster-turned-politician Mukhtar Ansari dies | Security Tightens in some districts of UP</title>
-    <desc lang="en">Live: Gangster-turned-politician Mukhtar Ansari dies | Security Tightens in some districts of UP</desc>
-    <icon src="https://i.ytimg.com/vi/wxn_s9JtN_0/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240329040000 +0530" stop="20240329050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/fQNV5SwAujA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240329020000 +0530" stop="20240329030000 +0530">
+  <programme channel="Reuters.yt" start="20240329030000 +0530" stop="20240329040000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240329030000 +0530" stop="20240329040000 +0530">
+  <programme channel="Reuters.yt" start="20240329040000 +0530" stop="20240329050000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
