@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240329150000 +0530" stop="20240329160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240329160000 +0530" stop="20240329170000 +0530">
     <title lang="en">Kangana Ranaut Press Conference | Lok Saba Election 2024 | BJP | Election Campaign</title>
     <desc lang="en">Kangana Ranaut Press Conference | Lok Saba Election 2024 | BJP | Election Campaign</desc>
     <icon src="https://i.ytimg.com/vi/SO4CkC68yj0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240329160000 +0530" stop="20240329170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240329170000 +0530" stop="20240329180000 +0530">
     <title lang="en">Kangana Ranaut Press Conference | Lok Saba Election 2024 | BJP | Election Campaign</title>
     <desc lang="en">Kangana Ranaut Press Conference | Lok Saba Election 2024 | BJP | Election Campaign</desc>
     <icon src="https://i.ytimg.com/vi/SO4CkC68yj0/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240329150000 +0530" stop="20240329160000 +0530">
-    <title lang="en">LIVE: Vigils held at site of deadly Russian concert hall attack</title>
-    <desc lang="en">LIVE: Vigils held at site of deadly Russian concert hall attack</desc>
-    <icon src="https://i.ytimg.com/vi/7opBdfmsrBQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240329160000 +0530" stop="20240329170000 +0530">
-    <title lang="en">LIVE: Vigils held at site of deadly Russian concert hall attack</title>
-    <desc lang="en">LIVE: Vigils held at site of deadly Russian concert hall attack</desc>
-    <icon src="https://i.ytimg.com/vi/7opBdfmsrBQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Pope Francis leads a 'Passion of the Lord' service</title>
+    <desc lang="en">LIVE: Pope Francis leads a 'Passion of the Lord' service</desc>
+    <icon src="https://i.ytimg.com/vi/qukIwEbMBOI/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240329150000 +0530" stop="20240329160000 +0530">
-    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will address the media</title>
-    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will address the media</desc>
-    <icon src="https://i.ytimg.com/vi/mdVluYSIP-E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240329160000 +0530" stop="20240329170000 +0530">
-    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will address the media</title>
-    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka will address the media</desc>
-    <icon src="https://i.ytimg.com/vi/mdVluYSIP-E/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240329170000 +0530" stop="20240329180000 +0530">
+    <title lang="en">LIVE: Pope Francis leads a 'Passion of the Lord' service</title>
+    <desc lang="en">LIVE: Pope Francis leads a 'Passion of the Lord' service</desc>
+    <icon src="https://i.ytimg.com/vi/qukIwEbMBOI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
