@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240329120000 +0530" stop="20240329130000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
     <title lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Q99PnqK4mtU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
     <title lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</title>
     <desc lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Q99PnqK4mtU/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240329120000 +0530" stop="20240329130000 +0530">
+  <programme channel="NarendraModi.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
     <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</title>
     <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</desc>
     <icon src="https://i.ytimg.com/vi/W7X71DmGUmQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
+  <programme channel="NarendraModi.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
     <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</title>
     <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</desc>
     <icon src="https://i.ytimg.com/vi/W7X71DmGUmQ/maxresdefault_live.jpg"/>
@@ -28,27 +28,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240329120000 +0530" stop="20240329130000 +0530">
-    <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
-    <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
-    <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240329120000 +0530" stop="20240329130000 +0530">
-    <title lang="en">Hon'ble CM Sri.A.Revanth Reddy at Gandhi Bhavan</title>
-    <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy at Gandhi Bhavan</desc>
-    <icon src="https://i.ytimg.com/vi/tpMqup2Q_Oc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
-    <title lang="en">Hon'ble CM Sri.A.Revanth Reddy at Gandhi Bhavan</title>
-    <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy at Gandhi Bhavan</desc>
-    <icon src="https://i.ytimg.com/vi/tpMqup2Q_Oc/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
+    <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
+    <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
+    <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
 </tv>
