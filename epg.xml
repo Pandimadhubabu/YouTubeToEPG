@@ -1,39 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Q99PnqK4mtU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy Press Meet @ Gandhi Bhavan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Q99PnqK4mtU/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
+  <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/W7X71DmGUmQ/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
+    <title lang="en">LIVE: “Enemy of Tamil…” K Annamalai hits out at DMK, INDI Alliance | Lok Sabha poll | PM Modi | BJP</title>
+    <desc lang="en">LIVE: “Enemy of Tamil…” K Annamalai hits out at DMK, INDI Alliance | Lok Sabha poll | PM Modi | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/8oteflWkjds/hqdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Tamil Nadu via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/W7X71DmGUmQ/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240329150000 +0530" stop="20240329160000 +0530">
+    <title lang="en">LIVE: “Enemy of Tamil…” K Annamalai hits out at DMK, INDI Alliance | Lok Sabha poll | PM Modi | BJP</title>
+    <desc lang="en">LIVE: “Enemy of Tamil…” K Annamalai hits out at DMK, INDI Alliance | Lok Sabha poll | PM Modi | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/8oteflWkjds/hqdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240329130000 +0530" stop="20240329140000 +0530">
+  <programme channel="Reuters.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240329140000 +0530" stop="20240329150000 +0530">
+  <programme channel="Reuters.yt" start="20240329150000 +0530" stop="20240329160000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
