@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240329210000 +0530" stop="20240329220000 +0530">
+  <programme channel="Reuters.yt" start="20240329220000 +0530" stop="20240329230000 +0530">
     <title lang="en">LIVE: Venezuelans re-enact the Way of the Cross in the Petare neighborhood</title>
     <desc lang="en">LIVE: Venezuelans re-enact the Way of the Cross in the Petare neighborhood</desc>
     <icon src="https://i.ytimg.com/vi/yzecQVyzdqU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240329220000 +0530" stop="20240329230000 +0530">
+  <programme channel="Reuters.yt" start="20240329230000 +0530" stop="20240330000000 +0530">
     <title lang="en">LIVE: Venezuelans re-enact the Way of the Cross in the Petare neighborhood</title>
     <desc lang="en">LIVE: Venezuelans re-enact the Way of the Cross in the Petare neighborhood</desc>
     <icon src="https://i.ytimg.com/vi/yzecQVyzdqU/maxresdefault_live.jpg"/>
