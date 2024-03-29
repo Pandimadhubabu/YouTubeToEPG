@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240329060000 +0530" stop="20240329070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240329070000 +0530" stop="20240329080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fQNV5SwAujA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240329070000 +0530" stop="20240329080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240329080000 +0530" stop="20240329090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fQNV5SwAujA/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240329060000 +0530" stop="20240329070000 +0530">
-    <title lang="en">Live: Actor Turned Politician Kangana Ranaut Campaign's for Lok Sabha Elections 2024</title>
-    <desc lang="en">Live: Actor Turned Politician Kangana Ranaut Campaign's for Lok Sabha Elections 2024</desc>
-    <icon src="https://i.ytimg.com/vi/FTfu5peA4Tg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240329070000 +0530" stop="20240329080000 +0530">
-    <title lang="en">Live: Actor Turned Politician Kangana Ranaut Campaign's for Lok Sabha Elections 2024</title>
-    <desc lang="en">Live: Actor Turned Politician Kangana Ranaut Campaign's for Lok Sabha Elections 2024</desc>
-    <icon src="https://i.ytimg.com/vi/FTfu5peA4Tg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress Leaders Hits Out At BJP Over Electoral Bond Issue</title>
+    <desc lang="en">LIVE: Congress Leaders Hits Out At BJP Over Electoral Bond Issue</desc>
+    <icon src="https://i.ytimg.com/vi/dHOxBYaZbQA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240329080000 +0530" stop="20240329090000 +0530">
+    <title lang="en">LIVE: Congress Leaders Hits Out At BJP Over Electoral Bond Issue</title>
+    <desc lang="en">LIVE: Congress Leaders Hits Out At BJP Over Electoral Bond Issue</desc>
+    <icon src="https://i.ytimg.com/vi/dHOxBYaZbQA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240329060000 +0530" stop="20240329070000 +0530">
+  <programme channel="Reuters.yt" start="20240329070000 +0530" stop="20240329080000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240329070000 +0530" stop="20240329080000 +0530">
+  <programme channel="Reuters.yt" start="20240329080000 +0530" stop="20240329090000 +0530">
     <title lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</title>
     <desc lang="en">LIVE: View of wreck of Baltimore bridge after cargo ship collision</desc>
     <icon src="https://i.ytimg.com/vi/gMmFrj1et70/maxresdefault_live.jpg"/>
