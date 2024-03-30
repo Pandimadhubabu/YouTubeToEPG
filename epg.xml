@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240330090000 +0530" stop="20240330100000 +0530">
-    <title lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</title>
-    <desc lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</desc>
-    <icon src="https://i.ytimg.com/vi/jr5sN2FJiR8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240330100000 +0530" stop="20240330110000 +0530">
-    <title lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</title>
-    <desc lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</desc>
-    <icon src="https://i.ytimg.com/vi/jr5sN2FJiR8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DLM_u2IglY8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240330110000 +0530" stop="20240330120000 +0530">
+    <title lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DLM_u2IglY8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240330090000 +0530" stop="20240330100000 +0530">
-    <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
-    <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240330100000 +0530" stop="20240330110000 +0530">
-    <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
-    <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
+    <title lang="en">'Dawood Can Become A BJP MP If...' Congress’ 'Washing Machine' jibe at BJP |Congress PC |Pawan Khera</title>
+    <desc lang="en">'Dawood Can Become A BJP MP If...' Congress’ 'Washing Machine' jibe at BJP |Congress PC |Pawan Khera</desc>
+    <icon src="https://i.ytimg.com/vi/HCfVfSB4Abc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240330110000 +0530" stop="20240330120000 +0530">
+    <title lang="en">'Dawood Can Become A BJP MP If...' Congress’ 'Washing Machine' jibe at BJP |Congress PC |Pawan Khera</title>
+    <desc lang="en">'Dawood Can Become A BJP MP If...' Congress’ 'Washing Machine' jibe at BJP |Congress PC |Pawan Khera</desc>
+    <icon src="https://i.ytimg.com/vi/HCfVfSB4Abc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
