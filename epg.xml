@@ -1,26 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240330120000 +0530" stop="20240330130000 +0530">
-    <title lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/DLM_u2IglY8/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240330130000 +0530" stop="20240330140000 +0530">
+    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Kerala via NaMo App</title>
+    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Kerala via NaMo App</desc>
+    <icon src="https://i.ytimg.com/vi/d3-704IHlhA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240330130000 +0530" stop="20240330140000 +0530">
-    <title lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Minister Ponnam Prabhakar Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/DLM_u2IglY8/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240330140000 +0530" stop="20240330150000 +0530">
+    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Kerala via NaMo App</title>
+    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Kerala via NaMo App</desc>
+    <icon src="https://i.ytimg.com/vi/d3-704IHlhA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240330120000 +0530" stop="20240330130000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240330130000 +0530" stop="20240330140000 +0530">
     <title lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</title>
     <desc lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</desc>
     <icon src="https://i.ytimg.com/vi/OXoo4B-eegY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240330130000 +0530" stop="20240330140000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240330140000 +0530" stop="20240330150000 +0530">
     <title lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</title>
     <desc lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</desc>
     <icon src="https://i.ytimg.com/vi/OXoo4B-eegY/maxresdefault_live.jpg"/>
