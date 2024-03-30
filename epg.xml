@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240330060000 +0530" stop="20240330070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/h2vTHsmfqnA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240330070000 +0530" stop="20240330080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/h2vTHsmfqnA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</title>
+    <desc lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</desc>
+    <icon src="https://i.ytimg.com/vi/jr5sN2FJiR8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240330080000 +0530" stop="20240330090000 +0530">
+    <title lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</title>
+    <desc lang="en">LIVE : కాంగ్రెస్ 100రోజుల పాలనపై రౌండ్ టేబుల్ సమావేశం | Round Table Meeting | 100Days Congress Govt</desc>
+    <icon src="https://i.ytimg.com/vi/jr5sN2FJiR8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240330060000 +0530" stop="20240330070000 +0530">
-    <title lang="en">LIVE: Congress Party Briefing by Jairam Ramesh, Deepak Babaria, and Arvinder Singh Lovely</title>
-    <desc lang="en">LIVE: Congress Party Briefing by Jairam Ramesh, Deepak Babaria, and Arvinder Singh Lovely</desc>
-    <icon src="https://i.ytimg.com/vi/ctpM2UwoM6o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240330070000 +0530" stop="20240330080000 +0530">
-    <title lang="en">LIVE: Congress Party Briefing by Jairam Ramesh, Deepak Babaria, and Arvinder Singh Lovely</title>
-    <desc lang="en">LIVE: Congress Party Briefing by Jairam Ramesh, Deepak Babaria, and Arvinder Singh Lovely</desc>
-    <icon src="https://i.ytimg.com/vi/ctpM2UwoM6o/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
+    <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
+    <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240330080000 +0530" stop="20240330090000 +0530">
+    <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
+    <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
+    <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
