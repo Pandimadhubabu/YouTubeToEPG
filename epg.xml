@@ -2,14 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240330180000 +0530" stop="20240330190000 +0530">
-    <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
-    <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240330190000 +0530" stop="20240330200000 +0530">
     <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
     <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
     <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240330200000 +0530" stop="20240330210000 +0530">
+    <title lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</title>
+    <desc lang="en">LIVE: TN BJP President K Annamalai Campaign in support of Karthikeyani | Lok Sabha poll 2024</desc>
+    <icon src="https://i.ytimg.com/vi/REVujKfygTU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240330190000 +0530" stop="20240330200000 +0530">
+    <title lang="en">LIVE: Pope leads Easter vigil service inside St. Peter's Basilica</title>
+    <desc lang="en">LIVE: Pope leads Easter vigil service inside St. Peter's Basilica</desc>
+    <icon src="https://i.ytimg.com/vi/lnouNXsdbJs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240330200000 +0530" stop="20240330210000 +0530">
+    <title lang="en">LIVE: Pope leads Easter vigil service inside St. Peter's Basilica</title>
+    <desc lang="en">LIVE: Pope leads Easter vigil service inside St. Peter's Basilica</desc>
+    <icon src="https://i.ytimg.com/vi/lnouNXsdbJs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
