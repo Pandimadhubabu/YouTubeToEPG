@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240330140000 +0530" stop="20240330150000 +0530">
-    <title lang="en">Mukesh Ambani LIVE:  Celebrating The Achievements Of Leaders In The Gems &amp; Jewellery Industry</title>
-    <desc lang="en">Mukesh Ambani LIVE:  Celebrating The Achievements Of Leaders In The Gems &amp; Jewellery Industry</desc>
-    <icon src="https://i.ytimg.com/vi/1OuUPMPL0YQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240330150000 +0530" stop="20240330160000 +0530">
-    <title lang="en">Mukesh Ambani LIVE:  Celebrating The Achievements Of Leaders In The Gems &amp; Jewellery Industry</title>
-    <desc lang="en">Mukesh Ambani LIVE:  Celebrating The Achievements Of Leaders In The Gems &amp; Jewellery Industry</desc>
-    <icon src="https://i.ytimg.com/vi/1OuUPMPL0YQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</title>
+    <desc lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/OXoo4B-eegY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240330160000 +0530" stop="20240330170000 +0530">
+    <title lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</title>
+    <desc lang="en">LIVE: BJP Press Conference | Dr. Syed Zafar Islam | Delhi | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/OXoo4B-eegY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
