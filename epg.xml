@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240331060000 +0530" stop="20240331070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240331070000 +0530" stop="20240331080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/XNQjjJZ9Asg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240331070000 +0530" stop="20240331080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240331080000 +0530" stop="20240331090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/XNQjjJZ9Asg/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240331060000 +0530" stop="20240331070000 +0530">
-    <title lang="en">LIVE: BJP Press Conference | BJP calls INDIA bloc's rally | Pariwar Bachao Bharshtachar Chupao rally</title>
-    <desc lang="en">LIVE: BJP Press Conference | BJP calls INDIA bloc's rally | Pariwar Bachao Bharshtachar Chupao rally</desc>
-    <icon src="https://i.ytimg.com/vi/Qif6RuHwAk8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240331070000 +0530" stop="20240331080000 +0530">
-    <title lang="en">LIVE: BJP Press Conference | BJP calls INDIA bloc's rally | Pariwar Bachao Bharshtachar Chupao rally</title>
-    <desc lang="en">LIVE: BJP Press Conference | BJP calls INDIA bloc's rally | Pariwar Bachao Bharshtachar Chupao rally</desc>
-    <icon src="https://i.ytimg.com/vi/Qif6RuHwAk8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:WB CM Mamata Banerjee hold campaign to support TMC Candidate Mahua Moitra in krishnanagar</title>
+    <desc lang="en">LIVE:WB CM Mamata Banerjee hold campaign to support TMC Candidate Mahua Moitra in krishnanagar</desc>
+    <icon src="https://i.ytimg.com/vi/2ghvs7j1mhc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240331080000 +0530" stop="20240331090000 +0530">
+    <title lang="en">LIVE:WB CM Mamata Banerjee hold campaign to support TMC Candidate Mahua Moitra in krishnanagar</title>
+    <desc lang="en">LIVE:WB CM Mamata Banerjee hold campaign to support TMC Candidate Mahua Moitra in krishnanagar</desc>
+    <icon src="https://i.ytimg.com/vi/2ghvs7j1mhc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
