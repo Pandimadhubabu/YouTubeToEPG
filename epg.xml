@@ -2,12 +2,12 @@
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240331100000 +0530" stop="20240331110000 +0530">
+  <programme channel="NarendraModi.yt" start="20240331110000 +0530" stop="20240331120000 +0530">
     <title lang="en">PM Modi LIVE | PM Modi's public rally in Meerut, UP | Lok Sabha Election 2024</title>
     <desc lang="en">PM Modi LIVE | PM Modi's public rally in Meerut, UP | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/m7bNSIVSKGc/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240331110000 +0530" stop="20240331120000 +0530">
+  <programme channel="NarendraModi.yt" start="20240331120000 +0530" stop="20240331130000 +0530">
     <title lang="en">PM Modi LIVE | PM Modi's public rally in Meerut, UP | Lok Sabha Election 2024</title>
     <desc lang="en">PM Modi LIVE | PM Modi's public rally in Meerut, UP | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/m7bNSIVSKGc/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240331100000 +0530" stop="20240331110000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240331110000 +0530" stop="20240331120000 +0530">
     <title lang="en">LIVE: PM Modi kick start Election campaign in UP, addresses public rally in Meerut I CM Yogi | BJP</title>
     <desc lang="en">LIVE: PM Modi kick start Election campaign in UP, addresses public rally in Meerut I CM Yogi | BJP</desc>
     <icon src="https://i.ytimg.com/vi/NjRG28LDGMs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240331110000 +0530" stop="20240331120000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240331120000 +0530" stop="20240331130000 +0530">
     <title lang="en">LIVE: PM Modi kick start Election campaign in UP, addresses public rally in Meerut I CM Yogi | BJP</title>
     <desc lang="en">LIVE: PM Modi kick start Election campaign in UP, addresses public rally in Meerut I CM Yogi | BJP</desc>
     <icon src="https://i.ytimg.com/vi/NjRG28LDGMs/maxresdefault_live.jpg"/>
