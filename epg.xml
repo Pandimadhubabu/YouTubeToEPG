@@ -1,15 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240401200000 +0530" stop="20240401210000 +0530">
-    <title lang="en">LIVE: Maryland Governor Wes Moore gives update on Baltimore bridge cleanup efforts</title>
-    <desc lang="en">LIVE: Maryland Governor Wes Moore gives update on Baltimore bridge cleanup efforts</desc>
-    <icon src="https://i.ytimg.com/vi/Sv9qK1j2y3E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240401210000 +0530" stop="20240401220000 +0530">
-    <title lang="en">LIVE: Maryland Governor Wes Moore gives update on Baltimore bridge cleanup efforts</title>
-    <desc lang="en">LIVE: Maryland Governor Wes Moore gives update on Baltimore bridge cleanup efforts</desc>
-    <icon src="https://i.ytimg.com/vi/Sv9qK1j2y3E/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
