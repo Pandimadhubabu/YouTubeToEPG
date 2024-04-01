@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240401060000 +0530" stop="20240401070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/pkSSI5WNPMs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240401070000 +0530" stop="20240401080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/pkSSI5WNPMs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Minister Uttam Kumar Reddy Press Meet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Minister Uttam Kumar Reddy Press Meet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/280VbNQXRG8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240401060000 +0530" stop="20240401070000 +0530">
-    <title lang="en">LIVE: PM Modi attends the RBI@90 opening ceremony in Mumbai</title>
-    <desc lang="en">LIVE: PM Modi attends the RBI@90 opening ceremony in Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/5lX-bZUECSI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240401070000 +0530" stop="20240401080000 +0530">
-    <title lang="en">LIVE: PM Modi attends the RBI@90 opening ceremony in Mumbai</title>
-    <desc lang="en">LIVE: PM Modi attends the RBI@90 opening ceremony in Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/5lX-bZUECSI/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240401080000 +0530" stop="20240401090000 +0530">
+    <title lang="en">LIVE : Minister Uttam Kumar Reddy Press Meet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Minister Uttam Kumar Reddy Press Meet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/280VbNQXRG8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240401060000 +0530" stop="20240401070000 +0530">
-    <title lang="en">LIVE: Tamil Nadu BJP President K Annamali Road show at veerakeralam ,Coimbatore |Lok Sabha Poll 2024</title>
-    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamali Road show at veerakeralam ,Coimbatore |Lok Sabha Poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/xHBwHuYHji0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240401070000 +0530" stop="20240401080000 +0530">
-    <title lang="en">LIVE: Tamil Nadu BJP President K Annamali Road show at veerakeralam ,Coimbatore |Lok Sabha Poll 2024</title>
-    <desc lang="en">LIVE: Tamil Nadu BJP President K Annamali Road show at veerakeralam ,Coimbatore |Lok Sabha Poll 2024</desc>
-    <icon src="https://i.ytimg.com/vi/xHBwHuYHji0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally in Hathras</title>
+    <desc lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally in Hathras</desc>
+    <icon src="https://i.ytimg.com/vi/-2Zq-GP3oJ4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240401080000 +0530" stop="20240401090000 +0530">
+    <title lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally in Hathras</title>
+    <desc lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally in Hathras</desc>
+    <icon src="https://i.ytimg.com/vi/-2Zq-GP3oJ4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
