@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240401120000 +0530" stop="20240401130000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240401130000 +0530" stop="20240401140000 +0530">
     <title lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Ub_IeI2GhEg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240401130000 +0530" stop="20240401140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240401140000 +0530" stop="20240401150000 +0530">
     <title lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Ub_IeI2GhEg/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240401120000 +0530" stop="20240401130000 +0530">
-    <title lang="en">LIVE: Press by Taranjit Singh Sandhu (BJP Candidate From Amritsar)PC |  Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: Press by Taranjit Singh Sandhu (BJP Candidate From Amritsar)PC |  Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/PlEcNFkNo-I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240401130000 +0530" stop="20240401140000 +0530">
     <title lang="en">LIVE: Press by Taranjit Singh Sandhu (BJP Candidate From Amritsar)PC |  Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: Press by Taranjit Singh Sandhu (BJP Candidate From Amritsar)PC |  Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/PlEcNFkNo-I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240401140000 +0530" stop="20240401150000 +0530">
+    <title lang="en">LIVE: Press by Taranjit Singh Sandhu (BJP Candidate From Amritsar)PC |  Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Press by Taranjit Singh Sandhu (BJP Candidate From Amritsar)PC |  Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/PlEcNFkNo-I/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240401130000 +0530" stop="20240401140000 +0530">
+    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/ATeb6IkwDfE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240401140000 +0530" stop="20240401150000 +0530">
+    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/ATeb6IkwDfE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
