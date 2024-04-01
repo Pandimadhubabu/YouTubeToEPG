@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240401080000 +0530" stop="20240401090000 +0530">
-    <title lang="en">LIVE : రసమయి బాలకిషన్ ప్రెస్ మీట్ | Rasamai Balakishan Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రసమయి బాలకిషన్ ప్రెస్ మీట్ | Rasamai Balakishan Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Nh3rTahVEsk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240401090000 +0530" stop="20240401100000 +0530">
-    <title lang="en">LIVE : రసమయి బాలకిషన్ ప్రెస్ మీట్ | Rasamai Balakishan Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రసమయి బాలకిషన్ ప్రెస్ మీట్ | Rasamai Balakishan Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Nh3rTahVEsk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/w4hS8naVROA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240401100000 +0530" stop="20240401110000 +0530">
+    <title lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/w4hS8naVROA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240401080000 +0530" stop="20240401090000 +0530">
-    <title lang="en">LIVE: BJP Leader Sudhanshu Trivedi, Shehzad Poonawalla &amp;  Shazia Ilmi Joint press conference</title>
-    <desc lang="en">LIVE: BJP Leader Sudhanshu Trivedi, Shehzad Poonawalla &amp;  Shazia Ilmi Joint press conference</desc>
-    <icon src="https://i.ytimg.com/vi/iZUobKDu_Rw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240401090000 +0530" stop="20240401100000 +0530">
-    <title lang="en">LIVE: BJP Leader Sudhanshu Trivedi, Shehzad Poonawalla &amp;  Shazia Ilmi Joint press conference</title>
-    <desc lang="en">LIVE: BJP Leader Sudhanshu Trivedi, Shehzad Poonawalla &amp;  Shazia Ilmi Joint press conference</desc>
-    <icon src="https://i.ytimg.com/vi/iZUobKDu_Rw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: EAM S Jaishankar attend Corporate Summit 2024 | Bharat's Economic Rising – SGCCI, in Surat</title>
+    <desc lang="en">LIVE: EAM S Jaishankar attend Corporate Summit 2024 | Bharat's Economic Rising – SGCCI, in Surat</desc>
+    <icon src="https://i.ytimg.com/vi/KbEO5wAzK9k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240401100000 +0530" stop="20240401110000 +0530">
+    <title lang="en">LIVE: EAM S Jaishankar attend Corporate Summit 2024 | Bharat's Economic Rising – SGCCI, in Surat</title>
+    <desc lang="en">LIVE: EAM S Jaishankar attend Corporate Summit 2024 | Bharat's Economic Rising – SGCCI, in Surat</desc>
+    <icon src="https://i.ytimg.com/vi/KbEO5wAzK9k/maxresdefault_live.jpg"/>
   </programme>
 </tv>
