@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240401040000 +0530" stop="20240401050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240401050000 +0530" stop="20240401060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/pkSSI5WNPMs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240401050000 +0530" stop="20240401060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240401060000 +0530" stop="20240401070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/pkSSI5WNPMs/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240401040000 +0530" stop="20240401050000 +0530">
-    <title lang="en">EAM Jaishankar's debut press conference at BJP HQ, hits out at DMK on Katchatheevu Island issue</title>
-    <desc lang="en">EAM Jaishankar's debut press conference at BJP HQ, hits out at DMK on Katchatheevu Island issue</desc>
-    <icon src="https://i.ytimg.com/vi/NfttQbZeQkI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240401050000 +0530" stop="20240401060000 +0530">
-    <title lang="en">EAM Jaishankar's debut press conference at BJP HQ, hits out at DMK on Katchatheevu Island issue</title>
-    <desc lang="en">EAM Jaishankar's debut press conference at BJP HQ, hits out at DMK on Katchatheevu Island issue</desc>
-    <icon src="https://i.ytimg.com/vi/NfttQbZeQkI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Tamil Nadu President Annamalai 'loses cool' on Congress, DMK over Katchatheevu island</title>
+    <desc lang="en">LIVE: BJP Tamil Nadu President Annamalai 'loses cool' on Congress, DMK over Katchatheevu island</desc>
+    <icon src="https://i.ytimg.com/vi/7URt5YaqLSQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240401060000 +0530" stop="20240401070000 +0530">
+    <title lang="en">LIVE: BJP Tamil Nadu President Annamalai 'loses cool' on Congress, DMK over Katchatheevu island</title>
+    <desc lang="en">LIVE: BJP Tamil Nadu President Annamalai 'loses cool' on Congress, DMK over Katchatheevu island</desc>
+    <icon src="https://i.ytimg.com/vi/7URt5YaqLSQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
