@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240401100000 +0530" stop="20240401110000 +0530">
-    <title lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/w4hS8naVROA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240401110000 +0530" stop="20240401120000 +0530">
-    <title lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : BRS Public Meeting | KTR | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/w4hS8naVROA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : MLA KTR Press Meet | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA KTR Press Meet | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2O_hyzzuJL0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240401120000 +0530" stop="20240401130000 +0530">
+    <title lang="en">LIVE : MLA KTR Press Meet | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA KTR Press Meet | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/2O_hyzzuJL0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240401100000 +0530" stop="20240401110000 +0530">
-    <title lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally at Gautam Budh Nagar</title>
-    <desc lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally at Gautam Budh Nagar</desc>
-    <icon src="https://i.ytimg.com/vi/wNkVu_F9vSU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240401110000 +0530" stop="20240401120000 +0530">
-    <title lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally at Gautam Budh Nagar</title>
-    <desc lang="en">LIVE:  Lok Sabha poll 2024 | UP CM Yogi Adityanath Public rally at Gautam Budh Nagar</desc>
-    <icon src="https://i.ytimg.com/vi/wNkVu_F9vSU/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: K Annamalai PC LIVE | Tamil Nadu | BJP</title>
+    <desc lang="en">LIVE: K Annamalai PC LIVE | Tamil Nadu | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/eVXBFoqPE-8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240401120000 +0530" stop="20240401130000 +0530">
+    <title lang="en">LIVE: K Annamalai PC LIVE | Tamil Nadu | BJP</title>
+    <desc lang="en">LIVE: K Annamalai PC LIVE | Tamil Nadu | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/eVXBFoqPE-8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
