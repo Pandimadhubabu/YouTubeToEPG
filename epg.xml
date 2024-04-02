@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
     <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
     <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240402160000 +0530" stop="20240402170000 +0530">
     <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
     <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
-    <title lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</title>
-    <desc lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/rNWsaJcf7MY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
-    <title lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</title>
-    <desc lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/rNWsaJcf7MY/maxresdefault_live.jpg"/>
+    <title lang="en">Kangana Ranaut's emotional speech | "PM Modi chose daughter of Mandi" | Lok Sabha Election</title>
+    <desc lang="en">Kangana Ranaut's emotional speech | "PM Modi chose daughter of Mandi" | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/syfTa4NjmIY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
-    <title lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</title>
-    <desc lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</desc>
-    <icon src="https://i.ytimg.com/vi/Utfn6kfUADI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
-    <title lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</title>
-    <desc lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</desc>
-    <icon src="https://i.ytimg.com/vi/Utfn6kfUADI/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240402160000 +0530" stop="20240402170000 +0530">
+    <title lang="en">Kangana Ranaut's emotional speech | "PM Modi chose daughter of Mandi" | Lok Sabha Election</title>
+    <desc lang="en">Kangana Ranaut's emotional speech | "PM Modi chose daughter of Mandi" | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/syfTa4NjmIY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
