@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
-    <title lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
-    <title lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240402100000 +0530" stop="20240402110000 +0530">
+    <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
-    <title lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</title>
-    <desc lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/KDFbgZd6l50/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
-    <title lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</title>
-    <desc lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/KDFbgZd6l50/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Delhi BJP President Virendra Sachdeva &amp; Manoj Tiwari Jointly Addresses Press Conference</title>
+    <desc lang="en">LIVE: Delhi BJP President Virendra Sachdeva &amp; Manoj Tiwari Jointly Addresses Press Conference</desc>
+    <icon src="https://i.ytimg.com/vi/oCiJ0EmOvOM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240402100000 +0530" stop="20240402110000 +0530">
+    <title lang="en">LIVE: Delhi BJP President Virendra Sachdeva &amp; Manoj Tiwari Jointly Addresses Press Conference</title>
+    <desc lang="en">LIVE: Delhi BJP President Virendra Sachdeva &amp; Manoj Tiwari Jointly Addresses Press Conference</desc>
+    <icon src="https://i.ytimg.com/vi/oCiJ0EmOvOM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
-    <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
-    <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/xr8uA9Kfid0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
-    <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
-    <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/xr8uA9Kfid0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View from a tent camp in Rafah</title>
+    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
+    <icon src="https://i.ytimg.com/vi/qFToHr23juY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240402100000 +0530" stop="20240402110000 +0530">
+    <title lang="en">LIVE: View from a tent camp in Rafah</title>
+    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
+    <icon src="https://i.ytimg.com/vi/qFToHr23juY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Tukkaguda</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Tukkaguda</desc>
+    <icon src="https://i.ytimg.com/vi/NmaEqFhzVfk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240402100000 +0530" stop="20240402110000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Tukkaguda</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Tukkaguda</desc>
+    <icon src="https://i.ytimg.com/vi/NmaEqFhzVfk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
