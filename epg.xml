@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402130000 +0530" stop="20240402140000 +0530">
-    <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
     <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
     <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240402130000 +0530" stop="20240402140000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Bihar via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Bihar via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/iW7eVecj7ek/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Bihar via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Bihar via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/iW7eVecj7ek/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
+    <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240402130000 +0530" stop="20240402140000 +0530">
-    <title lang="en">Live: EAM S. Jaishankar interacts at GCCI’s Event|International policy A catalyst to viksit Bharat</title>
-    <desc lang="en">Live: EAM S. Jaishankar interacts at GCCI’s Event|International policy A catalyst to viksit Bharat</desc>
-    <icon src="https://i.ytimg.com/vi/lnQstma81VQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
-    <title lang="en">Live: EAM S. Jaishankar interacts at GCCI’s Event|International policy A catalyst to viksit Bharat</title>
-    <desc lang="en">Live: EAM S. Jaishankar interacts at GCCI’s Event|International policy A catalyst to viksit Bharat</desc>
-    <icon src="https://i.ytimg.com/vi/lnQstma81VQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</title>
+    <desc lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/rNWsaJcf7MY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
+    <title lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</title>
+    <desc lang="en">LIVE: Lok Sabha Elections 2024 | HM Amit Shah's roadshow in Ramanagara, Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/rNWsaJcf7MY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240402140000 +0530" stop="20240402150000 +0530">
+    <title lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</title>
+    <desc lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</desc>
+    <icon src="https://i.ytimg.com/vi/Utfn6kfUADI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240402150000 +0530" stop="20240402160000 +0530">
+    <title lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</title>
+    <desc lang="en">LIVE: US Secretary of State Antony Blinken  and French Defence Minister hold a press conference</desc>
+    <icon src="https://i.ytimg.com/vi/Utfn6kfUADI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
