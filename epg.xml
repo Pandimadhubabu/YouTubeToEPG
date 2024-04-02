@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402190000 +0530" stop="20240402200000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240402200000 +0530" stop="20240402210000 +0530">
     <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
     <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240402200000 +0530" stop="20240402210000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240402210000 +0530" stop="20240402220000 +0530">
     <title lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</title>
     <desc lang="en">LIVE : తుక్కుగూడలో రేవంత్ రెడ్డి | CM Revanth Reddy InThukkuguda | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Kwru3PYJ1lY/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240402190000 +0530" stop="20240402200000 +0530">
-    <title lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</title>
-    <desc lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</desc>
-    <icon src="https://i.ytimg.com/vi/WJk5EOMqdKU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240402200000 +0530" stop="20240402210000 +0530">
     <title lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</title>
     <desc lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</desc>
     <icon src="https://i.ytimg.com/vi/WJk5EOMqdKU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240402210000 +0530" stop="20240402220000 +0530">
+    <title lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</title>
+    <desc lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</desc>
+    <icon src="https://i.ytimg.com/vi/WJk5EOMqdKU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240402200000 +0530" stop="20240402210000 +0530">
+    <title lang="en">LIVE: UN Security Council to meet after suspected Israeli airstrike in Syria</title>
+    <desc lang="en">LIVE: UN Security Council to meet after suspected Israeli airstrike in Syria</desc>
+    <icon src="https://i.ytimg.com/vi/msojix00j6Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240402210000 +0530" stop="20240402220000 +0530">
+    <title lang="en">LIVE: UN Security Council to meet after suspected Israeli airstrike in Syria</title>
+    <desc lang="en">LIVE: UN Security Council to meet after suspected Israeli airstrike in Syria</desc>
+    <icon src="https://i.ytimg.com/vi/msojix00j6Y/maxresdefault_live.jpg"/>
   </programme>
 </tv>
