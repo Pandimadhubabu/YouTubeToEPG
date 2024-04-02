@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240402060000 +0530" stop="20240402070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240402070000 +0530" stop="20240402080000 +0530">
+    <title lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
-    <title lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</title>
-    <desc lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</desc>
-    <icon src="https://i.ytimg.com/vi/O_8RJVvpCzs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240402060000 +0530" stop="20240402070000 +0530">
-    <title lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</title>
-    <desc lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</desc>
-    <icon src="https://i.ytimg.com/vi/O_8RJVvpCzs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Union Minister Nitin Gadkari Election Campaign in South West Nagpur | Lok Sabha Poll</title>
+    <desc lang="en">LIVE: Union Minister Nitin Gadkari Election Campaign in South West Nagpur | Lok Sabha Poll</desc>
+    <icon src="https://i.ytimg.com/vi/ni_380V7gs0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240402070000 +0530" stop="20240402080000 +0530">
+    <title lang="en">LIVE: Union Minister Nitin Gadkari Election Campaign in South West Nagpur | Lok Sabha Poll</title>
+    <desc lang="en">LIVE: Union Minister Nitin Gadkari Election Campaign in South West Nagpur | Lok Sabha Poll</desc>
+    <icon src="https://i.ytimg.com/vi/ni_380V7gs0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
