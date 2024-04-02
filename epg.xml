@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402030000 +0530" stop="20240402040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240402040000 +0530" stop="20240402050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240402040000 +0530" stop="20240402050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240402030000 +0530" stop="20240402040000 +0530">
+  <programme channel="Reuters.yt" start="20240402040000 +0530" stop="20240402050000 +0530">
     <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
     <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/fCW_Vhkt9XE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240402040000 +0530" stop="20240402050000 +0530">
+  <programme channel="Reuters.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
     <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
     <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/fCW_Vhkt9XE/maxresdefault_live.jpg"/>
