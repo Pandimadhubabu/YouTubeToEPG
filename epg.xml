@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402040000 +0530" stop="20240402050000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
+  <programme channel="ManaTolivelugu.yt" start="20240402060000 +0530" stop="20240402070000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/w1lIdTLzaYE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240402040000 +0530" stop="20240402050000 +0530">
-    <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
-    <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/fCW_Vhkt9XE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
+    <title lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</title>
+    <desc lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</desc>
+    <icon src="https://i.ytimg.com/vi/O_8RJVvpCzs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240402050000 +0530" stop="20240402060000 +0530">
-    <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
-    <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/fCW_Vhkt9XE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240402060000 +0530" stop="20240402070000 +0530">
+    <title lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</title>
+    <desc lang="en">Live: ‘Approached me to join BJP, if not…’ AAP's Atishi’s ‘big claim’ after Arvind Kejriwal’s arrest</desc>
+    <icon src="https://i.ytimg.com/vi/O_8RJVvpCzs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
