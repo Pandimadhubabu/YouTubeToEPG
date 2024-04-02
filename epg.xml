@@ -2,51 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240402070000 +0530" stop="20240402080000 +0530">
-    <title lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
-    <title lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం శ్రీహరి &amp; కావ్య  ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
+    <title lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240402070000 +0530" stop="20240402080000 +0530">
-    <title lang="en">PM Modi Live | PM Modi's public meeting in Rudrapur, Uttarakhand | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | PM Modi's public meeting in Rudrapur, Uttarakhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Orr3bE1Y_oU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
-    <title lang="en">PM Modi Live | PM Modi's public meeting in Rudrapur, Uttarakhand | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | PM Modi's public meeting in Rudrapur, Uttarakhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Orr3bE1Y_oU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
+    <title lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కడియం శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/XajiaWPqrWg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240402070000 +0530" stop="20240402080000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's mega rally in Rudrapur, Uttarakhand I Lok Sabha Elections 2024 | BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi's mega rally in Rudrapur, Uttarakhand I Lok Sabha Elections 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/p0hn1yQQiIk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's mega rally in Rudrapur, Uttarakhand I Lok Sabha Elections 2024 | BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi's mega rally in Rudrapur, Uttarakhand I Lok Sabha Elections 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/p0hn1yQQiIk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</title>
+    <desc lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/KDFbgZd6l50/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
+    <title lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</title>
+    <desc lang="en">LIVE: Union Home Minister Amit Shah attends Shakti Kendra Pramukh Sammelan in Bengaluru I Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/KDFbgZd6l50/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240402070000 +0530" stop="20240402080000 +0530">
+  <programme channel="Reuters.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
     <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
     <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/xr8uA9Kfid0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240402080000 +0530" stop="20240402090000 +0530">
+  <programme channel="Reuters.yt" start="20240402090000 +0530" stop="20240402100000 +0530">
     <title lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</title>
     <desc lang="en">LIVE: Tokyo's cherry blossoms in full bloom | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/xr8uA9Kfid0/maxresdefault_live.jpg"/>
