@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240403120000 +0530" stop="20240403130000 +0530">
-    <title lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/TbBWD3SG4g4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240403130000 +0530" stop="20240403140000 +0530">
     <title lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/TbBWD3SG4g4/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240403120000 +0530" stop="20240403130000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from West Bengal via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from West Bengal via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/S79h92dOxi8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240403130000 +0530" stop="20240403140000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from West Bengal via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from West Bengal via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/S79h92dOxi8/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240403140000 +0530" stop="20240403150000 +0530">
+    <title lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/TbBWD3SG4g4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240403120000 +0530" stop="20240403130000 +0530">
-    <title lang="en">LIVE: Taiwan earthquake live stream, rescuers search for survivors</title>
-    <desc lang="en">LIVE: Taiwan earthquake live stream, rescuers search for survivors</desc>
-    <icon src="https://i.ytimg.com/vi/rtsUDmhT6Lw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240403130000 +0530" stop="20240403140000 +0530">
-    <title lang="en">LIVE: Taiwan earthquake live stream, rescuers search for survivors</title>
-    <desc lang="en">LIVE: Taiwan earthquake live stream, rescuers search for survivors</desc>
-    <icon src="https://i.ytimg.com/vi/rtsUDmhT6Lw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: The WHO holds briefing on global health issues with focus on Gaza</title>
+    <desc lang="en">LIVE: The WHO holds briefing on global health issues with focus on Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/RvTxYRH06rs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240403140000 +0530" stop="20240403150000 +0530">
+    <title lang="en">LIVE: The WHO holds briefing on global health issues with focus on Gaza</title>
+    <desc lang="en">LIVE: The WHO holds briefing on global health issues with focus on Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/RvTxYRH06rs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
