@@ -1,26 +1,39 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240403100000 +0530" stop="20240403110000 +0530">
+    <title lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/TbBWD3SG4g4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240403110000 +0530" stop="20240403120000 +0530">
+    <title lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE ; కాస్కో రేవంత్ ....!!! జడ్సన్ భవిష్యత్ కార్యాచరణ ! Bakka Judson Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/TbBWD3SG4g4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
-    <title lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</title>
-    <desc lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</desc>
-    <icon src="https://i.ytimg.com/vi/qG1TVN5hwzA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240403100000 +0530" stop="20240403110000 +0530">
-    <title lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</title>
-    <desc lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</desc>
-    <icon src="https://i.ytimg.com/vi/qG1TVN5hwzA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Smriti Irani's fiery speech in MP | Union Min attacks Rahul Gandhi | Lok Sabha Election | BJP</title>
+    <desc lang="en">LIVE: Smriti Irani's fiery speech in MP | Union Min attacks Rahul Gandhi | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/9eAG4JFsEUc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240403110000 +0530" stop="20240403120000 +0530">
+    <title lang="en">LIVE: Smriti Irani's fiery speech in MP | Union Min attacks Rahul Gandhi | Lok Sabha Election | BJP</title>
+    <desc lang="en">LIVE: Smriti Irani's fiery speech in MP | Union Min attacks Rahul Gandhi | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/9eAG4JFsEUc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
+  <programme channel="Reuters.yt" start="20240403100000 +0530" stop="20240403110000 +0530">
     <title lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</title>
     <desc lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</desc>
     <icon src="https://i.ytimg.com/vi/_4nick33ibc/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240403100000 +0530" stop="20240403110000 +0530">
+  <programme channel="Reuters.yt" start="20240403110000 +0530" stop="20240403120000 +0530">
     <title lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</title>
     <desc lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</desc>
     <icon src="https://i.ytimg.com/vi/_4nick33ibc/maxresdefault_live.jpg"/>
