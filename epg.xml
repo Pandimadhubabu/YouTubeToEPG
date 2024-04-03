@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240403040000 +0530" stop="20240403050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240403050000 +0530" stop="20240403060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/qJVOXAM2feQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240403050000 +0530" stop="20240403060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240403060000 +0530" stop="20240403070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/qJVOXAM2feQ/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240403040000 +0530" stop="20240403050000 +0530">
-    <title lang="en">Live: Vice Admiral Mark Hammonds India visit I Wreath Laying Ceremony at National War Memorial</title>
-    <desc lang="en">Live: Vice Admiral Mark Hammonds India visit I Wreath Laying Ceremony at National War Memorial</desc>
-    <icon src="https://i.ytimg.com/vi/fFOR85lNTSs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240403050000 +0530" stop="20240403060000 +0530">
-    <title lang="en">Live: Vice Admiral Mark Hammonds India visit I Wreath Laying Ceremony at National War Memorial</title>
-    <desc lang="en">Live: Vice Admiral Mark Hammonds India visit I Wreath Laying Ceremony at National War Memorial</desc>
-    <icon src="https://i.ytimg.com/vi/fFOR85lNTSs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Delhi Minister Gopal Rai PC on 'Kejriwal Ko Aashirwad' campaign to support Jailed CM</title>
+    <desc lang="en">LIVE: Delhi Minister Gopal Rai PC on 'Kejriwal Ko Aashirwad' campaign to support Jailed CM</desc>
+    <icon src="https://i.ytimg.com/vi/xkdtTS_9m7w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240403060000 +0530" stop="20240403070000 +0530">
+    <title lang="en">LIVE: Delhi Minister Gopal Rai PC on 'Kejriwal Ko Aashirwad' campaign to support Jailed CM</title>
+    <desc lang="en">LIVE: Delhi Minister Gopal Rai PC on 'Kejriwal Ko Aashirwad' campaign to support Jailed CM</desc>
+    <icon src="https://i.ytimg.com/vi/xkdtTS_9m7w/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240403040000 +0530" stop="20240403050000 +0530">
+  <programme channel="Reuters.yt" start="20240403050000 +0530" stop="20240403060000 +0530">
     <title lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</title>
     <desc lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/U0oVBstJa2I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240403050000 +0530" stop="20240403060000 +0530">
+  <programme channel="Reuters.yt" start="20240403060000 +0530" stop="20240403070000 +0530">
     <title lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</title>
     <desc lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/U0oVBstJa2I/maxresdefault_live.jpg"/>
