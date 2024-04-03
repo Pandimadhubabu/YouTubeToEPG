@@ -2,14 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240403000000 +0530" stop="20240403010000 +0530">
-    <title lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</title>
-    <desc lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</desc>
-    <icon src="https://i.ytimg.com/vi/WJk5EOMqdKU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240403010000 +0530" stop="20240403020000 +0530">
     <title lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</title>
     <desc lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</desc>
     <icon src="https://i.ytimg.com/vi/WJk5EOMqdKU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240403020000 +0530" stop="20240403030000 +0530">
+    <title lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</title>
+    <desc lang="en">Live: Jammu &amp; Kashmir Police busted Pakistan’s big terror module | 3 people have been arrested</desc>
+    <icon src="https://i.ytimg.com/vi/WJk5EOMqdKU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240403010000 +0530" stop="20240403020000 +0530">
+    <title lang="en">LIVE: Fu Bao, the first giant panda born in South Korea, departs for China | REUTERS</title>
+    <desc lang="en">LIVE: Fu Bao, the first giant panda born in South Korea, departs for China | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/KBSFFUIpft0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240403020000 +0530" stop="20240403030000 +0530">
+    <title lang="en">LIVE: Fu Bao, the first giant panda born in South Korea, departs for China | REUTERS</title>
+    <desc lang="en">LIVE: Fu Bao, the first giant panda born in South Korea, departs for China | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/KBSFFUIpft0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
