@@ -1,41 +1,41 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/qJVOXAM2feQ/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
+    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</title>
+    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</desc>
+    <icon src="https://i.ytimg.com/vi/jvKrJybJyfo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/qJVOXAM2feQ/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
+    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</title>
+    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</desc>
+    <icon src="https://i.ytimg.com/vi/jvKrJybJyfo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
-    <title lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</title>
-    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/NETtH1zlp5s/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
-    <title lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</title>
-    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/NETtH1zlp5s/maxresdefault_live.jpg"/>
+    <title lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</title>
+    <desc lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</desc>
+    <icon src="https://i.ytimg.com/vi/6mJeVfJhyfs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
+    <title lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</title>
+    <desc lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</desc>
+    <icon src="https://i.ytimg.com/vi/6mJeVfJhyfs/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
-    <title lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</title>
-    <desc lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/U0oVBstJa2I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
-    <title lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</title>
-    <desc lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/U0oVBstJa2I/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</title>
+    <desc lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</desc>
+    <icon src="https://i.ytimg.com/vi/y_sJ6RUIR3k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
+    <title lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</title>
+    <desc lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</desc>
+    <icon src="https://i.ytimg.com/vi/y_sJ6RUIR3k/maxresdefault_live.jpg"/>
   </programme>
 </tv>
