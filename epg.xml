@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/jvKrJybJyfo/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
-    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</title>
-    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Uttar Pradesh via NaMo App</desc>
-    <icon src="https://i.ytimg.com/vi/jvKrJybJyfo/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
-    <title lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</title>
-    <desc lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</desc>
-    <icon src="https://i.ytimg.com/vi/6mJeVfJhyfs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
-    <title lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</title>
-    <desc lang="en">Setback for INDIA bloc | Mehbooba Mufti PC | PDP to go solo | Lok Sabha elections | Kashmir news</desc>
-    <icon src="https://i.ytimg.com/vi/6mJeVfJhyfs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</title>
+    <desc lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</desc>
+    <icon src="https://i.ytimg.com/vi/qG1TVN5hwzA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240403100000 +0530" stop="20240403110000 +0530">
+    <title lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</title>
+    <desc lang="en">LIVE:BJP Leader and Actress Kangana Ranaut Election campaign in Churag ,Mandi|Lok Sabha poll|PM Modi</desc>
+    <icon src="https://i.ytimg.com/vi/qG1TVN5hwzA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
-    <title lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</title>
-    <desc lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</desc>
-    <icon src="https://i.ytimg.com/vi/y_sJ6RUIR3k/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240403090000 +0530" stop="20240403100000 +0530">
-    <title lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</title>
-    <desc lang="en">LIVE: Former Spanish Football Federation President Rubiales arrives in Madrid amid investigation</desc>
-    <icon src="https://i.ytimg.com/vi/y_sJ6RUIR3k/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</title>
+    <desc lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</desc>
+    <icon src="https://i.ytimg.com/vi/_4nick33ibc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240403100000 +0530" stop="20240403110000 +0530">
+    <title lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</title>
+    <desc lang="en">LIVE: NATO foreign ministers arrive for a meeting in Brussels</desc>
+    <icon src="https://i.ytimg.com/vi/_4nick33ibc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
