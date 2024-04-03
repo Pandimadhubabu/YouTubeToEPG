@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240403060000 +0530" stop="20240403070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/qJVOXAM2feQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/qJVOXAM2feQ/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240403060000 +0530" stop="20240403070000 +0530">
-    <title lang="en">LIVE: Rahul Gandhi holds Roadshow in Wayanad ahead of filing Nomination I Lok Sabha polls |Kerala</title>
-    <desc lang="en">LIVE: Rahul Gandhi holds Roadshow in Wayanad ahead of filing Nomination I Lok Sabha polls |Kerala</desc>
-    <icon src="https://i.ytimg.com/vi/sbpgQAsXkcQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
-    <title lang="en">LIVE: Rahul Gandhi holds Roadshow in Wayanad ahead of filing Nomination I Lok Sabha polls |Kerala</title>
-    <desc lang="en">LIVE: Rahul Gandhi holds Roadshow in Wayanad ahead of filing Nomination I Lok Sabha polls |Kerala</desc>
-    <icon src="https://i.ytimg.com/vi/sbpgQAsXkcQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</title>
+    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/NETtH1zlp5s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
+    <title lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</title>
+    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Intellectual Conferences in Fatehpur Sikri | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/NETtH1zlp5s/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240403060000 +0530" stop="20240403070000 +0530">
+  <programme channel="Reuters.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
     <title lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</title>
     <desc lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/U0oVBstJa2I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240403070000 +0530" stop="20240403080000 +0530">
+  <programme channel="Reuters.yt" start="20240403080000 +0530" stop="20240403090000 +0530">
     <title lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</title>
     <desc lang="en">LIVE: City shot of Taipei after 7.2 magnitude earthquake hits | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/U0oVBstJa2I/maxresdefault_live.jpg"/>
