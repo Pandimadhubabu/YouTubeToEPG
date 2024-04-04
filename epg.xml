@@ -2,53 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240404090000 +0530" stop="20240404100000 +0530">
-    <title lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet @Thukkuguda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet @Thukkuguda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/RQdClllUtd0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240404100000 +0530" stop="20240404110000 +0530">
-    <title lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet @Thukkuguda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Deputy CM Bhatti Vikramarka Press Meet @Thukkuguda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/RQdClllUtd0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/BJc9Tcj2cFo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240404110000 +0530" stop="20240404120000 +0530">
+    <title lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/BJc9Tcj2cFo/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240404100000 +0530" stop="20240404110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/a-otPUySU1E/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240404110000 +0530" stop="20240404120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/a-otPUySU1E/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240404090000 +0530" stop="20240404100000 +0530">
-    <title lang="en">“We will deal with it…” EAM S Jaishankar roasts Pakistan on PoK, terrorism</title>
-    <desc lang="en">“We will deal with it…” EAM S Jaishankar roasts Pakistan on PoK, terrorism</desc>
-    <icon src="https://i.ytimg.com/vi/7_Yh5VLV7QM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240404100000 +0530" stop="20240404110000 +0530">
-    <title lang="en">“We will deal with it…” EAM S Jaishankar roasts Pakistan on PoK, terrorism</title>
-    <desc lang="en">“We will deal with it…” EAM S Jaishankar roasts Pakistan on PoK, terrorism</desc>
-    <icon src="https://i.ytimg.com/vi/7_Yh5VLV7QM/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/VAeKT3wMWnI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240404110000 +0530" stop="20240404120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/VAeKT3wMWnI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240404090000 +0530" stop="20240404100000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240404100000 +0530" stop="20240404110000 +0530">
     <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
     <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
     <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240404090000 +0530" stop="20240404100000 +0530">
-    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka &amp; Minister’s will address the media @ Tukkuguda</title>
-    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka &amp; Minister’s will address the media @ Tukkuguda</desc>
-    <icon src="https://i.ytimg.com/vi/EI8UXX8tcvI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240404100000 +0530" stop="20240404110000 +0530">
-    <title lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka &amp; Minister’s will address the media @ Tukkuguda</title>
-    <desc lang="en">Hon’ble Deputy CM Sri.Mallu Batti Vikramarka &amp; Minister’s will address the media @ Tukkuguda</desc>
-    <icon src="https://i.ytimg.com/vi/EI8UXX8tcvI/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240404110000 +0530" stop="20240404120000 +0530">
+    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
+    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
+    <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
