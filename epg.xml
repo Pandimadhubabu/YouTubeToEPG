@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240404050000 +0530" stop="20240404060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/THfqa01l13E/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/THfqa01l13E/maxresdefault_live.jpg"/>
@@ -15,27 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240404050000 +0530" stop="20240404060000 +0530">
-    <title lang="en">Live:  BJP Candidate Hema Malini files her nominations from Mathura in presence of UP CM</title>
-    <desc lang="en">Live:  BJP Candidate Hema Malini files her nominations from Mathura in presence of UP CM</desc>
-    <icon src="https://i.ytimg.com/vi/6gDdse4ji8I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
-    <title lang="en">Live:  BJP Candidate Hema Malini files her nominations from Mathura in presence of UP CM</title>
-    <desc lang="en">Live:  BJP Candidate Hema Malini files her nominations from Mathura in presence of UP CM</desc>
-    <icon src="https://i.ytimg.com/vi/6gDdse4ji8I/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</title>
+    <desc lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/VVh6X8dsr8k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
+    <title lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</title>
+    <desc lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/VVh6X8dsr8k/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240404050000 +0530" stop="20240404060000 +0530">
-    <title lang="en">LIVE: NATO marks 75th anniversary</title>
-    <desc lang="en">LIVE: NATO marks 75th anniversary</desc>
+  <programme channel="Reuters.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
+    <title lang="en">LIVE: NATO marks 75th anniversary | REUTERS</title>
+    <desc lang="en">LIVE: NATO marks 75th anniversary | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/L8Q1kCfSVHI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
-    <title lang="en">LIVE: NATO marks 75th anniversary</title>
-    <desc lang="en">LIVE: NATO marks 75th anniversary</desc>
+  <programme channel="Reuters.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
+    <title lang="en">LIVE: NATO marks 75th anniversary | REUTERS</title>
+    <desc lang="en">LIVE: NATO marks 75th anniversary | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/L8Q1kCfSVHI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
