@@ -1,39 +1,39 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/THfqa01l13E/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/w3S6QrNnJh0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/THfqa01l13E/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240404080000 +0530" stop="20240404090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/w3S6QrNnJh0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
-    <title lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</title>
-    <desc lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/VVh6X8dsr8k/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
-    <title lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</title>
-    <desc lang="en">LIVE: BJP candidate Navneet Rana to file her nominations from Amaravati | Lok Sabha election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/VVh6X8dsr8k/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</title>
+    <desc lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/g6t8-03KTwo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240404080000 +0530" stop="20240404090000 +0530">
+    <title lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</title>
+    <desc lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/g6t8-03KTwo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240404060000 +0530" stop="20240404070000 +0530">
+  <programme channel="Reuters.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
     <title lang="en">LIVE: NATO marks 75th anniversary | REUTERS</title>
     <desc lang="en">LIVE: NATO marks 75th anniversary | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/L8Q1kCfSVHI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
+  <programme channel="Reuters.yt" start="20240404080000 +0530" stop="20240404090000 +0530">
     <title lang="en">LIVE: NATO marks 75th anniversary | REUTERS</title>
     <desc lang="en">LIVE: NATO marks 75th anniversary | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/L8Q1kCfSVHI/maxresdefault_live.jpg"/>
