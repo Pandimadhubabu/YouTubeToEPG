@@ -1,39 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240404130000 +0530" stop="20240404140000 +0530">
-    <title lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/BJc9Tcj2cFo/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240404140000 +0530" stop="20240404150000 +0530">
-    <title lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : యెన్నం శ్రీనివాస్ రెడ్డి  ప్రెస్ మీట్  | MLA Yennam Srinivas Reddy LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/BJc9Tcj2cFo/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240404130000 +0530" stop="20240404140000 +0530">
-    <title lang="en">Live: MEA S. Jaishankar Unveils Draft Development Document for Atingal Constituency in Kerala</title>
-    <desc lang="en">Live: MEA S. Jaishankar Unveils Draft Development Document for Atingal Constituency in Kerala</desc>
-    <icon src="https://i.ytimg.com/vi/0xySBP2jfEs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240404140000 +0530" stop="20240404150000 +0530">
-    <title lang="en">Live: MEA S. Jaishankar Unveils Draft Development Document for Atingal Constituency in Kerala</title>
-    <desc lang="en">Live: MEA S. Jaishankar Unveils Draft Development Document for Atingal Constituency in Kerala</desc>
-    <icon src="https://i.ytimg.com/vi/0xySBP2jfEs/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/VAeKT3wMWnI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240404150000 +0530" stop="20240404160000 +0530">
+    <title lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/VAeKT3wMWnI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240404130000 +0530" stop="20240404140000 +0530">
+  <programme channel="Reuters.yt" start="20240404140000 +0530" stop="20240404150000 +0530">
     <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
     <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
     <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240404140000 +0530" stop="20240404150000 +0530">
+  <programme channel="Reuters.yt" start="20240404150000 +0530" stop="20240404160000 +0530">
     <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
     <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
     <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
