@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240404140000 +0530" stop="20240404150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240404150000 +0530" stop="20240404160000 +0530">
     <title lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
     <desc lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/VAeKT3wMWnI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240404150000 +0530" stop="20240404160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240404160000 +0530" stop="20240404170000 +0530">
     <title lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</title>
     <desc lang="en">PM Modi Live | PM Modi's Public meeting in Coochbehar, West Bengal | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/VAeKT3wMWnI/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240404140000 +0530" stop="20240404150000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240404150000 +0530" stop="20240404160000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/gB7T5uh6sj4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: NATO chief Jens Stoltenberg and US Secretary of State Antony Blinken hold a news conference</title>
+    <desc lang="en">LIVE: NATO chief Jens Stoltenberg and US Secretary of State Antony Blinken hold a news conference</desc>
+    <icon src="https://i.ytimg.com/vi/jOH4tjTfvFc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240404160000 +0530" stop="20240404170000 +0530">
+    <title lang="en">LIVE: NATO chief Jens Stoltenberg and US Secretary of State Antony Blinken hold a news conference</title>
+    <desc lang="en">LIVE: NATO chief Jens Stoltenberg and US Secretary of State Antony Blinken hold a news conference</desc>
+    <icon src="https://i.ytimg.com/vi/jOH4tjTfvFc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
