@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/w3S6QrNnJh0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240404080000 +0530" stop="20240404090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Jamui, Bihar | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/w3S6QrNnJh0/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
-    <title lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</title>
-    <desc lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/g6t8-03KTwo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240404080000 +0530" stop="20240404090000 +0530">
-    <title lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</title>
-    <desc lang="en">LIVE: Sanjay Nirupam's first reaction after expulsion from Congress | LS Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/g6t8-03KTwo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Former Congress leader Gourav Vallabh joins BJP ahead of Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Former Congress leader Gourav Vallabh joins BJP ahead of Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/hRGh3Zx-dfM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240404090000 +0530" stop="20240404100000 +0530">
+    <title lang="en">LIVE: Former Congress leader Gourav Vallabh joins BJP ahead of Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Former Congress leader Gourav Vallabh joins BJP ahead of Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/hRGh3Zx-dfM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240404070000 +0530" stop="20240404080000 +0530">
-    <title lang="en">LIVE: NATO marks 75th anniversary | REUTERS</title>
-    <desc lang="en">LIVE: NATO marks 75th anniversary | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/L8Q1kCfSVHI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240404080000 +0530" stop="20240404090000 +0530">
-    <title lang="en">LIVE: NATO marks 75th anniversary | REUTERS</title>
-    <desc lang="en">LIVE: NATO marks 75th anniversary | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/L8Q1kCfSVHI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Rescue and relief efforts after Taiwan earthquake | REUTERS</title>
+    <desc lang="en">LIVE: Rescue and relief efforts after Taiwan earthquake | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/PPy0BEadchM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240404090000 +0530" stop="20240404100000 +0530">
+    <title lang="en">LIVE: Rescue and relief efforts after Taiwan earthquake | REUTERS</title>
+    <desc lang="en">LIVE: Rescue and relief efforts after Taiwan earthquake | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/PPy0BEadchM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
