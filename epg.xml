@@ -2,25 +2,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405150000 +0530" stop="20240405160000 +0530">
-    <title lang="en">LIVE:CJI DY Chandrachud Live |CJI address at Nagpur high court bar association centenary celebration</title>
-    <desc lang="en">LIVE:CJI DY Chandrachud Live |CJI address at Nagpur high court bar association centenary celebration</desc>
-    <icon src="https://i.ytimg.com/vi/dfaphnhPZMU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240405160000 +0530" stop="20240405170000 +0530">
-    <title lang="en">LIVE:CJI DY Chandrachud Live |CJI address at Nagpur high court bar association centenary celebration</title>
-    <desc lang="en">LIVE:CJI DY Chandrachud Live |CJI address at Nagpur high court bar association centenary celebration</desc>
-    <icon src="https://i.ytimg.com/vi/dfaphnhPZMU/maxresdefault_live.jpg"/>
+    <title lang="en">Breaking News | Live from Times Square | 5.5  magnitude earthquake strikes New York, New Jersey</title>
+    <desc lang="en">Breaking News | Live from Times Square | 5.5  magnitude earthquake strikes New York, New Jersey</desc>
+    <icon src="https://i.ytimg.com/vi/NryBL_tYWKA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240405170000 +0530" stop="20240405180000 +0530">
+    <title lang="en">Breaking News | Live from Times Square | 5.5  magnitude earthquake strikes New York, New Jersey</title>
+    <desc lang="en">Breaking News | Live from Times Square | 5.5  magnitude earthquake strikes New York, New Jersey</desc>
+    <icon src="https://i.ytimg.com/vi/NryBL_tYWKA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240405150000 +0530" stop="20240405160000 +0530">
+  <programme channel="Reuters.yt" start="20240405160000 +0530" stop="20240405170000 +0530">
     <title lang="en">LIVE: Magnitude 5.5 earthquake strikes New York, New Jersey</title>
     <desc lang="en">LIVE: Magnitude 5.5 earthquake strikes New York, New Jersey</desc>
     <icon src="https://i.ytimg.com/vi/w-kqFxKPUiw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240405160000 +0530" stop="20240405170000 +0530">
+  <programme channel="Reuters.yt" start="20240405170000 +0530" stop="20240405180000 +0530">
     <title lang="en">LIVE: Magnitude 5.5 earthquake strikes New York, New Jersey</title>
     <desc lang="en">LIVE: Magnitude 5.5 earthquake strikes New York, New Jersey</desc>
     <icon src="https://i.ytimg.com/vi/w-kqFxKPUiw/maxresdefault_live.jpg"/>
