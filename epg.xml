@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405180000 +0530" stop="20240405190000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240405190000 +0530" stop="20240405200000 +0530">
     <title lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</title>
     <desc lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</desc>
     <icon src="https://i.ytimg.com/vi/ZRUU1tV047I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240405190000 +0530" stop="20240405200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240405200000 +0530" stop="20240405210000 +0530">
     <title lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</title>
     <desc lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</desc>
     <icon src="https://i.ytimg.com/vi/ZRUU1tV047I/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240405180000 +0530" stop="20240405190000 +0530">
-    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
-    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
-    <icon src="https://i.ytimg.com/vi/ehLjojFgerY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240405190000 +0530" stop="20240405200000 +0530">
-    <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
-    <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
-    <icon src="https://i.ytimg.com/vi/ehLjojFgerY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Joe Biden visits Baltimore after bridge collapse</title>
+    <desc lang="en">LIVE: Joe Biden visits Baltimore after bridge collapse</desc>
+    <icon src="https://i.ytimg.com/vi/fi1xaWBy-uo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240405200000 +0530" stop="20240405210000 +0530">
+    <title lang="en">LIVE: Joe Biden visits Baltimore after bridge collapse</title>
+    <desc lang="en">LIVE: Joe Biden visits Baltimore after bridge collapse</desc>
+    <icon src="https://i.ytimg.com/vi/fi1xaWBy-uo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
