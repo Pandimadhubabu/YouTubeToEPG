@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
-    <title lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</title>
-    <desc lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/_IXMfgP8pcA/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240405130000 +0530" stop="20240405140000 +0530">
-    <title lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</title>
-    <desc lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/_IXMfgP8pcA/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240405130000 +0530" stop="20240405140000 +0530">
     <title lang="en">BJP PC LIVE: Gaurav Bhatia PC | BJP slams Congress Manifesto | 'Made in George Soros office'</title>
     <desc lang="en">BJP PC LIVE: Gaurav Bhatia PC | BJP slams Congress Manifesto | 'Made in George Soros office'</desc>
     <icon src="https://i.ytimg.com/vi/rBWxG01qWE8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240405130000 +0530" stop="20240405140000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240405140000 +0530" stop="20240405150000 +0530">
     <title lang="en">BJP PC LIVE: Gaurav Bhatia PC | BJP slams Congress Manifesto | 'Made in George Soros office'</title>
     <desc lang="en">BJP PC LIVE: Gaurav Bhatia PC | BJP slams Congress Manifesto | 'Made in George Soros office'</desc>
     <icon src="https://i.ytimg.com/vi/rBWxG01qWE8/maxresdefault_live.jpg"/>
@@ -28,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
-    <title lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</title>
-    <desc lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</desc>
-    <icon src="https://i.ytimg.com/vi/O9gOudqgUkY/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240405130000 +0530" stop="20240405140000 +0530">
-    <title lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</title>
-    <desc lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</desc>
-    <icon src="https://i.ytimg.com/vi/O9gOudqgUkY/hqdefault_live.jpg"/>
+    <title lang="en">LIVE: Iraq marks al-Quds Day</title>
+    <desc lang="en">LIVE: Iraq marks al-Quds Day</desc>
+    <icon src="https://i.ytimg.com/vi/NZjzX7y4NlI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240405140000 +0530" stop="20240405150000 +0530">
+    <title lang="en">LIVE: Iraq marks al-Quds Day</title>
+    <desc lang="en">LIVE: Iraq marks al-Quds Day</desc>
+    <icon src="https://i.ytimg.com/vi/NZjzX7y4NlI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
