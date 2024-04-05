@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240405030000 +0530" stop="20240405040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240405040000 +0530" stop="20240405050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/1RPeF0weFtA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240405040000 +0530" stop="20240405050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240405050000 +0530" stop="20240405060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/1RPeF0weFtA/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405030000 +0530" stop="20240405040000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240405040000 +0530" stop="20240405050000 +0530">
     <title lang="en">“Ab kabhi idhar udhar nahi hone waale hain” Nitish Kumar promises to PM Modi in Bihar’s Jamui rally</title>
     <desc lang="en">“Ab kabhi idhar udhar nahi hone waale hain” Nitish Kumar promises to PM Modi in Bihar’s Jamui rally</desc>
     <icon src="https://i.ytimg.com/vi/KR6NbWOq_Is/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240405040000 +0530" stop="20240405050000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240405050000 +0530" stop="20240405060000 +0530">
     <title lang="en">“Ab kabhi idhar udhar nahi hone waale hain” Nitish Kumar promises to PM Modi in Bihar’s Jamui rally</title>
     <desc lang="en">“Ab kabhi idhar udhar nahi hone waale hain” Nitish Kumar promises to PM Modi in Bihar’s Jamui rally</desc>
     <icon src="https://i.ytimg.com/vi/KR6NbWOq_Is/maxresdefault_live.jpg"/>
@@ -28,12 +28,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240405030000 +0530" stop="20240405040000 +0530">
+  <programme channel="Reuters.yt" start="20240405040000 +0530" stop="20240405050000 +0530">
     <title lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</title>
     <desc lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</desc>
     <icon src="https://i.ytimg.com/vi/OEa1vjrsNAI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240405040000 +0530" stop="20240405050000 +0530">
+  <programme channel="Reuters.yt" start="20240405050000 +0530" stop="20240405060000 +0530">
     <title lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</title>
     <desc lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</desc>
     <icon src="https://i.ytimg.com/vi/OEa1vjrsNAI/maxresdefault_live.jpg"/>
