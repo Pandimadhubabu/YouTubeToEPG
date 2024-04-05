@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240405050000 +0530" stop="20240405060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/1RPeF0weFtA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/1RPeF0weFtA/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405050000 +0530" stop="20240405060000 +0530">
-    <title lang="en">Live: EAM S Jaishankar attends election campaign of V Muraleedharan at Attingal | Lok Sabha Election</title>
-    <desc lang="en">Live: EAM S Jaishankar attends election campaign of V Muraleedharan at Attingal | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/dhn8Qt71e3M/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
-    <title lang="en">Live: EAM S Jaishankar attends election campaign of V Muraleedharan at Attingal | Lok Sabha Election</title>
-    <desc lang="en">Live: EAM S Jaishankar attends election campaign of V Muraleedharan at Attingal | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/dhn8Qt71e3M/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</title>
+    <desc lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</desc>
+    <icon src="https://i.ytimg.com/vi/_AcyDaVpPmc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
+    <title lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</title>
+    <desc lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</desc>
+    <icon src="https://i.ytimg.com/vi/_AcyDaVpPmc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240405050000 +0530" stop="20240405060000 +0530">
+  <programme channel="Reuters.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
     <title lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</title>
     <desc lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</desc>
     <icon src="https://i.ytimg.com/vi/OEa1vjrsNAI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
+  <programme channel="Reuters.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
     <title lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</title>
     <desc lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</desc>
     <icon src="https://i.ytimg.com/vi/OEa1vjrsNAI/maxresdefault_live.jpg"/>
