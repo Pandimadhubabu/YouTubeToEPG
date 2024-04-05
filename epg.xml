@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
-    <title lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/u2rmpA7NDbQ/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240405090000 +0530" stop="20240405100000 +0530">
+    <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Medak | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Medak | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/lXSfGIFaQzI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240405080000 +0530" stop="20240405090000 +0530">
-    <title lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/u2rmpA7NDbQ/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5mh8_9-Evxw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240405080000 +0530" stop="20240405090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5mh8_9-Evxw/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240405100000 +0530" stop="20240405110000 +0530">
+    <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Medak | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Medak | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/lXSfGIFaQzI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/IdgCtSjj-Sk/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240405090000 +0530" stop="20240405100000 +0530">
+    <title lang="en">BJP PC LIVE: Sudhanshu Trivedi PC | BJP hits out at Congress Manifesto, calls it ‘Dreamy’ | Congress</title>
+    <desc lang="en">BJP PC LIVE: Sudhanshu Trivedi PC | BJP hits out at Congress Manifesto, calls it ‘Dreamy’ | Congress</desc>
+    <icon src="https://i.ytimg.com/vi/VTXSmNwO9ZY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240405080000 +0530" stop="20240405090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/IdgCtSjj-Sk/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240405100000 +0530" stop="20240405110000 +0530">
+    <title lang="en">BJP PC LIVE: Sudhanshu Trivedi PC | BJP hits out at Congress Manifesto, calls it ‘Dreamy’ | Congress</title>
+    <desc lang="en">BJP PC LIVE: Sudhanshu Trivedi PC | BJP hits out at Congress Manifesto, calls it ‘Dreamy’ | Congress</desc>
+    <icon src="https://i.ytimg.com/vi/VTXSmNwO9ZY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240405090000 +0530" stop="20240405100000 +0530">
+    <title lang="en">LIVE: Palestinians hold last Friday prayer of Ramadan at Jerusalem's al-Aqsa compound</title>
+    <desc lang="en">LIVE: Palestinians hold last Friday prayer of Ramadan at Jerusalem's al-Aqsa compound</desc>
+    <icon src="https://i.ytimg.com/vi/fTYu8RNiF6k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240405100000 +0530" stop="20240405110000 +0530">
+    <title lang="en">LIVE: Palestinians hold last Friday prayer of Ramadan at Jerusalem's al-Aqsa compound</title>
+    <desc lang="en">LIVE: Palestinians hold last Friday prayer of Ramadan at Jerusalem's al-Aqsa compound</desc>
+    <icon src="https://i.ytimg.com/vi/fTYu8RNiF6k/maxresdefault_live.jpg"/>
   </programme>
 </tv>
