@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/1RPeF0weFtA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/1RPeF0weFtA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/u2rmpA7NDbQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240405080000 +0530" stop="20240405090000 +0530">
+    <title lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLC బలమూరి వెంకట్ గారి ప్రెస్ మీట్ | Balmoor Venkat press Meet@gandhiBhavan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/u2rmpA7NDbQ/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/5mh8_9-Evxw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240405080000 +0530" stop="20240405090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/5mh8_9-Evxw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
-    <title lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</title>
-    <desc lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</desc>
-    <icon src="https://i.ytimg.com/vi/_AcyDaVpPmc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
-    <title lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</title>
-    <desc lang="en">Live: Leader of Opposition V D Satheesan holds Press Conference on 'The Kerala Story' controversy</desc>
-    <icon src="https://i.ytimg.com/vi/_AcyDaVpPmc/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/IdgCtSjj-Sk/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240405060000 +0530" stop="20240405070000 +0530">
-    <title lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</title>
-    <desc lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</desc>
-    <icon src="https://i.ytimg.com/vi/OEa1vjrsNAI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240405070000 +0530" stop="20240405080000 +0530">
-    <title lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</title>
-    <desc lang="en">LIVE: Rescuers evacuate people trapped at Taroko National Park in Taiwan after deadly quake</desc>
-    <icon src="https://i.ytimg.com/vi/OEa1vjrsNAI/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240405080000 +0530" stop="20240405090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Churu, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/IdgCtSjj-Sk/maxresdefault_live.jpg"/>
   </programme>
 </tv>
