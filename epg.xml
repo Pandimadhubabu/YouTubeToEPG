@@ -2,38 +2,51 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240405100000 +0530" stop="20240405110000 +0530">
-    <title lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</title>
-    <desc lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/_IXMfgP8pcA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240405110000 +0530" stop="20240405120000 +0530">
     <title lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</title>
     <desc lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_IXMfgP8pcA/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
+    <title lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</title>
+    <desc lang="en">LIVE : KA Paul Press Meet LIVE || Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/_IXMfgP8pcA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240405110000 +0530" stop="20240405120000 +0530">
+    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Karnataka via NaMo App</title>
+    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Karnataka via NaMo App</desc>
+    <icon src="https://i.ytimg.com/vi/5ejFZMHFkIs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
+    <title lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Karnataka via NaMo App</title>
+    <desc lang="en">LIVE: PM Modi's interaction with BJP Karyakartas from Karnataka via NaMo App</desc>
+    <icon src="https://i.ytimg.com/vi/5ejFZMHFkIs/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240405100000 +0530" stop="20240405110000 +0530">
-    <title lang="en">BJP PC LIVE: Mandya MP Sumalatha Ambareesh Joins BJP |Big boost for BJP in Karnataka| Lok sabha Poll</title>
-    <desc lang="en">BJP PC LIVE: Mandya MP Sumalatha Ambareesh Joins BJP |Big boost for BJP in Karnataka| Lok sabha Poll</desc>
-    <icon src="https://i.ytimg.com/vi/sqkoFoorCMI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240405110000 +0530" stop="20240405120000 +0530">
-    <title lang="en">BJP PC LIVE: Mandya MP Sumalatha Ambareesh Joins BJP |Big boost for BJP in Karnataka| Lok sabha Poll</title>
-    <desc lang="en">BJP PC LIVE: Mandya MP Sumalatha Ambareesh Joins BJP |Big boost for BJP in Karnataka| Lok sabha Poll</desc>
-    <icon src="https://i.ytimg.com/vi/sqkoFoorCMI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Press Conference by National Spokesperson Gaurav Bhatia at BJP HQ | Lok Sabha Polls 2024</title>
+    <desc lang="en">LIVE: BJP Press Conference by National Spokesperson Gaurav Bhatia at BJP HQ | Lok Sabha Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/rBWxG01qWE8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
+    <title lang="en">LIVE: BJP Press Conference by National Spokesperson Gaurav Bhatia at BJP HQ | Lok Sabha Polls 2024</title>
+    <desc lang="en">LIVE: BJP Press Conference by National Spokesperson Gaurav Bhatia at BJP HQ | Lok Sabha Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/rBWxG01qWE8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240405100000 +0530" stop="20240405110000 +0530">
+  <programme channel="Reuters.yt" start="20240405110000 +0530" stop="20240405120000 +0530">
     <title lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</title>
     <desc lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</desc>
     <icon src="https://i.ytimg.com/vi/O9gOudqgUkY/hqdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240405110000 +0530" stop="20240405120000 +0530">
+  <programme channel="Reuters.yt" start="20240405120000 +0530" stop="20240405130000 +0530">
     <title lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</title>
     <desc lang="en">LIVE: Worshippers gather in Mecca on the last Friday of Ramadan</desc>
     <icon src="https://i.ytimg.com/vi/O9gOudqgUkY/hqdefault_live.jpg"/>
