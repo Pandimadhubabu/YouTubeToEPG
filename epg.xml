@@ -1,13 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240406030000 +0530" stop="20240406040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/fiTPCuqkVIk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240406040000 +0530" stop="20240406050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/fiTPCuqkVIk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240406020000 +0530" stop="20240406030000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240406030000 +0530" stop="20240406040000 +0530">
     <title lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</title>
     <desc lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</desc>
     <icon src="https://i.ytimg.com/vi/ZRUU1tV047I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240406030000 +0530" stop="20240406040000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240406040000 +0530" stop="20240406050000 +0530">
     <title lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</title>
     <desc lang="en">LIVE:Gaza War|Strike on Iran's consulate in Syria is 'turning point,'Hezbollah head says|Iran|Israel</desc>
     <icon src="https://i.ytimg.com/vi/ZRUU1tV047I/maxresdefault_live.jpg"/>
@@ -15,12 +28,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240406020000 +0530" stop="20240406030000 +0530">
+  <programme channel="Reuters.yt" start="20240406030000 +0530" stop="20240406040000 +0530">
     <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
     <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
     <icon src="https://i.ytimg.com/vi/ehLjojFgerY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240406030000 +0530" stop="20240406040000 +0530">
+  <programme channel="Reuters.yt" start="20240406040000 +0530" stop="20240406050000 +0530">
     <title lang="en">LIVE: Taraweeh prayer from Mecca</title>
     <desc lang="en">LIVE: Taraweeh prayer from Mecca</desc>
     <icon src="https://i.ytimg.com/vi/ehLjojFgerY/maxresdefault_live.jpg"/>
