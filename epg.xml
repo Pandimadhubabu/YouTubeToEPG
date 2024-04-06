@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240406090000 +0530" stop="20240406100000 +0530">
-    <title lang="en">LIVE : కేసీఆర్ కు కౌంటర్.. మంత్రుల ప్రెస్ మీట్ | Uttam , Ponnam , Jupally | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కేసీఆర్ కు కౌంటర్.. మంత్రుల ప్రెస్ మీట్ | Uttam , Ponnam , Jupally | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/_vxeJIKKogc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240406100000 +0530" stop="20240406110000 +0530">
     <title lang="en">LIVE : కేసీఆర్ కు కౌంటర్.. మంత్రుల ప్రెస్ మీట్ | Uttam , Ponnam , Jupally | ManaTolivelugu</title>
     <desc lang="en">LIVE : కేసీఆర్ కు కౌంటర్.. మంత్రుల ప్రెస్ మీట్ | Uttam , Ponnam , Jupally | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_vxeJIKKogc/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240406110000 +0530" stop="20240406120000 +0530">
+    <title lang="en">LIVE : కేసీఆర్ కు కౌంటర్.. మంత్రుల ప్రెస్ మీట్ | Uttam , Ponnam , Jupally | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కేసీఆర్ కు కౌంటర్.. మంత్రుల ప్రెస్ మీట్ | Uttam , Ponnam , Jupally | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/_vxeJIKKogc/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240406100000 +0530" stop="20240406110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ajmer, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ajmer, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/x3Ao80lINE4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240406110000 +0530" stop="20240406120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ajmer, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ajmer, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/x3Ao80lINE4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240406090000 +0530" stop="20240406100000 +0530">
-    <title lang="en">LIVE: BJP Spokesperson Sardar R.P. Singh &amp; Shehzad Poonawalla addresses Joint Press Conference</title>
-    <desc lang="en">LIVE: BJP Spokesperson Sardar R.P. Singh &amp; Shehzad Poonawalla addresses Joint Press Conference</desc>
-    <icon src="https://i.ytimg.com/vi/SXB3l2mqQ5w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240406100000 +0530" stop="20240406110000 +0530">
-    <title lang="en">LIVE: BJP Spokesperson Sardar R.P. Singh &amp; Shehzad Poonawalla addresses Joint Press Conference</title>
-    <desc lang="en">LIVE: BJP Spokesperson Sardar R.P. Singh &amp; Shehzad Poonawalla addresses Joint Press Conference</desc>
-    <icon src="https://i.ytimg.com/vi/SXB3l2mqQ5w/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Nagina, Bijnor | Lok Sabha Poll 2024 | BJP</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Nagina, Bijnor | Lok Sabha Poll 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/M4Esjm5lvPI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240406110000 +0530" stop="20240406120000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Nagina, Bijnor | Lok Sabha Poll 2024 | BJP</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Nagina, Bijnor | Lok Sabha Poll 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/M4Esjm5lvPI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
