@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240406070000 +0530" stop="20240406080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Saharanpur, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Saharanpur, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/FHckoOCzKvI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240406080000 +0530" stop="20240406090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Saharanpur, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Saharanpur, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/FHckoOCzKvI/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240406070000 +0530" stop="20240406080000 +0530">
-    <title lang="en">LIVE: "Pakistan ke ander…" CM Yogi Adityanath quotes The Guardian’s report in PM Modi’s presence</title>
-    <desc lang="en">LIVE: "Pakistan ke ander…" CM Yogi Adityanath quotes The Guardian’s report in PM Modi’s presence</desc>
-    <icon src="https://i.ytimg.com/vi/M9Z_tDnpei8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240406080000 +0530" stop="20240406090000 +0530">
-    <title lang="en">LIVE: "Pakistan ke ander…" CM Yogi Adityanath quotes The Guardian’s report in PM Modi’s presence</title>
-    <desc lang="en">LIVE: "Pakistan ke ander…" CM Yogi Adityanath quotes The Guardian’s report in PM Modi’s presence</desc>
-    <icon src="https://i.ytimg.com/vi/M9Z_tDnpei8/maxresdefault_live.jpg"/>
+    <title lang="en">Live: IAF’s Fighter aircrafts touch down on Lucknow-Agra Expressway Unnao, Uttar Pradesh</title>
+    <desc lang="en">Live: IAF’s Fighter aircrafts touch down on Lucknow-Agra Expressway Unnao, Uttar Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/pOHxE_MgoJg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240406090000 +0530" stop="20240406100000 +0530">
+    <title lang="en">Live: IAF’s Fighter aircrafts touch down on Lucknow-Agra Expressway Unnao, Uttar Pradesh</title>
+    <desc lang="en">Live: IAF’s Fighter aircrafts touch down on Lucknow-Agra Expressway Unnao, Uttar Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/pOHxE_MgoJg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
