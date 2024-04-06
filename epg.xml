@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240406050000 +0530" stop="20240406060000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240406060000 +0530" stop="20240406070000 +0530">
     <title lang="en">LIVE: BJP National President J.P. Nadda hoists Party Flag on the occasion of BJP's Sthapana Diwas</title>
     <desc lang="en">LIVE: BJP National President J.P. Nadda hoists Party Flag on the occasion of BJP's Sthapana Diwas</desc>
     <icon src="https://i.ytimg.com/vi/-yMcQmw_TwI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240406060000 +0530" stop="20240406070000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240406070000 +0530" stop="20240406080000 +0530">
     <title lang="en">LIVE: BJP National President J.P. Nadda hoists Party Flag on the occasion of BJP's Sthapana Diwas</title>
     <desc lang="en">LIVE: BJP National President J.P. Nadda hoists Party Flag on the occasion of BJP's Sthapana Diwas</desc>
     <icon src="https://i.ytimg.com/vi/-yMcQmw_TwI/maxresdefault_live.jpg"/>
