@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240407040000 +0530" stop="20240407050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240407050000 +0530" stop="20240407060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/o9IyC_0DNhM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240407050000 +0530" stop="20240407060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240407060000 +0530" stop="20240407070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/o9IyC_0DNhM/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240407040000 +0530" stop="20240407050000 +0530">
-    <title lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks</title>
-    <desc lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks</desc>
+  <programme channel="ANINewsIndia.yt" start="20240407050000 +0530" stop="20240407060000 +0530">
+    <title lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks | Congress Vs BJP</title>
+    <desc lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks | Congress Vs BJP</desc>
     <icon src="https://i.ytimg.com/vi/Tqe5mRS_9iI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240407050000 +0530" stop="20240407060000 +0530">
-    <title lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks</title>
-    <desc lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks</desc>
+  <programme channel="ANINewsIndia.yt" start="20240407060000 +0530" stop="20240407070000 +0530">
+    <title lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks | Congress Vs BJP</title>
+    <desc lang="en">Live: Jairam Ramesh Slams PM Modi Over 'Muslim League' Remarks | Congress Vs BJP</desc>
     <icon src="https://i.ytimg.com/vi/Tqe5mRS_9iI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
