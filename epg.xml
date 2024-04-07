@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240407130000 +0530" stop="20240407140000 +0530">
-    <title lang="en">LIVE: PM Modi holds a roadshow in Jabalpur, Madhya Pradesh</title>
-    <desc lang="en">LIVE: PM Modi holds a roadshow in Jabalpur, Madhya Pradesh</desc>
-    <icon src="https://i.ytimg.com/vi/eEWy3oR3X5A/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240407140000 +0530" stop="20240407150000 +0530">
-    <title lang="en">LIVE: PM Modi holds a roadshow in Jabalpur, Madhya Pradesh</title>
-    <desc lang="en">LIVE: PM Modi holds a roadshow in Jabalpur, Madhya Pradesh</desc>
-    <icon src="https://i.ytimg.com/vi/eEWy3oR3X5A/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240407130000 +0530" stop="20240407140000 +0530">
-    <title lang="en">LIVE: PM Modi holds Mega a roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi holds Mega a roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</desc>
+  <programme channel="ANINewsIndia.yt" start="20240407140000 +0530" stop="20240407150000 +0530">
+    <title lang="en">LIVE: PM Modi holds Mega Roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi holds Mega Roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/Yd7IoIm0HFw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240407140000 +0530" stop="20240407150000 +0530">
-    <title lang="en">LIVE: PM Modi holds Mega a roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi holds Mega a roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</desc>
+  <programme channel="ANINewsIndia.yt" start="20240407150000 +0530" stop="20240407160000 +0530">
+    <title lang="en">LIVE: PM Modi holds Mega Roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi holds Mega Roadshow in Jabalpur, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/Yd7IoIm0HFw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
