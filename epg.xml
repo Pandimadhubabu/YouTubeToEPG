@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240407080000 +0530" stop="20240407090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240407090000 +0530" stop="20240407100000 +0530">
     <title lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</title>
     <desc lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Cgnl_jc7EUc/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240407090000 +0530" stop="20240407100000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240407100000 +0530" stop="20240407110000 +0530">
     <title lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</title>
     <desc lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Cgnl_jc7EUc/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240407080000 +0530" stop="20240407090000 +0530">
-    <title lang="en">LIVE: Indian Air Force Conducts 'Gagan Shakti-2024' Exercise On Lucknow-Agra Expressway | Unnao, UP</title>
-    <desc lang="en">LIVE: Indian Air Force Conducts 'Gagan Shakti-2024' Exercise On Lucknow-Agra Expressway | Unnao, UP</desc>
-    <icon src="https://i.ytimg.com/vi/xs4eKodyfvM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240407090000 +0530" stop="20240407100000 +0530">
-    <title lang="en">LIVE: Indian Air Force Conducts 'Gagan Shakti-2024' Exercise On Lucknow-Agra Expressway | Unnao, UP</title>
-    <desc lang="en">LIVE: Indian Air Force Conducts 'Gagan Shakti-2024' Exercise On Lucknow-Agra Expressway | Unnao, UP</desc>
-    <icon src="https://i.ytimg.com/vi/xs4eKodyfvM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi's Public meeting in Dausa Lok Sabha constituency of Rajasthan | BJP Rajasthan</title>
+    <desc lang="en">LIVE: CM Yogi's Public meeting in Dausa Lok Sabha constituency of Rajasthan | BJP Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/uVbwlSWTosM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240407100000 +0530" stop="20240407110000 +0530">
+    <title lang="en">LIVE: CM Yogi's Public meeting in Dausa Lok Sabha constituency of Rajasthan | BJP Rajasthan</title>
+    <desc lang="en">LIVE: CM Yogi's Public meeting in Dausa Lok Sabha constituency of Rajasthan | BJP Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/uVbwlSWTosM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
