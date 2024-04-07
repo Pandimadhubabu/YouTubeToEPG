@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240407060000 +0530" stop="20240407070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/o9IyC_0DNhM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240407070000 +0530" stop="20240407080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/o9IyC_0DNhM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Cgnl_jc7EUc/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240407060000 +0530" stop="20240407070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Nawada, Bihar | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Nawada, Bihar | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/GfFePVuzN5w/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240407070000 +0530" stop="20240407080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Nawada, Bihar | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Nawada, Bihar | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/GfFePVuzN5w/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240407080000 +0530" stop="20240407090000 +0530">
+    <title lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp Etela Rajeder Press Meet || ManaTolivelugu | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Cgnl_jc7EUc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240407060000 +0530" stop="20240407070000 +0530">
-    <title lang="en">BJP PC LIVE: Sudhanshu Trivedi Press Conference | Lok Sabha Elections 2024</title>
-    <desc lang="en">BJP PC LIVE: Sudhanshu Trivedi Press Conference | Lok Sabha Elections 2024</desc>
-    <icon src="https://i.ytimg.com/vi/T_jvGiWjldA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240407070000 +0530" stop="20240407080000 +0530">
-    <title lang="en">BJP PC LIVE: Sudhanshu Trivedi Press Conference | Lok Sabha Elections 2024</title>
-    <desc lang="en">BJP PC LIVE: Sudhanshu Trivedi Press Conference | Lok Sabha Elections 2024</desc>
-    <icon src="https://i.ytimg.com/vi/T_jvGiWjldA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi's public meeting in Bharatpur Lok Sabha constituency of Rajasthan | BJP Rajasthan</title>
+    <desc lang="en">LIVE: CM Yogi's public meeting in Bharatpur Lok Sabha constituency of Rajasthan | BJP Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/tMZzlsDJVT0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240407080000 +0530" stop="20240407090000 +0530">
+    <title lang="en">LIVE: CM Yogi's public meeting in Bharatpur Lok Sabha constituency of Rajasthan | BJP Rajasthan</title>
+    <desc lang="en">LIVE: CM Yogi's public meeting in Bharatpur Lok Sabha constituency of Rajasthan | BJP Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/tMZzlsDJVT0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
