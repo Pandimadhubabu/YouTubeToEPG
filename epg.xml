@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240408200000 +0530" stop="20240408210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240408210000 +0530" stop="20240408220000 +0530">
     <title lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</title>
     <desc lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</desc>
     <icon src="https://i.ytimg.com/vi/NokIYUmE3Zo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240408210000 +0530" stop="20240408220000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240408220000 +0530" stop="20240408230000 +0530">
     <title lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</title>
     <desc lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</desc>
     <icon src="https://i.ytimg.com/vi/NokIYUmE3Zo/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240408200000 +0530" stop="20240408210000 +0530">
+  <programme channel="Reuters.yt" start="20240408210000 +0530" stop="20240408220000 +0530">
     <title lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</title>
     <desc lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</desc>
     <icon src="https://i.ytimg.com/vi/3HQc41WKgxY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240408210000 +0530" stop="20240408220000 +0530">
+  <programme channel="Reuters.yt" start="20240408220000 +0530" stop="20240408230000 +0530">
     <title lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</title>
     <desc lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</desc>
     <icon src="https://i.ytimg.com/vi/3HQc41WKgxY/maxresdefault_live.jpg"/>
