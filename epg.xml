@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240408150000 +0530" stop="20240408160000 +0530">
-    <title lang="en">LIVE: K Annamalai along with Union Minister Hardeep Singh Puri holds Roadshow in keeranatham |BJP</title>
-    <desc lang="en">LIVE: K Annamalai along with Union Minister Hardeep Singh Puri holds Roadshow in keeranatham |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/PAUDJy9FexM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240408160000 +0530" stop="20240408170000 +0530">
     <title lang="en">LIVE: K Annamalai along with Union Minister Hardeep Singh Puri holds Roadshow in keeranatham |BJP</title>
     <desc lang="en">LIVE: K Annamalai along with Union Minister Hardeep Singh Puri holds Roadshow in keeranatham |BJP</desc>
     <icon src="https://i.ytimg.com/vi/PAUDJy9FexM/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240408150000 +0530" stop="20240408160000 +0530">
-    <title lang="en">LIVE: UN Security Council to consider Palestinian request for full membership to the United Nations</title>
-    <desc lang="en">LIVE: UN Security Council to consider Palestinian request for full membership to the United Nations</desc>
-    <icon src="https://i.ytimg.com/vi/Ua5c1N6K0SE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240408160000 +0530" stop="20240408170000 +0530">
-    <title lang="en">LIVE: UN Security Council to consider Palestinian request for full membership to the United Nations</title>
-    <desc lang="en">LIVE: UN Security Council to consider Palestinian request for full membership to the United Nations</desc>
-    <icon src="https://i.ytimg.com/vi/Ua5c1N6K0SE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240408170000 +0530" stop="20240408180000 +0530">
+    <title lang="en">LIVE: K Annamalai along with Union Minister Hardeep Singh Puri holds Roadshow in keeranatham |BJP</title>
+    <desc lang="en">LIVE: K Annamalai along with Union Minister Hardeep Singh Puri holds Roadshow in keeranatham |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/PAUDJy9FexM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
