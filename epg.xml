@@ -2,38 +2,51 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240408110000 +0530" stop="20240408120000 +0530">
-    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/PND2QzHIvUY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
-    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/PND2QzHIvUY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Qys648kPmvk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
+    <title lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Qys648kPmvk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/k8MSAFRYPdo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/k8MSAFRYPdo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240408110000 +0530" stop="20240408120000 +0530">
-    <title lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ZwU_zJlNMyk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
-    <title lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ZwU_zJlNMyk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi addresses Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/96e3Mjh5hKQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
+    <title lang="en">LIVE: PM Modi addresses Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses Public meeting in Chandrapur, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/96e3Mjh5hKQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240408110000 +0530" stop="20240408120000 +0530">
+  <programme channel="Reuters.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
     <title lang="en">LIVE: View from a tent camp in Rafah</title>
     <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
     <icon src="https://i.ytimg.com/vi/CCZQPAN992Y/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
+  <programme channel="Reuters.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
     <title lang="en">LIVE: View from a tent camp in Rafah</title>
     <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
     <icon src="https://i.ytimg.com/vi/CCZQPAN992Y/maxresdefault_live.jpg"/>
