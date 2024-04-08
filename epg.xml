@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240408100000 +0530" stop="20240408110000 +0530">
-    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/o8R05neyoc0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240408110000 +0530" stop="20240408120000 +0530">
-    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/o8R05neyoc0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/PND2QzHIvUY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/PND2QzHIvUY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240408100000 +0530" stop="20240408110000 +0530">
-    <title lang="en">Live: Union Defence Minister Rajnath Singh attends Public Meeting at Nagapattinam Constituency | BJP</title>
-    <desc lang="en">Live: Union Defence Minister Rajnath Singh attends Public Meeting at Nagapattinam Constituency | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Pzt2sI_xu8s/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240408110000 +0530" stop="20240408120000 +0530">
-    <title lang="en">Live: Union Defence Minister Rajnath Singh attends Public Meeting at Nagapattinam Constituency | BJP</title>
-    <desc lang="en">Live: Union Defence Minister Rajnath Singh attends Public Meeting at Nagapattinam Constituency | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Pzt2sI_xu8s/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZwU_zJlNMyk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
+    <title lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Joint PC BY Salman Khurshid and Omar Abdullah on Seat Sharing for Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZwU_zJlNMyk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240408100000 +0530" stop="20240408110000 +0530">
-    <title lang="en">LIVE: Parade in London marks 120th anniversary of improved relations with France</title>
-    <desc lang="en">LIVE: Parade in London marks 120th anniversary of improved relations with France</desc>
-    <icon src="https://i.ytimg.com/vi/zBJ-wPg_Dxo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240408110000 +0530" stop="20240408120000 +0530">
-    <title lang="en">LIVE: Parade in London marks 120th anniversary of improved relations with France</title>
-    <desc lang="en">LIVE: Parade in London marks 120th anniversary of improved relations with France</desc>
-    <icon src="https://i.ytimg.com/vi/zBJ-wPg_Dxo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View from a tent camp in Rafah</title>
+    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
+    <icon src="https://i.ytimg.com/vi/CCZQPAN992Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240408120000 +0530" stop="20240408130000 +0530">
+    <title lang="en">LIVE: View from a tent camp in Rafah</title>
+    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
+    <icon src="https://i.ytimg.com/vi/CCZQPAN992Y/maxresdefault_live.jpg"/>
   </programme>
 </tv>
