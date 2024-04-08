@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240408140000 +0530" stop="20240408150000 +0530">
     <title lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</title>
     <desc lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Qys648kPmvk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240408140000 +0530" stop="20240408150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240408150000 +0530" stop="20240408160000 +0530">
     <title lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</title>
     <desc lang="en">LIVE :  Addanki Dayakar Live | Rajyanga Rakshana Meeting | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Qys648kPmvk/maxresdefault_live.jpg"/>
@@ -15,27 +15,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
-    <title lang="en">LIVE: Delhi Police detain TMC leaders who were protesting outside the Election Commission Office</title>
-    <desc lang="en">LIVE: Delhi Police detain TMC leaders who were protesting outside the Election Commission Office</desc>
-    <icon src="https://i.ytimg.com/vi/KiZWI87yEG4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240408140000 +0530" stop="20240408150000 +0530">
-    <title lang="en">LIVE: Delhi Police detain TMC leaders who were protesting outside the Election Commission Office</title>
-    <desc lang="en">LIVE: Delhi Police detain TMC leaders who were protesting outside the Election Commission Office</desc>
-    <icon src="https://i.ytimg.com/vi/KiZWI87yEG4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi Attends Public Meeting at Nagpur West | Lok Sabha Polls  | Maharashtra | Nitin Gadkari</title>
+    <desc lang="en">LIVE: CM Yogi Attends Public Meeting at Nagpur West | Lok Sabha Polls  | Maharashtra | Nitin Gadkari</desc>
+    <icon src="https://i.ytimg.com/vi/gwqNUZ3t9ZI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240408150000 +0530" stop="20240408160000 +0530">
+    <title lang="en">LIVE: CM Yogi Attends Public Meeting at Nagpur West | Lok Sabha Polls  | Maharashtra | Nitin Gadkari</title>
+    <desc lang="en">LIVE: CM Yogi Attends Public Meeting at Nagpur West | Lok Sabha Polls  | Maharashtra | Nitin Gadkari</desc>
+    <icon src="https://i.ytimg.com/vi/gwqNUZ3t9ZI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240408130000 +0530" stop="20240408140000 +0530">
-    <title lang="en">LIVE: View from a tent camp in Rafah</title>
-    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
-    <icon src="https://i.ytimg.com/vi/CCZQPAN992Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240408140000 +0530" stop="20240408150000 +0530">
-    <title lang="en">LIVE: View from a tent camp in Rafah</title>
-    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
-    <icon src="https://i.ytimg.com/vi/CCZQPAN992Y/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: British Grenadiers join Republican Guards for Elysee changing of the guard in Paris</title>
+    <desc lang="en">LIVE: British Grenadiers join Republican Guards for Elysee changing of the guard in Paris</desc>
+    <icon src="https://i.ytimg.com/vi/l52mB97eMUk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240408150000 +0530" stop="20240408160000 +0530">
+    <title lang="en">LIVE: British Grenadiers join Republican Guards for Elysee changing of the guard in Paris</title>
+    <desc lang="en">LIVE: British Grenadiers join Republican Guards for Elysee changing of the guard in Paris</desc>
+    <icon src="https://i.ytimg.com/vi/l52mB97eMUk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240408140000 +0530" stop="20240408150000 +0530">
+    <title lang="en">Hon’ble CM Sri.A. Revanth Reddy at Kondangal</title>
+    <desc lang="en">Hon’ble CM Sri.A. Revanth Reddy at Kondangal</desc>
+    <icon src="https://i.ytimg.com/vi/EstNyXVIygI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240408150000 +0530" stop="20240408160000 +0530">
+    <title lang="en">Hon’ble CM Sri.A. Revanth Reddy at Kondangal</title>
+    <desc lang="en">Hon’ble CM Sri.A. Revanth Reddy at Kondangal</desc>
+    <icon src="https://i.ytimg.com/vi/EstNyXVIygI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
