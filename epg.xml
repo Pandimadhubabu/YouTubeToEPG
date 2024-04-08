@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240408070000 +0530" stop="20240408080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240408080000 +0530" stop="20240408090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/UGgyvwHQzPY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240408080000 +0530" stop="20240408090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240408090000 +0530" stop="20240408100000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/UGgyvwHQzPY/maxresdefault_live.jpg"/>
@@ -15,27 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240408070000 +0530" stop="20240408080000 +0530">
-    <title lang="en">Live: AAP Party Launches Election Campaign 'Jail Ka Jawab Vote Se' for Lok Sabha Election 2024 | PC</title>
-    <desc lang="en">Live: AAP Party Launches Election Campaign 'Jail Ka Jawab Vote Se' for Lok Sabha Election 2024 | PC</desc>
-    <icon src="https://i.ytimg.com/vi/Ylc_rEsbDbw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240408080000 +0530" stop="20240408090000 +0530">
-    <title lang="en">Live: AAP Party Launches Election Campaign 'Jail Ka Jawab Vote Se' for Lok Sabha Election 2024 | PC</title>
-    <desc lang="en">Live: AAP Party Launches Election Campaign 'Jail Ka Jawab Vote Se' for Lok Sabha Election 2024 | PC</desc>
-    <icon src="https://i.ytimg.com/vi/Ylc_rEsbDbw/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Union Defence Minister Rajnath Singh holds roadshow in Namakkal | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Union Defence Minister Rajnath Singh holds roadshow in Namakkal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/yqVlqZHSQ7M/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240408090000 +0530" stop="20240408100000 +0530">
+    <title lang="en">Live: Union Defence Minister Rajnath Singh holds roadshow in Namakkal | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Union Defence Minister Rajnath Singh holds roadshow in Namakkal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/yqVlqZHSQ7M/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240408070000 +0530" stop="20240408080000 +0530">
-    <title lang="en">LIVE: Janet Yellen press conference following her meetings with Chinese officials | REUTERS</title>
-    <desc lang="en">LIVE: Janet Yellen press conference following her meetings with Chinese officials | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/OOWdb0gKPvw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240408080000 +0530" stop="20240408090000 +0530">
-    <title lang="en">LIVE: Janet Yellen press conference following her meetings with Chinese officials | REUTERS</title>
-    <desc lang="en">LIVE: Janet Yellen press conference following her meetings with Chinese officials | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/OOWdb0gKPvw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Nicaragua asks World Court to order Germany to stop military aid to Israel</title>
+    <desc lang="en">LIVE: Nicaragua asks World Court to order Germany to stop military aid to Israel</desc>
+    <icon src="https://i.ytimg.com/vi/BZLSdlh9a3s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240408090000 +0530" stop="20240408100000 +0530">
+    <title lang="en">LIVE: Nicaragua asks World Court to order Germany to stop military aid to Israel</title>
+    <desc lang="en">LIVE: Nicaragua asks World Court to order Germany to stop military aid to Israel</desc>
+    <icon src="https://i.ytimg.com/vi/BZLSdlh9a3s/maxresdefault_live.jpg"/>
   </programme>
 </tv>
