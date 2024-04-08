@@ -2,14 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240408020000 +0530" stop="20240408030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/UGgyvwHQzPY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240408030000 +0530" stop="20240408040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/UGgyvwHQzPY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240408040000 +0530" stop="20240408050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/UGgyvwHQzPY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240408030000 +0530" stop="20240408040000 +0530">
+    <title lang="en">Live: BJP candidate Madhavi Latha’s sarcastic reaction on AIMIM Chief Owaisi receiving Death threats</title>
+    <desc lang="en">Live: BJP candidate Madhavi Latha’s sarcastic reaction on AIMIM Chief Owaisi receiving Death threats</desc>
+    <icon src="https://i.ytimg.com/vi/dohdYTcEdiE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240408040000 +0530" stop="20240408050000 +0530">
+    <title lang="en">Live: BJP candidate Madhavi Latha’s sarcastic reaction on AIMIM Chief Owaisi receiving Death threats</title>
+    <desc lang="en">Live: BJP candidate Madhavi Latha’s sarcastic reaction on AIMIM Chief Owaisi receiving Death threats</desc>
+    <icon src="https://i.ytimg.com/vi/dohdYTcEdiE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
