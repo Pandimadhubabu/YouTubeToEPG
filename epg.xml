@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240409090000 +0530" stop="20240409100000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240409100000 +0530" stop="20240409110000 +0530">
     <title lang="en">LIVE : Bjp Rani Rudrama Press Meet | రాణి రుద్రమ ప్రెస్ మీట్ |  ManaTolivelugu</title>
     <desc lang="en">LIVE : Bjp Rani Rudrama Press Meet | రాణి రుద్రమ ప్రెస్ మీట్ |  ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/XntuO67kCGQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240409100000 +0530" stop="20240409110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240409110000 +0530" stop="20240409120000 +0530">
     <title lang="en">LIVE : Bjp Rani Rudrama Press Meet | రాణి రుద్రమ ప్రెస్ మీట్ |  ManaTolivelugu</title>
     <desc lang="en">LIVE : Bjp Rani Rudrama Press Meet | రాణి రుద్రమ ప్రెస్ మీట్ |  ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/XntuO67kCGQ/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240409090000 +0530" stop="20240409100000 +0530">
-    <title lang="en">LIVE: HM Amit Shah’s Public Meeting at Chukuli Bhoria, North Lakhimpur, Assam</title>
-    <desc lang="en">LIVE: HM Amit Shah’s Public Meeting at Chukuli Bhoria, North Lakhimpur, Assam</desc>
-    <icon src="https://i.ytimg.com/vi/DtbRLr82tBw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240409100000 +0530" stop="20240409110000 +0530">
-    <title lang="en">LIVE: HM Amit Shah’s Public Meeting at Chukuli Bhoria, North Lakhimpur, Assam</title>
-    <desc lang="en">LIVE: HM Amit Shah’s Public Meeting at Chukuli Bhoria, North Lakhimpur, Assam</desc>
-    <icon src="https://i.ytimg.com/vi/DtbRLr82tBw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi Adityanath addresses Public Rally at Sikera Farm House, Hapur | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: CM Yogi Adityanath addresses Public Rally at Sikera Farm House, Hapur | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/SeVEQju-bL0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240409110000 +0530" stop="20240409120000 +0530">
+    <title lang="en">LIVE: CM Yogi Adityanath addresses Public Rally at Sikera Farm House, Hapur | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: CM Yogi Adityanath addresses Public Rally at Sikera Farm House, Hapur | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/SeVEQju-bL0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240409090000 +0530" stop="20240409100000 +0530">
+  <programme channel="Reuters.yt" start="20240409100000 +0530" stop="20240409110000 +0530">
     <title lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</title>
     <desc lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</desc>
     <icon src="https://i.ytimg.com/vi/007ZPlpesGQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240409100000 +0530" stop="20240409110000 +0530">
+  <programme channel="Reuters.yt" start="20240409110000 +0530" stop="20240409120000 +0530">
     <title lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</title>
     <desc lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</desc>
     <icon src="https://i.ytimg.com/vi/007ZPlpesGQ/maxresdefault_live.jpg"/>
