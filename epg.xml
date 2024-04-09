@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240409160000 +0530" stop="20240409170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240409170000 +0530" stop="20240409180000 +0530">
     <title lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</title>
     <desc lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</desc>
     <icon src="https://i.ytimg.com/vi/8gTaWw0VqF4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240409170000 +0530" stop="20240409180000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240409180000 +0530" stop="20240409190000 +0530">
     <title lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</title>
     <desc lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</desc>
     <icon src="https://i.ytimg.com/vi/8gTaWw0VqF4/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240409160000 +0530" stop="20240409170000 +0530">
+  <programme channel="Reuters.yt" start="20240409170000 +0530" stop="20240409180000 +0530">
     <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
     <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
     <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240409170000 +0530" stop="20240409180000 +0530">
+  <programme channel="Reuters.yt" start="20240409180000 +0530" stop="20240409190000 +0530">
     <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
     <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
     <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
