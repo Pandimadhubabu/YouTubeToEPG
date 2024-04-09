@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240409060000 +0530" stop="20240409070000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/pG5dDL5VyMw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240409070000 +0530" stop="20240409080000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/pG5dDL5VyMw/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240409060000 +0530" stop="20240409070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Pilibhit, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Pilibhit, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/DSZR2bFekkU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240409070000 +0530" stop="20240409080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Pilibhit, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Pilibhit, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/DSZR2bFekkU/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240409060000 +0530" stop="20240409070000 +0530">
-    <title lang="en">LIVE: Maha Vikas Aghadi (MVA) Press Conference at Shivalaya Sena (UBT) Party office | Mumbai</title>
-    <desc lang="en">LIVE: Maha Vikas Aghadi (MVA) Press Conference at Shivalaya Sena (UBT) Party office | Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/Dl63K3CTW0A/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240409070000 +0530" stop="20240409080000 +0530">
-    <title lang="en">LIVE: Maha Vikas Aghadi (MVA) Press Conference at Shivalaya Sena (UBT) Party office | Mumbai</title>
-    <desc lang="en">LIVE: Maha Vikas Aghadi (MVA) Press Conference at Shivalaya Sena (UBT) Party office | Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/Dl63K3CTW0A/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Eminent personality joins the Indian National Congress | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Eminent personality joins the Indian National Congress | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ukDNlM8KRKM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240409080000 +0530" stop="20240409090000 +0530">
+    <title lang="en">LIVE: Eminent personality joins the Indian National Congress | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Eminent personality joins the Indian National Congress | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ukDNlM8KRKM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
