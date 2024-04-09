@@ -1,1 +1,28 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240409200000 +0530" stop="20240409210000 +0530">
+    <title lang="en">Netanyahu says Israel will eliminate Hamas' brigades</title>
+    <desc lang="en">Netanyahu says Israel will eliminate Hamas' brigades</desc>
+    <icon src="https://i.ytimg.com/vi/d3UwVhrB7iw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240409210000 +0530" stop="20240409220000 +0530">
+    <title lang="en">Netanyahu says Israel will eliminate Hamas' brigades</title>
+    <desc lang="en">Netanyahu says Israel will eliminate Hamas' brigades</desc>
+    <icon src="https://i.ytimg.com/vi/d3UwVhrB7iw/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240409200000 +0530" stop="20240409210000 +0530">
+    <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
+    <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
+    <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240409210000 +0530" stop="20240409220000 +0530">
+    <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
+    <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
+    <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
