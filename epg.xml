@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240409000000 +0530" stop="20240409010000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240409010000 +0530" stop="20240409020000 +0530">
     <title lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</title>
     <desc lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</desc>
     <icon src="https://i.ytimg.com/vi/NokIYUmE3Zo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240409010000 +0530" stop="20240409020000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240409020000 +0530" stop="20240409030000 +0530">
     <title lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</title>
     <desc lang="en">LIVE: 2024 Total Solar Eclipse | NOAA |Live From Cotton Bowl Stadium Dallas, Texas, US | Mexico</desc>
     <icon src="https://i.ytimg.com/vi/NokIYUmE3Zo/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240409000000 +0530" stop="20240409010000 +0530">
-    <title lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</title>
-    <desc lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</desc>
-    <icon src="https://i.ytimg.com/vi/3HQc41WKgxY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240409010000 +0530" stop="20240409020000 +0530">
-    <title lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</title>
-    <desc lang="en">LIVE: Crowds in Oklahoma watch the total solar eclipse</desc>
-    <icon src="https://i.ytimg.com/vi/3HQc41WKgxY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Total solar eclipse as seen through NASA telescope</title>
+    <desc lang="en">LIVE: Total solar eclipse as seen through NASA telescope</desc>
+    <icon src="https://i.ytimg.com/vi/70_p_4jtqS0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240409020000 +0530" stop="20240409030000 +0530">
+    <title lang="en">LIVE: Total solar eclipse as seen through NASA telescope</title>
+    <desc lang="en">LIVE: Total solar eclipse as seen through NASA telescope</desc>
+    <icon src="https://i.ytimg.com/vi/70_p_4jtqS0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
