@@ -2,53 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240409130000 +0530" stop="20240409140000 +0530">
-    <title lang="en">LIVE : ప్రజాశాంతి పార్టీ కొత్త గుర్తు కుండ ...!! కెఏ పాల్ సంచలన ప్రెస్ మీట్ ! | KA Paul Press Meet</title>
-    <desc lang="en">LIVE : ప్రజాశాంతి పార్టీ కొత్త గుర్తు కుండ ...!! కెఏ పాల్ సంచలన ప్రెస్ మీట్ ! | KA Paul Press Meet</desc>
-    <icon src="https://i.ytimg.com/vi/_PgQhr-QjSM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240409140000 +0530" stop="20240409150000 +0530">
     <title lang="en">LIVE : ప్రజాశాంతి పార్టీ కొత్త గుర్తు కుండ ...!! కెఏ పాల్ సంచలన ప్రెస్ మీట్ ! | KA Paul Press Meet</title>
     <desc lang="en">LIVE : ప్రజాశాంతి పార్టీ కొత్త గుర్తు కుండ ...!! కెఏ పాల్ సంచలన ప్రెస్ మీట్ ! | KA Paul Press Meet</desc>
     <icon src="https://i.ytimg.com/vi/_PgQhr-QjSM/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240409130000 +0530" stop="20240409140000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Chennai today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Chennai today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/VMuPCWoncGM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240409140000 +0530" stop="20240409150000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Chennai today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Chennai today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/VMuPCWoncGM/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240409150000 +0530" stop="20240409160000 +0530">
+    <title lang="en">LIVE : ప్రజాశాంతి పార్టీ కొత్త గుర్తు కుండ ...!! కెఏ పాల్ సంచలన ప్రెస్ మీట్ ! | KA Paul Press Meet</title>
+    <desc lang="en">LIVE : ప్రజాశాంతి పార్టీ కొత్త గుర్తు కుండ ...!! కెఏ పాల్ సంచలన ప్రెస్ మీట్ ! | KA Paul Press Meet</desc>
+    <icon src="https://i.ytimg.com/vi/_PgQhr-QjSM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240409130000 +0530" stop="20240409140000 +0530">
-    <title lang="en">LIVE: HM Amit Shah’s Road Show at Chaliha Nagar to Thana Charali, Tinsukia | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah’s Road Show at Chaliha Nagar to Thana Charali, Tinsukia | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/UWWH_dGXnsc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240409140000 +0530" stop="20240409150000 +0530">
-    <title lang="en">LIVE: HM Amit Shah’s Road Show at Chaliha Nagar to Thana Charali, Tinsukia | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah’s Road Show at Chaliha Nagar to Thana Charali, Tinsukia | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/UWWH_dGXnsc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi holds a grand roadshow in Chennai, Tamil Nadu |Lok Sabha Elections 2024|Annamalai |BJP</title>
+    <desc lang="en">LIVE: PM Modi holds a grand roadshow in Chennai, Tamil Nadu |Lok Sabha Elections 2024|Annamalai |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/JoM-Oe_XcZ4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240409150000 +0530" stop="20240409160000 +0530">
+    <title lang="en">LIVE: PM Modi holds a grand roadshow in Chennai, Tamil Nadu |Lok Sabha Elections 2024|Annamalai |BJP</title>
+    <desc lang="en">LIVE: PM Modi holds a grand roadshow in Chennai, Tamil Nadu |Lok Sabha Elections 2024|Annamalai |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/JoM-Oe_XcZ4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240409130000 +0530" stop="20240409140000 +0530">
-    <title lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</title>
-    <desc lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</desc>
-    <icon src="https://i.ytimg.com/vi/WOpyvSiogPc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240409140000 +0530" stop="20240409150000 +0530">
-    <title lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</title>
-    <desc lang="en">LIVE: Alan Bates testifies at UK Post Office Horizon IT Inquiry</desc>
-    <icon src="https://i.ytimg.com/vi/WOpyvSiogPc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
+    <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
+    <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240409150000 +0530" stop="20240409160000 +0530">
+    <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
+    <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
+    <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
   </programme>
 </tv>
