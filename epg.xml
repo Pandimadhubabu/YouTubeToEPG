@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240409020000 +0530" stop="20240409030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240409030000 +0530" stop="20240409040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/kvP53HAEKJs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240409030000 +0530" stop="20240409040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240409040000 +0530" stop="20240409050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/kvP53HAEKJs/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240409020000 +0530" stop="20240409030000 +0530">
-    <title lang="en">LIVE: Massive turnout in Nagpur as people celebrate auspicious festival ‘Gudi Padwa’</title>
-    <desc lang="en">LIVE: Massive turnout in Nagpur as people celebrate auspicious festival ‘Gudi Padwa’</desc>
-    <icon src="https://i.ytimg.com/vi/QJ1J6VTl_uk/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240409030000 +0530" stop="20240409040000 +0530">
-    <title lang="en">LIVE: Massive turnout in Nagpur as people celebrate auspicious festival ‘Gudi Padwa’</title>
-    <desc lang="en">LIVE: Massive turnout in Nagpur as people celebrate auspicious festival ‘Gudi Padwa’</desc>
-    <icon src="https://i.ytimg.com/vi/QJ1J6VTl_uk/hqdefault_live.jpg"/>
+    <title lang="en">LIVE: Devotees Throng Temples Across India As Chaitra Navratri Begins | Live | Hindu New Year</title>
+    <desc lang="en">LIVE: Devotees Throng Temples Across India As Chaitra Navratri Begins | Live | Hindu New Year</desc>
+    <icon src="https://i.ytimg.com/vi/KwYYb4SxRNY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240409020000 +0530" stop="20240409030000 +0530">
-    <title lang="en">LIVE: Total solar eclipse as seen through NASA telescope</title>
-    <desc lang="en">LIVE: Total solar eclipse as seen through NASA telescope</desc>
-    <icon src="https://i.ytimg.com/vi/70_p_4jtqS0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240409030000 +0530" stop="20240409040000 +0530">
-    <title lang="en">LIVE: Total solar eclipse as seen through NASA telescope</title>
-    <desc lang="en">LIVE: Total solar eclipse as seen through NASA telescope</desc>
-    <icon src="https://i.ytimg.com/vi/70_p_4jtqS0/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240409040000 +0530" stop="20240409050000 +0530">
+    <title lang="en">LIVE: Devotees Throng Temples Across India As Chaitra Navratri Begins | Live | Hindu New Year</title>
+    <desc lang="en">LIVE: Devotees Throng Temples Across India As Chaitra Navratri Begins | Live | Hindu New Year</desc>
+    <icon src="https://i.ytimg.com/vi/KwYYb4SxRNY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
