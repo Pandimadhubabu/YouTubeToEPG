@@ -1,13 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240410020000 +0530" stop="20240410030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240410030000 +0530" stop="20240410040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410010000 +0530" stop="20240410020000 +0530">
+  <programme channel="Reuters.yt" start="20240410020000 +0530" stop="20240410030000 +0530">
     <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
     <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
     <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240410020000 +0530" stop="20240410030000 +0530">
+  <programme channel="Reuters.yt" start="20240410030000 +0530" stop="20240410040000 +0530">
     <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
     <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
     <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
