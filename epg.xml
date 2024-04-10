@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
-    <title lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</title>
-    <desc lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</desc>
-    <icon src="https://i.ytimg.com/vi/Byqe_tCUT2A/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240410120000 +0530" stop="20240410130000 +0530">
-    <title lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</title>
-    <desc lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</desc>
-    <icon src="https://i.ytimg.com/vi/Byqe_tCUT2A/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/SXLnpefAp1c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410130000 +0530" stop="20240410140000 +0530">
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/SXLnpefAp1c/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/x0HKLTt2GfA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240410120000 +0530" stop="20240410130000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/x0HKLTt2GfA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</title>
+    <desc lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</desc>
+    <icon src="https://i.ytimg.com/vi/rrFEyQrIwiw/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240410130000 +0530" stop="20240410140000 +0530">
+    <title lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</title>
+    <desc lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</desc>
+    <icon src="https://i.ytimg.com/vi/rrFEyQrIwiw/hqdefault_live.jpg"/>
   </programme>
 </tv>
