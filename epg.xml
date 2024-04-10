@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240410020000 +0530" stop="20240410030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240410030000 +0530" stop="20240410040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240410040000 +0530" stop="20240410050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240410030000 +0530" stop="20240410040000 +0530">
+    <title lang="en">“Chennai embraces PM Modi like a son…” Tamil Nadu BJP Chief K Annamalai on PM Modi’s mega roadshow</title>
+    <desc lang="en">“Chennai embraces PM Modi like a son…” Tamil Nadu BJP Chief K Annamalai on PM Modi’s mega roadshow</desc>
+    <icon src="https://i.ytimg.com/vi/GqWoCENVG_w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410040000 +0530" stop="20240410050000 +0530">
+    <title lang="en">“Chennai embraces PM Modi like a son…” Tamil Nadu BJP Chief K Annamalai on PM Modi’s mega roadshow</title>
+    <desc lang="en">“Chennai embraces PM Modi like a son…” Tamil Nadu BJP Chief K Annamalai on PM Modi’s mega roadshow</desc>
+    <icon src="https://i.ytimg.com/vi/GqWoCENVG_w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410020000 +0530" stop="20240410030000 +0530">
-    <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
-    <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
-    <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240410030000 +0530" stop="20240410040000 +0530">
-    <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
-    <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
-    <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Iraqi Muslims offer Eid al-Fitr prayers at Abu Hanifa Mosque in Baghdad | REUTERS</title>
+    <desc lang="en">LIVE: Iraqi Muslims offer Eid al-Fitr prayers at Abu Hanifa Mosque in Baghdad | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/f1niyT413xw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240410040000 +0530" stop="20240410050000 +0530">
+    <title lang="en">LIVE: Iraqi Muslims offer Eid al-Fitr prayers at Abu Hanifa Mosque in Baghdad | REUTERS</title>
+    <desc lang="en">LIVE: Iraqi Muslims offer Eid al-Fitr prayers at Abu Hanifa Mosque in Baghdad | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/f1niyT413xw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
