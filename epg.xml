@@ -2,51 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240410090000 +0530" stop="20240410100000 +0530">
-    <title lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Koy40RNVhEg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
     <title lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</title>
     <desc lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Koy40RNVhEg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240410090000 +0530" stop="20240410100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/sHw3ZIg9pe8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/sHw3ZIg9pe8/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
+    <title lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Koy40RNVhEg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410090000 +0530" stop="20240410100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election | BJP | Annamalai</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election | BJP | Annamalai</desc>
-    <icon src="https://i.ytimg.com/vi/lfOg2Cr63nM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election | BJP | Annamalai</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mettupalayam, Tamil Nadu | Lok Sabha Election | BJP | Annamalai</desc>
-    <icon src="https://i.ytimg.com/vi/lfOg2Cr63nM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</desc>
+    <icon src="https://i.ytimg.com/vi/jOfhCCfCGNk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</desc>
+    <icon src="https://i.ytimg.com/vi/jOfhCCfCGNk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410090000 +0530" stop="20240410100000 +0530">
+  <programme channel="Reuters.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
     <title lang="en">LIVE: South Korean officials begin counting ballots after polls close</title>
     <desc lang="en">LIVE: South Korean officials begin counting ballots after polls close</desc>
     <icon src="https://i.ytimg.com/vi/D6b4wn5h-kw/hqdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
+  <programme channel="Reuters.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
     <title lang="en">LIVE: South Korean officials begin counting ballots after polls close</title>
     <desc lang="en">LIVE: South Korean officials begin counting ballots after polls close</desc>
     <icon src="https://i.ytimg.com/vi/D6b4wn5h-kw/hqdefault_live.jpg"/>
