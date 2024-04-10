@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240410060000 +0530" stop="20240410070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240410070000 +0530" stop="20240410080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240410070000 +0530" stop="20240410080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240410080000 +0530" stop="20240410090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410060000 +0530" stop="20240410070000 +0530">
-    <title lang="en">LIVE: President Droupadi Murmu graces the World Homoeopathy Day celebration in New Delhi | India</title>
-    <desc lang="en">LIVE: President Droupadi Murmu graces the World Homoeopathy Day celebration in New Delhi | India</desc>
-    <icon src="https://i.ytimg.com/vi/BqSlcp0u00A/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240410070000 +0530" stop="20240410080000 +0530">
-    <title lang="en">LIVE: President Droupadi Murmu graces the World Homoeopathy Day celebration in New Delhi | India</title>
-    <desc lang="en">LIVE: President Droupadi Murmu graces the World Homoeopathy Day celebration in New Delhi | India</desc>
-    <icon src="https://i.ytimg.com/vi/BqSlcp0u00A/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Saharanpur,Uttar Pradesh</title>
+    <desc lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Saharanpur,Uttar Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/oCDowBVvve4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410080000 +0530" stop="20240410090000 +0530">
+    <title lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Saharanpur,Uttar Pradesh</title>
+    <desc lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Saharanpur,Uttar Pradesh</desc>
+    <icon src="https://i.ytimg.com/vi/oCDowBVvve4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
