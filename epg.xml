@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
-    <title lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Koy40RNVhEg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
-    <title lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLA KTR  Meeting | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Koy40RNVhEg/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</desc>
-    <icon src="https://i.ytimg.com/vi/jOfhCCfCGNk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Muzaffarnagar I Lok Sabha Election I BJP</desc>
-    <icon src="https://i.ytimg.com/vi/jOfhCCfCGNk/maxresdefault_live.jpg"/>
+    <title lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</title>
+    <desc lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</desc>
+    <icon src="https://i.ytimg.com/vi/Byqe_tCUT2A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410120000 +0530" stop="20240410130000 +0530">
+    <title lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</title>
+    <desc lang="en">EAM S Jaishankar LIVE: EAM Jaishankar Address Press Conference I Bikaner I Rajasthan |BJP | Election</desc>
+    <icon src="https://i.ytimg.com/vi/Byqe_tCUT2A/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410100000 +0530" stop="20240410110000 +0530">
-    <title lang="en">LIVE: South Korean officials begin counting ballots after polls close</title>
-    <desc lang="en">LIVE: South Korean officials begin counting ballots after polls close</desc>
-    <icon src="https://i.ytimg.com/vi/D6b4wn5h-kw/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240410110000 +0530" stop="20240410120000 +0530">
-    <title lang="en">LIVE: South Korean officials begin counting ballots after polls close</title>
-    <desc lang="en">LIVE: South Korean officials begin counting ballots after polls close</desc>
-    <icon src="https://i.ytimg.com/vi/D6b4wn5h-kw/hqdefault_live.jpg"/>
+    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/x0HKLTt2GfA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240410120000 +0530" stop="20240410130000 +0530">
+    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/x0HKLTt2GfA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
