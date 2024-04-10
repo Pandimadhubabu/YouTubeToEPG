@@ -1,28 +1,41 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240410130000 +0530" stop="20240410140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/15IkWOKJMM0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240410140000 +0530" stop="20240410150000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/15IkWOKJMM0/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410120000 +0530" stop="20240410130000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/SXLnpefAp1c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240410130000 +0530" stop="20240410140000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Gaya, Bihar I BJP I Lok Sabha election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/SXLnpefAp1c/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DYHSe05vKxY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410140000 +0530" stop="20240410150000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ramtek, Maharashtra | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DYHSe05vKxY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410120000 +0530" stop="20240410130000 +0530">
-    <title lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</title>
-    <desc lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</desc>
-    <icon src="https://i.ytimg.com/vi/rrFEyQrIwiw/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240410130000 +0530" stop="20240410140000 +0530">
-    <title lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</title>
-    <desc lang="en">LIVE: EU lawmakers debate and vote on new migration and asylum rules</desc>
-    <icon src="https://i.ytimg.com/vi/rrFEyQrIwiw/hqdefault_live.jpg"/>
+    <title lang="en">LIVE: UN climate chief outlines COP30 plans in London</title>
+    <desc lang="en">LIVE: UN climate chief outlines COP30 plans in London</desc>
+    <icon src="https://i.ytimg.com/vi/2tqZKVT9UrE/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240410140000 +0530" stop="20240410150000 +0530">
+    <title lang="en">LIVE: UN climate chief outlines COP30 plans in London</title>
+    <desc lang="en">LIVE: UN climate chief outlines COP30 plans in London</desc>
+    <icon src="https://i.ytimg.com/vi/2tqZKVT9UrE/hqdefault_live.jpg"/>
   </programme>
 </tv>
