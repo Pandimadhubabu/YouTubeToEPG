@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410150000 +0530" stop="20240410160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240410160000 +0530" stop="20240410170000 +0530">
     <title lang="en">LIVE: EAM S Jaishankar address Prabuddh Jan Sammelan in Bikaner, Rajasthan | Lok Sabha Election |BJP</title>
     <desc lang="en">LIVE: EAM S Jaishankar address Prabuddh Jan Sammelan in Bikaner, Rajasthan | Lok Sabha Election |BJP</desc>
     <icon src="https://i.ytimg.com/vi/rUmt0otkBVQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240410160000 +0530" stop="20240410170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240410170000 +0530" stop="20240410180000 +0530">
     <title lang="en">LIVE: EAM S Jaishankar address Prabuddh Jan Sammelan in Bikaner, Rajasthan | Lok Sabha Election |BJP</title>
     <desc lang="en">LIVE: EAM S Jaishankar address Prabuddh Jan Sammelan in Bikaner, Rajasthan | Lok Sabha Election |BJP</desc>
     <icon src="https://i.ytimg.com/vi/rUmt0otkBVQ/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410150000 +0530" stop="20240410160000 +0530">
-    <title lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</title>
-    <desc lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</desc>
-    <icon src="https://i.ytimg.com/vi/FsExeOO5NQE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240410160000 +0530" stop="20240410170000 +0530">
-    <title lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</title>
-    <desc lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</desc>
-    <icon src="https://i.ytimg.com/vi/FsExeOO5NQE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Top New York and US officials speak at National Action Network 2024</title>
+    <desc lang="en">LIVE: Top New York and US officials speak at National Action Network 2024</desc>
+    <icon src="https://i.ytimg.com/vi/4VZjg15K8Hs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240410170000 +0530" stop="20240410180000 +0530">
+    <title lang="en">LIVE: Top New York and US officials speak at National Action Network 2024</title>
+    <desc lang="en">LIVE: Top New York and US officials speak at National Action Network 2024</desc>
+    <icon src="https://i.ytimg.com/vi/4VZjg15K8Hs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
