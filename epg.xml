@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410190000 +0530" stop="20240410200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240410200000 +0530" stop="20240410210000 +0530">
     <title lang="en">Live: US envoy Eric Garcetti praises ‘strong’ US-India ties | Cyber Security | Joe Biden | PM Modi</title>
     <desc lang="en">Live: US envoy Eric Garcetti praises ‘strong’ US-India ties | Cyber Security | Joe Biden | PM Modi</desc>
     <icon src="https://i.ytimg.com/vi/L2PkQxeYZUQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240410200000 +0530" stop="20240410210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240410210000 +0530" stop="20240410220000 +0530">
     <title lang="en">Live: US envoy Eric Garcetti praises ‘strong’ US-India ties | Cyber Security | Joe Biden | PM Modi</title>
     <desc lang="en">Live: US envoy Eric Garcetti praises ‘strong’ US-India ties | Cyber Security | Joe Biden | PM Modi</desc>
     <icon src="https://i.ytimg.com/vi/L2PkQxeYZUQ/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410190000 +0530" stop="20240410200000 +0530">
+  <programme channel="Reuters.yt" start="20240410200000 +0530" stop="20240410210000 +0530">
     <title lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</title>
     <desc lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</desc>
     <icon src="https://i.ytimg.com/vi/FsExeOO5NQE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240410200000 +0530" stop="20240410210000 +0530">
+  <programme channel="Reuters.yt" start="20240410210000 +0530" stop="20240410220000 +0530">
     <title lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</title>
     <desc lang="en">LIVE: Chad Daybell murder trial takes place in Idaho</desc>
     <icon src="https://i.ytimg.com/vi/FsExeOO5NQE/maxresdefault_live.jpg"/>
