@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240410040000 +0530" stop="20240410050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240410050000 +0530" stop="20240410060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240410050000 +0530" stop="20240410060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240410060000 +0530" stop="20240410070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/xZnUimHj0Tg/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410040000 +0530" stop="20240410050000 +0530">
-    <title lang="en">Live: Indian G20 Sherpa Amitabh Kant Addresses IPE Global Event | Global South | Make In India</title>
-    <desc lang="en">Live: Indian G20 Sherpa Amitabh Kant Addresses IPE Global Event | Global South | Make In India</desc>
-    <icon src="https://i.ytimg.com/vi/sRPmb1-Y7sE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240410050000 +0530" stop="20240410060000 +0530">
-    <title lang="en">Live: Indian G20 Sherpa Amitabh Kant Addresses IPE Global Event | Global South | Make In India</title>
-    <desc lang="en">Live: Indian G20 Sherpa Amitabh Kant Addresses IPE Global Event | Global South | Make In India</desc>
-    <icon src="https://i.ytimg.com/vi/sRPmb1-Y7sE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Japan PM's US visit |US President Joe Biden welcomes Japanese PM Kishida to the White House</title>
+    <desc lang="en">LIVE: Japan PM's US visit |US President Joe Biden welcomes Japanese PM Kishida to the White House</desc>
+    <icon src="https://i.ytimg.com/vi/CyjY-ePrKg8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240410060000 +0530" stop="20240410070000 +0530">
+    <title lang="en">LIVE: Japan PM's US visit |US President Joe Biden welcomes Japanese PM Kishida to the White House</title>
+    <desc lang="en">LIVE: Japan PM's US visit |US President Joe Biden welcomes Japanese PM Kishida to the White House</desc>
+    <icon src="https://i.ytimg.com/vi/CyjY-ePrKg8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
