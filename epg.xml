@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410220000 +0530" stop="20240410230000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240410230000 +0530" stop="20240411000000 +0530">
     <title lang="en">PRESIDENT BIDEN WELCOMES JAPANESE PM FUMIO KISHIDA TO THE WHITE HOUSE</title>
     <desc lang="en">PRESIDENT BIDEN WELCOMES JAPANESE PM FUMIO KISHIDA TO THE WHITE HOUSE</desc>
     <icon src="https://i.ytimg.com/vi/3dgBdsJMxZU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240410230000 +0530" stop="20240411000000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240411000000 +0530" stop="20240411010000 +0530">
     <title lang="en">PRESIDENT BIDEN WELCOMES JAPANESE PM FUMIO KISHIDA TO THE WHITE HOUSE</title>
     <desc lang="en">PRESIDENT BIDEN WELCOMES JAPANESE PM FUMIO KISHIDA TO THE WHITE HOUSE</desc>
     <icon src="https://i.ytimg.com/vi/3dgBdsJMxZU/maxresdefault_live.jpg"/>
