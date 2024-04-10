@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240410000000 +0530" stop="20240410010000 +0530">
-    <title lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</title>
-    <desc lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/8gTaWw0VqF4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240410010000 +0530" stop="20240410020000 +0530">
-    <title lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</title>
-    <desc lang="en">LIVE:Raj Thackeray Live |Gudhi Padwa 2024|Raj Thackeray Public Meeting at Dadar Shivaji Park |Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/8gTaWw0VqF4/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240410000000 +0530" stop="20240410010000 +0530">
+  <programme channel="Reuters.yt" start="20240410010000 +0530" stop="20240410020000 +0530">
     <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
     <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
     <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240410010000 +0530" stop="20240410020000 +0530">
+  <programme channel="Reuters.yt" start="20240410020000 +0530" stop="20240410030000 +0530">
     <title lang="en">LIVE: A view of Israel's border with Lebanon</title>
     <desc lang="en">LIVE: A view of Israel's border with Lebanon</desc>
     <icon src="https://i.ytimg.com/vi/xdaAm4XvF0U/maxresdefault_live.jpg"/>
