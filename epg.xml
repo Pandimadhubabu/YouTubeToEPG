@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411180000 +0530" stop="20240411190000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
+  <programme channel="Reuters.yt" start="20240411190000 +0530" stop="20240411200000 +0530">
+    <title lang="en">LIVE: State Department briefing</title>
+    <desc lang="en">LIVE: State Department briefing</desc>
     <icon src="https://i.ytimg.com/vi/0TXXUmnF6og/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240411190000 +0530" stop="20240411200000 +0530">
-    <title lang="en">LIVE: State Department briefing with Matthew Miller</title>
-    <desc lang="en">LIVE: State Department briefing with Matthew Miller</desc>
+  <programme channel="Reuters.yt" start="20240411200000 +0530" stop="20240411210000 +0530">
+    <title lang="en">LIVE: State Department briefing</title>
+    <desc lang="en">LIVE: State Department briefing</desc>
     <icon src="https://i.ytimg.com/vi/0TXXUmnF6og/maxresdefault_live.jpg"/>
   </programme>
 </tv>
