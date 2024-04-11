@@ -1,26 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240411110000 +0530" stop="20240411120000 +0530">
-    <title lang="en">LIVE: PM Modi addresses Public meeting in Karauli, Rajasthan | Lok Sabha Election 2024 |PM Modi Live</title>
-    <desc lang="en">LIVE: PM Modi addresses Public meeting in Karauli, Rajasthan | Lok Sabha Election 2024 |PM Modi Live</desc>
-    <icon src="https://i.ytimg.com/vi/oROG7lUSf2M/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240411120000 +0530" stop="20240411130000 +0530">
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/FQ5FX8jyCZg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240411120000 +0530" stop="20240411130000 +0530">
-    <title lang="en">LIVE: PM Modi addresses Public meeting in Karauli, Rajasthan | Lok Sabha Election 2024 |PM Modi Live</title>
-    <desc lang="en">LIVE: PM Modi addresses Public meeting in Karauli, Rajasthan | Lok Sabha Election 2024 |PM Modi Live</desc>
-    <icon src="https://i.ytimg.com/vi/oROG7lUSf2M/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240411130000 +0530" stop="20240411140000 +0530">
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/FQ5FX8jyCZg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411110000 +0530" stop="20240411120000 +0530">
+  <programme channel="Reuters.yt" start="20240411120000 +0530" stop="20240411130000 +0530">
     <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
     <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
     <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240411120000 +0530" stop="20240411130000 +0530">
+  <programme channel="Reuters.yt" start="20240411130000 +0530" stop="20240411140000 +0530">
     <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
     <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
     <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
