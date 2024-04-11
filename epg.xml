@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240411070000 +0530" stop="20240411080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/-iNXhgWlA2U/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240411080000 +0530" stop="20240411090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/-iNXhgWlA2U/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240411060000 +0530" stop="20240411070000 +0530">
-    <title lang="en">LIVE: BSP Leader Malook Nagar joins RLD | NDA | BJP | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: BSP Leader Malook Nagar joins RLD | NDA | BJP | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/LaQdA1Jd2rg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240411070000 +0530" stop="20240411080000 +0530">
-    <title lang="en">LIVE: BSP Leader Malook Nagar joins RLD | NDA | BJP | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: BSP Leader Malook Nagar joins RLD | NDA | BJP | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/LaQdA1Jd2rg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi addresses Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/rZZcw7PrZ2g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240411080000 +0530" stop="20240411090000 +0530">
+    <title lang="en">LIVE: PM Modi addresses Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses Public meeting in Rishikesh, Uttarakhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/rZZcw7PrZ2g/maxresdefault_live.jpg"/>
   </programme>
 </tv>
