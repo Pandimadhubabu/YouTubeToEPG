@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240411120000 +0530" stop="20240411130000 +0530">
-    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/FQ5FX8jyCZg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240411130000 +0530" stop="20240411140000 +0530">
-    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/FQ5FX8jyCZg/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411120000 +0530" stop="20240411130000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240411130000 +0530" stop="20240411140000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: International Monetary Fund discusses the global economic outlook</title>
+    <desc lang="en">LIVE: International Monetary Fund discusses the global economic outlook</desc>
+    <icon src="https://i.ytimg.com/vi/StgUYn0YC-0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240411140000 +0530" stop="20240411150000 +0530">
+    <title lang="en">LIVE: International Monetary Fund discusses the global economic outlook</title>
+    <desc lang="en">LIVE: International Monetary Fund discusses the global economic outlook</desc>
+    <icon src="https://i.ytimg.com/vi/StgUYn0YC-0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
