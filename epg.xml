@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240411080000 +0530" stop="20240411090000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Satna, MP | Lok Sabha Elections 2024</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Satna, MP | Lok Sabha Elections 2024</desc>
-    <icon src="https://i.ytimg.com/vi/3HLGEV8I1ak/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240411090000 +0530" stop="20240411100000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Satna, MP | Lok Sabha Elections 2024</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Satna, MP | Lok Sabha Elections 2024</desc>
-    <icon src="https://i.ytimg.com/vi/3HLGEV8I1ak/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bikaner, Rajasthan</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bikaner, Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/lY6xHqj1rS0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240411100000 +0530" stop="20240411110000 +0530">
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bikaner, Rajasthan</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bikaner, Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/lY6xHqj1rS0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411080000 +0530" stop="20240411090000 +0530">
-    <title lang="en">LIVE: Flood zone in Russia’s Orenburg region | REUTERS</title>
-    <desc lang="en">LIVE: Flood zone in Russia’s Orenburg region | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/CuvL5MiZNgM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240411090000 +0530" stop="20240411100000 +0530">
-    <title lang="en">LIVE: Flood zone in Russia’s Orenburg region | REUTERS</title>
-    <desc lang="en">LIVE: Flood zone in Russia’s Orenburg region | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/CuvL5MiZNgM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: The 77th Cannes Festival reveals film line-up in Paris</title>
+    <desc lang="en">LIVE: The 77th Cannes Festival reveals film line-up in Paris</desc>
+    <icon src="https://i.ytimg.com/vi/hkEyg-vkUEo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240411100000 +0530" stop="20240411110000 +0530">
+    <title lang="en">LIVE: The 77th Cannes Festival reveals film line-up in Paris</title>
+    <desc lang="en">LIVE: The 77th Cannes Festival reveals film line-up in Paris</desc>
+    <icon src="https://i.ytimg.com/vi/hkEyg-vkUEo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
