@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411160000 +0530" stop="20240411170000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240411170000 +0530" stop="20240411180000 +0530">
-    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
-    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
-    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: US Vice President Harris and Secretary of State Blinken host a luncheon for Japanese prime …</title>
+    <desc lang="en">LIVE: US Vice President Harris and Secretary of State Blinken host a luncheon for Japanese prime …</desc>
+    <icon src="https://i.ytimg.com/vi/QM-IiT_buxY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240411180000 +0530" stop="20240411190000 +0530">
+    <title lang="en">LIVE: US Vice President Harris and Secretary of State Blinken host a luncheon for Japanese prime …</title>
+    <desc lang="en">LIVE: US Vice President Harris and Secretary of State Blinken host a luncheon for Japanese prime …</desc>
+    <icon src="https://i.ytimg.com/vi/QM-IiT_buxY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
