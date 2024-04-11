@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411150000 +0530" stop="20240411160000 +0530">
-    <title lang="en">LIVE: Japanese Prime Minister Fumio Kishida addresses a joint meeting of US Congress</title>
-    <desc lang="en">LIVE: Japanese Prime Minister Fumio Kishida addresses a joint meeting of US Congress</desc>
-    <icon src="https://i.ytimg.com/vi/LaWaSaYONkE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240411160000 +0530" stop="20240411170000 +0530">
-    <title lang="en">LIVE: Japanese Prime Minister Fumio Kishida addresses a joint meeting of US Congress</title>
-    <desc lang="en">LIVE: Japanese Prime Minister Fumio Kishida addresses a joint meeting of US Congress</desc>
-    <icon src="https://i.ytimg.com/vi/LaWaSaYONkE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
+    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
+    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240411170000 +0530" stop="20240411180000 +0530">
+    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
+    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
+    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
