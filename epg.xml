@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240411130000 +0530" stop="20240411140000 +0530">
-    <title lang="en">LIVE: International Monetary Fund discusses the global economic outlook</title>
-    <desc lang="en">LIVE: International Monetary Fund discusses the global economic outlook</desc>
-    <icon src="https://i.ytimg.com/vi/StgUYn0YC-0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240411140000 +0530" stop="20240411150000 +0530">
-    <title lang="en">LIVE: International Monetary Fund discusses the global economic outlook</title>
-    <desc lang="en">LIVE: International Monetary Fund discusses the global economic outlook</desc>
-    <icon src="https://i.ytimg.com/vi/StgUYn0YC-0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
+    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
+    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240411150000 +0530" stop="20240411160000 +0530">
+    <title lang="en">LIVE: View over Israel-Gaza border as seen from Israel</title>
+    <desc lang="en">LIVE: View over Israel-Gaza border as seen from Israel</desc>
+    <icon src="https://i.ytimg.com/vi/iOu2iIebdxM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
