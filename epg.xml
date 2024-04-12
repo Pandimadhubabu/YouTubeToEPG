@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
-    <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/fjZ84Ed9GDo/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240412160000 +0530" stop="20240412170000 +0530">
-    <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/fjZ84Ed9GDo/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
-    <title lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</title>
-    <desc lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</desc>
-    <icon src="https://i.ytimg.com/vi/GE_EyQYwsaQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240412160000 +0530" stop="20240412170000 +0530">
-    <title lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</title>
-    <desc lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</desc>
-    <icon src="https://i.ytimg.com/vi/GE_EyQYwsaQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP MP Tejasvi Surya Press Conference | Lok Sabha Election 2024 | Tamil Nadu | BJP</title>
+    <desc lang="en">LIVE: BJP MP Tejasvi Surya Press Conference | Lok Sabha Election 2024 | Tamil Nadu | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/44nZJBpgETo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240412170000 +0530" stop="20240412180000 +0530">
+    <title lang="en">LIVE: BJP MP Tejasvi Surya Press Conference | Lok Sabha Election 2024 | Tamil Nadu | BJP</title>
+    <desc lang="en">LIVE: BJP MP Tejasvi Surya Press Conference | Lok Sabha Election 2024 | Tamil Nadu | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/44nZJBpgETo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
