@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
     <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
     <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fjZ84Ed9GDo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240412160000 +0530" stop="20240412170000 +0530">
     <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
     <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fjZ84Ed9GDo/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
-    <title lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</title>
-    <desc lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</desc>
-    <icon src="https://i.ytimg.com/vi/rqZQ84Shruw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
-    <title lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</title>
-    <desc lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</desc>
-    <icon src="https://i.ytimg.com/vi/rqZQ84Shruw/maxresdefault_live.jpg"/>
+    <title lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</title>
+    <desc lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</desc>
+    <icon src="https://i.ytimg.com/vi/GE_EyQYwsaQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
-    <title lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</title>
-    <desc lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</desc>
-    <icon src="https://i.ytimg.com/vi/a4t44foWdnM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
-    <title lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</title>
-    <desc lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</desc>
-    <icon src="https://i.ytimg.com/vi/a4t44foWdnM/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240412160000 +0530" stop="20240412170000 +0530">
+    <title lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</title>
+    <desc lang="en">EXCLUSIVE LIVE on ANI: Top Indian gamers who met PM Modi | Animesh Agarwal | Naman Mathur | Payal</desc>
+    <icon src="https://i.ytimg.com/vi/GE_EyQYwsaQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
