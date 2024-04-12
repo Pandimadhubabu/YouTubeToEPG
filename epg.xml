@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240412130000 +0530" stop="20240412140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
     <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
     <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fjZ84Ed9GDo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
     <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
     <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/fjZ84Ed9GDo/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240412130000 +0530" stop="20240412140000 +0530">
-    <title lang="en">LIVE: Union Finance Minister Nirmala Sitharaman holds the Road Show in Thanjavur,Tamil Nadu | BJP</title>
-    <desc lang="en">LIVE: Union Finance Minister Nirmala Sitharaman holds the Road Show in Thanjavur,Tamil Nadu | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Jj-i4L6aQHM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
-    <title lang="en">LIVE: Union Finance Minister Nirmala Sitharaman holds the Road Show in Thanjavur,Tamil Nadu | BJP</title>
-    <desc lang="en">LIVE: Union Finance Minister Nirmala Sitharaman holds the Road Show in Thanjavur,Tamil Nadu | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Jj-i4L6aQHM/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</title>
+    <desc lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</desc>
+    <icon src="https://i.ytimg.com/vi/rqZQ84Shruw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
+    <title lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</title>
+    <desc lang="en">Live: Samajwadi Party Chief Akhilesh Yadav &amp; AAP MP Sanjay Singh Joint PC | Lok Sabha Poll | Lucknow</desc>
+    <icon src="https://i.ytimg.com/vi/rqZQ84Shruw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240412130000 +0530" stop="20240412140000 +0530">
+  <programme channel="Reuters.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
     <title lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</title>
     <desc lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</desc>
     <icon src="https://i.ytimg.com/vi/a4t44foWdnM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240412140000 +0530" stop="20240412150000 +0530">
+  <programme channel="Reuters.yt" start="20240412150000 +0530" stop="20240412160000 +0530">
     <title lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</title>
     <desc lang="en">LIVE: Former Royal Mail CEO gives evidence at UK Post Office Horizon IT inquiry</desc>
     <icon src="https://i.ytimg.com/vi/a4t44foWdnM/maxresdefault_live.jpg"/>
