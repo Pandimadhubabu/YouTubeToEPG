@@ -1,15 +1,41 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240412080000 +0530" stop="20240412090000 +0530">
+    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/GM0lexHJPhA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
+    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/GM0lexHJPhA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240412070000 +0530" stop="20240412080000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting Chamoli, Uttarakhand | Lok Sabha Election</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting Chamoli, Uttarakhand | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/G5wvIxO_2Qw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240412080000 +0530" stop="20240412090000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting Chamoli, Uttarakhand | Lok Sabha Election</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting Chamoli, Uttarakhand | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/G5wvIxO_2Qw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Madhavi Latha mocks Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024</title>
+    <desc lang="en">LIVE: Madhavi Latha mocks Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024</desc>
+    <icon src="https://i.ytimg.com/vi/poCrEyVQsp0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
+    <title lang="en">LIVE: Madhavi Latha mocks Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024</title>
+    <desc lang="en">LIVE: Madhavi Latha mocks Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024</desc>
+    <icon src="https://i.ytimg.com/vi/poCrEyVQsp0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240412080000 +0530" stop="20240412090000 +0530">
+    <title lang="en">LIVE: Thailand's Songkran Water Festival kicks off with a splash | REUTERS</title>
+    <desc lang="en">LIVE: Thailand's Songkran Water Festival kicks off with a splash | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/iJEnquwIXH4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
+    <title lang="en">LIVE: Thailand's Songkran Water Festival kicks off with a splash | REUTERS</title>
+    <desc lang="en">LIVE: Thailand's Songkran Water Festival kicks off with a splash | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/iJEnquwIXH4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
