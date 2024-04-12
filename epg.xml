@@ -2,38 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
-    <title lang="en">LIVE : కడియం కావ్య, శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం కావ్య, శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/1qlKwTkYfU8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240412100000 +0530" stop="20240412110000 +0530">
     <title lang="en">LIVE : కడియం కావ్య, శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
     <desc lang="en">LIVE : కడియం కావ్య, శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/1qlKwTkYfU8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Barmer, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Barmer, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/4vZzMQ2WJk4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240412100000 +0530" stop="20240412110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Barmer, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Barmer, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/4vZzMQ2WJk4/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240412110000 +0530" stop="20240412120000 +0530">
+    <title lang="en">LIVE : కడియం కావ్య, శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
+    <desc lang="en">LIVE : కడియం కావ్య, శ్రీహరి ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1qlKwTkYfU8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240412100000 +0530" stop="20240412110000 +0530">
     <title lang="en">Live: BJP TN President K Annamalai releases Manifesto for Coimbatore | Lok Sabha Election</title>
     <desc lang="en">Live: BJP TN President K Annamalai releases Manifesto for Coimbatore | Lok Sabha Election</desc>
     <icon src="https://i.ytimg.com/vi/c2582qbEF3g/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240412100000 +0530" stop="20240412110000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240412110000 +0530" stop="20240412120000 +0530">
     <title lang="en">Live: BJP TN President K Annamalai releases Manifesto for Coimbatore | Lok Sabha Election</title>
     <desc lang="en">Live: BJP TN President K Annamalai releases Manifesto for Coimbatore | Lok Sabha Election</desc>
     <icon src="https://i.ytimg.com/vi/c2582qbEF3g/maxresdefault_live.jpg"/>
@@ -41,12 +28,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240412090000 +0530" stop="20240412100000 +0530">
+  <programme channel="Reuters.yt" start="20240412100000 +0530" stop="20240412110000 +0530">
     <title lang="en">LIVE: UN aid coordinator speaks on the humanitarian situation in Gaza</title>
     <desc lang="en">LIVE: UN aid coordinator speaks on the humanitarian situation in Gaza</desc>
     <icon src="https://i.ytimg.com/vi/PE_JLp3Cb5c/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240412100000 +0530" stop="20240412110000 +0530">
+  <programme channel="Reuters.yt" start="20240412110000 +0530" stop="20240412120000 +0530">
     <title lang="en">LIVE: UN aid coordinator speaks on the humanitarian situation in Gaza</title>
     <desc lang="en">LIVE: UN aid coordinator speaks on the humanitarian situation in Gaza</desc>
     <icon src="https://i.ytimg.com/vi/PE_JLp3Cb5c/maxresdefault_live.jpg"/>
