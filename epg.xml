@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413020000 +0530" stop="20240413030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240413030000 +0530" stop="20240413040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Joz1LFOp2qg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240413030000 +0530" stop="20240413040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240413040000 +0530" stop="20240413050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Joz1LFOp2qg/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413020000 +0530" stop="20240413030000 +0530">
-    <title lang="en">LIVE: BJP leader Tejasvi Surya Press Conference | Lok Sabha Election  | Tamil Nadu | BJP | Annamalai</title>
-    <desc lang="en">LIVE: BJP leader Tejasvi Surya Press Conference | Lok Sabha Election  | Tamil Nadu | BJP | Annamalai</desc>
-    <icon src="https://i.ytimg.com/vi/44nZJBpgETo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413030000 +0530" stop="20240413040000 +0530">
-    <title lang="en">LIVE: BJP leader Tejasvi Surya Press Conference | Lok Sabha Election  | Tamil Nadu | BJP | Annamalai</title>
-    <desc lang="en">LIVE: BJP leader Tejasvi Surya Press Conference | Lok Sabha Election  | Tamil Nadu | BJP | Annamalai</desc>
-    <icon src="https://i.ytimg.com/vi/44nZJBpgETo/maxresdefault_live.jpg"/>
+    <title lang="en">Aggressive Madhavi Latha jabs Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024 | AIMIM |BJP</title>
+    <desc lang="en">Aggressive Madhavi Latha jabs Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024 | AIMIM |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/9t4ap22A1k0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413040000 +0530" stop="20240413050000 +0530">
+    <title lang="en">Aggressive Madhavi Latha jabs Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024 | AIMIM |BJP</title>
+    <desc lang="en">Aggressive Madhavi Latha jabs Asaduddin Owaisi | Hyderabad | Lok Sabha Elections 2024 | AIMIM |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/9t4ap22A1k0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
