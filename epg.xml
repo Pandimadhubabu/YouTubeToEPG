@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413060000 +0530" stop="20240413070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Joz1LFOp2qg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240413070000 +0530" stop="20240413080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Joz1LFOp2qg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/K6wp4LzyOnA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240413080000 +0530" stop="20240413090000 +0530">
+    <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/K6wp4LzyOnA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413060000 +0530" stop="20240413070000 +0530">
-    <title lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/i6VsD-A_JPk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413070000 +0530" stop="20240413080000 +0530">
-    <title lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/i6VsD-A_JPk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Ramnagar, Uttrakhand</title>
+    <desc lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Ramnagar, Uttrakhand</desc>
+    <icon src="https://i.ytimg.com/vi/z2jAySZ1fNg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413080000 +0530" stop="20240413090000 +0530">
+    <title lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Ramnagar, Uttrakhand</title>
+    <desc lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Ramnagar, Uttrakhand</desc>
+    <icon src="https://i.ytimg.com/vi/z2jAySZ1fNg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
