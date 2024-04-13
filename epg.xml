@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413110000 +0530" stop="20240413120000 +0530">
-    <title lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/kMfQevFXpeA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240413120000 +0530" stop="20240413130000 +0530">
-    <title lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/kMfQevFXpeA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WZfn5asOSFA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240413130000 +0530" stop="20240413140000 +0530">
+    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/WZfn5asOSFA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413110000 +0530" stop="20240413120000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</title>
-    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/A9o7L2-bcqQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413120000 +0530" stop="20240413130000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</title>
-    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/A9o7L2-bcqQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZdqKnPvU06I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413130000 +0530" stop="20240413140000 +0530">
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZdqKnPvU06I/maxresdefault_live.jpg"/>
   </programme>
 </tv>
