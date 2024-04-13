@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413120000 +0530" stop="20240413130000 +0530">
-    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/WZfn5asOSFA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240413130000 +0530" stop="20240413140000 +0530">
-    <title lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
-    <desc lang="en">LIVE : MP Bandi Sanjay  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/WZfn5asOSFA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ZK1d5O6nnt8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240413140000 +0530" stop="20240413150000 +0530">
+    <title lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ZK1d5O6nnt8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413120000 +0530" stop="20240413130000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ZdqKnPvU06I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413130000 +0530" stop="20240413140000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Khairthal Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ZdqKnPvU06I/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</title>
+    <desc lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/XfV2gqPCrkA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413140000 +0530" stop="20240413150000 +0530">
+    <title lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</title>
+    <desc lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/XfV2gqPCrkA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
