@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413080000 +0530" stop="20240413090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240413090000 +0530" stop="20240413100000 +0530">
     <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
     <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/K6wp4LzyOnA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240413090000 +0530" stop="20240413100000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240413100000 +0530" stop="20240413110000 +0530">
     <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
     <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/K6wp4LzyOnA/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413080000 +0530" stop="20240413090000 +0530">
-    <title lang="en">Live: BJP’s Madhavi Latha lashes out on AIMIM Chief Asaduddin Owaisi on CAA | Lok Sabha Elections</title>
-    <desc lang="en">Live: BJP’s Madhavi Latha lashes out on AIMIM Chief Asaduddin Owaisi on CAA | Lok Sabha Elections</desc>
-    <icon src="https://i.ytimg.com/vi/zXounCYChS8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413090000 +0530" stop="20240413100000 +0530">
-    <title lang="en">Live: BJP’s Madhavi Latha lashes out on AIMIM Chief Asaduddin Owaisi on CAA | Lok Sabha Elections</title>
-    <desc lang="en">Live: BJP’s Madhavi Latha lashes out on AIMIM Chief Asaduddin Owaisi on CAA | Lok Sabha Elections</desc>
-    <icon src="https://i.ytimg.com/vi/zXounCYChS8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Haldwani, Uttarakhand I Lok Sabha Election</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Haldwani, Uttarakhand I Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/bnajUhuOCZ0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413100000 +0530" stop="20240413110000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Haldwani, Uttarakhand I Lok Sabha Election</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Haldwani, Uttarakhand I Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/bnajUhuOCZ0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
