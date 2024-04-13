@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413140000 +0530" stop="20240413150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240413150000 +0530" stop="20240413160000 +0530">
     <title lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</title>
     <desc lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/ZK1d5O6nnt8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240413150000 +0530" stop="20240413160000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240413160000 +0530" stop="20240413170000 +0530">
     <title lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</title>
     <desc lang="en">LIVE : KCR Public Meeting @Chevella | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/ZK1d5O6nnt8/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413140000 +0530" stop="20240413150000 +0530">
-    <title lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</title>
-    <desc lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/XfV2gqPCrkA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413150000 +0530" stop="20240413160000 +0530">
-    <title lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</title>
-    <desc lang="en">LIVE:Annamalai, Nirmala Sitharaman &amp; Vanathi Srinivasan holds Roadshow in Coimbatore,Tamil Nadu |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/XfV2gqPCrkA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</title>
+    <desc lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/3Ytf0xh_P6U/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413160000 +0530" stop="20240413170000 +0530">
+    <title lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</title>
+    <desc lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/3Ytf0xh_P6U/maxresdefault_live.jpg"/>
   </programme>
 </tv>
