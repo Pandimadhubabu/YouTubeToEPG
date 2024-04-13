@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240413100000 +0530" stop="20240413110000 +0530">
-    <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/K6wp4LzyOnA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240413110000 +0530" stop="20240413120000 +0530">
-    <title lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : మందకృష్ణ మాదిగ ప్రెస్ మీట్ | Manda Krishna Madiga Press Meet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/K6wp4LzyOnA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kMfQevFXpeA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240413120000 +0530" stop="20240413130000 +0530">
+    <title lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : KK Mahender Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kMfQevFXpeA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240413100000 +0530" stop="20240413110000 +0530">
-    <title lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Roorkee, Uttar Pradesh</title>
-    <desc lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Roorkee, Uttar Pradesh</desc>
-    <icon src="https://i.ytimg.com/vi/Js-nAKjo0YI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240413110000 +0530" stop="20240413120000 +0530">
-    <title lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Roorkee, Uttar Pradesh</title>
-    <desc lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Roorkee, Uttar Pradesh</desc>
-    <icon src="https://i.ytimg.com/vi/Js-nAKjo0YI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/A9o7L2-bcqQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240413120000 +0530" stop="20240413130000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Pilibhit, Uttar Pradesh I Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/A9o7L2-bcqQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
