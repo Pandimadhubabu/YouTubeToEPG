@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240414020000 +0530" stop="20240414030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1yDmgTxAKiQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240414030000 +0530" stop="20240414040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/1yDmgTxAKiQ/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240414000000 +0530" stop="20240414010000 +0530">
-    <title lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</title>
-    <desc lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/3Ytf0xh_P6U/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240414020000 +0530" stop="20240414030000 +0530">
+    <title lang="en">Live: "We are ready for any scenario": Israeli PM vows response to Iran attack | Israel Vs Iran</title>
+    <desc lang="en">Live: "We are ready for any scenario": Israeli PM vows response to Iran attack | Israel Vs Iran</desc>
+    <icon src="https://i.ytimg.com/vi/wOYEqJWfAM4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240414010000 +0530" stop="20240414020000 +0530">
-    <title lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</title>
-    <desc lang="en">LIVE: ‘Wo Aurat Jaat Ki Maryada…’ BJP’s Madhavi Latha Blasts Owaisi | Lok Sabha Election | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/3Ytf0xh_P6U/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240414030000 +0530" stop="20240414040000 +0530">
+    <title lang="en">Live: "We are ready for any scenario": Israeli PM vows response to Iran attack | Israel Vs Iran</title>
+    <desc lang="en">Live: "We are ready for any scenario": Israeli PM vows response to Iran attack | Israel Vs Iran</desc>
+    <icon src="https://i.ytimg.com/vi/wOYEqJWfAM4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
