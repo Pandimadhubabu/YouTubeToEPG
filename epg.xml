@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240414070000 +0530" stop="20240414080000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/YviJCpYlkJU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240414080000 +0530" stop="20240414090000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Kodangal | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/YviJCpYlkJU/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240414070000 +0530" stop="20240414080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/x2oHANB3DDE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240414080000 +0530" stop="20240414090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/x2oHANB3DDE/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240414070000 +0530" stop="20240414080000 +0530">
-    <title lang="en">PM Modi Live: Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live: Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/3YnW16VB944/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240414100000 +0530" stop="20240414110000 +0530">
+    <title lang="en">LIVE: Firing near Salman Khan's Mumbai residence | Eknath Shinde speaks to Salman | Mumbai Police</title>
+    <desc lang="en">LIVE: Firing near Salman Khan's Mumbai residence | Eknath Shinde speaks to Salman | Mumbai Police</desc>
+    <icon src="https://i.ytimg.com/vi/73y9XymQDGU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240414080000 +0530" stop="20240414090000 +0530">
-    <title lang="en">PM Modi Live: Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live: Public meeting in Hoshangabad, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/3YnW16VB944/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240414110000 +0530" stop="20240414120000 +0530">
+    <title lang="en">LIVE: Firing near Salman Khan's Mumbai residence | Eknath Shinde speaks to Salman | Mumbai Police</title>
+    <desc lang="en">LIVE: Firing near Salman Khan's Mumbai residence | Eknath Shinde speaks to Salman | Mumbai Police</desc>
+    <icon src="https://i.ytimg.com/vi/73y9XymQDGU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
