@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240414140000 +0530" stop="20240414150000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Mangaluru, Karnataka today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Mangaluru, Karnataka today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/uyYZm5tJqA4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240414150000 +0530" stop="20240414160000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Mangaluru, Karnataka today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Mangaluru, Karnataka today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/uyYZm5tJqA4/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240414140000 +0530" stop="20240414150000 +0530">
-    <title lang="en">LIVE: Iran-Israel War update | British jets shot down Iranian drones, PM Sunak says | Olaf Scholz |</title>
-    <desc lang="en">LIVE: Iran-Israel War update | British jets shot down Iranian drones, PM Sunak says | Olaf Scholz |</desc>
-    <icon src="https://i.ytimg.com/vi/EYzWk4oikis/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240414220000 +0530" stop="20240414230000 +0530">
+    <title lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</title>
+    <desc lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</desc>
+    <icon src="https://i.ytimg.com/vi/DPtwDbKbSKE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240414150000 +0530" stop="20240414160000 +0530">
-    <title lang="en">LIVE: Iran-Israel War update | British jets shot down Iranian drones, PM Sunak says | Olaf Scholz |</title>
-    <desc lang="en">LIVE: Iran-Israel War update | British jets shot down Iranian drones, PM Sunak says | Olaf Scholz |</desc>
-    <icon src="https://i.ytimg.com/vi/EYzWk4oikis/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240414230000 +0530" stop="20240415000000 +0530">
+    <title lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</title>
+    <desc lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</desc>
+    <icon src="https://i.ytimg.com/vi/DPtwDbKbSKE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
