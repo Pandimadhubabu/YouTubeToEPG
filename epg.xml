@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240415030000 +0530" stop="20240415040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240415050000 +0530" stop="20240415060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240415030000 +0530" stop="20240415040000 +0530">
-    <title lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</title>
-    <desc lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</desc>
-    <icon src="https://i.ytimg.com/vi/k_yIlgKP6Ys/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
-    <title lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</title>
-    <desc lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</desc>
-    <icon src="https://i.ytimg.com/vi/k_yIlgKP6Ys/maxresdefault_live.jpg"/>
+    <title lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</title>
+    <desc lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</desc>
+    <icon src="https://i.ytimg.com/vi/hZfjqaQnBW0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240415050000 +0530" stop="20240415060000 +0530">
+    <title lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</title>
+    <desc lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</desc>
+    <icon src="https://i.ytimg.com/vi/hZfjqaQnBW0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
