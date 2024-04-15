@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240415030000 +0530" stop="20240415040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240414230000 +0530" stop="20240415000000 +0530">
-    <title lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</title>
-    <desc lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</desc>
-    <icon src="https://i.ytimg.com/vi/DPtwDbKbSKE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240415030000 +0530" stop="20240415040000 +0530">
+    <title lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</title>
+    <desc lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</desc>
+    <icon src="https://i.ytimg.com/vi/k_yIlgKP6Ys/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240415000000 +0530" stop="20240415010000 +0530">
-    <title lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</title>
-    <desc lang="en">LS elections 2024|Madhavi Latha calls Congress 'copycat'|BJP vs Congress|Sankalp Patra vs Nyay Patra</desc>
-    <icon src="https://i.ytimg.com/vi/DPtwDbKbSKE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
+    <title lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</title>
+    <desc lang="en">LIVE | Iran-Israel Conflict Update | G7 Leaders discuss about situation in West Asia</desc>
+    <icon src="https://i.ytimg.com/vi/k_yIlgKP6Ys/maxresdefault_live.jpg"/>
   </programme>
 </tv>
