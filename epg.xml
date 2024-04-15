@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240415070000 +0530" stop="20240415080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240415080000 +0530" stop="20240415090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DxapGzvh1Q0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240415090000 +0530" stop="20240415100000 +0530">
+    <title lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/DxapGzvh1Q0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240415070000 +0530" stop="20240415080000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</title>
-    <desc lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/7acQ7GM3Iag/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240415080000 +0530" stop="20240415090000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</title>
-    <desc lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/7acQ7GM3Iag/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: IRAN-ISRAEL CONFLICT UPDATE | ‘Would Find Ways of De Escalation…’ EAM S Jaishankar | India</title>
+    <desc lang="en">LIVE: IRAN-ISRAEL CONFLICT UPDATE | ‘Would Find Ways of De Escalation…’ EAM S Jaishankar | India</desc>
+    <icon src="https://i.ytimg.com/vi/wZlaT0_Yz9Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240415090000 +0530" stop="20240415100000 +0530">
+    <title lang="en">LIVE: IRAN-ISRAEL CONFLICT UPDATE | ‘Would Find Ways of De Escalation…’ EAM S Jaishankar | India</title>
+    <desc lang="en">LIVE: IRAN-ISRAEL CONFLICT UPDATE | ‘Would Find Ways of De Escalation…’ EAM S Jaishankar | India</desc>
+    <icon src="https://i.ytimg.com/vi/wZlaT0_Yz9Y/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240415080000 +0530" stop="20240415090000 +0530">
+    <title lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</title>
+    <desc lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</desc>
+    <icon src="https://i.ytimg.com/vi/ihzQodkxoEE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240415090000 +0530" stop="20240415100000 +0530">
+    <title lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</title>
+    <desc lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</desc>
+    <icon src="https://i.ytimg.com/vi/ihzQodkxoEE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
