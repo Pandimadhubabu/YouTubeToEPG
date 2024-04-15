@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240415220000 +0530" stop="20240415230000 +0530">
+  <programme channel="Reuters.yt" start="20240415230000 +0530" stop="20240416000000 +0530">
     <title lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</title>
     <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</desc>
     <icon src="https://i.ytimg.com/vi/HRDuZ9S7mhQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240415230000 +0530" stop="20240416000000 +0530">
+  <programme channel="Reuters.yt" start="20240416000000 +0530" stop="20240416010000 +0530">
     <title lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</title>
     <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</desc>
     <icon src="https://i.ytimg.com/vi/HRDuZ9S7mhQ/maxresdefault_live.jpg"/>
