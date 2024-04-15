@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240415160000 +0530" stop="20240415170000 +0530">
-    <title lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</title>
-    <desc lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</desc>
-    <icon src="https://i.ytimg.com/vi/NdVnuZrNCbE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240415170000 +0530" stop="20240415180000 +0530">
-    <title lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</title>
-    <desc lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</desc>
-    <icon src="https://i.ytimg.com/vi/NdVnuZrNCbE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Rust armorer sentenced for involuntary manslaughter</title>
+    <desc lang="en">LIVE: Rust armorer sentenced for involuntary manslaughter</desc>
+    <icon src="https://i.ytimg.com/vi/O5sr8NYjTgA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240415180000 +0530" stop="20240415190000 +0530">
+    <title lang="en">LIVE: Rust armorer sentenced for involuntary manslaughter</title>
+    <desc lang="en">LIVE: Rust armorer sentenced for involuntary manslaughter</desc>
+    <icon src="https://i.ytimg.com/vi/O5sr8NYjTgA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
