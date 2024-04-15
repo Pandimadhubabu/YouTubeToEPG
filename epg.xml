@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240415150000 +0530" stop="20240415160000 +0530">
-    <title lang="en">LIVE : కాంగ్రెస్ జన జాతర సభ | Congress Jana Jathara Sabha @Narayanapet | CM Revanth | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కాంగ్రెస్ జన జాతర సభ | Congress Jana Jathara Sabha @Narayanapet | CM Revanth | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/zba1pUsgwTI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240415160000 +0530" stop="20240415170000 +0530">
-    <title lang="en">LIVE : కాంగ్రెస్ జన జాతర సభ | Congress Jana Jathara Sabha @Narayanapet | CM Revanth | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కాంగ్రెస్ జన జాతర సభ | Congress Jana Jathara Sabha @Narayanapet | CM Revanth | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/zba1pUsgwTI/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240415150000 +0530" stop="20240415160000 +0530">
-    <title lang="en">LIVE: UN Security Council meets on situation in Middle East</title>
-    <desc lang="en">LIVE: UN Security Council meets on situation in Middle East</desc>
-    <icon src="https://i.ytimg.com/vi/hg7sEIz8N8Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240415160000 +0530" stop="20240415170000 +0530">
-    <title lang="en">LIVE: UN Security Council meets on situation in Middle East</title>
-    <desc lang="en">LIVE: UN Security Council meets on situation in Middle East</desc>
-    <icon src="https://i.ytimg.com/vi/hg7sEIz8N8Y/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</title>
+    <desc lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</desc>
+    <icon src="https://i.ytimg.com/vi/NdVnuZrNCbE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240415170000 +0530" stop="20240415180000 +0530">
+    <title lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</title>
+    <desc lang="en">LIVE: UK's Rwanda scheme returns to House of Commons</desc>
+    <icon src="https://i.ytimg.com/vi/NdVnuZrNCbE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
