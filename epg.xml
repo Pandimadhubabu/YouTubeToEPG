@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240415060000 +0530" stop="20240415070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240415070000 +0530" stop="20240415080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240415060000 +0530" stop="20240415070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Alathur, Kerala | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Alathur, Kerala | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/omlY6VJGxl4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240415070000 +0530" stop="20240415080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Alathur, Kerala | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Alathur, Kerala | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/omlY6VJGxl4/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240415080000 +0530" stop="20240415090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240415060000 +0530" stop="20240415070000 +0530">
-    <title lang="en">LIVE: Sanjay Raut’s big Allegation on Maharashtra CM Eknath Shinde's son Shrikant Shinde |Mumbai</title>
-    <desc lang="en">LIVE: Sanjay Raut’s big Allegation on Maharashtra CM Eknath Shinde's son Shrikant Shinde |Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/APKEXpdROcM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240415070000 +0530" stop="20240415080000 +0530">
-    <title lang="en">LIVE: Sanjay Raut’s big Allegation on Maharashtra CM Eknath Shinde's son Shrikant Shinde |Mumbai</title>
-    <desc lang="en">LIVE: Sanjay Raut’s big Allegation on Maharashtra CM Eknath Shinde's son Shrikant Shinde |Mumbai</desc>
-    <icon src="https://i.ytimg.com/vi/APKEXpdROcM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</title>
+    <desc lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/7acQ7GM3Iag/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240415080000 +0530" stop="20240415090000 +0530">
+    <title lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</title>
+    <desc lang="en">LIVE: EAM S Jaishankar live | BJP Press Conference | Lok Sabha Election 2024 | Bengaluru | Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/7acQ7GM3Iag/maxresdefault_live.jpg"/>
   </programme>
 </tv>
