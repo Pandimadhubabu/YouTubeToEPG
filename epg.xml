@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240415090000 +0530" stop="20240415100000 +0530">
-    <title lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/DxapGzvh1Q0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240415100000 +0530" stop="20240415110000 +0530">
-    <title lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : బీజేపీ  ప్రజా ఆశీర్వాద సభ | Praja Ashirwada Sabha | Vikarabad | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/DxapGzvh1Q0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/fWLMfTtYLIw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240415110000 +0530" stop="20240415120000 +0530">
+    <title lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/fWLMfTtYLIw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240415090000 +0530" stop="20240415100000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Addresses Public Rally in Nawada Bihar | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Addresses Public Rally in Nawada Bihar | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/fgA5kHAYgt0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240415100000 +0530" stop="20240415110000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Addresses Public Rally in Nawada Bihar | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Addresses Public Rally in Nawada Bihar | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/fgA5kHAYgt0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Press Conference | Former BJD Leader and MP from Bargarh Prabhas Kumar Singh joins BJP</title>
+    <desc lang="en">LIVE: BJP Press Conference | Former BJD Leader and MP from Bargarh Prabhas Kumar Singh joins BJP</desc>
+    <icon src="https://i.ytimg.com/vi/8AUxdLafe84/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240415090000 +0530" stop="20240415100000 +0530">
-    <title lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</title>
-    <desc lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</desc>
-    <icon src="https://i.ytimg.com/vi/ihzQodkxoEE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240415100000 +0530" stop="20240415110000 +0530">
-    <title lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</title>
-    <desc lang="en">LIVE: Sydney Opera House illuminated with black ribbon for mall stabbing victims</desc>
-    <icon src="https://i.ytimg.com/vi/ihzQodkxoEE/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240415110000 +0530" stop="20240415120000 +0530">
+    <title lang="en">LIVE: BJP Press Conference | Former BJD Leader and MP from Bargarh Prabhas Kumar Singh joins BJP</title>
+    <desc lang="en">LIVE: BJP Press Conference | Former BJD Leader and MP from Bargarh Prabhas Kumar Singh joins BJP</desc>
+    <icon src="https://i.ytimg.com/vi/8AUxdLafe84/maxresdefault_live.jpg"/>
   </programme>
 </tv>
