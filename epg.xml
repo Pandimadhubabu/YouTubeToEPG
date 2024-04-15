@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240415050000 +0530" stop="20240415060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240415050000 +0530" stop="20240415060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240415060000 +0530" stop="20240415070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/J1dM9NoumvM/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240415040000 +0530" stop="20240415050000 +0530">
-    <title lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</title>
-    <desc lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</desc>
-    <icon src="https://i.ytimg.com/vi/hZfjqaQnBW0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240415050000 +0530" stop="20240415060000 +0530">
-    <title lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</title>
-    <desc lang="en">Israel-Iran Conflict | US, UK warn Iran at UN Security Council | Iranian Missiles strike Israel</desc>
-    <icon src="https://i.ytimg.com/vi/hZfjqaQnBW0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Maharashtra Deputy CM Devendra Fadnavis Press Conference | Lok Sabha Election | BJP| Nagpur</title>
+    <desc lang="en">LIVE: Maharashtra Deputy CM Devendra Fadnavis Press Conference | Lok Sabha Election | BJP| Nagpur</desc>
+    <icon src="https://i.ytimg.com/vi/XK_MjqQmem0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240415060000 +0530" stop="20240415070000 +0530">
+    <title lang="en">LIVE: Maharashtra Deputy CM Devendra Fadnavis Press Conference | Lok Sabha Election | BJP| Nagpur</title>
+    <desc lang="en">LIVE: Maharashtra Deputy CM Devendra Fadnavis Press Conference | Lok Sabha Election | BJP| Nagpur</desc>
+    <icon src="https://i.ytimg.com/vi/XK_MjqQmem0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
