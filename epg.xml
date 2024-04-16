@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240416060000 +0530" stop="20240416070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240416070000 +0530" stop="20240416080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/2m4UH32RN_I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240416070000 +0530" stop="20240416080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240416080000 +0530" stop="20240416090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/2m4UH32RN_I/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240416060000 +0530" stop="20240416070000 +0530">
-    <title lang="en">LIVE: Union Minister Jyotiraditya Scindia To File Nomination | Lok Sabha Election 2024 | BJP | Guna</title>
-    <desc lang="en">LIVE: Union Minister Jyotiraditya Scindia To File Nomination | Lok Sabha Election 2024 | BJP | Guna</desc>
-    <icon src="https://i.ytimg.com/vi/fTebOUVzECI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240416070000 +0530" stop="20240416080000 +0530">
-    <title lang="en">LIVE: Union Minister Jyotiraditya Scindia To File Nomination | Lok Sabha Election 2024 | BJP | Guna</title>
-    <desc lang="en">LIVE: Union Minister Jyotiraditya Scindia To File Nomination | Lok Sabha Election 2024 | BJP | Guna</desc>
-    <icon src="https://i.ytimg.com/vi/fTebOUVzECI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Union Finance Minister Nirmala Sitharaman interaction with intellectuals| Jaipur |Rajasthan</title>
+    <desc lang="en">LIVE: Union Finance Minister Nirmala Sitharaman interaction with intellectuals| Jaipur |Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/15K1Igpw_kQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240416080000 +0530" stop="20240416090000 +0530">
+    <title lang="en">LIVE: Union Finance Minister Nirmala Sitharaman interaction with intellectuals| Jaipur |Rajasthan</title>
+    <desc lang="en">LIVE: Union Finance Minister Nirmala Sitharaman interaction with intellectuals| Jaipur |Rajasthan</desc>
+    <icon src="https://i.ytimg.com/vi/15K1Igpw_kQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416060000 +0530" stop="20240416070000 +0530">
+  <programme channel="Reuters.yt" start="20240416070000 +0530" stop="20240416080000 +0530">
     <title lang="en">LIVE: South Koreans mark tenth anniversary of Sewol ferry sinking | REUTERS</title>
     <desc lang="en">LIVE: South Koreans mark tenth anniversary of Sewol ferry sinking | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/bs9GB7OFmRY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240416070000 +0530" stop="20240416080000 +0530">
+  <programme channel="Reuters.yt" start="20240416080000 +0530" stop="20240416090000 +0530">
     <title lang="en">LIVE: South Koreans mark tenth anniversary of Sewol ferry sinking | REUTERS</title>
     <desc lang="en">LIVE: South Koreans mark tenth anniversary of Sewol ferry sinking | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/bs9GB7OFmRY/maxresdefault_live.jpg"/>
