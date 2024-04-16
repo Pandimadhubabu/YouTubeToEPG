@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416130000 +0530" stop="20240416140000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240416140000 +0530" stop="20240416150000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</title>
+    <desc lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</desc>
+    <icon src="https://i.ytimg.com/vi/jiuSi-qNstc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240416150000 +0530" stop="20240416160000 +0530">
+    <title lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</title>
+    <desc lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</desc>
+    <icon src="https://i.ytimg.com/vi/jiuSi-qNstc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
