@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240416170000 +0530" stop="20240416180000 +0530">
-    <title lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</title>
-    <desc lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</desc>
-    <icon src="https://i.ytimg.com/vi/n72FHIRJbnI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240416180000 +0530" stop="20240416190000 +0530">
-    <title lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</title>
-    <desc lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</desc>
-    <icon src="https://i.ytimg.com/vi/n72FHIRJbnI/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416170000 +0530" stop="20240416180000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240416180000 +0530" stop="20240416190000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240416170000 +0530" stop="20240416180000 +0530">
-    <title lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</title>
-    <desc lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</desc>
-    <icon src="https://i.ytimg.com/vi/j2WRLZ7L-qo/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240416180000 +0530" stop="20240416190000 +0530">
-    <title lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</title>
-    <desc lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</desc>
-    <icon src="https://i.ytimg.com/vi/j2WRLZ7L-qo/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240416190000 +0530" stop="20240416200000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
