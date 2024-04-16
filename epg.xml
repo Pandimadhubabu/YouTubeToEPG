@@ -2,53 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240416120000 +0530" stop="20240416130000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
+    <title lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ApraDQFwc6Y/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240416120000 +0530" stop="20240416130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ApraDQFwc6Y/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi Addresses Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Narendra Modi Addresses Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/w8pCjP2FsPk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240416120000 +0530" stop="20240416130000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi Addresses Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Narendra Modi Addresses Public meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/w8pCjP2FsPk/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240416130000 +0530" stop="20240416140000 +0530">
+    <title lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
-    <title lang="en">LIVE: View from a tent camp in Rafah</title>
-    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
-    <icon src="https://i.ytimg.com/vi/SPua_63puP0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240416120000 +0530" stop="20240416130000 +0530">
-    <title lang="en">LIVE: View from a tent camp in Rafah</title>
-    <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
-    <icon src="https://i.ytimg.com/vi/SPua_63puP0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240416130000 +0530" stop="20240416140000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
