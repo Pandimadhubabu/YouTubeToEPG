@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240416120000 +0530" stop="20240416130000 +0530">
-    <title lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240416130000 +0530" stop="20240416140000 +0530">
-    <title lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
-    <desc lang="en">LIVE : గల్ఫ్ కార్మిక సంఘాలతో సీఎం రేవంత్ రెడ్డి |CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416120000 +0530" stop="20240416130000 +0530">
+  <programme channel="Reuters.yt" start="20240416130000 +0530" stop="20240416140000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240416130000 +0530" stop="20240416140000 +0530">
+  <programme channel="Reuters.yt" start="20240416140000 +0530" stop="20240416150000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
