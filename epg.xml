@@ -1,39 +1,39 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240416090000 +0530" stop="20240416100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Balurghat, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Balurghat, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ZE-7MvkBSDM/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
+    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Balurghat, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Balurghat, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ZE-7MvkBSDM/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
+    <title lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</title>
+    <desc lang="en">LIVE : CM Revanth Reddy LIVE @ Taj Deccan | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Ft-z0mRhKT8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240416090000 +0530" stop="20240416100000 +0530">
-    <title lang="en">LIVE: PM Modi's public meeting in Balurghat, West Bengal| विशाल जनसभा, बालुरघाट | Lok Sabha Election</title>
-    <desc lang="en">LIVE: PM Modi's public meeting in Balurghat, West Bengal| विशाल जनसभा, बालुरघाट | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/tb-4HA3qDL8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
-    <title lang="en">LIVE: PM Modi's public meeting in Balurghat, West Bengal| विशाल जनसभा, बालुरघाट | Lok Sabha Election</title>
-    <desc lang="en">LIVE: PM Modi's public meeting in Balurghat, West Bengal| विशाल जनसभा, बालुरघाट | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/tb-4HA3qDL8/maxresdefault_live.jpg"/>
+    <title lang="en">Live: RJD Leader Tejashwi Yadav addresses public Rally in Nawada | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: RJD Leader Tejashwi Yadav addresses public Rally in Nawada | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/A_lEfddxGxU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
+    <title lang="en">Live: RJD Leader Tejashwi Yadav addresses public Rally in Nawada | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: RJD Leader Tejashwi Yadav addresses public Rally in Nawada | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/A_lEfddxGxU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416090000 +0530" stop="20240416100000 +0530">
+  <programme channel="Reuters.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
     <title lang="en">LIVE: View from a tent camp in Rafah</title>
     <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
     <icon src="https://i.ytimg.com/vi/SPua_63puP0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
+  <programme channel="Reuters.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
     <title lang="en">LIVE: View from a tent camp in Rafah</title>
     <desc lang="en">LIVE: View from a tent camp in Rafah</desc>
     <icon src="https://i.ytimg.com/vi/SPua_63puP0/maxresdefault_live.jpg"/>
@@ -41,12 +41,12 @@
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240416090000 +0530" stop="20240416100000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
     <title lang="en">Hon'ble CM Sri.A.Revanth Reddy at Hotel Taj Deccan, Hyderabad.</title>
     <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy at Hotel Taj Deccan, Hyderabad.</desc>
     <icon src="https://i.ytimg.com/vi/hN8oIft_-oM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240416100000 +0530" stop="20240416110000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240416110000 +0530" stop="20240416120000 +0530">
     <title lang="en">Hon'ble CM Sri.A.Revanth Reddy at Hotel Taj Deccan, Hyderabad.</title>
     <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy at Hotel Taj Deccan, Hyderabad.</desc>
     <icon src="https://i.ytimg.com/vi/hN8oIft_-oM/maxresdefault_live.jpg"/>
