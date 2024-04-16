@@ -2,27 +2,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240416150000 +0530" stop="20240416160000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's Massive Road Show in Guwahati, Assam | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi's Massive Road Show in Guwahati, Assam | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/KUCrOSE6Wrs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240416160000 +0530" stop="20240416170000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's Massive Road Show in Guwahati, Assam | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi's Massive Road Show in Guwahati, Assam | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/KUCrOSE6Wrs/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</title>
+    <desc lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</desc>
+    <icon src="https://i.ytimg.com/vi/n72FHIRJbnI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240416170000 +0530" stop="20240416180000 +0530">
+    <title lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</title>
+    <desc lang="en">Live: Big Anti-Naxal Ops | 29 Maoists killed in Kanker encounter ahead of Lok Sabha Election |BSF</desc>
+    <icon src="https://i.ytimg.com/vi/n72FHIRJbnI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240416150000 +0530" stop="20240416160000 +0530">
-    <title lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</title>
-    <desc lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</desc>
-    <icon src="https://i.ytimg.com/vi/jiuSi-qNstc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240416160000 +0530" stop="20240416170000 +0530">
-    <title lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</title>
-    <desc lang="en">LIVE: US Supreme Court weighs challenge to Jan. 6 obstruction charge</desc>
-    <icon src="https://i.ytimg.com/vi/jiuSi-qNstc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240416170000 +0530" stop="20240416180000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vqMy04KM2oQ/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240416160000 +0530" stop="20240416170000 +0530">
+    <title lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</title>
+    <desc lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</desc>
+    <icon src="https://i.ytimg.com/vi/j2WRLZ7L-qo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240416170000 +0530" stop="20240416180000 +0530">
+    <title lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</title>
+    <desc lang="en">Sri Rama Navami Edurukolu at Bhadrachalam Temple</desc>
+    <icon src="https://i.ytimg.com/vi/j2WRLZ7L-qo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
