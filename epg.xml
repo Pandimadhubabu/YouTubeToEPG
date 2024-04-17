@@ -1,28 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240417140000 +0530" stop="20240417150000 +0530">
-    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
-    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
-    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240417150000 +0530" stop="20240417160000 +0530">
-    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
-    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
-    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240417140000 +0530" stop="20240417150000 +0530">
-    <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
-    <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
-    <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240417150000 +0530" stop="20240417160000 +0530">
     <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
     <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
     <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240417160000 +0530" stop="20240417170000 +0530">
+    <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
+    <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
+    <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240417150000 +0530" stop="20240417160000 +0530">
+    <title lang="en">LIVE: US Senate committee hears testimony from Boeing whistleblower on safety culture report</title>
+    <desc lang="en">LIVE: US Senate committee hears testimony from Boeing whistleblower on safety culture report</desc>
+    <icon src="https://i.ytimg.com/vi/INpJH61ovmM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240417160000 +0530" stop="20240417170000 +0530">
+    <title lang="en">LIVE: US Senate committee hears testimony from Boeing whistleblower on safety culture report</title>
+    <desc lang="en">LIVE: US Senate committee hears testimony from Boeing whistleblower on safety culture report</desc>
+    <icon src="https://i.ytimg.com/vi/INpJH61ovmM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
