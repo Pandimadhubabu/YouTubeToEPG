@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713344985/ei/eT0fZv78NMelkucP1qG6oAE/ip/20.55.15.80/id/cNmSB0aZyjs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxdtypILPrJ5vcYBvu9x12wg667eznf-JU01xrGyDFqJAPu7HDoyvpRS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgB_0s2S4VKH7g-VU5NeOBQ64OWuPDRYx4EzQmXqFTL-ACICjx4cXXlR3EFD-Ak7NsgZObq9pPVu852Ui4g0UPRNcr/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713348756/ei/NEwfZrLnCYm7ir4PrN-AiAc/ip/172.183.98.198/id/cNmSB0aZyjs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1nk3mMCgOcxh7C4WrXJSSINm8tyblgRMXhG58G09IV0r2_ZH8mT6vwH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOSP-s7lmjgTrJAbIVRrtqDSOyQ2RFg01ygfMnnnuDfxAiEAuvLn2rrRYMKIwl-5GDrr5nKVJyW1I3ZyvE9j3V7EG9Q%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713344986/ei/ej0fZp7MNMWPy_sP-dS7yAs/ip/20.55.15.80/id/eCURrkmNkvo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129852/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nLDDSH5nalC7N13KJGKRdWAlBAI6bcnDHV00IPUcAkhyupVvovSpTB/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIfAB8i3WAh3JHsarLYxCianPv9ebCqUNH2v4kOn5bnRAiEA2-oGStAYJFzaMEPM3pkkC0sxey-83brcOiCUlCxOXhU%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713348757/ei/NUwfZojeJcmulu8P7YiboAI/ip/172.183.98.198/id/xCZER2LnT0E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118565/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8dR-3RlJ-eVc2gI0dMd-LnzafVap4daCrrkoH8E9tVHxcOuGzb9Ggpb/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKb1AHBZKPOJI8h_tuOqvsK8xRUlNiQlXEkJEuCG5n9-AiAmUm-8iiVWjx9FFquSMA_bTBt0oRxcDMWxcxsCTSI0RQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="IPRTelanganaGovt.yt" tvg-name="TG Government" group-title="Telugu", TG Government
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713348759/ei/NkwfZt7yOf3xir4Pq_29-AQ/ip/172.183.98.198/id/WjJXDr1c2xw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4kHdz2huM_cwX-TDpL8m-PHaOPn46ghFrXbtVmNjZJhlmZA5tWiOPHb/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYbM_5BrHXtiwzlk0a6hbkoY52IPzhthGHeDfUj3idhoCIAHSE1MgWM6kGBZA7-hVFbtLtBT_cghfBqqbdRadcV78/file/index.m3u8
 
 #EXTINF:-1 tvg-id="IPRAPDept.yt" tvg-name="AP Government" group-title="Telugu", AP Government
 https://www.youtube.com/watch?v=1oh9IEwBbFY
