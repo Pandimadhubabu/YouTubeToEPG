@@ -2,14 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240417020000 +0530" stop="20240417030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/cNmSB0aZyjs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240417030000 +0530" stop="20240417040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/cNmSB0aZyjs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240417040000 +0530" stop="20240417050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/cNmSB0aZyjs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240417030000 +0530" stop="20240417040000 +0530">
+    <title lang="en">LIVE: Passing out Parade for 427 Agniveers, Third Batch of Agnipath scheme I General Ravi Murugan</title>
+    <desc lang="en">LIVE: Passing out Parade for 427 Agniveers, Third Batch of Agnipath scheme I General Ravi Murugan</desc>
+    <icon src="https://i.ytimg.com/vi/eCURrkmNkvo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240417040000 +0530" stop="20240417050000 +0530">
+    <title lang="en">LIVE: Passing out Parade for 427 Agniveers, Third Batch of Agnipath scheme I General Ravi Murugan</title>
+    <desc lang="en">LIVE: Passing out Parade for 427 Agniveers, Third Batch of Agnipath scheme I General Ravi Murugan</desc>
+    <icon src="https://i.ytimg.com/vi/eCURrkmNkvo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
