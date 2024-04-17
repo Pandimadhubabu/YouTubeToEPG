@@ -1,1 +1,54 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
+    <title lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</title>
+    <desc lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/tlByeWIKxnQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
+    <title lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</title>
+    <desc lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/tlByeWIKxnQ/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
+    <title lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</title>
+    <desc lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/PacIlPFpGEc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
+    <title lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</title>
+    <desc lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/PacIlPFpGEc/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</desc>
+    <icon src="https://i.ytimg.com/vi/fl2-uD-Duls/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</desc>
+    <icon src="https://i.ytimg.com/vi/fl2-uD-Duls/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRTelanganaGovt.yt">
+    <display-name lang="en">TG Government</display-name>
+  </channel>
+  <programme channel="IPRTelanganaGovt.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</desc>
+    <icon src="https://i.ytimg.com/vi/WjJXDr1c2xw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRTelanganaGovt.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</desc>
+    <icon src="https://i.ytimg.com/vi/WjJXDr1c2xw/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
