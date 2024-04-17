@@ -2,38 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
-    <title lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/N_4oOxEklLY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
-    <title lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/N_4oOxEklLY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
+    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
+    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
+    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
+    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
+    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
-    <title lang="en">LIVE: Congress leader Rahul Gandhi Addresses public meeting in Mandya, Karnataka | Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Congress leader Rahul Gandhi Addresses public meeting in Mandya, Karnataka | Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/ej2f_uB9xhk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
-    <title lang="en">LIVE: Congress leader Rahul Gandhi Addresses public meeting in Mandya, Karnataka | Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Congress leader Rahul Gandhi Addresses public meeting in Mandya, Karnataka | Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/ej2f_uB9xhk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</desc>
+    <icon src="https://i.ytimg.com/vi/xU7y_k0bITg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</desc>
+    <icon src="https://i.ytimg.com/vi/xU7y_k0bITg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
+  <programme channel="Reuters.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
     <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
     <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
     <icon src="https://i.ytimg.com/vi/Mq5mCc8Pz3I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
+  <programme channel="Reuters.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
     <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
     <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
     <icon src="https://i.ytimg.com/vi/Mq5mCc8Pz3I/maxresdefault_live.jpg"/>
