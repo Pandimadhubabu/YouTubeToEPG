@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
     <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
     <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
     <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240417130000 +0530" stop="20240417140000 +0530">
     <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
     <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
     <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
-    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</title>
-    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</desc>
-    <icon src="https://i.ytimg.com/vi/xU7y_k0bITg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
-    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</title>
-    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Kolar, Karnataka | Mallikarjun Kharge</desc>
-    <icon src="https://i.ytimg.com/vi/xU7y_k0bITg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Vadakara, Kerala | BJP</title>
+    <desc lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Vadakara, Kerala | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/1RlgCpp6YsQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240417130000 +0530" stop="20240417140000 +0530">
+    <title lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Vadakara, Kerala | BJP</title>
+    <desc lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Vadakara, Kerala | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/1RlgCpp6YsQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240417110000 +0530" stop="20240417120000 +0530">
+  <programme channel="Reuters.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
     <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
     <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
     <icon src="https://i.ytimg.com/vi/Mq5mCc8Pz3I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240417120000 +0530" stop="20240417130000 +0530">
+  <programme channel="Reuters.yt" start="20240417130000 +0530" stop="20240417140000 +0530">
     <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
     <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
     <icon src="https://i.ytimg.com/vi/Mq5mCc8Pz3I/maxresdefault_live.jpg"/>
