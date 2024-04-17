@@ -2,53 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
-    <title lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</title>
-    <desc lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/tlByeWIKxnQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</title>
-    <desc lang="en">LIVE : సీతారాముల కళ్యాణ మహోత్సవం @భద్రాచలం | Sitharama Kalyanam @Badrachalam | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/tlByeWIKxnQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
+    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
+    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
+    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
+    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
+    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
-    <title lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</title>
-    <desc lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/PacIlPFpGEc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</title>
-    <desc lang="en">LIVE: Union Defence Minister Rajnath Singh Addresses Public Meeting in Kasaragod, Kerala | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/PacIlPFpGEc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</title>
+    <desc lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</desc>
+    <icon src="https://i.ytimg.com/vi/APeM4MXGd8U/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
+  <programme channel="ANINewsIndia.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
+    <title lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</title>
+    <desc lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</desc>
+    <icon src="https://i.ytimg.com/vi/APeM4MXGd8U/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</desc>
-    <icon src="https://i.ytimg.com/vi/fl2-uD-Duls/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
+    <title lang="en">LIVE: Polls open in Croatian parliamentary elections</title>
+    <desc lang="en">LIVE: Polls open in Croatian parliamentary elections</desc>
+    <icon src="https://i.ytimg.com/vi/etNnaYrhKhg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple.</desc>
-    <icon src="https://i.ytimg.com/vi/fl2-uD-Duls/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240417070000 +0530" stop="20240417080000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</desc>
-    <icon src="https://i.ytimg.com/vi/WjJXDr1c2xw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Kalyana Mahotsavam at Bhadrachalam Temple .</desc>
-    <icon src="https://i.ytimg.com/vi/WjJXDr1c2xw/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
+    <title lang="en">LIVE: Polls open in Croatian parliamentary elections</title>
+    <desc lang="en">LIVE: Polls open in Croatian parliamentary elections</desc>
+    <icon src="https://i.ytimg.com/vi/etNnaYrhKhg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
