@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240417200000 +0530" stop="20240417210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240417210000 +0530" stop="20240417220000 +0530">
     <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
     <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
     <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240417210000 +0530" stop="20240417220000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240417220000 +0530" stop="20240417230000 +0530">
     <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
     <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
     <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240417200000 +0530" stop="20240417210000 +0530">
+  <programme channel="Reuters.yt" start="20240417210000 +0530" stop="20240417220000 +0530">
     <title lang="en">LIVE: UN meeting on the situation in the Palestinian Territories</title>
     <desc lang="en">LIVE: UN meeting on the situation in the Palestinian Territories</desc>
     <icon src="https://i.ytimg.com/vi/LpBs5WLg55A/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240417210000 +0530" stop="20240417220000 +0530">
+  <programme channel="Reuters.yt" start="20240417220000 +0530" stop="20240417230000 +0530">
     <title lang="en">LIVE: UN meeting on the situation in the Palestinian Territories</title>
     <desc lang="en">LIVE: UN meeting on the situation in the Palestinian Territories</desc>
     <icon src="https://i.ytimg.com/vi/LpBs5WLg55A/maxresdefault_live.jpg"/>
