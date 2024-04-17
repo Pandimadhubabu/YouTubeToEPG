@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
-    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
-    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
-    <title lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</title>
-    <desc lang="en">LIVE : ఇంకా ఎందరు చావాలి ! గాంధీ ఆస్పత్రిలో జర్నలిస్ట్ రఘు !! | Journalist Raghu In Gandhi Hospital</desc>
-    <icon src="https://i.ytimg.com/vi/KMI-72NT5PY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/N_4oOxEklLY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
+    <title lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మంత్రి కోమటిరెడ్డి సంచలన ప్రెస్ మీట్ | Komatireddy Venkat Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/N_4oOxEklLY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Agartala, Tripura | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Agartala, Tripura | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/0vIHebCxkdQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Agartala, Tripura | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Agartala, Tripura | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/0vIHebCxkdQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</title>
-    <desc lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</desc>
-    <icon src="https://i.ytimg.com/vi/APeM4MXGd8U/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
-    <title lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</title>
-    <desc lang="en">LIVE: BJP leader Shehzad Poonawalla Press Conference | BJP | Rahul Gandhi | Akhilesh Yadav|Congress</desc>
-    <icon src="https://i.ytimg.com/vi/APeM4MXGd8U/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public Meeting in Agartala, Tripura | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">PM Modi Live | Public Meeting in Agartala, Tripura | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/_oEaG4vFF-I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
+    <title lang="en">PM Modi Live | Public Meeting in Agartala, Tripura | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">PM Modi Live | Public Meeting in Agartala, Tripura | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/_oEaG4vFF-I/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240417080000 +0530" stop="20240417090000 +0530">
-    <title lang="en">LIVE: Polls open in Croatian parliamentary elections</title>
-    <desc lang="en">LIVE: Polls open in Croatian parliamentary elections</desc>
-    <icon src="https://i.ytimg.com/vi/etNnaYrhKhg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240417090000 +0530" stop="20240417100000 +0530">
-    <title lang="en">LIVE: Polls open in Croatian parliamentary elections</title>
-    <desc lang="en">LIVE: Polls open in Croatian parliamentary elections</desc>
-    <icon src="https://i.ytimg.com/vi/etNnaYrhKhg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/Mq5mCc8Pz3I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240417100000 +0530" stop="20240417110000 +0530">
+    <title lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where 1.3 million Palestinian people are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/Mq5mCc8Pz3I/maxresdefault_live.jpg"/>
   </programme>
 </tv>
