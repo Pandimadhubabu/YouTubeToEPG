@@ -2,51 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/12BEslrvVFI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/12BEslrvVFI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Etela Rajender NominationRally | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Etela Rajender NominationRally | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/dhYf3dUatFg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
+    <title lang="en">LIVE : Etela Rajender NominationRally | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Etela Rajender NominationRally | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/dhYf3dUatFg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
-    <title lang="en">LIVE: HM Amit Shah's roadshow in Sanand, Gujarat | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah's roadshow in Sanand, Gujarat | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/jSb5maZKy8c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
-    <title lang="en">LIVE: HM Amit Shah's roadshow in Sanand, Gujarat | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah's roadshow in Sanand, Gujarat | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/jSb5maZKy8c/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024 | Aam Aadmi Party</title>
+    <desc lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024 | Aam Aadmi Party</desc>
+    <icon src="https://i.ytimg.com/vi/EsUfrfKO6ek/hqdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
-    <title lang="en">LIVE: US ambassador to UN speaks in Tokyo | REUTERS</title>
-    <desc lang="en">LIVE: US ambassador to UN speaks in Tokyo | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/iEP1exxDjdQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
-    <title lang="en">LIVE: US ambassador to UN speaks in Tokyo | REUTERS</title>
-    <desc lang="en">LIVE: US ambassador to UN speaks in Tokyo | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/iEP1exxDjdQ/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
+    <title lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024 | Aam Aadmi Party</title>
+    <desc lang="en">LIVE: AAP MP Sanjay Singh Addresses Press Conference | Lok Sabha Election 2024 | Aam Aadmi Party</desc>
+    <icon src="https://i.ytimg.com/vi/EsUfrfKO6ek/hqdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
     <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
     <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
     <icon src="https://i.ytimg.com/vi/a7m4r6ftv70/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
     <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
     <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
     <icon src="https://i.ytimg.com/vi/a7m4r6ftv70/maxresdefault_live.jpg"/>
@@ -54,12 +41,12 @@
   <channel id="IPRTelanganaGovt.yt">
     <display-name lang="en">TG Government</display-name>
   </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
+  <programme channel="IPRTelanganaGovt.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
     <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
     <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
     <icon src="https://i.ytimg.com/vi/BSnCC_kL0ow/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240418060000 +0530" stop="20240418070000 +0530">
+  <programme channel="IPRTelanganaGovt.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
     <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
     <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
     <icon src="https://i.ytimg.com/vi/BSnCC_kL0ow/maxresdefault_live.jpg"/>
