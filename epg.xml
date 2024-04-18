@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240418030000 +0530" stop="20240418040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240418040000 +0530" stop="20240418050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/12BEslrvVFI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240418040000 +0530" stop="20240418050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/12BEslrvVFI/maxresdefault_live.jpg"/>
@@ -15,14 +15,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240418030000 +0530" stop="20240418040000 +0530">
-    <title lang="en">LIVE: Rain wreaks havoc in Dubai | Dramatic visuals of floods in UAE | Flights delayed for hours</title>
-    <desc lang="en">LIVE: Rain wreaks havoc in Dubai | Dramatic visuals of floods in UAE | Flights delayed for hours</desc>
-    <icon src="https://i.ytimg.com/vi/qdKMOt_dBpU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240418040000 +0530" stop="20240418050000 +0530">
-    <title lang="en">LIVE: Rain wreaks havoc in Dubai | Dramatic visuals of floods in UAE | Flights delayed for hours</title>
-    <desc lang="en">LIVE: Rain wreaks havoc in Dubai | Dramatic visuals of floods in UAE | Flights delayed for hours</desc>
-    <icon src="https://i.ytimg.com/vi/qdKMOt_dBpU/maxresdefault_live.jpg"/>
+    <title lang="en">BJP’s Madhavi Latha stings Owaisi brothers over Ram Navami procession issue in Hyderabad</title>
+    <desc lang="en">BJP’s Madhavi Latha stings Owaisi brothers over Ram Navami procession issue in Hyderabad</desc>
+    <icon src="https://i.ytimg.com/vi/cTWhHTc_-QU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
+    <title lang="en">BJP’s Madhavi Latha stings Owaisi brothers over Ram Navami procession issue in Hyderabad</title>
+    <desc lang="en">BJP’s Madhavi Latha stings Owaisi brothers over Ram Navami procession issue in Hyderabad</desc>
+    <icon src="https://i.ytimg.com/vi/cTWhHTc_-QU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240418040000 +0530" stop="20240418050000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
+    <icon src="https://i.ytimg.com/vi/a7m4r6ftv70/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
+    <icon src="https://i.ytimg.com/vi/a7m4r6ftv70/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRTelanganaGovt.yt">
+    <display-name lang="en">TG Government</display-name>
+  </channel>
+  <programme channel="IPRTelanganaGovt.yt" start="20240418040000 +0530" stop="20240418050000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
+    <icon src="https://i.ytimg.com/vi/BSnCC_kL0ow/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRTelanganaGovt.yt" start="20240418050000 +0530" stop="20240418060000 +0530">
+    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
+    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
+    <icon src="https://i.ytimg.com/vi/BSnCC_kL0ow/maxresdefault_live.jpg"/>
   </programme>
 </tv>
