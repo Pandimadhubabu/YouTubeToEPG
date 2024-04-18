@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240418130000 +0530" stop="20240418140000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
-    <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240418140000 +0530" stop="20240418150000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
-    <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UN Security Council meets on Middle East</title>
+    <desc lang="en">LIVE: UN Security Council meets on Middle East</desc>
+    <icon src="https://i.ytimg.com/vi/9wy8yAh_3Dc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240418150000 +0530" stop="20240418160000 +0530">
+    <title lang="en">LIVE: UN Security Council meets on Middle East</title>
+    <desc lang="en">LIVE: UN Security Council meets on Middle East</desc>
+    <icon src="https://i.ytimg.com/vi/9wy8yAh_3Dc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
