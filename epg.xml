@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240418080000 +0530" stop="20240418090000 +0530">
     <title lang="en">LIVE : Etela Rajender Nomination Rally | ManaTolivelugu</title>
     <desc lang="en">LIVE : Etela Rajender Nomination Rally | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/dhYf3dUatFg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240418080000 +0530" stop="20240418090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240418090000 +0530" stop="20240418100000 +0530">
     <title lang="en">LIVE : Etela Rajender Nomination Rally | ManaTolivelugu</title>
     <desc lang="en">LIVE : Etela Rajender Nomination Rally | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/dhYf3dUatFg/maxresdefault_live.jpg"/>
@@ -15,40 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
-    <title lang="en">LIVE: Media Briefing by BJP National Spokesperson Shehzad Poonawalla | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: Media Briefing by BJP National Spokesperson Shehzad Poonawalla | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/u9O6QRzz7jE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240418080000 +0530" stop="20240418090000 +0530">
-    <title lang="en">LIVE: Media Briefing by BJP National Spokesperson Shehzad Poonawalla | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: Media Briefing by BJP National Spokesperson Shehzad Poonawalla | Lok Sabha Election 2024</desc>
+    <title lang="en">LIVE: BJP Leader Shehzad Poonawalla slams Supriya Shrinet's 'Martyr' remark | Kanker Encounter</title>
+    <desc lang="en">LIVE: BJP Leader Shehzad Poonawalla slams Supriya Shrinet's 'Martyr' remark | Kanker Encounter</desc>
     <icon src="https://i.ytimg.com/vi/u9O6QRzz7jE/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
-    <icon src="https://i.ytimg.com/vi/a7m4r6ftv70/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240418080000 +0530" stop="20240418090000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
-    <icon src="https://i.ytimg.com/vi/a7m4r6ftv70/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRTelanganaGovt.yt">
-    <display-name lang="en">TG Government</display-name>
-  </channel>
-  <programme channel="IPRTelanganaGovt.yt" start="20240418070000 +0530" stop="20240418080000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
-    <icon src="https://i.ytimg.com/vi/BSnCC_kL0ow/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRTelanganaGovt.yt" start="20240418080000 +0530" stop="20240418090000 +0530">
-    <title lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</title>
-    <desc lang="en">Government of Telangana Organising Sri Sita Rama Pattabhishekam at Bhadrachalam Temple</desc>
-    <icon src="https://i.ytimg.com/vi/BSnCC_kL0ow/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240418090000 +0530" stop="20240418100000 +0530">
+    <title lang="en">LIVE: BJP Leader Shehzad Poonawalla slams Supriya Shrinet's 'Martyr' remark | Kanker Encounter</title>
+    <desc lang="en">LIVE: BJP Leader Shehzad Poonawalla slams Supriya Shrinet's 'Martyr' remark | Kanker Encounter</desc>
+    <icon src="https://i.ytimg.com/vi/u9O6QRzz7jE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
