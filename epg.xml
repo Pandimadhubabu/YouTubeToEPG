@@ -1,15 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240418010000 +0530" stop="20240418020000 +0530">
-    <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
-    <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
-    <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240418020000 +0530" stop="20240418030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/12BEslrvVFI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240418020000 +0530" stop="20240418030000 +0530">
-    <title lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</title>
-    <desc lang="en">LIVE: Ram Navami ‘Shobha Yatra’ held by BJP’s Raja Singh from Akashpuri Hanuman Temple |Hyderabad</desc>
-    <icon src="https://i.ytimg.com/vi/Fwe361hb1sU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240418030000 +0530" stop="20240418040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/12BEslrvVFI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
