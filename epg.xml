@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240418120000 +0530" stop="20240418130000 +0530">
-    <title lang="en">Live :  Boora Narsaiah Goud   Press Meet || BJP State Office| ManaTolivelugu</title>
-    <desc lang="en">Live :  Boora Narsaiah Goud   Press Meet || BJP State Office| ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/LI9sXtPLwpo/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240418130000 +0530" stop="20240418140000 +0530">
-    <title lang="en">Live :  Boora Narsaiah Goud   Press Meet || BJP State Office| ManaTolivelugu</title>
-    <desc lang="en">Live :  Boora Narsaiah Goud   Press Meet || BJP State Office| ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/LI9sXtPLwpo/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240418120000 +0530" stop="20240418130000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
-    <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240418130000 +0530" stop="20240418140000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
     <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="IPRAPDept.yt">
-    <display-name lang="en">AP Government</display-name>
-  </channel>
-  <programme channel="IPRAPDept.yt" start="20240418120000 +0530" stop="20240418130000 +0530">
-    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
-    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
-    <icon src="https://i.ytimg.com/vi/y4kE_pzJSzY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRAPDept.yt" start="20240418130000 +0530" stop="20240418140000 +0530">
-    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
-    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
-    <icon src="https://i.ytimg.com/vi/y4kE_pzJSzY/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240418140000 +0530" stop="20240418150000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
+    <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
