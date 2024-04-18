@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240418100000 +0530" stop="20240418110000 +0530">
-    <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/dhYf3dUatFg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240418110000 +0530" stop="20240418120000 +0530">
-    <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/dhYf3dUatFg/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240418100000 +0530" stop="20240418110000 +0530">
-    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in Meerut, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in Meerut, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/9f8L3CMeXMQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240418110000 +0530" stop="20240418120000 +0530">
-    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in Meerut, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in Meerut, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/9f8L3CMeXMQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in ghaziabad, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in ghaziabad, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/wk62jHJo8d8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240418120000 +0530" stop="20240418130000 +0530">
+    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in ghaziabad, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in ghaziabad, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/wk62jHJo8d8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
