@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240418180000 +0530" stop="20240418190000 +0530">
-    <title lang="en">Live: Owaisi Hits out at Madhavi Latha’s viral video allegedly pretending to shoot arrow at mosque</title>
-    <desc lang="en">Live: Owaisi Hits out at Madhavi Latha’s viral video allegedly pretending to shoot arrow at mosque</desc>
-    <icon src="https://i.ytimg.com/vi/TWDCmp70DT8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240418190000 +0530" stop="20240418200000 +0530">
-    <title lang="en">Live: Owaisi Hits out at Madhavi Latha’s viral video allegedly pretending to shoot arrow at mosque</title>
-    <desc lang="en">Live: Owaisi Hits out at Madhavi Latha’s viral video allegedly pretending to shoot arrow at mosque</desc>
-    <icon src="https://i.ytimg.com/vi/TWDCmp70DT8/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240418180000 +0530" stop="20240418190000 +0530">
+  <programme channel="Reuters.yt" start="20240418190000 +0530" stop="20240418200000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
     <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240418190000 +0530" stop="20240418200000 +0530">
+  <programme channel="Reuters.yt" start="20240418200000 +0530" stop="20240418210000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
     <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
