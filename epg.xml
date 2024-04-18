@@ -1,15 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240418210000 +0530" stop="20240418220000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
-    <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240418220000 +0530" stop="20240418230000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
-    <icon src="https://i.ytimg.com/vi/pKDwSrqNHJI/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
