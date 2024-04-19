@@ -2,38 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240419090000 +0530" stop="20240419100000 +0530">
-    <title lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</title>
-    <desc lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</desc>
-    <icon src="https://i.ytimg.com/vi/04SJSXyIFu0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
-    <title lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</title>
-    <desc lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</desc>
-    <icon src="https://i.ytimg.com/vi/04SJSXyIFu0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</title>
+    <desc lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/BnNqUnQf0rM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
+    <title lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</title>
+    <desc lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/BnNqUnQf0rM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240419090000 +0530" stop="20240419100000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Baghpat, UP | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Baghpat, UP | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/zGAqVRWEvV8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Baghpat, UP | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Rally in Baghpat, UP | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/zGAqVRWEvV8/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/sZiaJ1hPUTY/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
+    <title lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/sZiaJ1hPUTY/hqdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240419090000 +0530" stop="20240419100000 +0530">
+  <programme channel="Reuters.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
     <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
     <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
+  <programme channel="Reuters.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
     <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
     <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
