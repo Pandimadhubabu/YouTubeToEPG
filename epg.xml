@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
-    <title lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</title>
-    <desc lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/BnNqUnQf0rM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
-    <title lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</title>
-    <desc lang="en">LIVE : పసుపు రైతులతో ధర్మపురి అరవింద్ | Dharmapuri Arvind Meet Tumeric farmers | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/BnNqUnQf0rM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</title>
+    <desc lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/wIV7kedWF9o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240419120000 +0530" stop="20240419130000 +0530">
+    <title lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</title>
+    <desc lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/wIV7kedWF9o/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
-    <title lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/sZiaJ1hPUTY/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
-    <title lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Press Briefing by Union Minister Shobha Karandlaje in Bengaluru | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/sZiaJ1hPUTY/hqdefault_live.jpg"/>
+    <title lang="en">Live: BJP Candidate Madhavi latha Slams Asadduddin Owais over Viral Video Row | Lok Sabha Election</title>
+    <desc lang="en">Live: BJP Candidate Madhavi latha Slams Asadduddin Owais over Viral Video Row | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/3TzUijz3iZ8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240419120000 +0530" stop="20240419130000 +0530">
+    <title lang="en">Live: BJP Candidate Madhavi latha Slams Asadduddin Owais over Viral Video Row | Lok Sabha Election</title>
+    <desc lang="en">Live: BJP Candidate Madhavi latha Slams Asadduddin Owais over Viral Video Row | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/3TzUijz3iZ8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240419100000 +0530" stop="20240419110000 +0530">
-    <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
-    <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
     <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
     <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240419120000 +0530" stop="20240419130000 +0530">
+    <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
+    <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240419110000 +0530" stop="20240419120000 +0530">
+    <title lang="en">Hon'ble C.M Sri. A.Revanth Reddy will participate in Congress Jana Jathara Sabha at Mahabubabad</title>
+    <desc lang="en">Hon'ble C.M Sri. A.Revanth Reddy will participate in Congress Jana Jathara Sabha at Mahabubabad</desc>
+    <icon src="https://i.ytimg.com/vi/B6dNX8vPNqw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240419120000 +0530" stop="20240419130000 +0530">
+    <title lang="en">Hon'ble C.M Sri. A.Revanth Reddy will participate in Congress Jana Jathara Sabha at Mahabubabad</title>
+    <desc lang="en">Hon'ble C.M Sri. A.Revanth Reddy will participate in Congress Jana Jathara Sabha at Mahabubabad</desc>
+    <icon src="https://i.ytimg.com/vi/B6dNX8vPNqw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
