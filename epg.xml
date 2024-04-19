@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240419060000 +0530" stop="20240419070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/FnMu8sD8zzk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240419070000 +0530" stop="20240419080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/FnMu8sD8zzk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</title>
+    <desc lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</desc>
+    <icon src="https://i.ytimg.com/vi/04SJSXyIFu0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240419080000 +0530" stop="20240419090000 +0530">
+    <title lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</title>
+    <desc lang="en">LIVE : వంశీచంద్ రెడ్డి నిమినేషన్ ర్యాలీలో సీఎం రేవంత్ రెడ్డి | Vamshichand Reddy Nomination Rally</desc>
+    <icon src="https://i.ytimg.com/vi/04SJSXyIFu0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240419060000 +0530" stop="20240419070000 +0530">
-    <title lang="en">LIVE: Dubai Rain Updates | Heavy Rain | residents evacuate by kayak | Desert City Of Dubai Flooded</title>
-    <desc lang="en">LIVE: Dubai Rain Updates | Heavy Rain | residents evacuate by kayak | Desert City Of Dubai Flooded</desc>
-    <icon src="https://i.ytimg.com/vi/QsSMRP3CtQc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240419070000 +0530" stop="20240419080000 +0530">
-    <title lang="en">LIVE: Dubai Rain Updates | Heavy Rain | residents evacuate by kayak | Desert City Of Dubai Flooded</title>
-    <desc lang="en">LIVE: Dubai Rain Updates | Heavy Rain | residents evacuate by kayak | Desert City Of Dubai Flooded</desc>
-    <icon src="https://i.ytimg.com/vi/QsSMRP3CtQc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath addresses public rally in Bulandshahar, UP| Lok Sabha Election| BJP</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath addresses public rally in Bulandshahar, UP| Lok Sabha Election| BJP</desc>
+    <icon src="https://i.ytimg.com/vi/pWGXaYoIl8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240419080000 +0530" stop="20240419090000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath addresses public rally in Bulandshahar, UP| Lok Sabha Election| BJP</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath addresses public rally in Bulandshahar, UP| Lok Sabha Election| BJP</desc>
+    <icon src="https://i.ytimg.com/vi/pWGXaYoIl8c/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240419060000 +0530" stop="20240419070000 +0530">
-    <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
-    <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240419070000 +0530" stop="20240419080000 +0530">
     <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
     <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240419080000 +0530" stop="20240419090000 +0530">
+    <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
+    <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240419070000 +0530" stop="20240419080000 +0530">
+    <title lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Nomination Rally at Mahbubnagar</title>
+    <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Nomination Rally at Mahbubnagar</desc>
+    <icon src="https://i.ytimg.com/vi/iVRxnobDM2Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240419080000 +0530" stop="20240419090000 +0530">
+    <title lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Nomination Rally at Mahbubnagar</title>
+    <desc lang="en">Hon'ble CM Sri.A.Revanth Reddy will participate in Nomination Rally at Mahbubnagar</desc>
+    <icon src="https://i.ytimg.com/vi/iVRxnobDM2Y/maxresdefault_live.jpg"/>
   </programme>
 </tv>
