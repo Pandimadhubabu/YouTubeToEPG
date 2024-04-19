@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240419140000 +0530" stop="20240419150000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/wIV7kedWF9o/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240419150000 +0530" stop="20240419160000 +0530">
-    <title lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</title>
-    <desc lang="en">LIVE : CM Revanth Reddy Public Meeting @Mahabubabad | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/wIV7kedWF9o/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240419140000 +0530" stop="20240419150000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Rally in Pali, Rajasthan I Lok Sabha Elections 2024 I BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Rally in Pali, Rajasthan I Lok Sabha Elections 2024 I BJP</desc>
-    <icon src="https://i.ytimg.com/vi/ZqbT6OTX6XE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240419150000 +0530" stop="20240419160000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Rally in Pali, Rajasthan I Lok Sabha Elections 2024 I BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Rally in Pali, Rajasthan I Lok Sabha Elections 2024 I BJP</desc>
-    <icon src="https://i.ytimg.com/vi/ZqbT6OTX6XE/maxresdefault_live.jpg"/>
+    <title lang="en">Live: BJP Leader Sudhanshu Trivedi Takes A Jibe At Rahul Gandhi | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: BJP Leader Sudhanshu Trivedi Takes A Jibe At Rahul Gandhi | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Qq7kuv3T8UQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240419160000 +0530" stop="20240419170000 +0530">
+    <title lang="en">Live: BJP Leader Sudhanshu Trivedi Takes A Jibe At Rahul Gandhi | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: BJP Leader Sudhanshu Trivedi Takes A Jibe At Rahul Gandhi | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Qq7kuv3T8UQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240419140000 +0530" stop="20240419150000 +0530">
-    <title lang="en">LIVE: Police cordon off Iran consulate in Paris</title>
-    <desc lang="en">LIVE: Police cordon off Iran consulate in Paris</desc>
-    <icon src="https://i.ytimg.com/vi/18fGw1oOVHY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240419150000 +0530" stop="20240419160000 +0530">
-    <title lang="en">LIVE: Police cordon off Iran consulate in Paris</title>
-    <desc lang="en">LIVE: Police cordon off Iran consulate in Paris</desc>
-    <icon src="https://i.ytimg.com/vi/18fGw1oOVHY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
+    <icon src="https://i.ytimg.com/vi/DAH-uE4Cryc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240419160000 +0530" stop="20240419170000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
+    <icon src="https://i.ytimg.com/vi/DAH-uE4Cryc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
