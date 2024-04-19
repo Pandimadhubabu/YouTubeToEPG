@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240419190000 +0530" stop="20240419200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240419200000 +0530" stop="20240419210000 +0530">
     <title lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</title>
     <desc lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</desc>
     <icon src="https://i.ytimg.com/vi/ord8-pud8KM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240419200000 +0530" stop="20240419210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240419210000 +0530" stop="20240419220000 +0530">
     <title lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</title>
     <desc lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</desc>
     <icon src="https://i.ytimg.com/vi/ord8-pud8KM/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240419190000 +0530" stop="20240419200000 +0530">
-    <title lang="en">LIVE: The Olympic flame arrives at the Acropolis, Greece</title>
-    <desc lang="en">LIVE: The Olympic flame arrives at the Acropolis, Greece</desc>
-    <icon src="https://i.ytimg.com/vi/xmSQcI9N3dI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240419200000 +0530" stop="20240419210000 +0530">
-    <title lang="en">LIVE: The Olympic flame arrives at the Acropolis, Greece</title>
-    <desc lang="en">LIVE: The Olympic flame arrives at the Acropolis, Greece</desc>
-    <icon src="https://i.ytimg.com/vi/xmSQcI9N3dI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
+    <icon src="https://i.ytimg.com/vi/DAH-uE4Cryc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240419210000 +0530" stop="20240419220000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment continues</desc>
+    <icon src="https://i.ytimg.com/vi/DAH-uE4Cryc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
