@@ -1,1 +1,28 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240419010000 +0530" stop="20240419020000 +0530">
+    <title lang="en">Lok Sabha Elections 2024| Chief Election Commissioner Rajiv Kumar’s big announcement ahead of voting</title>
+    <desc lang="en">Lok Sabha Elections 2024| Chief Election Commissioner Rajiv Kumar’s big announcement ahead of voting</desc>
+    <icon src="https://i.ytimg.com/vi/EHd18wsLKSA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240419020000 +0530" stop="20240419030000 +0530">
+    <title lang="en">Lok Sabha Elections 2024| Chief Election Commissioner Rajiv Kumar’s big announcement ahead of voting</title>
+    <desc lang="en">Lok Sabha Elections 2024| Chief Election Commissioner Rajiv Kumar’s big announcement ahead of voting</desc>
+    <icon src="https://i.ytimg.com/vi/EHd18wsLKSA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240419010000 +0530" stop="20240419020000 +0530">
+    <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
+    <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240419020000 +0530" stop="20240419030000 +0530">
+    <title lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</title>
+    <desc lang="en">LIVE: Indians cast their votes in phase one of a seven-stage election | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/YSxrUMICwzk/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
