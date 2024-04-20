@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420000000 +0530" stop="20240420010000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240420010000 +0530" stop="20240420020000 +0530">
     <title lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</title>
     <desc lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</desc>
     <icon src="https://i.ytimg.com/vi/ord8-pud8KM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240420010000 +0530" stop="20240420020000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240420020000 +0530" stop="20240420030000 +0530">
     <title lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</title>
     <desc lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</desc>
     <icon src="https://i.ytimg.com/vi/ord8-pud8KM/maxresdefault_live.jpg"/>
