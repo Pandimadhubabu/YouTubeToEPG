@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240420090000 +0530" stop="20240420100000 +0530">
-    <title lang="en">LIVE : నీలం మధు నామినేషన్ ర్యాలీ! పాల్గొన్న రేవంత్ రెడ్డి! | Neelam Madhu Nomination Rally | Revanth</title>
-    <desc lang="en">LIVE : నీలం మధు నామినేషన్ ర్యాలీ! పాల్గొన్న రేవంత్ రెడ్డి! | Neelam Madhu Nomination Rally | Revanth</desc>
-    <icon src="https://i.ytimg.com/vi/N_pavO0lTA4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240420100000 +0530" stop="20240420110000 +0530">
     <title lang="en">LIVE : నీలం మధు నామినేషన్ ర్యాలీ! పాల్గొన్న రేవంత్ రెడ్డి! | Neelam Madhu Nomination Rally | Revanth</title>
     <desc lang="en">LIVE : నీలం మధు నామినేషన్ ర్యాలీ! పాల్గొన్న రేవంత్ రెడ్డి! | Neelam Madhu Nomination Rally | Revanth</desc>
     <icon src="https://i.ytimg.com/vi/N_pavO0lTA4/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240420110000 +0530" stop="20240420120000 +0530">
+    <title lang="en">LIVE : నీలం మధు నామినేషన్ ర్యాలీ! పాల్గొన్న రేవంత్ రెడ్డి! | Neelam Madhu Nomination Rally | Revanth</title>
+    <desc lang="en">LIVE : నీలం మధు నామినేషన్ ర్యాలీ! పాల్గొన్న రేవంత్ రెడ్డి! | Neelam Madhu Nomination Rally | Revanth</desc>
+    <icon src="https://i.ytimg.com/vi/N_pavO0lTA4/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240420100000 +0530" stop="20240420110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/BW9GjVN_TR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240420110000 +0530" stop="20240420120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/BW9GjVN_TR4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420090000 +0530" stop="20240420100000 +0530">
-    <title lang="en">Live: Lingayat Seer Dingaleshwar Swami and Other Seers Held Protest over Neha Hiremath's murder Case</title>
-    <desc lang="en">Live: Lingayat Seer Dingaleshwar Swami and Other Seers Held Protest over Neha Hiremath's murder Case</desc>
-    <icon src="https://i.ytimg.com/vi/46nZDHNaRhE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240420100000 +0530" stop="20240420110000 +0530">
-    <title lang="en">Live: Lingayat Seer Dingaleshwar Swami and Other Seers Held Protest over Neha Hiremath's murder Case</title>
-    <desc lang="en">Live: Lingayat Seer Dingaleshwar Swami and Other Seers Held Protest over Neha Hiremath's murder Case</desc>
-    <icon src="https://i.ytimg.com/vi/46nZDHNaRhE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi addresses Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/lw0IAfQhmLg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240420090000 +0530" stop="20240420100000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</desc>
-    <icon src="https://i.ytimg.com/vi/Ga3KpJy1pRw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240420100000 +0530" stop="20240420110000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</desc>
-    <icon src="https://i.ytimg.com/vi/Ga3KpJy1pRw/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240420110000 +0530" stop="20240420120000 +0530">
+    <title lang="en">LIVE: PM Modi addresses Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses Public meeting in Chikkaballapur, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/lw0IAfQhmLg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
