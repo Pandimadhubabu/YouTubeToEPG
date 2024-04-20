@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240420060000 +0530" stop="20240420070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hNeyhJF0dq0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hNeyhJF0dq0/maxresdefault_live.jpg"/>
@@ -15,27 +15,27 @@
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240420060000 +0530" stop="20240420070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Nanded, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Nanded, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/rbMSptTHDng/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="NarendraModi.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Nanded, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Nanded, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/rbMSptTHDng/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/QTBrK__pTxg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/QTBrK__pTxg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420060000 +0530" stop="20240420070000 +0530">
-    <title lang="en">Live: PM Modi Hits out at INDIA Alliance during Public meeting in Nanded | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: PM Modi Hits out at INDIA Alliance during Public meeting in Nanded | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/rHCCykg1Zfc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
-    <title lang="en">Live: PM Modi Hits out at INDIA Alliance during Public meeting in Nanded | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: PM Modi Hits out at INDIA Alliance during Public meeting in Nanded | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/rHCCykg1Zfc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/iReZ66bYMwo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/iReZ66bYMwo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
