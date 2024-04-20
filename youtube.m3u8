@@ -4,10 +4,10 @@
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713636931/ei/4rEjZoSeOr2pkucP49uS0Ac/ip/40.76.254.142/id/lqxicBDDISA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzDxOv9hgYdZMlxFFh-bP6o4jPHgUg4g9iCOiaUrXgiOQ2AxjMaLUpiL/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOoZtklXNnxefsjB7NJ9fvSzmGXOV1yzqA7G1SaeEcqMCIEfrgb_OLI3IbkuF9FYeE0F4Q06T1Fil5K9s_z6zyhvE/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713632811/ei/y6EjZqq2AbTQsfIPxKC1yAI/ip/20.171.70.189/id/oZp-6mXQ2DI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3HVO7D1Lg0wPb3yIxIZZlubjvWXFsdlKzsT3FR20kpNPvaUgmnNhMWX/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJTnLnAOTA8HGH83DZE0gsuoMZrvBPB4Cni1yzK6BKbcAiAgF-84yrwPJIWaXjC1tdJE5FmZSnwOgPCs76IBCUpCeQ%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY

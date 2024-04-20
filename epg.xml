@@ -1,15 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
+  <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420110000 +0530" stop="20240420120000 +0530">
-    <title lang="en">LIVE: Rahul Gandhi &amp; Akhilesh Yadav Addresses Public Meeting in Amroha, UP | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: Rahul Gandhi &amp; Akhilesh Yadav Addresses Public Meeting in Amroha, UP | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/oZp-6mXQ2DI/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240420120000 +0530" stop="20240420130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Bengaluru, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Bengaluru, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/lqxicBDDISA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240420120000 +0530" stop="20240420130000 +0530">
-    <title lang="en">LIVE: Rahul Gandhi &amp; Akhilesh Yadav Addresses Public Meeting in Amroha, UP | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: Rahul Gandhi &amp; Akhilesh Yadav Addresses Public Meeting in Amroha, UP | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/oZp-6mXQ2DI/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240420130000 +0530" stop="20240420140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Bengaluru, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Bengaluru, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/lqxicBDDISA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
