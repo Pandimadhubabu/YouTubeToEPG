@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420170000 +0530" stop="20240420180000 +0530">
-    <title lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</title>
-    <desc lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</desc>
-    <icon src="https://i.ytimg.com/vi/Te6Dnyo1knk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240420180000 +0530" stop="20240420190000 +0530">
-    <title lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</title>
-    <desc lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</desc>
-    <icon src="https://i.ytimg.com/vi/Te6Dnyo1knk/maxresdefault_live.jpg"/>
+    <title lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</title>
+    <desc lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</desc>
+    <icon src="https://i.ytimg.com/vi/-yYoMCJ-k7Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240420190000 +0530" stop="20240420200000 +0530">
+    <title lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</title>
+    <desc lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</desc>
+    <icon src="https://i.ytimg.com/vi/-yYoMCJ-k7Y/maxresdefault_live.jpg"/>
   </programme>
 </tv>
