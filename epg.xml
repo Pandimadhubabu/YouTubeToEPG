@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/hNeyhJF0dq0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/hNeyhJF0dq0/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/QTBrK__pTxg/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Parbhani, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/QTBrK__pTxg/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420070000 +0530" stop="20240420080000 +0530">
-    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/iReZ66bYMwo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
-    <title lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Congress Leader Rahul Gandhi Addresses Public Meeting in Bhagalpur Bihar | Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/iReZ66bYMwo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in Nimbahera, Rajasthan| Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in Nimbahera, Rajasthan| Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZxkinnT7pV4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240420090000 +0530" stop="20240420100000 +0530">
+    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in Nimbahera, Rajasthan| Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in Nimbahera, Rajasthan| Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZxkinnT7pV4/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240420080000 +0530" stop="20240420090000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</desc>
+    <icon src="https://i.ytimg.com/vi/Ga3KpJy1pRw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240420090000 +0530" stop="20240420100000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Nomination Rally and Meeting at Medak</desc>
+    <icon src="https://i.ytimg.com/vi/Ga3KpJy1pRw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
