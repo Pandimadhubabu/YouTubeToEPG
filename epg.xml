@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240420130000 +0530" stop="20240420140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240420140000 +0530" stop="20240420150000 +0530">
     <title lang="en">LIVE :  రేవంత్ రెడ్డి పై రఘునందన్ రావ్ సంచలన  ప్రెస్ మీట్ | Raghunandhan Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE :  రేవంత్ రెడ్డి పై రఘునందన్ రావ్ సంచలన  ప్రెస్ మీట్ | Raghunandhan Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/aQpjlruwEaI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240420140000 +0530" stop="20240420150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240420150000 +0530" stop="20240420160000 +0530">
     <title lang="en">LIVE :  రేవంత్ రెడ్డి పై రఘునందన్ రావ్ సంచలన  ప్రెస్ మీట్ | Raghunandhan Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE :  రేవంత్ రెడ్డి పై రఘునందన్ రావ్ సంచలన  ప్రెస్ మీట్ | Raghunandhan Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/aQpjlruwEaI/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420130000 +0530" stop="20240420140000 +0530">
-    <title lang="en">LIVE:“Itna zyaada paida karna chahiye kisi ko…”Nitish Kumar takes indirect dig at Lalu Yadav | Bihar</title>
-    <desc lang="en">LIVE:“Itna zyaada paida karna chahiye kisi ko…”Nitish Kumar takes indirect dig at Lalu Yadav | Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/NFq_JUaRzL0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240420140000 +0530" stop="20240420150000 +0530">
-    <title lang="en">LIVE:“Itna zyaada paida karna chahiye kisi ko…”Nitish Kumar takes indirect dig at Lalu Yadav | Bihar</title>
-    <desc lang="en">LIVE:“Itna zyaada paida karna chahiye kisi ko…”Nitish Kumar takes indirect dig at Lalu Yadav | Bihar</desc>
-    <icon src="https://i.ytimg.com/vi/NFq_JUaRzL0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:Hubballi Horror|BJP calls it 'love jihad'|‘Hang killer to death’ Victim’s father|Neha Hiremath</title>
+    <desc lang="en">LIVE:Hubballi Horror|BJP calls it 'love jihad'|‘Hang killer to death’ Victim’s father|Neha Hiremath</desc>
+    <icon src="https://i.ytimg.com/vi/wES9xbpMbt0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240420150000 +0530" stop="20240420160000 +0530">
+    <title lang="en">LIVE:Hubballi Horror|BJP calls it 'love jihad'|‘Hang killer to death’ Victim’s father|Neha Hiremath</title>
+    <desc lang="en">LIVE:Hubballi Horror|BJP calls it 'love jihad'|‘Hang killer to death’ Victim’s father|Neha Hiremath</desc>
+    <icon src="https://i.ytimg.com/vi/wES9xbpMbt0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
