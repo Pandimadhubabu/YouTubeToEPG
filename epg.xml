@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240420020000 +0530" stop="20240420030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240420030000 +0530" stop="20240420040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hNeyhJF0dq0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240420030000 +0530" stop="20240420040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240420040000 +0530" stop="20240420050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hNeyhJF0dq0/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240420020000 +0530" stop="20240420030000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240420030000 +0530" stop="20240420040000 +0530">
     <title lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</title>
     <desc lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</desc>
     <icon src="https://i.ytimg.com/vi/ord8-pud8KM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240420030000 +0530" stop="20240420040000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240420040000 +0530" stop="20240420050000 +0530">
     <title lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</title>
     <desc lang="en">Live: Majestic Celebration of Thrissur Pooram Festival 2024 | Thrissur, Kerala</desc>
     <icon src="https://i.ytimg.com/vi/ord8-pud8KM/maxresdefault_live.jpg"/>
