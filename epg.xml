@@ -1,15 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421010000 +0530" stop="20240421020000 +0530">
-    <title lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</title>
-    <desc lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</desc>
-    <icon src="https://i.ytimg.com/vi/-yYoMCJ-k7Y/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240421020000 +0530" stop="20240421030000 +0530">
-    <title lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</title>
-    <desc lang="en">Israel-Hamas War LIVE update | Israel War on Gaza News | Erdogan meets with Hamas leader Haniyeh</desc>
-    <icon src="https://i.ytimg.com/vi/-yYoMCJ-k7Y/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
