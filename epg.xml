@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240421060000 +0530" stop="20240421070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/8MLiEGFUqIo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240421070000 +0530" stop="20240421080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/8MLiEGFUqIo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eJ-EZBwkfgo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240421080000 +0530" stop="20240421090000 +0530">
+    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eJ-EZBwkfgo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421060000 +0530" stop="20240421070000 +0530">
-    <title lang="en">Live: TN BJP Chief K Annamalai holds roadshow for Kollam BJP candidate G Krishna Kumar | LS Election</title>
-    <desc lang="en">Live: TN BJP Chief K Annamalai holds roadshow for Kollam BJP candidate G Krishna Kumar | LS Election</desc>
-    <icon src="https://i.ytimg.com/vi/uF9WgpfjuUE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240421070000 +0530" stop="20240421080000 +0530">
-    <title lang="en">Live: TN BJP Chief K Annamalai holds roadshow for Kollam BJP candidate G Krishna Kumar | LS Election</title>
-    <desc lang="en">Live: TN BJP Chief K Annamalai holds roadshow for Kollam BJP candidate G Krishna Kumar | LS Election</desc>
-    <icon src="https://i.ytimg.com/vi/uF9WgpfjuUE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP National President JP Nadda Addresses Public Meeting in Buldhana, Maharashtra | LS Polls</title>
+    <desc lang="en">LIVE: BJP National President JP Nadda Addresses Public Meeting in Buldhana, Maharashtra | LS Polls</desc>
+    <icon src="https://i.ytimg.com/vi/WXwLQR-FB90/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240421080000 +0530" stop="20240421090000 +0530">
+    <title lang="en">LIVE: BJP National President JP Nadda Addresses Public Meeting in Buldhana, Maharashtra | LS Polls</title>
+    <desc lang="en">LIVE: BJP National President JP Nadda Addresses Public Meeting in Buldhana, Maharashtra | LS Polls</desc>
+    <icon src="https://i.ytimg.com/vi/WXwLQR-FB90/maxresdefault_live.jpg"/>
   </programme>
 </tv>
