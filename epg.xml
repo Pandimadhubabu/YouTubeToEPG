@@ -1,15 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421160000 +0530" stop="20240421170000 +0530">
-    <title lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</title>
-    <desc lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/ubaeX_Iwti8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240421170000 +0530" stop="20240421180000 +0530">
-    <title lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</title>
-    <desc lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/ubaeX_Iwti8/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
