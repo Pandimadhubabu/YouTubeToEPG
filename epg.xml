@@ -1,1 +1,15 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240421180000 +0530" stop="20240421190000 +0530">
+    <title lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</title>
+    <desc lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</desc>
+    <icon src="https://i.ytimg.com/vi/pm8X4nz6FJI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240421190000 +0530" stop="20240421200000 +0530">
+    <title lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</title>
+    <desc lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</desc>
+    <icon src="https://i.ytimg.com/vi/pm8X4nz6FJI/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
