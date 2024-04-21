@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240421120000 +0530" stop="20240421130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/E8s9LkUoFzA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/E8s9LkUoFzA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421110000 +0530" stop="20240421120000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Addresses Public Meeting in Bilaspur, Chhattisgarh | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Addresses Public Meeting in Bilaspur, Chhattisgarh | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/L2jZ4vq_7DY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240421120000 +0530" stop="20240421130000 +0530">
-    <title lang="en">LIVE: UP CM Yogi Addresses Public Meeting in Bilaspur, Chhattisgarh | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: UP CM Yogi Addresses Public Meeting in Bilaspur, Chhattisgarh | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/L2jZ4vq_7DY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/xrrVuz5ByD8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/xrrVuz5ByD8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
