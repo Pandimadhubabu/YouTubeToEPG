@@ -1,28 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240421080000 +0530" stop="20240421090000 +0530">
-    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/eJ-EZBwkfgo/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240421090000 +0530" stop="20240421100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ETLrqoGsCTI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240421090000 +0530" stop="20240421100000 +0530">
-    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/eJ-EZBwkfgo/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240421100000 +0530" stop="20240421110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ETLrqoGsCTI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421080000 +0530" stop="20240421090000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Murshidabad, West Bengal | LS Polls</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Murshidabad, West Bengal | LS Polls</desc>
-    <icon src="https://i.ytimg.com/vi/xbRGG3X76JI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240421090000 +0530" stop="20240421100000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Murshidabad, West Bengal | LS Polls</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Meeting in Murshidabad, West Bengal | LS Polls</desc>
-    <icon src="https://i.ytimg.com/vi/xbRGG3X76JI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi addresses a Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses a Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/5cYKvSFt82A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240421100000 +0530" stop="20240421110000 +0530">
+    <title lang="en">LIVE: PM Modi addresses a Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi addresses a Public meeting in Jalore, Rajasthan | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/5cYKvSFt82A/maxresdefault_live.jpg"/>
   </programme>
 </tv>
