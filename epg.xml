@@ -1,28 +1,41 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240421120000 +0530" stop="20240421130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/E8s9LkUoFzA/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">Live :సీఎం రేవంత్ రెడ్డి రోడ్ షో | భువనగిరి | Congress Rally And Meeting At Bhongir | ManaTolivelugu</title>
+    <desc lang="en">Live :సీఎం రేవంత్ రెడ్డి రోడ్ షో | భువనగిరి | Congress Rally And Meeting At Bhongir | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/7ZWWEdC2Wsk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/E8s9LkUoFzA/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240421140000 +0530" stop="20240421150000 +0530">
+    <title lang="en">Live :సీఎం రేవంత్ రెడ్డి రోడ్ షో | భువనగిరి | Congress Rally And Meeting At Bhongir | ManaTolivelugu</title>
+    <desc lang="en">Live :సీఎం రేవంత్ రెడ్డి రోడ్ షో | భువనగిరి | Congress Rally And Meeting At Bhongir | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/7ZWWEdC2Wsk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421120000 +0530" stop="20240421130000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/xrrVuz5ByD8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi Addresses a Public meeting in Banswara, Rajasthan | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/xrrVuz5ByD8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: TN BJP President K Annamalai attend Digital conclave in Thiruvananthapuram, Kerala| Election</title>
+    <desc lang="en">LIVE: TN BJP President K Annamalai attend Digital conclave in Thiruvananthapuram, Kerala| Election</desc>
+    <icon src="https://i.ytimg.com/vi/o2zHmofp1N4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240421140000 +0530" stop="20240421150000 +0530">
+    <title lang="en">LIVE: TN BJP President K Annamalai attend Digital conclave in Thiruvananthapuram, Kerala| Election</title>
+    <desc lang="en">LIVE: TN BJP President K Annamalai attend Digital conclave in Thiruvananthapuram, Kerala| Election</desc>
+    <icon src="https://i.ytimg.com/vi/o2zHmofp1N4/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</desc>
+    <icon src="https://i.ytimg.com/vi/Edw4i5XnjQo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240421140000 +0530" stop="20240421150000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</desc>
+    <icon src="https://i.ytimg.com/vi/Edw4i5XnjQo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
