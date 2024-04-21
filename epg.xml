@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421150000 +0530" stop="20240421160000 +0530">
-    <title lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</title>
-    <desc lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/ubaeX_Iwti8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240421160000 +0530" stop="20240421170000 +0530">
     <title lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</title>
     <desc lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</desc>
     <icon src="https://i.ytimg.com/vi/ubaeX_Iwti8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240421150000 +0530" stop="20240421160000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</desc>
-    <icon src="https://i.ytimg.com/vi/Edw4i5XnjQo/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240421160000 +0530" stop="20240421170000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and Meeting at Bhongir</desc>
-    <icon src="https://i.ytimg.com/vi/Edw4i5XnjQo/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240421170000 +0530" stop="20240421180000 +0530">
+    <title lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</title>
+    <desc lang="en">LIVE: Hubballi Horror | BJP President JP Nadda Meets Deceased Neha Hiremath’s Parents |BJP|Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/ubaeX_Iwti8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
