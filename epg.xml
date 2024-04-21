@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240421040000 +0530" stop="20240421050000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/8MLiEGFUqIo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240421050000 +0530" stop="20240421060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/8MLiEGFUqIo/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240421060000 +0530" stop="20240421070000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/8MLiEGFUqIo/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240421050000 +0530" stop="20240421060000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates 2550th Bhagwan Mahavir Nirvan Mahotsav at Bharat Mandapam, New Delhi</title>
+    <desc lang="en">LIVE: PM Modi inaugurates 2550th Bhagwan Mahavir Nirvan Mahotsav at Bharat Mandapam, New Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/cLhXN_ibE4k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240421060000 +0530" stop="20240421070000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates 2550th Bhagwan Mahavir Nirvan Mahotsav at Bharat Mandapam, New Delhi</title>
+    <desc lang="en">LIVE: PM Modi inaugurates 2550th Bhagwan Mahavir Nirvan Mahotsav at Bharat Mandapam, New Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/cLhXN_ibE4k/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240421040000 +0530" stop="20240421050000 +0530">
-    <title lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</title>
-    <desc lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</desc>
-    <icon src="https://i.ytimg.com/vi/Te6Dnyo1knk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240421050000 +0530" stop="20240421060000 +0530">
-    <title lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</title>
-    <desc lang="en">LIVE: Actor Bhuvann Ponnannaa &amp; Harshika Poonacha attacked by mob in Bengaluru for speaking Kannada</desc>
-    <icon src="https://i.ytimg.com/vi/Te6Dnyo1knk/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi inaugurates Bhagwan Mahavir Janmotsav celebration at Bharat Mandapam, New Delhi</title>
+    <desc lang="en">LIVE: PM Modi inaugurates Bhagwan Mahavir Janmotsav celebration at Bharat Mandapam, New Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/KZ-UWRscg2Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240421060000 +0530" stop="20240421070000 +0530">
+    <title lang="en">LIVE: PM Modi inaugurates Bhagwan Mahavir Janmotsav celebration at Bharat Mandapam, New Delhi</title>
+    <desc lang="en">LIVE: PM Modi inaugurates Bhagwan Mahavir Janmotsav celebration at Bharat Mandapam, New Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/KZ-UWRscg2Y/maxresdefault_live.jpg"/>
   </programme>
 </tv>
