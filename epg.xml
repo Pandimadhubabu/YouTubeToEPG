@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240422110000 +0530" stop="20240422120000 +0530">
     <title lang="en">Live ; కొండా విశ్వేశ్వర్ రెడ్డి నామినేషన్ ర్యాలీ | Konda Vishweshwar Reddy Nomination Rally ||</title>
     <desc lang="en">Live ; కొండా విశ్వేశ్వర్ రెడ్డి నామినేషన్ ర్యాలీ | Konda Vishweshwar Reddy Nomination Rally ||</desc>
     <icon src="https://i.ytimg.com/vi/SfK9zvUNm9E/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240422110000 +0530" stop="20240422120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240422120000 +0530" stop="20240422130000 +0530">
     <title lang="en">Live ; కొండా విశ్వేశ్వర్ రెడ్డి నామినేషన్ ర్యాలీ | Konda Vishweshwar Reddy Nomination Rally ||</title>
     <desc lang="en">Live ; కొండా విశ్వేశ్వర్ రెడ్డి నామినేషన్ ర్యాలీ | Konda Vishweshwar Reddy Nomination Rally ||</desc>
     <icon src="https://i.ytimg.com/vi/SfK9zvUNm9E/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</title>
-    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</desc>
-    <icon src="https://i.ytimg.com/vi/orMdlDOvVBQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422110000 +0530" stop="20240422120000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</title>
-    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</desc>
-    <icon src="https://i.ytimg.com/vi/orMdlDOvVBQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Assam CM Himanta Biswa Sarma Holds Massive Roadshow In Malappuram, Kerala | Lok Sabha Election</title>
+    <desc lang="en">LIVE: Assam CM Himanta Biswa Sarma Holds Massive Roadshow In Malappuram, Kerala | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/Rx8nddyLUKI/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</desc>
-    <icon src="https://i.ytimg.com/vi/Xev7dFOGK68/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240422110000 +0530" stop="20240422120000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</desc>
-    <icon src="https://i.ytimg.com/vi/Xev7dFOGK68/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240422120000 +0530" stop="20240422130000 +0530">
+    <title lang="en">LIVE: Assam CM Himanta Biswa Sarma Holds Massive Roadshow In Malappuram, Kerala | Lok Sabha Election</title>
+    <desc lang="en">LIVE: Assam CM Himanta Biswa Sarma Holds Massive Roadshow In Malappuram, Kerala | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/Rx8nddyLUKI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
