@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422190000 +0530" stop="20240422200000 +0530">
-    <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
-    <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422200000 +0530" stop="20240422210000 +0530">
     <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
     <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
     <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240422190000 +0530" stop="20240422200000 +0530">
-    <title lang="en">LIVE: US Secretary of State Antony Blinken releases latest human rights report</title>
-    <desc lang="en">LIVE: US Secretary of State Antony Blinken releases latest human rights report</desc>
-    <icon src="https://i.ytimg.com/vi/l77wUbnx8E4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240422200000 +0530" stop="20240422210000 +0530">
-    <title lang="en">LIVE: US Secretary of State Antony Blinken releases latest human rights report</title>
-    <desc lang="en">LIVE: US Secretary of State Antony Blinken releases latest human rights report</desc>
-    <icon src="https://i.ytimg.com/vi/l77wUbnx8E4/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240422210000 +0530" stop="20240422220000 +0530">
+    <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
+    <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
   </programme>
 </tv>
