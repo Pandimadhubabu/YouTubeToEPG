@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240422040000 +0530" stop="20240422050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240422050000 +0530" stop="20240422060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/07nn-JKX6nY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240422050000 +0530" stop="20240422060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240422060000 +0530" stop="20240422070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/07nn-JKX6nY/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422040000 +0530" stop="20240422050000 +0530">
-    <title lang="en">Live: Madhavi Latha’s First reaction after FIR registered against her over the arrow controversy</title>
-    <desc lang="en">Live: Madhavi Latha’s First reaction after FIR registered against her over the arrow controversy</desc>
-    <icon src="https://i.ytimg.com/vi/Go5rjO6xApo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422050000 +0530" stop="20240422060000 +0530">
-    <title lang="en">Live: Madhavi Latha’s First reaction after FIR registered against her over the arrow controversy</title>
-    <desc lang="en">Live: Madhavi Latha’s First reaction after FIR registered against her over the arrow controversy</desc>
-    <icon src="https://i.ytimg.com/vi/Go5rjO6xApo/maxresdefault_live.jpg"/>
+    <title lang="en">Live: BJP’s K Annamalai holds roadshow in Jayanagar for Tejasvi Surya | Bengaluru | LS Polls 2024</title>
+    <desc lang="en">Live: BJP’s K Annamalai holds roadshow in Jayanagar for Tejasvi Surya | Bengaluru | LS Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/J30tA26-Tg8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240422060000 +0530" stop="20240422070000 +0530">
+    <title lang="en">Live: BJP’s K Annamalai holds roadshow in Jayanagar for Tejasvi Surya | Bengaluru | LS Polls 2024</title>
+    <desc lang="en">Live: BJP’s K Annamalai holds roadshow in Jayanagar for Tejasvi Surya | Bengaluru | LS Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/J30tA26-Tg8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
