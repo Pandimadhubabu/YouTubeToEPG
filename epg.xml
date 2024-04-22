@@ -1,39 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240422130000 +0530" stop="20240422140000 +0530">
-    <title lang="en">LIVE:- మేడ్చల్ మల్కాజిగిరి  లో  తెలంగాణ జన జాతర సభ II Medchal  jana jatara Sabha  || ManaTolivelugu</title>
-    <desc lang="en">LIVE:- మేడ్చల్ మల్కాజిగిరి  లో  తెలంగాణ జన జాతర సభ II Medchal  jana jatara Sabha  || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/bZSaXZzfRdU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240422140000 +0530" stop="20240422150000 +0530">
-    <title lang="en">LIVE:- మేడ్చల్ మల్కాజిగిరి  లో  తెలంగాణ జన జాతర సభ II Medchal  jana jatara Sabha  || ManaTolivelugu</title>
-    <desc lang="en">LIVE:- మేడ్చల్ మల్కాజిగిరి  లో  తెలంగాణ జన జాతర సభ II Medchal  jana jatara Sabha  || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/bZSaXZzfRdU/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240422130000 +0530" stop="20240422140000 +0530">
-    <title lang="en">LIVE: PM Modi attends Civil Investiture Ceremony at Rashtrapati Bhavan</title>
-    <desc lang="en">LIVE: PM Modi attends Civil Investiture Ceremony at Rashtrapati Bhavan</desc>
-    <icon src="https://i.ytimg.com/vi/DhLL8-uuuzU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240422140000 +0530" stop="20240422150000 +0530">
-    <title lang="en">LIVE: PM Modi attends Civil Investiture Ceremony at Rashtrapati Bhavan</title>
-    <desc lang="en">LIVE: PM Modi attends Civil Investiture Ceremony at Rashtrapati Bhavan</desc>
-    <icon src="https://i.ytimg.com/vi/DhLL8-uuuzU/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422130000 +0530" stop="20240422140000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240422140000 +0530" stop="20240422150000 +0530">
     <title lang="en">LIVE: President Murmu presents Padma Awards at Civil Investiture Ceremony-I at Rashtrapati Bhavan</title>
     <desc lang="en">LIVE: President Murmu presents Padma Awards at Civil Investiture Ceremony-I at Rashtrapati Bhavan</desc>
     <icon src="https://i.ytimg.com/vi/z2OTKwviIaE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240422140000 +0530" stop="20240422150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240422150000 +0530" stop="20240422160000 +0530">
     <title lang="en">LIVE: President Murmu presents Padma Awards at Civil Investiture Ceremony-I at Rashtrapati Bhavan</title>
     <desc lang="en">LIVE: President Murmu presents Padma Awards at Civil Investiture Ceremony-I at Rashtrapati Bhavan</desc>
     <icon src="https://i.ytimg.com/vi/z2OTKwviIaE/maxresdefault_live.jpg"/>
@@ -41,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240422130000 +0530" stop="20240422140000 +0530">
+  <programme channel="Reuters.yt" start="20240422140000 +0530" stop="20240422150000 +0530">
     <title lang="en">LIVE: Rafah live stream from displaced persons camp</title>
     <desc lang="en">LIVE: Rafah live stream from displaced persons camp</desc>
     <icon src="https://i.ytimg.com/vi/J7s6ieA9Ylw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240422140000 +0530" stop="20240422150000 +0530">
+  <programme channel="Reuters.yt" start="20240422150000 +0530" stop="20240422160000 +0530">
     <title lang="en">LIVE: Rafah live stream from displaced persons camp</title>
     <desc lang="en">LIVE: Rafah live stream from displaced persons camp</desc>
     <icon src="https://i.ytimg.com/vi/J7s6ieA9Ylw/maxresdefault_live.jpg"/>
