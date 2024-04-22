@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240422060000 +0530" stop="20240422070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/07nn-JKX6nY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240422070000 +0530" stop="20240422080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/07nn-JKX6nY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</title>
+    <desc lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kAsJQYxW7bk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
+    <title lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</title>
+    <desc lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kAsJQYxW7bk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422060000 +0530" stop="20240422070000 +0530">
-    <title lang="en">Live: Anjuman-E-Islam, Dharwad holds protest against Neha Hiremath case | Dharwad | Karnataka</title>
-    <desc lang="en">Live: Anjuman-E-Islam, Dharwad holds protest against Neha Hiremath case | Dharwad | Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/gnZxi5Fz7Zo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422070000 +0530" stop="20240422080000 +0530">
-    <title lang="en">Live: Anjuman-E-Islam, Dharwad holds protest against Neha Hiremath case | Dharwad | Karnataka</title>
-    <desc lang="en">Live: Anjuman-E-Islam, Dharwad holds protest against Neha Hiremath case | Dharwad | Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/gnZxi5Fz7Zo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah's rally in Kanker, Chhattisgarh | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah's rally in Kanker, Chhattisgarh | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DKsxUCz0UEM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
+    <title lang="en">LIVE: HM Amit Shah's rally in Kanker, Chhattisgarh | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah's rally in Kanker, Chhattisgarh | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DKsxUCz0UEM/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240422070000 +0530" stop="20240422080000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</desc>
+    <icon src="https://i.ytimg.com/vi/k5dnxC9OnIQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</desc>
+    <icon src="https://i.ytimg.com/vi/k5dnxC9OnIQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
