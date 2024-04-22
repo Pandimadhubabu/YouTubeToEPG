@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422160000 +0530" stop="20240422170000 +0530">
-    <title lang="en">LIVE: Finance Minister Nirmala Sitharaman interacts with members of ICSI &amp; ICMAI |Bengaluru|Election</title>
-    <desc lang="en">LIVE: Finance Minister Nirmala Sitharaman interacts with members of ICSI &amp; ICMAI |Bengaluru|Election</desc>
-    <icon src="https://i.ytimg.com/vi/Wz214K2dl_A/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422170000 +0530" stop="20240422180000 +0530">
-    <title lang="en">LIVE: Finance Minister Nirmala Sitharaman interacts with members of ICSI &amp; ICMAI |Bengaluru|Election</title>
-    <desc lang="en">LIVE: Finance Minister Nirmala Sitharaman interacts with members of ICSI &amp; ICMAI |Bengaluru|Election</desc>
-    <icon src="https://i.ytimg.com/vi/Wz214K2dl_A/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
+    <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240422180000 +0530" stop="20240422190000 +0530">
+    <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
+    <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240422160000 +0530" stop="20240422170000 +0530">
-    <title lang="en">LIVE: US Supreme Court reviews anti-camping laws that impact homeless people in Oregon</title>
-    <desc lang="en">LIVE: US Supreme Court reviews anti-camping laws that impact homeless people in Oregon</desc>
-    <icon src="https://i.ytimg.com/vi/fS2HrTpDVH8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240422170000 +0530" stop="20240422180000 +0530">
-    <title lang="en">LIVE: US Supreme Court reviews anti-camping laws that impact homeless people in Oregon</title>
-    <desc lang="en">LIVE: US Supreme Court reviews anti-camping laws that impact homeless people in Oregon</desc>
-    <icon src="https://i.ytimg.com/vi/fS2HrTpDVH8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Nominees and guests arrive at the 24th Laureus World Sports Awards</title>
+    <desc lang="en">LIVE: Nominees and guests arrive at the 24th Laureus World Sports Awards</desc>
+    <icon src="https://i.ytimg.com/vi/HUsjIuYPaQg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240422180000 +0530" stop="20240422190000 +0530">
+    <title lang="en">LIVE: Nominees and guests arrive at the 24th Laureus World Sports Awards</title>
+    <desc lang="en">LIVE: Nominees and guests arrive at the 24th Laureus World Sports Awards</desc>
+    <icon src="https://i.ytimg.com/vi/HUsjIuYPaQg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
