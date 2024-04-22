@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
-    <title lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</title>
-    <desc lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/kAsJQYxW7bk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240422090000 +0530" stop="20240422100000 +0530">
     <title lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</title>
     <desc lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/kAsJQYxW7bk/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</title>
+    <desc lang="en">LIVE:- ఆదిలాబాద్ లో  తెలంగాణ జన జాతర సభ II Adilabad jana jatara Sabha  || ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/kAsJQYxW7bk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240422090000 +0530" stop="20240422100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/zUn-Ces_dZQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/zUn-Ces_dZQ/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
-    <title lang="en">LIVE:  BJP Leader Gaurav Bhatia on Neha Hiremath case | CBI Enquiry | Karnataka CM Siddaramaiah</title>
-    <desc lang="en">LIVE:  BJP Leader Gaurav Bhatia on Neha Hiremath case | CBI Enquiry | Karnataka CM Siddaramaiah</desc>
-    <icon src="https://i.ytimg.com/vi/lmJGB_KHxCc/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422090000 +0530" stop="20240422100000 +0530">
-    <title lang="en">LIVE:  BJP Leader Gaurav Bhatia on Neha Hiremath case | CBI Enquiry | Karnataka CM Siddaramaiah</title>
-    <desc lang="en">LIVE:  BJP Leader Gaurav Bhatia on Neha Hiremath case | CBI Enquiry | Karnataka CM Siddaramaiah</desc>
-    <icon src="https://i.ytimg.com/vi/lmJGB_KHxCc/hqdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</desc>
+    <icon src="https://i.ytimg.com/vi/orMdlDOvVBQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Aligarh, Uttar Pradesh | Lok Sabha Election 2024 | CM Yogi</desc>
+    <icon src="https://i.ytimg.com/vi/orMdlDOvVBQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</desc>
-    <icon src="https://i.ytimg.com/vi/k5dnxC9OnIQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240422090000 +0530" stop="20240422100000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Adilabad</desc>
-    <icon src="https://i.ytimg.com/vi/k5dnxC9OnIQ/maxresdefault_live.jpg"/>
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</desc>
+    <icon src="https://i.ytimg.com/vi/Xev7dFOGK68/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Nizamabad</desc>
+    <icon src="https://i.ytimg.com/vi/Xev7dFOGK68/maxresdefault_live.jpg"/>
   </programme>
 </tv>
