@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240422000000 +0530" stop="20240422010000 +0530">
-    <title lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</title>
-    <desc lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</desc>
-    <icon src="https://i.ytimg.com/vi/pm8X4nz6FJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240422010000 +0530" stop="20240422020000 +0530">
-    <title lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</title>
-    <desc lang="en">LIVE: Iran-Israel conflict | Supreme Leader Khamenei says Iran demonstrated its power against Israel</desc>
-    <icon src="https://i.ytimg.com/vi/pm8X4nz6FJI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: TN BJP President Annamalai &amp; Union Minister Rajeev Chandrasekhar Roadshow in Parassala, Kerala</title>
+    <desc lang="en">LIVE: TN BJP President Annamalai &amp; Union Minister Rajeev Chandrasekhar Roadshow in Parassala, Kerala</desc>
+    <icon src="https://i.ytimg.com/vi/wQVlPeJUW2k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240422020000 +0530" stop="20240422030000 +0530">
+    <title lang="en">LIVE: TN BJP President Annamalai &amp; Union Minister Rajeev Chandrasekhar Roadshow in Parassala, Kerala</title>
+    <desc lang="en">LIVE: TN BJP President Annamalai &amp; Union Minister Rajeev Chandrasekhar Roadshow in Parassala, Kerala</desc>
+    <icon src="https://i.ytimg.com/vi/wQVlPeJUW2k/maxresdefault_live.jpg"/>
   </programme>
 </tv>
