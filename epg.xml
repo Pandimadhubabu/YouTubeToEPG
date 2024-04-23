@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240423090000 +0530" stop="20240423100000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423100000 +0530" stop="20240423110000 +0530">
     <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/eYe6vSS_U6g/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240423100000 +0530" stop="20240423110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423110000 +0530" stop="20240423120000 +0530">
     <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/eYe6vSS_U6g/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423090000 +0530" stop="20240423100000 +0530">
-    <title lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/8llfMRmAufw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423100000 +0530" stop="20240423110000 +0530">
-    <title lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/8llfMRmAufw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Janjgir-Champa, Chhattisgarh | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Janjgir-Champa, Chhattisgarh | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/Q8_rHCRf8Iw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423110000 +0530" stop="20240423120000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Janjgir-Champa, Chhattisgarh | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Janjgir-Champa, Chhattisgarh | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/Q8_rHCRf8Iw/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240423100000 +0530" stop="20240423110000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</desc>
+    <icon src="https://i.ytimg.com/vi/nY5f-uqFNOw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240423110000 +0530" stop="20240423120000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</desc>
+    <icon src="https://i.ytimg.com/vi/nY5f-uqFNOw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
