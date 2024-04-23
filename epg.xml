@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240423110000 +0530" stop="20240423120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423120000 +0530" stop="20240423130000 +0530">
     <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/eYe6vSS_U6g/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240423120000 +0530" stop="20240423130000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
     <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/eYe6vSS_U6g/maxresdefault_live.jpg"/>
@@ -15,27 +15,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423110000 +0530" stop="20240423120000 +0530">
-    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in Baghpat, Uttar Pradesh | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in Baghpat, Uttar Pradesh | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/kL43GnV36T0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423120000 +0530" stop="20240423130000 +0530">
-    <title lang="en">LIVE: CM Yogi Addresses Public Meeting in Baghpat, Uttar Pradesh | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: CM Yogi Addresses Public Meeting in Baghpat, Uttar Pradesh | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/kL43GnV36T0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: K Annamalai speaks on Neha Hiremath case | Lok sabha election | Karnataka | Hubballi Horror</title>
+    <desc lang="en">LIVE: K Annamalai speaks on Neha Hiremath case | Lok sabha election | Karnataka | Hubballi Horror</desc>
+    <icon src="https://i.ytimg.com/vi/P237uIUxS74/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
+    <title lang="en">LIVE: K Annamalai speaks on Neha Hiremath case | Lok sabha election | Karnataka | Hubballi Horror</title>
+    <desc lang="en">LIVE: K Annamalai speaks on Neha Hiremath case | Lok sabha election | Karnataka | Hubballi Horror</desc>
+    <icon src="https://i.ytimg.com/vi/P237uIUxS74/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240423120000 +0530" stop="20240423130000 +0530">
+    <title lang="en">Trump Trial Live: David Pecker, Ex-National Enquirer publisher, to testify in Donald Trump hush m…</title>
+    <desc lang="en">Trump Trial Live: David Pecker, Ex-National Enquirer publisher, to testify in Donald Trump hush m…</desc>
+    <icon src="https://i.ytimg.com/vi/2f84bpsmiRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
+    <title lang="en">Trump Trial Live: David Pecker, Ex-National Enquirer publisher, to testify in Donald Trump hush m…</title>
+    <desc lang="en">Trump Trial Live: David Pecker, Ex-National Enquirer publisher, to testify in Donald Trump hush m…</desc>
+    <icon src="https://i.ytimg.com/vi/2f84bpsmiRE/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240423110000 +0530" stop="20240423120000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</desc>
-    <icon src="https://i.ytimg.com/vi/nY5f-uqFNOw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240423120000 +0530" stop="20240423130000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy at Kodangal</desc>
-    <icon src="https://i.ytimg.com/vi/nY5f-uqFNOw/maxresdefault_live.jpg"/>
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</desc>
+    <icon src="https://i.ytimg.com/vi/uL503Tn2_z4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</desc>
+    <icon src="https://i.ytimg.com/vi/uL503Tn2_z4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
