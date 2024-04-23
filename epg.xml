@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240423080000 +0530" stop="20240423090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/8Rn0_Si0mNc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240423090000 +0530" stop="20240423100000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/8Rn0_Si0mNc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eYe6vSS_U6g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240423100000 +0530" stop="20240423110000 +0530">
+    <title lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రఘునందన్ రావు సంచలన ప్రెస్ మీట్ | BJP Raghunandhan Rao Press meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eYe6vSS_U6g/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423080000 +0530" stop="20240423090000 +0530">
-    <title lang="en">LIVE: Congress President Mallikarjun Kharge Public Meeting in Chengannur, Kerala</title>
-    <desc lang="en">LIVE: Congress President Mallikarjun Kharge Public Meeting in Chengannur, Kerala</desc>
-    <icon src="https://i.ytimg.com/vi/-AyTLO4Lrwg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423090000 +0530" stop="20240423100000 +0530">
-    <title lang="en">LIVE: Congress President Mallikarjun Kharge Public Meeting in Chengannur, Kerala</title>
-    <desc lang="en">LIVE: Congress President Mallikarjun Kharge Public Meeting in Chengannur, Kerala</desc>
-    <icon src="https://i.ytimg.com/vi/-AyTLO4Lrwg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/8llfMRmAufw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423100000 +0530" stop="20240423110000 +0530">
+    <title lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: HM Amit Shah's Public Meeting in Raiganj, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/8llfMRmAufw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
