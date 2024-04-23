@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423150000 +0530" stop="20240423160000 +0530">
-    <title lang="en">LIVE: Ganga Aarti | President Droupadi Murmu Attends Ganga Aarti | Rishikesh | Uttarakhand</title>
-    <desc lang="en">LIVE: Ganga Aarti | President Droupadi Murmu Attends Ganga Aarti | Rishikesh | Uttarakhand</desc>
-    <icon src="https://i.ytimg.com/vi/WIIqYnw7Te0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423160000 +0530" stop="20240423170000 +0530">
-    <title lang="en">LIVE: Ganga Aarti | President Droupadi Murmu Attends Ganga Aarti | Rishikesh | Uttarakhand</title>
-    <desc lang="en">LIVE: Ganga Aarti | President Droupadi Murmu Attends Ganga Aarti | Rishikesh | Uttarakhand</desc>
-    <icon src="https://i.ytimg.com/vi/WIIqYnw7Te0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</title>
+    <desc lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/aXRh9kWj-bc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423170000 +0530" stop="20240423180000 +0530">
+    <title lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</title>
+    <desc lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/aXRh9kWj-bc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240423150000 +0530" stop="20240423160000 +0530">
-    <title lang="en">LIVE: EU parliament debate on Gaza, Ukraine, Georgia and Haiti</title>
-    <desc lang="en">LIVE: EU parliament debate on Gaza, Ukraine, Georgia and Haiti</desc>
-    <icon src="https://i.ytimg.com/vi/KVCSMidcVWs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240423160000 +0530" stop="20240423170000 +0530">
-    <title lang="en">LIVE: EU parliament debate on Gaza, Ukraine, Georgia and Haiti</title>
-    <desc lang="en">LIVE: EU parliament debate on Gaza, Ukraine, Georgia and Haiti</desc>
-    <icon src="https://i.ytimg.com/vi/KVCSMidcVWs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: NYC Mayor Eric Adams speaks after NYU protest arrests</title>
+    <desc lang="en">LIVE: NYC Mayor Eric Adams speaks after NYU protest arrests</desc>
+    <icon src="https://i.ytimg.com/vi/AqeS8CV_JfI/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240423170000 +0530" stop="20240423180000 +0530">
+    <title lang="en">LIVE: NYC Mayor Eric Adams speaks after NYU protest arrests</title>
+    <desc lang="en">LIVE: NYC Mayor Eric Adams speaks after NYU protest arrests</desc>
+    <icon src="https://i.ytimg.com/vi/AqeS8CV_JfI/hqdefault_live.jpg"/>
   </programme>
 </tv>
