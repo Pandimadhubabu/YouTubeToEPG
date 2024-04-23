@@ -2,25 +2,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423190000 +0530" stop="20240423200000 +0530">
-    <title lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</title>
-    <desc lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/aXRh9kWj-bc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423200000 +0530" stop="20240423210000 +0530">
-    <title lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</title>
-    <desc lang="en">LIVE:Actor and BJP Leader Kangana Ranaut's roadshow in Jodhpur, Rajasthan | Lok Sabha Election | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/aXRh9kWj-bc/maxresdefault_live.jpg"/>
+    <title lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</title>
+    <desc lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</desc>
+    <icon src="https://i.ytimg.com/vi/HP8h9u2Cqvw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423210000 +0530" stop="20240423220000 +0530">
+    <title lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</title>
+    <desc lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</desc>
+    <icon src="https://i.ytimg.com/vi/HP8h9u2Cqvw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240423190000 +0530" stop="20240423200000 +0530">
+  <programme channel="Reuters.yt" start="20240423200000 +0530" stop="20240423210000 +0530">
     <title lang="en">LIVE: Senate votes on long-awaited aid to Ukraine, Israel, Taiwan</title>
     <desc lang="en">LIVE: Senate votes on long-awaited aid to Ukraine, Israel, Taiwan</desc>
     <icon src="https://i.ytimg.com/vi/pxqLB63NCvY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240423200000 +0530" stop="20240423210000 +0530">
+  <programme channel="Reuters.yt" start="20240423210000 +0530" stop="20240423220000 +0530">
     <title lang="en">LIVE: Senate votes on long-awaited aid to Ukraine, Israel, Taiwan</title>
     <desc lang="en">LIVE: Senate votes on long-awaited aid to Ukraine, Israel, Taiwan</desc>
     <icon src="https://i.ytimg.com/vi/pxqLB63NCvY/maxresdefault_live.jpg"/>
