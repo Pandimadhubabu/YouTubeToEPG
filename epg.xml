@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
     <title lang="en">LIVE:- నాగర్  కర్నూల్  లో  తెలంగాణ జన జాతర సభ II nagarkurnool   jana jatara Sabha  || ManaTolivelugu</title>
     <desc lang="en">LIVE:- నాగర్  కర్నూల్  లో  తెలంగాణ జన జాతర సభ II nagarkurnool   jana jatara Sabha  || ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/LiaYzzziiwg/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423150000 +0530" stop="20240423160000 +0530">
     <title lang="en">LIVE:- నాగర్  కర్నూల్  లో  తెలంగాణ జన జాతర సభ II nagarkurnool   jana jatara Sabha  || ManaTolivelugu</title>
     <desc lang="en">LIVE:- నాగర్  కర్నూల్  లో  తెలంగాణ జన జాతర సభ II nagarkurnool   jana jatara Sabha  || ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/LiaYzzziiwg/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
-    <title lang="en">LIVE: Actor and BJP Leader Kangana Ranaut's roadshow in Pali, Rajasthan | Lok Sabha Election | BJP</title>
-    <desc lang="en">LIVE: Actor and BJP Leader Kangana Ranaut's roadshow in Pali, Rajasthan | Lok Sabha Election | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/azv4vrp0aNM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
-    <title lang="en">LIVE: Actor and BJP Leader Kangana Ranaut's roadshow in Pali, Rajasthan | Lok Sabha Election | BJP</title>
-    <desc lang="en">LIVE: Actor and BJP Leader Kangana Ranaut's roadshow in Pali, Rajasthan | Lok Sabha Election | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/azv4vrp0aNM/maxresdefault_live.jpg"/>
+    <title lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</title>
+    <desc lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</desc>
+    <icon src="https://i.ytimg.com/vi/HP8h9u2Cqvw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423150000 +0530" stop="20240423160000 +0530">
+    <title lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</title>
+    <desc lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</desc>
+    <icon src="https://i.ytimg.com/vi/HP8h9u2Cqvw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
+  <programme channel="Reuters.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
     <title lang="en">Trump trial LIVE: David Pecker, Ex-National Enquirer publisher, to testify in Trump hush money trial</title>
     <desc lang="en">Trump trial LIVE: David Pecker, Ex-National Enquirer publisher, to testify in Trump hush money trial</desc>
     <icon src="https://i.ytimg.com/vi/2f84bpsmiRE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
+  <programme channel="Reuters.yt" start="20240423150000 +0530" stop="20240423160000 +0530">
     <title lang="en">Trump trial LIVE: David Pecker, Ex-National Enquirer publisher, to testify in Trump hush money trial</title>
     <desc lang="en">Trump trial LIVE: David Pecker, Ex-National Enquirer publisher, to testify in Trump hush money trial</desc>
     <icon src="https://i.ytimg.com/vi/2f84bpsmiRE/maxresdefault_live.jpg"/>
@@ -41,12 +41,12 @@
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240423130000 +0530" stop="20240423140000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
     <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</title>
     <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</desc>
     <icon src="https://i.ytimg.com/vi/uL503Tn2_z4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240423140000 +0530" stop="20240423150000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240423150000 +0530" stop="20240423160000 +0530">
     <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</title>
     <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Nagarkurnool</desc>
     <icon src="https://i.ytimg.com/vi/uL503Tn2_z4/maxresdefault_live.jpg"/>
