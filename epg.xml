@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240423040000 +0530" stop="20240423050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423050000 +0530" stop="20240423060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/8Rn0_Si0mNc/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240423050000 +0530" stop="20240423060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240423060000 +0530" stop="20240423070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/8Rn0_Si0mNc/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240423040000 +0530" stop="20240423050000 +0530">
-    <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
-    <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240423050000 +0530" stop="20240423060000 +0530">
-    <title lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</title>
-    <desc lang="en">LIVE: Smriti Irani takes Jibe at Rahul Gandhi's 'Khata Khat' Remark |Lok Sabha Election|Amethi |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/Rh7YUpCmUes/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Chief of Army Staff General Manoj Pande at AIMA National Leadership Conclave | Delhi</title>
+    <desc lang="en">LIVE: Chief of Army Staff General Manoj Pande at AIMA National Leadership Conclave | Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/TKfo1KTl9AQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240423060000 +0530" stop="20240423070000 +0530">
+    <title lang="en">LIVE: Chief of Army Staff General Manoj Pande at AIMA National Leadership Conclave | Delhi</title>
+    <desc lang="en">LIVE: Chief of Army Staff General Manoj Pande at AIMA National Leadership Conclave | Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/TKfo1KTl9AQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
