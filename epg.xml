@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240424050000 +0530" stop="20240424060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/uG0qXEZrBNs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240424060000 +0530" stop="20240424070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/uG0qXEZrBNs/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240424070000 +0530" stop="20240424080000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/uG0qXEZrBNs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240424060000 +0530" stop="20240424070000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Surguja, Chhattisgarh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Surguja, Chhattisgarh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/CCWhvbIWtXc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240424070000 +0530" stop="20240424080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Surguja, Chhattisgarh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Surguja, Chhattisgarh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/CCWhvbIWtXc/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424050000 +0530" stop="20240424060000 +0530">
-    <title lang="en">Congress Leader Rahul Gandhi LIVE | Samajik Nyay Sammelan | New Delhi |Congress |Lok Sabha Election</title>
-    <desc lang="en">Congress Leader Rahul Gandhi LIVE | Samajik Nyay Sammelan | New Delhi |Congress |Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/mxumRZ4gQYs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240424060000 +0530" stop="20240424070000 +0530">
-    <title lang="en">Congress Leader Rahul Gandhi LIVE | Samajik Nyay Sammelan | New Delhi |Congress |Lok Sabha Election</title>
-    <desc lang="en">Congress Leader Rahul Gandhi LIVE | Samajik Nyay Sammelan | New Delhi |Congress |Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/mxumRZ4gQYs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP’s Hyderabad candidate Madhavi Latha to file Nomination |Visit Temple |Lok Sabha Election</title>
+    <desc lang="en">LIVE: BJP’s Hyderabad candidate Madhavi Latha to file Nomination |Visit Temple |Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/dLLVvy9tXeI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240424070000 +0530" stop="20240424080000 +0530">
+    <title lang="en">LIVE: BJP’s Hyderabad candidate Madhavi Latha to file Nomination |Visit Temple |Lok Sabha Election</title>
+    <desc lang="en">LIVE: BJP’s Hyderabad candidate Madhavi Latha to file Nomination |Visit Temple |Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/dLLVvy9tXeI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
