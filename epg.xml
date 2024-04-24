@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424220000 +0530" stop="20240424230000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240424230000 +0530" stop="20240425000000 +0530">
     <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240424220000 +0530" stop="20240424230000 +0530">
-    <title lang="en">LIVE: UN meetings on nuclear arms in space, Gaza aid</title>
-    <desc lang="en">LIVE: UN meetings on nuclear arms in space, Gaza aid</desc>
-    <icon src="https://i.ytimg.com/vi/oAoSEOGDHxs/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240424230000 +0530" stop="20240425000000 +0530">
-    <title lang="en">LIVE: UN meetings on nuclear arms in space, Gaza aid</title>
-    <desc lang="en">LIVE: UN meetings on nuclear arms in space, Gaza aid</desc>
-    <icon src="https://i.ytimg.com/vi/oAoSEOGDHxs/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240425000000 +0530" stop="20240425010000 +0530">
+    <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
