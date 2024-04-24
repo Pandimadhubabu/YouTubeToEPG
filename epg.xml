@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240424070000 +0530" stop="20240424080000 +0530">
-    <title lang="en">live ; Revanth Reddy participate in Nomination Rally &amp;Corner Meeting at Secunderabad ||</title>
-    <desc lang="en">live ; Revanth Reddy participate in Nomination Rally &amp;Corner Meeting at Secunderabad ||</desc>
-    <icon src="https://i.ytimg.com/vi/aW6V9AXD7VY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240424080000 +0530" stop="20240424090000 +0530">
-    <title lang="en">live ; Revanth Reddy participate in Nomination Rally &amp;Corner Meeting at Secunderabad ||</title>
-    <desc lang="en">live ; Revanth Reddy participate in Nomination Rally &amp;Corner Meeting at Secunderabad ||</desc>
-    <icon src="https://i.ytimg.com/vi/aW6V9AXD7VY/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424070000 +0530" stop="20240424080000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Alappuzha, Kerala | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Alappuzha, Kerala | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/586esjJRw5Q/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240424080000 +0530" stop="20240424090000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Alappuzha, Kerala | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Alappuzha, Kerala | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/586esjJRw5Q/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress PC |Randeep Singh Surjewala &amp; H. K. Patil Joint Press Conference |Karnataka |Hubballi</title>
+    <desc lang="en">LIVE: Congress PC |Randeep Singh Surjewala &amp; H. K. Patil Joint Press Conference |Karnataka |Hubballi</desc>
+    <icon src="https://i.ytimg.com/vi/aR1_JCpig2Q/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240424090000 +0530" stop="20240424100000 +0530">
+    <title lang="en">LIVE: Congress PC |Randeep Singh Surjewala &amp; H. K. Patil Joint Press Conference |Karnataka |Hubballi</title>
+    <desc lang="en">LIVE: Congress PC |Randeep Singh Surjewala &amp; H. K. Patil Joint Press Conference |Karnataka |Hubballi</desc>
+    <icon src="https://i.ytimg.com/vi/aR1_JCpig2Q/maxresdefault_live.jpg"/>
   </programme>
 </tv>
