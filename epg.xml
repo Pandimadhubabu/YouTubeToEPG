@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424150000 +0530" stop="20240424160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240424160000 +0530" stop="20240424170000 +0530">
     <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240424160000 +0530" stop="20240424170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240424170000 +0530" stop="20240424180000 +0530">
     <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240424150000 +0530" stop="20240424160000 +0530">
+  <programme channel="Reuters.yt" start="20240424160000 +0530" stop="20240424170000 +0530">
     <title lang="en">LIVE: Supreme Court weighs Idaho abortion ban in medical emergencies</title>
     <desc lang="en">LIVE: Supreme Court weighs Idaho abortion ban in medical emergencies</desc>
     <icon src="https://i.ytimg.com/vi/GajY0ayl4iE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240424160000 +0530" stop="20240424170000 +0530">
+  <programme channel="Reuters.yt" start="20240424170000 +0530" stop="20240424180000 +0530">
     <title lang="en">LIVE: Supreme Court weighs Idaho abortion ban in medical emergencies</title>
     <desc lang="en">LIVE: Supreme Court weighs Idaho abortion ban in medical emergencies</desc>
     <icon src="https://i.ytimg.com/vi/GajY0ayl4iE/maxresdefault_live.jpg"/>
