@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240424100000 +0530" stop="20240424110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/_x7_xaq-t90/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240424110000 +0530" stop="20240424120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/_x7_xaq-t90/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424090000 +0530" stop="20240424100000 +0530">
-    <title lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Public Meeting in Kalaburagi, Karnataka</title>
-    <desc lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Public Meeting in Kalaburagi, Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/sE5xkmYEnSg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240424100000 +0530" stop="20240424110000 +0530">
-    <title lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Public Meeting in Kalaburagi, Karnataka</title>
-    <desc lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Public Meeting in Kalaburagi, Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/sE5xkmYEnSg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/IrCQAELhQeM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240424110000 +0530" stop="20240424120000 +0530">
+    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Sagar, Madhya Pradesh | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/IrCQAELhQeM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
