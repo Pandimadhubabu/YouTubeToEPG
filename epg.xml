@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240424030000 +0530" stop="20240424040000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/uG0qXEZrBNs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240424040000 +0530" stop="20240424050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/uG0qXEZrBNs/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240424050000 +0530" stop="20240424060000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/uG0qXEZrBNs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240424040000 +0530" stop="20240424050000 +0530">
+    <title lang="en">LIVE: PM Modi's remarks during International Conference on Disaster Resilient Infrastructure</title>
+    <desc lang="en">LIVE: PM Modi's remarks during International Conference on Disaster Resilient Infrastructure</desc>
+    <icon src="https://i.ytimg.com/vi/3JQTFisfLRg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240424050000 +0530" stop="20240424060000 +0530">
+    <title lang="en">LIVE: PM Modi's remarks during International Conference on Disaster Resilient Infrastructure</title>
+    <desc lang="en">LIVE: PM Modi's remarks during International Conference on Disaster Resilient Infrastructure</desc>
+    <icon src="https://i.ytimg.com/vi/3JQTFisfLRg/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424030000 +0530" stop="20240424040000 +0530">
-    <title lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</title>
-    <desc lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</desc>
-    <icon src="https://i.ytimg.com/vi/HP8h9u2Cqvw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240424040000 +0530" stop="20240424050000 +0530">
-    <title lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</title>
-    <desc lang="en">EAM S Jaishankar LIVE | Forum for Nationalist Thinkers | Hyderabad |Telangana |India Foreign policy</desc>
-    <icon src="https://i.ytimg.com/vi/HP8h9u2Cqvw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Press Conference I Lok Sabha Polls I Kerala</title>
+    <desc lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Press Conference I Lok Sabha Polls I Kerala</desc>
+    <icon src="https://i.ytimg.com/vi/JInbJyGrvWg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240424050000 +0530" stop="20240424060000 +0530">
+    <title lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Press Conference I Lok Sabha Polls I Kerala</title>
+    <desc lang="en">LIVE: Congress President Mallikarjun Kharge Addresses Press Conference I Lok Sabha Polls I Kerala</desc>
+    <icon src="https://i.ytimg.com/vi/JInbJyGrvWg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
