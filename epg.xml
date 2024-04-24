@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424190000 +0530" stop="20240424200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240424200000 +0530" stop="20240424210000 +0530">
     <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240424200000 +0530" stop="20240424210000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240424210000 +0530" stop="20240424220000 +0530">
     <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240424190000 +0530" stop="20240424200000 +0530">
-    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</title>
-    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</desc>
-    <icon src="https://i.ytimg.com/vi/oTCimjGrdHM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240424200000 +0530" stop="20240424210000 +0530">
-    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</title>
-    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre, Jake Sullivan</desc>
-    <icon src="https://i.ytimg.com/vi/oTCimjGrdHM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: US House Speaker holds news conference at Columbia University</title>
+    <desc lang="en">LIVE: US House Speaker holds news conference at Columbia University</desc>
+    <icon src="https://i.ytimg.com/vi/kQZOiZnVg-k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240424210000 +0530" stop="20240424220000 +0530">
+    <title lang="en">LIVE: US House Speaker holds news conference at Columbia University</title>
+    <desc lang="en">LIVE: US House Speaker holds news conference at Columbia University</desc>
+    <icon src="https://i.ytimg.com/vi/kQZOiZnVg-k/maxresdefault_live.jpg"/>
   </programme>
 </tv>
