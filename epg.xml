@@ -2,51 +2,51 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240424120000 +0530" stop="20240424130000 +0530">
-    <title lang="en">LIVE:- వరంగల్   లో  తెలంగాణ జన జాతర సభ II warangal jana jatara Sabha  || ManaTolivelugu</title>
-    <desc lang="en">LIVE:- వరంగల్   లో  తెలంగాణ జన జాతర సభ II warangal jana jatara Sabha  || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ze4i_aYQkUU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240424130000 +0530" stop="20240424140000 +0530">
     <title lang="en">LIVE:- వరంగల్   లో  తెలంగాణ జన జాతర సభ II warangal jana jatara Sabha  || ManaTolivelugu</title>
     <desc lang="en">LIVE:- వరంగల్   లో  తెలంగాణ జన జాతర సభ II warangal jana jatara Sabha  || ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/ze4i_aYQkUU/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240424120000 +0530" stop="20240424130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/9GDeil_3mig/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240424130000 +0530" stop="20240424140000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/9GDeil_3mig/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240424140000 +0530" stop="20240424150000 +0530">
+    <title lang="en">LIVE:- వరంగల్   లో  తెలంగాణ జన జాతర సభ II warangal jana jatara Sabha  || ManaTolivelugu</title>
+    <desc lang="en">LIVE:- వరంగల్   లో  తెలంగాణ జన జాతర సభ II warangal jana jatara Sabha  || ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ze4i_aYQkUU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424120000 +0530" stop="20240424130000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/arv2dafhfVA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240424130000 +0530" stop="20240424140000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Betul, Madhya Pradesh | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/arv2dafhfVA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE:Congress leader Rahul Gandhi Address public meeting in Solapur, Maharashtra| Lok Sabha Election</title>
+    <desc lang="en">LIVE:Congress leader Rahul Gandhi Address public meeting in Solapur, Maharashtra| Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/Hoi_5i7GAgA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240424140000 +0530" stop="20240424150000 +0530">
+    <title lang="en">LIVE:Congress leader Rahul Gandhi Address public meeting in Solapur, Maharashtra| Lok Sabha Election</title>
+    <desc lang="en">LIVE:Congress leader Rahul Gandhi Address public meeting in Solapur, Maharashtra| Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/Hoi_5i7GAgA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240424130000 +0530" stop="20240424140000 +0530">
+    <title lang="en">LIVE: WHO briefing on global health issues, update on Gaza</title>
+    <desc lang="en">LIVE: WHO briefing on global health issues, update on Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/JlsETGMVhlI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240424140000 +0530" stop="20240424150000 +0530">
+    <title lang="en">LIVE: WHO briefing on global health issues, update on Gaza</title>
+    <desc lang="en">LIVE: WHO briefing on global health issues, update on Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/JlsETGMVhlI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240424120000 +0530" stop="20240424130000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240424130000 +0530" stop="20240424140000 +0530">
     <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Warangal .</title>
     <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Warangal .</desc>
     <icon src="https://i.ytimg.com/vi/XrFVXF70Rb8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240424130000 +0530" stop="20240424140000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240424140000 +0530" stop="20240424150000 +0530">
     <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Warangal .</title>
     <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Warangal .</desc>
     <icon src="https://i.ytimg.com/vi/XrFVXF70Rb8/maxresdefault_live.jpg"/>
