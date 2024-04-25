@@ -1,28 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240425120000 +0530" stop="20240425130000 +0530">
-    <title lang="en">LIVE:- తీన్మార్ మల్లన్నసంచలన ప్రెస్ మీట్ || Teenmaar mallana press meet || ManaTolivelugu</title>
-    <desc lang="en">LIVE:- తీన్మార్ మల్లన్నసంచలన ప్రెస్ మీట్ || Teenmaar mallana press meet || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/uY2HKBWATnU/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240425130000 +0530" stop="20240425140000 +0530">
+    <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
+    <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/hqdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240425130000 +0530" stop="20240425140000 +0530">
-    <title lang="en">LIVE:- తీన్మార్ మల్లన్నసంచలన ప్రెస్ మీట్ || Teenmaar mallana press meet || ManaTolivelugu</title>
-    <desc lang="en">LIVE:- తీన్మార్ మల్లన్నసంచలన ప్రెస్ మీట్ || Teenmaar mallana press meet || ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/uY2HKBWATnU/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240425140000 +0530" stop="20240425150000 +0530">
+    <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
+    <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/hqdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240425120000 +0530" stop="20240425130000 +0530">
-    <title lang="en">LIVE: Supreme Court weighs Trump's bid for immunity from prosecution</title>
-    <desc lang="en">LIVE: Supreme Court weighs Trump's bid for immunity from prosecution</desc>
-    <icon src="https://i.ytimg.com/vi/hn2o9NX2J5o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240425130000 +0530" stop="20240425140000 +0530">
-    <title lang="en">LIVE: Supreme Court weighs Trump's bid for immunity from prosecution</title>
-    <desc lang="en">LIVE: Supreme Court weighs Trump's bid for immunity from prosecution</desc>
-    <icon src="https://i.ytimg.com/vi/hn2o9NX2J5o/maxresdefault_live.jpg"/>
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</desc>
+    <icon src="https://i.ytimg.com/vi/cJIow7VVVec/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240425140000 +0530" stop="20240425150000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</desc>
+    <icon src="https://i.ytimg.com/vi/cJIow7VVVec/maxresdefault_live.jpg"/>
   </programme>
 </tv>
