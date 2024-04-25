@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240425160000 +0530" stop="20240425170000 +0530">
-    <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
-    <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240425170000 +0530" stop="20240425180000 +0530">
-    <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
-    <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240425160000 +0530" stop="20240425170000 +0530">
-    <title lang="en">LIVE: Russian cosmonauts step out of the ISS for a spacewalk</title>
-    <desc lang="en">LIVE: Russian cosmonauts step out of the ISS for a spacewalk</desc>
-    <icon src="https://i.ytimg.com/vi/lEAHq4ZqcK0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240425170000 +0530" stop="20240425180000 +0530">
-    <title lang="en">LIVE: Russian cosmonauts step out of the ISS for a spacewalk</title>
-    <desc lang="en">LIVE: Russian cosmonauts step out of the ISS for a spacewalk</desc>
-    <icon src="https://i.ytimg.com/vi/lEAHq4ZqcK0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Gaza captive Hersh Goldberg-Polin's family speak to media</title>
+    <desc lang="en">LIVE: Gaza captive Hersh Goldberg-Polin's family speak to media</desc>
+    <icon src="https://i.ytimg.com/vi/Hdv02-FFLqY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240425160000 +0530" stop="20240425170000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Cantonment</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Cantonment</desc>
-    <icon src="https://i.ytimg.com/vi/qXjO2qjIcgk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240425170000 +0530" stop="20240425180000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Cantonment</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Cantonment</desc>
-    <icon src="https://i.ytimg.com/vi/qXjO2qjIcgk/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240425180000 +0530" stop="20240425190000 +0530">
+    <title lang="en">LIVE: Gaza captive Hersh Goldberg-Polin's family speak to media</title>
+    <desc lang="en">LIVE: Gaza captive Hersh Goldberg-Polin's family speak to media</desc>
+    <icon src="https://i.ytimg.com/vi/Hdv02-FFLqY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
