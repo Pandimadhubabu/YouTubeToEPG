@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240425050000 +0530" stop="20240425060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vj0e0fphJnU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240425060000 +0530" stop="20240425070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vj0e0fphJnU/maxresdefault_live.jpg"/>
+    <title lang="en">Live : బండి సంజయ్ నామినేషన్ ర్యాలీ | bandi sanjay Nomination Rally ||| ManaTolivelugu</title>
+    <desc lang="en">Live : బండి సంజయ్ నామినేషన్ ర్యాలీ | bandi sanjay Nomination Rally ||| ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/aa4Kyie5cZU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240425070000 +0530" stop="20240425080000 +0530">
+    <title lang="en">Live : బండి సంజయ్ నామినేషన్ ర్యాలీ | bandi sanjay Nomination Rally ||| ManaTolivelugu</title>
+    <desc lang="en">Live : బండి సంజయ్ నామినేషన్ ర్యాలీ | bandi sanjay Nomination Rally ||| ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/aa4Kyie5cZU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240425060000 +0530" stop="20240425070000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/mXGlT2Exjrg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240425070000 +0530" stop="20240425080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/mXGlT2Exjrg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240425050000 +0530" stop="20240425060000 +0530">
-    <title lang="en">Live: Senior AAP Leader and Rajya Sabha Member Sanjay Singh addresses an Press Conference | Delhi</title>
-    <desc lang="en">Live: Senior AAP Leader and Rajya Sabha Member Sanjay Singh addresses an Press Conference | Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/v4oFnmFvwW0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240425060000 +0530" stop="20240425070000 +0530">
-    <title lang="en">Live: Senior AAP Leader and Rajya Sabha Member Sanjay Singh addresses an Press Conference | Delhi</title>
-    <desc lang="en">Live: Senior AAP Leader and Rajya Sabha Member Sanjay Singh addresses an Press Conference | Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/v4oFnmFvwW0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/OOUKYAk5rVU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240425070000 +0530" stop="20240425080000 +0530">
+    <title lang="en">LIVE: PM Modi Addresses Public Meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in Morena, Madhya Pradesh | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/OOUKYAk5rVU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
