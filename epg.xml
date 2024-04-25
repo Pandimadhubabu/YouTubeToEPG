@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240425200000 +0530" stop="20240425210000 +0530">
+  <programme channel="Reuters.yt" start="20240425210000 +0530" stop="20240425220000 +0530">
     <title lang="en">LIVE: Pro-Palestinian protests at USC</title>
     <desc lang="en">LIVE: Pro-Palestinian protests at USC</desc>
     <icon src="https://i.ytimg.com/vi/gL7I4IGc5A0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240425210000 +0530" stop="20240425220000 +0530">
+  <programme channel="Reuters.yt" start="20240425220000 +0530" stop="20240425230000 +0530">
     <title lang="en">LIVE: Pro-Palestinian protests at USC</title>
     <desc lang="en">LIVE: Pro-Palestinian protests at USC</desc>
     <icon src="https://i.ytimg.com/vi/gL7I4IGc5A0/maxresdefault_live.jpg"/>
