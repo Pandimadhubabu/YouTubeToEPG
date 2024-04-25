@@ -2,27 +2,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240425130000 +0530" stop="20240425140000 +0530">
-    <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
-    <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240425140000 +0530" stop="20240425150000 +0530">
     <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
     <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/hqdefault_live.jpg"/>
+    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240425150000 +0530" stop="20240425160000 +0530">
+    <title lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</title>
+    <desc lang="en">Live: EAM Dr S Jaishankar attends a Book Launch event in Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/kbcFpCWdin8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240425130000 +0530" stop="20240425140000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</desc>
-    <icon src="https://i.ytimg.com/vi/cJIow7VVVec/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240425140000 +0530" stop="20240425150000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with focus on payment to ex-Playboy model</desc>
-    <icon src="https://i.ytimg.com/vi/cJIow7VVVec/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Reuters Newsmaker with US Treasury Secretary Janet Yellen</title>
+    <desc lang="en">LIVE: Reuters Newsmaker with US Treasury Secretary Janet Yellen</desc>
+    <icon src="https://i.ytimg.com/vi/aTm8htdk2es/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240425150000 +0530" stop="20240425160000 +0530">
+    <title lang="en">LIVE: Reuters Newsmaker with US Treasury Secretary Janet Yellen</title>
+    <desc lang="en">LIVE: Reuters Newsmaker with US Treasury Secretary Janet Yellen</desc>
+    <icon src="https://i.ytimg.com/vi/aTm8htdk2es/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240425140000 +0530" stop="20240425150000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Rajendranagar</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Rajendranagar</desc>
+    <icon src="https://i.ytimg.com/vi/15tNncLyqxQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240425150000 +0530" stop="20240425160000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Rajendranagar</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Rajendranagar</desc>
+    <icon src="https://i.ytimg.com/vi/15tNncLyqxQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
