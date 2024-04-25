@@ -2,14 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240425020000 +0530" stop="20240425030000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vj0e0fphJnU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240425030000 +0530" stop="20240425040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/vj0e0fphJnU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240425040000 +0530" stop="20240425050000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/vj0e0fphJnU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240425030000 +0530" stop="20240425040000 +0530">
+    <title lang="en">LIVE: Australia and New Zealand remember the dawn landings at Gallipoli | REUTERS</title>
+    <desc lang="en">LIVE: Australia and New Zealand remember the dawn landings at Gallipoli | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/svbyzlTQ0SI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240425040000 +0530" stop="20240425050000 +0530">
+    <title lang="en">LIVE: Australia and New Zealand remember the dawn landings at Gallipoli | REUTERS</title>
+    <desc lang="en">LIVE: Australia and New Zealand remember the dawn landings at Gallipoli | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/svbyzlTQ0SI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
