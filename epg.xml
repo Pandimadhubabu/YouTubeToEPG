@@ -1,28 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240425080000 +0530" stop="20240425090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Agra, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Agra, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/KOzXhtO-bPs/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240425090000 +0530" stop="20240425100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Agra, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Agra, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/KOzXhtO-bPs/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240425080000 +0530" stop="20240425090000 +0530">
-    <title lang="en">LIVE: J&amp;K Former CM and NC Leader Dr.Farooq Abdullah Addresses Press Conference | Srinagar | LS Poll</title>
-    <desc lang="en">LIVE: J&amp;K Former CM and NC Leader Dr.Farooq Abdullah Addresses Press Conference | Srinagar | LS Poll</desc>
-    <icon src="https://i.ytimg.com/vi/Jb5xkNP1xmo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240425090000 +0530" stop="20240425100000 +0530">
-    <title lang="en">LIVE: J&amp;K Former CM and NC Leader Dr.Farooq Abdullah Addresses Press Conference | Srinagar | LS Poll</title>
-    <desc lang="en">LIVE: J&amp;K Former CM and NC Leader Dr.Farooq Abdullah Addresses Press Conference | Srinagar | LS Poll</desc>
-    <icon src="https://i.ytimg.com/vi/Jb5xkNP1xmo/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Akhilesh Yadav makes a big hint | Rahul Gandhi to contest from Amethi ? | Lok Sabha Election</title>
+    <desc lang="en">Live: Akhilesh Yadav makes a big hint | Rahul Gandhi to contest from Amethi ? | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/GtV7s02LGgI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240425100000 +0530" stop="20240425110000 +0530">
+    <title lang="en">Live: Akhilesh Yadav makes a big hint | Rahul Gandhi to contest from Amethi ? | Lok Sabha Election</title>
+    <desc lang="en">Live: Akhilesh Yadav makes a big hint | Rahul Gandhi to contest from Amethi ? | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/GtV7s02LGgI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240425090000 +0530" stop="20240425100000 +0530">
+    <title lang="en">LIVE: Lisbon military ceremony marks 50th anniversary of Carnation Revolution | REUTERS</title>
+    <desc lang="en">LIVE: Lisbon military ceremony marks 50th anniversary of Carnation Revolution | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/t7q0tdflRHY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240425100000 +0530" stop="20240425110000 +0530">
+    <title lang="en">LIVE: Lisbon military ceremony marks 50th anniversary of Carnation Revolution | REUTERS</title>
+    <desc lang="en">LIVE: Lisbon military ceremony marks 50th anniversary of Carnation Revolution | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/t7q0tdflRHY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
