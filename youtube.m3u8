@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714064963/ei/4zkqZq-cKvezkucPut2nuA8/ip/20.97.191.131/id/uY2HKBWATnU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzqYEVmr5kM1lH-eMYI3o9mhjQehAN--EU5cM0MnPbX0qcg_1veGlNMm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIR86oRJX6fUL-R7MVJPSAg2qpQNiTQ9byiYsgOIOtrEAiBcqu2uLJdSVWq2DpyLj-SBuIZf7s4uE6-SkKE82xGmfg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714064964/ei/5DkqZunXOaKpkucPjdKRuA8/ip/20.97.191.131/id/Sg7D7H2ugXg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5KKztztSpRNwFyVPGn2N8DRBxN-8adodO4mcCcwKJW38UI9iiH6xgiN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMGU4-Dao9HQPL4MSeoCF4BWW9HTSAahoy0vfP1aNLpUCIQCN37J2_WySttGp3U3r1eLDGRdVLWzbVxr1ilet_PS99A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
