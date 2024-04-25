@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240424230000 +0530" stop="20240425000000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240425000000 +0530" stop="20240425010000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Narendra Modi's holds Mega Roadshow in Bhopal, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/_7tq-2gFTk0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP's Madhavi Latha blasts Owaisi Brothers | Pakistan | Afghanistan | Lok Sabha Election</title>
+    <desc lang="en">LIVE: BJP's Madhavi Latha blasts Owaisi Brothers | Pakistan | Afghanistan | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/11QUqG-iW5c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240425010000 +0530" stop="20240425020000 +0530">
+    <title lang="en">LIVE: BJP's Madhavi Latha blasts Owaisi Brothers | Pakistan | Afghanistan | Lok Sabha Election</title>
+    <desc lang="en">LIVE: BJP's Madhavi Latha blasts Owaisi Brothers | Pakistan | Afghanistan | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/11QUqG-iW5c/maxresdefault_live.jpg"/>
   </programme>
 </tv>
