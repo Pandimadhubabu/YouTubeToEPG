@@ -1,1 +1,28 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240426010000 +0530" stop="20240426020000 +0530">
+    <title lang="en">LIVE: Elections 2024 | CEC Rajiv Kumar live |Phase 2 Polling For 88 Seats | Star Candidates |</title>
+    <desc lang="en">LIVE: Elections 2024 | CEC Rajiv Kumar live |Phase 2 Polling For 88 Seats | Star Candidates |</desc>
+    <icon src="https://i.ytimg.com/vi/YSYVO8mSrFU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240426020000 +0530" stop="20240426030000 +0530">
+    <title lang="en">LIVE: Elections 2024 | CEC Rajiv Kumar live |Phase 2 Polling For 88 Seats | Star Candidates |</title>
+    <desc lang="en">LIVE: Elections 2024 | CEC Rajiv Kumar live |Phase 2 Polling For 88 Seats | Star Candidates |</desc>
+    <icon src="https://i.ytimg.com/vi/YSYVO8mSrFU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240426010000 +0530" stop="20240426020000 +0530">
+    <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
+    <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240426020000 +0530" stop="20240426030000 +0530">
+    <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
+    <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
