@@ -2,27 +2,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240426120000 +0530" stop="20240426130000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/hJ9mCy-dv6g/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240426130000 +0530" stop="20240426140000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/hJ9mCy-dv6g/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Sanjay Nirupam tears into Congress, predicts less than 30 seats in LS Polls 2024 | 2nd Phase</title>
+    <desc lang="en">Live: Sanjay Nirupam tears into Congress, predicts less than 30 seats in LS Polls 2024 | 2nd Phase</desc>
+    <icon src="https://i.ytimg.com/vi/r5YHPfcgCBc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240426140000 +0530" stop="20240426150000 +0530">
+    <title lang="en">Live: Sanjay Nirupam tears into Congress, predicts less than 30 seats in LS Polls 2024 | 2nd Phase</title>
+    <desc lang="en">Live: Sanjay Nirupam tears into Congress, predicts less than 30 seats in LS Polls 2024 | 2nd Phase</desc>
+    <icon src="https://i.ytimg.com/vi/r5YHPfcgCBc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240426120000 +0530" stop="20240426130000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
-    <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240426130000 +0530" stop="20240426140000 +0530">
     <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
     <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
     <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240426140000 +0530" stop="20240426150000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
+    <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240426130000 +0530" stop="20240426140000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Zaheerabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Zaheerabad</desc>
+    <icon src="https://i.ytimg.com/vi/7CS5QpIoPkU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240426140000 +0530" stop="20240426150000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Zaheerabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Zaheerabad</desc>
+    <icon src="https://i.ytimg.com/vi/7CS5QpIoPkU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
