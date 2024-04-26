@@ -1,39 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240426080000 +0530" stop="20240426090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Araria, Bihar | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Araria, Bihar | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/rImr0_vrba4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240426090000 +0530" stop="20240426100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Araria, Bihar | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Araria, Bihar | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/rImr0_vrba4/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240426080000 +0530" stop="20240426090000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi addresses Public meeting in Araria, Bihar | Lok Sabha Election | PM Modi</title>
-    <desc lang="en">LIVE: PM Narendra Modi addresses Public meeting in Araria, Bihar | Lok Sabha Election | PM Modi</desc>
-    <icon src="https://i.ytimg.com/vi/wXiAPerYLNA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240426090000 +0530" stop="20240426100000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi addresses Public meeting in Araria, Bihar | Lok Sabha Election | PM Modi</title>
-    <desc lang="en">LIVE: PM Narendra Modi addresses Public meeting in Araria, Bihar | Lok Sabha Election | PM Modi</desc>
-    <icon src="https://i.ytimg.com/vi/wXiAPerYLNA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah addresses public meeting in Rajgarh, Madhya Pradesh |Lok Sabha Election| अमित शाह</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses public meeting in Rajgarh, Madhya Pradesh |Lok Sabha Election| अमित शाह</desc>
+    <icon src="https://i.ytimg.com/vi/0iLLysPrp_g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240426100000 +0530" stop="20240426110000 +0530">
+    <title lang="en">LIVE: HM Amit Shah addresses public meeting in Rajgarh, Madhya Pradesh |Lok Sabha Election| अमित शाह</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses public meeting in Rajgarh, Madhya Pradesh |Lok Sabha Election| अमित शाह</desc>
+    <icon src="https://i.ytimg.com/vi/0iLLysPrp_g/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240426080000 +0530" stop="20240426090000 +0530">
+  <programme channel="Reuters.yt" start="20240426090000 +0530" stop="20240426100000 +0530">
     <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240426090000 +0530" stop="20240426100000 +0530">
+  <programme channel="Reuters.yt" start="20240426100000 +0530" stop="20240426110000 +0530">
     <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
