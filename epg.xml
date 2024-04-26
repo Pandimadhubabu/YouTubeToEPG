@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240426110000 +0530" stop="20240426120000 +0530">
-    <title lang="en">Live: UP CM Yogi Adityanath addresses public meeting in Sambhal, Uttar Pradesh| Lok Sabha Election</title>
-    <desc lang="en">Live: UP CM Yogi Adityanath addresses public meeting in Sambhal, Uttar Pradesh| Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/i-VH1-YgwUU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240426120000 +0530" stop="20240426130000 +0530">
-    <title lang="en">Live: UP CM Yogi Adityanath addresses public meeting in Sambhal, Uttar Pradesh| Lok Sabha Election</title>
-    <desc lang="en">Live: UP CM Yogi Adityanath addresses public meeting in Sambhal, Uttar Pradesh| Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/i-VH1-YgwUU/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/hJ9mCy-dv6g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240426130000 +0530" stop="20240426140000 +0530">
+    <title lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses a public meeting in Bemetara, Chhattisgarh|Lok Sabha Election |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/hJ9mCy-dv6g/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240426110000 +0530" stop="20240426120000 +0530">
-    <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
-    <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240426120000 +0530" stop="20240426130000 +0530">
-    <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
-    <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
+    <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240426130000 +0530" stop="20240426140000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
+    <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
