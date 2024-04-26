@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240426150000 +0530" stop="20240426160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240426160000 +0530" stop="20240426170000 +0530">
     <title lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</title>
     <desc lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</desc>
     <icon src="https://i.ytimg.com/vi/t_gm7-YZqds/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240426160000 +0530" stop="20240426170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240426170000 +0530" stop="20240426180000 +0530">
     <title lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</title>
     <desc lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</desc>
     <icon src="https://i.ytimg.com/vi/t_gm7-YZqds/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240426150000 +0530" stop="20240426160000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
-    <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240426160000 +0530" stop="20240426170000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Hush money testimony continues with former tabloid publisher David Pecke…</desc>
-    <icon src="https://i.ytimg.com/vi/i56UWFYYygI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Olympic flame handed over at Athens’s Panathenaic Stadium</title>
+    <desc lang="en">LIVE: Olympic flame handed over at Athens’s Panathenaic Stadium</desc>
+    <icon src="https://i.ytimg.com/vi/G4psaY8nb_w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240426170000 +0530" stop="20240426180000 +0530">
+    <title lang="en">LIVE: Olympic flame handed over at Athens’s Panathenaic Stadium</title>
+    <desc lang="en">LIVE: Olympic flame handed over at Athens’s Panathenaic Stadium</desc>
+    <icon src="https://i.ytimg.com/vi/G4psaY8nb_w/maxresdefault_live.jpg"/>
   </programme>
 </tv>
