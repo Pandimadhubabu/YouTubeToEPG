@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240426020000 +0530" stop="20240426030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240426030000 +0530" stop="20240426040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/NP-36Xe5Qi0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240426030000 +0530" stop="20240426040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240426040000 +0530" stop="20240426050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/NP-36Xe5Qi0/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240426020000 +0530" stop="20240426030000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240426030000 +0530" stop="20240426040000 +0530">
     <title lang="en">LIVE: Lok Sabha Election 2024 |Infosys Founder Narayana Murthy &amp; RS MP Sudha Murty Cast Their Votes</title>
     <desc lang="en">LIVE: Lok Sabha Election 2024 |Infosys Founder Narayana Murthy &amp; RS MP Sudha Murty Cast Their Votes</desc>
     <icon src="https://i.ytimg.com/vi/wlJrpr5VF2w/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240426030000 +0530" stop="20240426040000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240426040000 +0530" stop="20240426050000 +0530">
     <title lang="en">LIVE: Lok Sabha Election 2024 |Infosys Founder Narayana Murthy &amp; RS MP Sudha Murty Cast Their Votes</title>
     <desc lang="en">LIVE: Lok Sabha Election 2024 |Infosys Founder Narayana Murthy &amp; RS MP Sudha Murty Cast Their Votes</desc>
     <icon src="https://i.ytimg.com/vi/wlJrpr5VF2w/maxresdefault_live.jpg"/>
@@ -28,12 +28,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240426020000 +0530" stop="20240426030000 +0530">
+  <programme channel="Reuters.yt" start="20240426030000 +0530" stop="20240426040000 +0530">
     <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240426030000 +0530" stop="20240426040000 +0530">
+  <programme channel="Reuters.yt" start="20240426040000 +0530" stop="20240426050000 +0530">
     <title lang="en">LIVE: Second phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Second phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/BcL-896wbTk/maxresdefault_live.jpg"/>
