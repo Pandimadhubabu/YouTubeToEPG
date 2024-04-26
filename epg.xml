@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240426220000 +0530" stop="20240426230000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240426230000 +0530" stop="20240427000000 +0530">
     <title lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</title>
     <desc lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</desc>
     <icon src="https://i.ytimg.com/vi/t_gm7-YZqds/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240426230000 +0530" stop="20240427000000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240427000000 +0530" stop="20240427010000 +0530">
     <title lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</title>
     <desc lang="en">LIVE: PM Modi &amp; CM Yogi hold roadshow in Bareilly, Uttar Pradesh | Lok Sabha Election | बरेली</desc>
     <icon src="https://i.ytimg.com/vi/t_gm7-YZqds/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240426220000 +0530" stop="20240426230000 +0530">
+  <programme channel="Reuters.yt" start="20240426230000 +0530" stop="20240427000000 +0530">
     <title lang="en">LIVE: Pro-Palestinian protests at George Washington University</title>
     <desc lang="en">LIVE: Pro-Palestinian protests at George Washington University</desc>
     <icon src="https://i.ytimg.com/vi/ArlLaAHPLyY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240426230000 +0530" stop="20240427000000 +0530">
+  <programme channel="Reuters.yt" start="20240427000000 +0530" stop="20240427010000 +0530">
     <title lang="en">LIVE: Pro-Palestinian protests at George Washington University</title>
     <desc lang="en">LIVE: Pro-Palestinian protests at George Washington University</desc>
     <icon src="https://i.ytimg.com/vi/ArlLaAHPLyY/maxresdefault_live.jpg"/>
