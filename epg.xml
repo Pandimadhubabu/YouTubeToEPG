@@ -1,15 +1,41 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240427120000 +0530" stop="20240427130000 +0530">
+    <title lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</title>
+    <desc lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</desc>
+    <icon src="https://i.ytimg.com/vi/_ltngYWkq-k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240427130000 +0530" stop="20240427140000 +0530">
+    <title lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</title>
+    <desc lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</desc>
+    <icon src="https://i.ytimg.com/vi/_ltngYWkq-k/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240427110000 +0530" stop="20240427120000 +0530">
-    <title lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/BEavjAynCOE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240427120000 +0530" stop="20240427130000 +0530">
-    <title lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/BEavjAynCOE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Panchmahal, Gujarat| Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Panchmahal, Gujarat| Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/cQd3l4UtkTg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240427130000 +0530" stop="20240427140000 +0530">
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Panchmahal, Gujarat| Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Panchmahal, Gujarat| Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/cQd3l4UtkTg/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240427120000 +0530" stop="20240427130000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Address the media at Residency.</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Address the media at Residency.</desc>
+    <icon src="https://i.ytimg.com/vi/0PF_d9UOpa0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240427130000 +0530" stop="20240427140000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will Address the media at Residency.</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will Address the media at Residency.</desc>
+    <icon src="https://i.ytimg.com/vi/0PF_d9UOpa0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
