@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240427090000 +0530" stop="20240427100000 +0530">
-    <title lang="en">UP CM Yogi Adityanath LIVE |Public meeting in Firozabad,Uttar Pradesh | फिरोजाबाद| लोकसभा| जनसभा|BJP</title>
-    <desc lang="en">UP CM Yogi Adityanath LIVE |Public meeting in Firozabad,Uttar Pradesh | फिरोजाबाद| लोकसभा| जनसभा|BJP</desc>
-    <icon src="https://i.ytimg.com/vi/sFB4C9UzJLA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240427100000 +0530" stop="20240427110000 +0530">
-    <title lang="en">UP CM Yogi Adityanath LIVE |Public meeting in Firozabad,Uttar Pradesh | फिरोजाबाद| लोकसभा| जनसभा|BJP</title>
-    <desc lang="en">UP CM Yogi Adityanath LIVE |Public meeting in Firozabad,Uttar Pradesh | फिरोजाबाद| लोकसभा| जनसभा|BJP</desc>
-    <icon src="https://i.ytimg.com/vi/sFB4C9UzJLA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</title>
+    <desc lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</desc>
+    <icon src="https://i.ytimg.com/vi/Dv2mbgz3ybw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240427110000 +0530" stop="20240427120000 +0530">
+    <title lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</title>
+    <desc lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</desc>
+    <icon src="https://i.ytimg.com/vi/Dv2mbgz3ybw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
