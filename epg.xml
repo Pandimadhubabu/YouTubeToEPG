@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240427150000 +0530" stop="20240427160000 +0530">
-    <title lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</title>
-    <desc lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</desc>
-    <icon src="https://i.ytimg.com/vi/_ltngYWkq-k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240427160000 +0530" stop="20240427170000 +0530">
-    <title lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</title>
-    <desc lang="en">గెలిచే ఎంపీ స్థానాలు ఇవే ! సీఎం రేవంత్ రెడ్డి సంచలన ప్రెస్ మీట్ !! | revanth reddy press meet ||</desc>
-    <icon src="https://i.ytimg.com/vi/_ltngYWkq-k/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240427150000 +0530" stop="20240427160000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in South Goa | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in South Goa | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/YxjLLLgKlE0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240427160000 +0530" stop="20240427170000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in South Goa | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in South Goa | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/YxjLLLgKlE0/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240427150000 +0530" stop="20240427160000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses Public Meeting in South Goa | Lok Sabha Election | गोवा | PM मोदी | जनसभा</title>
-    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in South Goa | Lok Sabha Election | गोवा | PM मोदी | जनसभा</desc>
-    <icon src="https://i.ytimg.com/vi/btDVcdssqks/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240427160000 +0530" stop="20240427170000 +0530">
-    <title lang="en">LIVE: PM Modi Addresses Public Meeting in South Goa | Lok Sabha Election | गोवा | PM मोदी | जनसभा</title>
-    <desc lang="en">LIVE: PM Modi Addresses Public Meeting in South Goa | Lok Sabha Election | गोवा | PM मोदी | जनसभा</desc>
-    <icon src="https://i.ytimg.com/vi/btDVcdssqks/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Ujjwal Nikam receives Grand Welcome at BJP Office in Mumbai | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Ujjwal Nikam receives Grand Welcome at BJP Office in Mumbai | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/GBKsAztlvhI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240427170000 +0530" stop="20240427180000 +0530">
+    <title lang="en">Live: Ujjwal Nikam receives Grand Welcome at BJP Office in Mumbai | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Ujjwal Nikam receives Grand Welcome at BJP Office in Mumbai | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/GBKsAztlvhI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
