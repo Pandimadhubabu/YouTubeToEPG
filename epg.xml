@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240427100000 +0530" stop="20240427110000 +0530">
-    <title lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</title>
-    <desc lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</desc>
-    <icon src="https://i.ytimg.com/vi/Dv2mbgz3ybw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240427110000 +0530" stop="20240427120000 +0530">
-    <title lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</title>
-    <desc lang="en">LIVE: | Prem Shukla &amp; Shehzad Poonawalla Joint PC on Sandeshkhali | Sonia Gandhi | Delhi Government</desc>
-    <icon src="https://i.ytimg.com/vi/Dv2mbgz3ybw/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/BEavjAynCOE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240427120000 +0530" stop="20240427130000 +0530">
+    <title lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Press Briefing by Karnataka Dy CM DK Shivakumar In Bengaluru | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/BEavjAynCOE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
