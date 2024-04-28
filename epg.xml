@@ -1,28 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240428080000 +0530" stop="20240428090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Uttara Kannada, Karnataka | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Uttara Kannada, Karnataka | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5KqCQ-T5Ipw/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240428090000 +0530" stop="20240428100000 +0530">
+    <title lang="en">LIVE : రేవంత్ పై రెచ్చిపోయిన ధర్మపురి అర్వింద్ | Bjp Arvind Sensational On Revanth | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రేవంత్ పై రెచ్చిపోయిన ధర్మపురి అర్వింద్ | Bjp Arvind Sensational On Revanth | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/6eAxn5M9S3Y/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240428090000 +0530" stop="20240428100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Uttara Kannada, Karnataka | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Uttara Kannada, Karnataka | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5KqCQ-T5Ipw/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240428100000 +0530" stop="20240428110000 +0530">
+    <title lang="en">LIVE : రేవంత్ పై రెచ్చిపోయిన ధర్మపురి అర్వింద్ | Bjp Arvind Sensational On Revanth | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రేవంత్ పై రెచ్చిపోయిన ధర్మపురి అర్వింద్ | Bjp Arvind Sensational On Revanth | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/6eAxn5M9S3Y/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240428080000 +0530" stop="20240428090000 +0530">
-    <title lang="en">PM Modi LIVE | Public Meeting in Uttara Kannada, Karnataka | Lok Sabha Election | PM मोदी | कर्नाटक</title>
-    <desc lang="en">PM Modi LIVE | Public Meeting in Uttara Kannada, Karnataka | Lok Sabha Election | PM मोदी | कर्नाटक</desc>
-    <icon src="https://i.ytimg.com/vi/aI9d-aOviJU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240428090000 +0530" stop="20240428100000 +0530">
-    <title lang="en">PM Modi LIVE | Public Meeting in Uttara Kannada, Karnataka | Lok Sabha Election | PM मोदी | कर्नाटक</title>
-    <desc lang="en">PM Modi LIVE | Public Meeting in Uttara Kannada, Karnataka | Lok Sabha Election | PM मोदी | कर्नाटक</desc>
-    <icon src="https://i.ytimg.com/vi/aI9d-aOviJU/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Ahmedabad| Election| राजनाथ सिंह |गुजरात</title>
+    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Ahmedabad| Election| राजनाथ सिंह |गुजरात</desc>
+    <icon src="https://i.ytimg.com/vi/5-8p_DTua6M/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240428100000 +0530" stop="20240428110000 +0530">
+    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Ahmedabad| Election| राजनाथ सिंह |गुजरात</title>
+    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Ahmedabad| Election| राजनाथ सिंह |गुजरात</desc>
+    <icon src="https://i.ytimg.com/vi/5-8p_DTua6M/maxresdefault_live.jpg"/>
   </programme>
 </tv>
