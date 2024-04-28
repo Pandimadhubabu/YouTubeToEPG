@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714292648/ei/SLMtZuLaIo-SkucPiOmjyAM/ip/20.55.222.103/id/tPyaYPKruw8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_D6py_GH7VYc0Z9T0NMfuC8ferVzIw1JkKnrVZNp3Rdj-Iprk3pCKEI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMYVtNe0-UPY9UtL-vimVKb1pnegWFqOs-T0JDMxzLvUCIFgObejHHnCRKctehWvdNbPJfLdJ4POjVLYWAvjsXr0q/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714290800/ei/EKwtZu7LIsr-2_gPz4i1qAI/ip/40.116.86.229/id/GBKsAztlvhI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwTk09WbbvAjjM4kW7Zfu3Gw_mM5P8_aNC248-F6-vilzFZfcqmWPkfk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJwKR4aqej9Ct_5H6jrF4YoHh1VGZoD1HFqqdTJ7gPB7AiEA1ffYKOVDZ1EfpkP2UDaT6Zm-UNXnzPbGh6Yc2l3gECE%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714292649/ei/SbMtZpT1IpeBkucPzIKtkAI/ip/20.55.222.103/id/GBKsAztlvhI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7PEb4rdQlI6MUaaQA69J5mETAKk9H21nlGQ81gOkBR7yvVheIla_rNd/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVTD-7C3Ci7Qn_OW3KVQxZMOWyPCOmNP4lE3Q8fPCuqsCIQCRtAbDPUW9ptga55UnXZbWMTaBVzVkEdZv4vk9NUx8-w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
