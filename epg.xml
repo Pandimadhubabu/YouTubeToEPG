@@ -1,15 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240428120000 +0530" stop="20240428130000 +0530">
-    <title lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Kx6C5-9-Q6g/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240428130000 +0530" stop="20240428140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ballari, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ballari, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/IXLuPbBWKwo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240428130000 +0530" stop="20240428140000 +0530">
-    <title lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</title>
-    <desc lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Kx6C5-9-Q6g/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240428140000 +0530" stop="20240428150000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Ballari, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Ballari, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/IXLuPbBWKwo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
