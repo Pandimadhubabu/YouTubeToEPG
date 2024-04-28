@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240428050000 +0530" stop="20240428060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/tPyaYPKruw8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240428060000 +0530" stop="20240428070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/tPyaYPKruw8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : MP Bandi Sanjay Press Meet  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay Press Meet  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/nmesG9T8GQY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240428070000 +0530" stop="20240428080000 +0530">
+    <title lang="en">LIVE : MP Bandi Sanjay Press Meet  | బండి సంజయ్ లైవ్ | ManaTolivelugu</title>
+    <desc lang="en">LIVE : MP Bandi Sanjay Press Meet  | బండి సంజయ్ లైవ్ | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/nmesG9T8GQY/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240428060000 +0530" stop="20240428070000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Belagavi, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Belagavi, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/DH8xDSlql3A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240428070000 +0530" stop="20240428080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Belagavi, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Belagavi, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/DH8xDSlql3A/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240428050000 +0530" stop="20240428060000 +0530">
-    <title lang="en">LIVE: BJP PC | Former Samajwadi Party MLA Jai Chaubey and other leader joins BJP | Lucknow |Election</title>
-    <desc lang="en">LIVE: BJP PC | Former Samajwadi Party MLA Jai Chaubey and other leader joins BJP | Lucknow |Election</desc>
-    <icon src="https://i.ytimg.com/vi/KeV2ZUO4Rxw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240428060000 +0530" stop="20240428070000 +0530">
-    <title lang="en">LIVE: BJP PC | Former Samajwadi Party MLA Jai Chaubey and other leader joins BJP | Lucknow |Election</title>
-    <desc lang="en">LIVE: BJP PC | Former Samajwadi Party MLA Jai Chaubey and other leader joins BJP | Lucknow |Election</desc>
-    <icon src="https://i.ytimg.com/vi/KeV2ZUO4Rxw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi Addresses Public meeting in Belagavi, Karnataka | Lok Sabha Election |PM मोदी |कर्नाटक</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public meeting in Belagavi, Karnataka | Lok Sabha Election |PM मोदी |कर्नाटक</desc>
+    <icon src="https://i.ytimg.com/vi/0eNT-qsMUf8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240428070000 +0530" stop="20240428080000 +0530">
+    <title lang="en">LIVE: PM Modi Addresses Public meeting in Belagavi, Karnataka | Lok Sabha Election |PM मोदी |कर्नाटक</title>
+    <desc lang="en">LIVE: PM Modi Addresses Public meeting in Belagavi, Karnataka | Lok Sabha Election |PM मोदी |कर्नाटक</desc>
+    <icon src="https://i.ytimg.com/vi/0eNT-qsMUf8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
