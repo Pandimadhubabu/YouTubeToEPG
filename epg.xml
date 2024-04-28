@@ -2,40 +2,14 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240428110000 +0530" stop="20240428120000 +0530">
-    <title lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vUpaOnAik4o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240428120000 +0530" stop="20240428130000 +0530">
-    <title lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Congress Jaggareddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/vUpaOnAik4o/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Kx6C5-9-Q6g/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240428110000 +0530" stop="20240428120000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Davanagere, Karnataka | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Davanagere, Karnataka | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/EqqPgxgtGmQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240428120000 +0530" stop="20240428130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Davanagere, Karnataka | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Davanagere, Karnataka | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/EqqPgxgtGmQ/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240428110000 +0530" stop="20240428120000 +0530">
-    <title lang="en">Arvinder Singh lovely LIVE | Arvinder Singh resigns as Delhi Congress chief over alliance with AAP</title>
-    <desc lang="en">Arvinder Singh lovely LIVE | Arvinder Singh resigns as Delhi Congress chief over alliance with AAP</desc>
-    <icon src="https://i.ytimg.com/vi/M_IHGWNscvk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240428120000 +0530" stop="20240428130000 +0530">
-    <title lang="en">Arvinder Singh lovely LIVE | Arvinder Singh resigns as Delhi Congress chief over alliance with AAP</title>
-    <desc lang="en">Arvinder Singh lovely LIVE | Arvinder Singh resigns as Delhi Congress chief over alliance with AAP</desc>
-    <icon src="https://i.ytimg.com/vi/M_IHGWNscvk/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240428130000 +0530" stop="20240428140000 +0530">
+    <title lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</title>
+    <desc lang="en">LIVE : MLA KTR Participate BRS Cadre Meeting | Karimnagar Parliamentary |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Kx6C5-9-Q6g/maxresdefault_live.jpg"/>
   </programme>
 </tv>
