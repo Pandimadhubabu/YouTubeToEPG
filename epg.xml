@@ -2,38 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240429090000 +0530" stop="20240429100000 +0530">
-    <title lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</title>
-    <desc lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/jy9pHJ34074/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240429100000 +0530" stop="20240429110000 +0530">
-    <title lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</title>
-    <desc lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/jy9pHJ34074/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE :  రేవంత్ రెడ్డి స్పీచ్..  దద్దరిల్లిన కర్ణాటక | Congress Public Meeting  ManaTolivelugu</title>
+    <desc lang="en">LIVE :  రేవంత్ రెడ్డి స్పీచ్..  దద్దరిల్లిన కర్ణాటక | Congress Public Meeting  ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eGAu5rwRpBk/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240429090000 +0530" stop="20240429100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Solapur, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Solapur, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/RovNkeE3EaE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240429100000 +0530" stop="20240429110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Solapur, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Solapur, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/RovNkeE3EaE/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240429110000 +0530" stop="20240429120000 +0530">
+    <title lang="en">LIVE :  రేవంత్ రెడ్డి స్పీచ్..  దద్దరిల్లిన కర్ణాటక | Congress Public Meeting  ManaTolivelugu</title>
+    <desc lang="en">LIVE :  రేవంత్ రెడ్డి స్పీచ్..  దద్దరిల్లిన కర్ణాటక | Congress Public Meeting  ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eGAu5rwRpBk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429090000 +0530" stop="20240429100000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240429100000 +0530" stop="20240429110000 +0530">
     <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Begusarai, Bihar| Election | बिहार|BJP|चुनाव|अमित शाह</title>
     <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Begusarai, Bihar| Election | बिहार|BJP|चुनाव|अमित शाह</desc>
     <icon src="https://i.ytimg.com/vi/3aaIycnSKWM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240429100000 +0530" stop="20240429110000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240429110000 +0530" stop="20240429120000 +0530">
     <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Begusarai, Bihar| Election | बिहार|BJP|चुनाव|अमित शाह</title>
     <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Begusarai, Bihar| Election | बिहार|BJP|चुनाव|अमित शाह</desc>
     <icon src="https://i.ytimg.com/vi/3aaIycnSKWM/maxresdefault_live.jpg"/>
