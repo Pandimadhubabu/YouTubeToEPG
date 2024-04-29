@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429180000 +0530" stop="20240429190000 +0530">
-    <title lang="en">Live: Congress Candidate Akshay Kanti Withdraws His Nomination &amp; Joins BJP | Lok Sabha election 2024</title>
-    <desc lang="en">Live: Congress Candidate Akshay Kanti Withdraws His Nomination &amp; Joins BJP | Lok Sabha election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/DlGkwuuZeew/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240429190000 +0530" stop="20240429200000 +0530">
     <title lang="en">Live: Congress Candidate Akshay Kanti Withdraws His Nomination &amp; Joins BJP | Lok Sabha election 2024</title>
     <desc lang="en">Live: Congress Candidate Akshay Kanti Withdraws His Nomination &amp; Joins BJP | Lok Sabha election 2024</desc>
     <icon src="https://i.ytimg.com/vi/DlGkwuuZeew/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240429180000 +0530" stop="20240429190000 +0530">
-    <title lang="en">LIVE: Protesters in Tel Aviv demand hostages' release</title>
-    <desc lang="en">LIVE: Protesters in Tel Aviv demand hostages' release</desc>
-    <icon src="https://i.ytimg.com/vi/7m4Oa0sz_aw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240429190000 +0530" stop="20240429200000 +0530">
-    <title lang="en">LIVE: Protesters in Tel Aviv demand hostages' release</title>
-    <desc lang="en">LIVE: Protesters in Tel Aviv demand hostages' release</desc>
-    <icon src="https://i.ytimg.com/vi/7m4Oa0sz_aw/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240429200000 +0530" stop="20240429210000 +0530">
+    <title lang="en">Live: Congress Candidate Akshay Kanti Withdraws His Nomination &amp; Joins BJP | Lok Sabha election 2024</title>
+    <desc lang="en">Live: Congress Candidate Akshay Kanti Withdraws His Nomination &amp; Joins BJP | Lok Sabha election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/DlGkwuuZeew/maxresdefault_live.jpg"/>
   </programme>
 </tv>
