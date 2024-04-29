@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240429050000 +0530" stop="20240429060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ji2F_n5DnoE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240429060000 +0530" stop="20240429070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/ji2F_n5DnoE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
+    <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/s_HPRXoFmcE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240429070000 +0530" stop="20240429080000 +0530">
+    <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
+    <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/s_HPRXoFmcE/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429050000 +0530" stop="20240429060000 +0530">
-    <title lang="en">Village Defence Guard Killed in Encounter in J&amp;K's Udhampur, search operations underway| Indian Army</title>
-    <desc lang="en">Village Defence Guard Killed in Encounter in J&amp;K's Udhampur, search operations underway| Indian Army</desc>
-    <icon src="https://i.ytimg.com/vi/xnEuvu0JI48/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240429060000 +0530" stop="20240429070000 +0530">
-    <title lang="en">Village Defence Guard Killed in Encounter in J&amp;K's Udhampur, search operations underway| Indian Army</title>
-    <desc lang="en">Village Defence Guard Killed in Encounter in J&amp;K's Udhampur, search operations underway| Indian Army</desc>
-    <icon src="https://i.ytimg.com/vi/xnEuvu0JI48/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</title>
+    <desc lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</desc>
+    <icon src="https://i.ytimg.com/vi/wUWFswN9Es0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240429050000 +0530" stop="20240429060000 +0530">
-    <title lang="en">LIVE: Beijing Auto Show opens to the public | REUTERS</title>
-    <desc lang="en">LIVE: Beijing Auto Show opens to the public | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/bLTOpLxk67k/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240429060000 +0530" stop="20240429070000 +0530">
-    <title lang="en">LIVE: Beijing Auto Show opens to the public | REUTERS</title>
-    <desc lang="en">LIVE: Beijing Auto Show opens to the public | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/bLTOpLxk67k/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240429070000 +0530" stop="20240429080000 +0530">
+    <title lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</title>
+    <desc lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</desc>
+    <icon src="https://i.ytimg.com/vi/wUWFswN9Es0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
