@@ -2,53 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240429120000 +0530" stop="20240429130000 +0530">
-    <title lang="en">LIVE : మాదిగల కోసం ఒక్కటైన మోత్కుపల్లి,  మంద | Manda Krishna and Mothkupalli Press meet</title>
-    <desc lang="en">LIVE : మాదిగల కోసం ఒక్కటైన మోత్కుపల్లి,  మంద | Manda Krishna and Mothkupalli Press meet</desc>
-    <icon src="https://i.ytimg.com/vi/sHpsWg1GMK4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240429130000 +0530" stop="20240429140000 +0530">
-    <title lang="en">LIVE : మాదిగల కోసం ఒక్కటైన మోత్కుపల్లి,  మంద | Manda Krishna and Mothkupalli Press meet</title>
-    <desc lang="en">LIVE : మాదిగల కోసం ఒక్కటైన మోత్కుపల్లి,  మంద | Manda Krishna and Mothkupalli Press meet</desc>
-    <icon src="https://i.ytimg.com/vi/sHpsWg1GMK4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240429140000 +0530" stop="20240429150000 +0530">
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429120000 +0530" stop="20240429130000 +0530">
-    <title lang="en">LIVE: Mallikarjun Kharge, Priyanka Gandhi &amp; Revanth Reddy Address Public Meeting in Sedam Karnataka</title>
-    <desc lang="en">LIVE: Mallikarjun Kharge, Priyanka Gandhi &amp; Revanth Reddy Address Public Meeting in Sedam Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/GgokLP4YlCg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240429130000 +0530" stop="20240429140000 +0530">
-    <title lang="en">LIVE: Mallikarjun Kharge, Priyanka Gandhi &amp; Revanth Reddy Address Public Meeting in Sedam Karnataka</title>
-    <desc lang="en">LIVE: Mallikarjun Kharge, Priyanka Gandhi &amp; Revanth Reddy Address Public Meeting in Sedam Karnataka</desc>
-    <icon src="https://i.ytimg.com/vi/GgokLP4YlCg/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah hold roadshow in Guwahati, Assam | Election | BJP | चुनाव |अमित शाह |असम | लोकसभा</title>
+    <desc lang="en">LIVE: HM Amit Shah hold roadshow in Guwahati, Assam | Election | BJP | चुनाव |अमित शाह |असम | लोकसभा</desc>
+    <icon src="https://i.ytimg.com/vi/yXerH1RKNPI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240429140000 +0530" stop="20240429150000 +0530">
+    <title lang="en">LIVE: HM Amit Shah hold roadshow in Guwahati, Assam | Election | BJP | चुनाव |अमित शाह |असम | लोकसभा</title>
+    <desc lang="en">LIVE: HM Amit Shah hold roadshow in Guwahati, Assam | Election | BJP | चुनाव |अमित शाह |असम | लोकसभा</desc>
+    <icon src="https://i.ytimg.com/vi/yXerH1RKNPI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240429120000 +0530" stop="20240429130000 +0530">
-    <title lang="en">LIVE: World Economic Forum discusses how the Middle East can forge a path to peace</title>
-    <desc lang="en">LIVE: World Economic Forum discusses how the Middle East can forge a path to peace</desc>
-    <icon src="https://i.ytimg.com/vi/y4ldgPUyB7A/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240429130000 +0530" stop="20240429140000 +0530">
     <title lang="en">LIVE: World Economic Forum discusses how the Middle East can forge a path to peace</title>
     <desc lang="en">LIVE: World Economic Forum discusses how the Middle East can forge a path to peace</desc>
     <icon src="https://i.ytimg.com/vi/y4ldgPUyB7A/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240429120000 +0530" stop="20240429130000 +0530">
-    <title lang="en">Shri Mallikarjun Kharge, Smt.Priyanka Gandhi &amp; CM Sri.A.Revanth Reddy address a joint rally in Sedam</title>
-    <desc lang="en">Shri Mallikarjun Kharge, Smt.Priyanka Gandhi &amp; CM Sri.A.Revanth Reddy address a joint rally in Sedam</desc>
-    <icon src="https://i.ytimg.com/vi/qL7-OZi3dNw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240429130000 +0530" stop="20240429140000 +0530">
-    <title lang="en">Shri Mallikarjun Kharge, Smt.Priyanka Gandhi &amp; CM Sri.A.Revanth Reddy address a joint rally in Sedam</title>
-    <desc lang="en">Shri Mallikarjun Kharge, Smt.Priyanka Gandhi &amp; CM Sri.A.Revanth Reddy address a joint rally in Sedam</desc>
-    <icon src="https://i.ytimg.com/vi/qL7-OZi3dNw/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240429140000 +0530" stop="20240429150000 +0530">
+    <title lang="en">LIVE: World Economic Forum discusses how the Middle East can forge a path to peace</title>
+    <desc lang="en">LIVE: World Economic Forum discusses how the Middle East can forge a path to peace</desc>
+    <icon src="https://i.ytimg.com/vi/y4ldgPUyB7A/maxresdefault_live.jpg"/>
   </programme>
 </tv>
