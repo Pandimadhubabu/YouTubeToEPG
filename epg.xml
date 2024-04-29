@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240429060000 +0530" stop="20240429070000 +0530">
-    <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/s_HPRXoFmcE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240429070000 +0530" stop="20240429080000 +0530">
     <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
     <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/s_HPRXoFmcE/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240429080000 +0530" stop="20240429090000 +0530">
+    <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
+    <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/s_HPRXoFmcE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240429070000 +0530" stop="20240429080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Bagalkote, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Bagalkote, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/hcRDeOsWovQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240429080000 +0530" stop="20240429090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Bagalkote, Karnataka | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Bagalkote, Karnataka | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/hcRDeOsWovQ/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429060000 +0530" stop="20240429070000 +0530">
-    <title lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</title>
-    <desc lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</desc>
-    <icon src="https://i.ytimg.com/vi/wUWFswN9Es0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240429070000 +0530" stop="20240429080000 +0530">
-    <title lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</title>
-    <desc lang="en">LIVE: Smriti Irani hold Roadshow in Amethi | Nomination | Election |अमेठी |चुनाव |BJP |बीजेपी|लोकसभा</desc>
-    <icon src="https://i.ytimg.com/vi/wUWFswN9Es0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: PM Modi’s Public Meeting in Bagalkote, Karnataka|Lok Sabha Election |PM मोदी |BJP |चुनाव|जनसभा</title>
+    <desc lang="en">LIVE: PM Modi’s Public Meeting in Bagalkote, Karnataka|Lok Sabha Election |PM मोदी |BJP |चुनाव|जनसभा</desc>
+    <icon src="https://i.ytimg.com/vi/D6A26Z2Grxw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240429080000 +0530" stop="20240429090000 +0530">
+    <title lang="en">LIVE: PM Modi’s Public Meeting in Bagalkote, Karnataka|Lok Sabha Election |PM मोदी |BJP |चुनाव|जनसभा</title>
+    <desc lang="en">LIVE: PM Modi’s Public Meeting in Bagalkote, Karnataka|Lok Sabha Election |PM मोदी |BJP |चुनाव|जनसभा</desc>
+    <icon src="https://i.ytimg.com/vi/D6A26Z2Grxw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
