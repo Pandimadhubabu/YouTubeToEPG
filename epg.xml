@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240429140000 +0530" stop="20240429150000 +0530">
-    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240429150000 +0530" stop="20240429160000 +0530">
     <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240429140000 +0530" stop="20240429150000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Pune, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Pune, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/XeGB36uKO60/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240429150000 +0530" stop="20240429160000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Pune, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Pune, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/XeGB36uKO60/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240429160000 +0530" stop="20240429170000 +0530">
+    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429140000 +0530" stop="20240429150000 +0530">
-    <title lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakat’ remark</title>
-    <desc lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakat’ remark</desc>
+  <programme channel="ANINewsIndia.yt" start="20240429150000 +0530" stop="20240429160000 +0530">
+    <title lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</title>
+    <desc lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</desc>
     <icon src="https://i.ytimg.com/vi/3K_Xp4a2h7I/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240429150000 +0530" stop="20240429160000 +0530">
-    <title lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakat’ remark</title>
-    <desc lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakat’ remark</desc>
+  <programme channel="ANINewsIndia.yt" start="20240429160000 +0530" stop="20240429170000 +0530">
+    <title lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</title>
+    <desc lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</desc>
     <icon src="https://i.ytimg.com/vi/3K_Xp4a2h7I/maxresdefault_live.jpg"/>
   </programme>
 </tv>
