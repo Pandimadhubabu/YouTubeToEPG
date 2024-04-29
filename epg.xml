@@ -1,28 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240429150000 +0530" stop="20240429160000 +0530">
-    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240429160000 +0530" stop="20240429170000 +0530">
-    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/iSmCh4KvcLQ/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240429150000 +0530" stop="20240429160000 +0530">
-    <title lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</title>
-    <desc lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</desc>
-    <icon src="https://i.ytimg.com/vi/3K_Xp4a2h7I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240429160000 +0530" stop="20240429170000 +0530">
-    <title lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</title>
-    <desc lang="en">Live: PM Modi takes a jibe at Congress leader Rahul Gandhi over ‘Khatakhat Khatakhat’ remark</desc>
-    <icon src="https://i.ytimg.com/vi/3K_Xp4a2h7I/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: “Nobody is buzzing for them” Smriti Irani mocks RaGa amid rumors of him contesting from Amethi</title>
+    <desc lang="en">LIVE: “Nobody is buzzing for them” Smriti Irani mocks RaGa amid rumors of him contesting from Amethi</desc>
+    <icon src="https://i.ytimg.com/vi/doI-IY4xdkI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240429170000 +0530" stop="20240429180000 +0530">
+    <title lang="en">LIVE: “Nobody is buzzing for them” Smriti Irani mocks RaGa amid rumors of him contesting from Amethi</title>
+    <desc lang="en">LIVE: “Nobody is buzzing for them” Smriti Irani mocks RaGa amid rumors of him contesting from Amethi</desc>
+    <icon src="https://i.ytimg.com/vi/doI-IY4xdkI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240429160000 +0530" stop="20240429170000 +0530">
+    <title lang="en">LIVE: Government rally in Tbilisi ahead of the "foreign agent" bill vote</title>
+    <desc lang="en">LIVE: Government rally in Tbilisi ahead of the "foreign agent" bill vote</desc>
+    <icon src="https://i.ytimg.com/vi/dpEZQKE_pF8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240429170000 +0530" stop="20240429180000 +0530">
+    <title lang="en">LIVE: Government rally in Tbilisi ahead of the "foreign agent" bill vote</title>
+    <desc lang="en">LIVE: Government rally in Tbilisi ahead of the "foreign agent" bill vote</desc>
+    <icon src="https://i.ytimg.com/vi/dpEZQKE_pF8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
