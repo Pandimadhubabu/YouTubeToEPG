@@ -2,53 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240430120000 +0530" stop="20240430130000 +0530">
-    <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/SNRbcIDenc0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240430130000 +0530" stop="20240430140000 +0530">
     <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</title>
     <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/SNRbcIDenc0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240430120000 +0530" stop="20240430130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Zaheerabad, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Zaheerabad, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5XsdIX9Y2zQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240430130000 +0530" stop="20240430140000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Zaheerabad, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Zaheerabad, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5XsdIX9Y2zQ/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240430140000 +0530" stop="20240430150000 +0530">
+    <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/SNRbcIDenc0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240430120000 +0530" stop="20240430130000 +0530">
-    <title lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
-    <desc lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
-    <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240430130000 +0530" stop="20240430140000 +0530">
-    <title lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
-    <desc lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
     <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240430120000 +0530" stop="20240430130000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Parkal</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Parkal</desc>
-    <icon src="https://i.ytimg.com/vi/HO0o82pZQ9U/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240430130000 +0530" stop="20240430140000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Parkal</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Parkal</desc>
-    <icon src="https://i.ytimg.com/vi/HO0o82pZQ9U/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240430140000 +0530" stop="20240430150000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
