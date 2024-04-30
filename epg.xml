@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240430180000 +0530" stop="20240430190000 +0530">
+  <programme channel="Reuters.yt" start="20240430190000 +0530" stop="20240430200000 +0530">
     <title lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</title>
     <desc lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</desc>
     <icon src="https://i.ytimg.com/vi/a3T2UxA-zEY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240430190000 +0530" stop="20240430200000 +0530">
+  <programme channel="Reuters.yt" start="20240430200000 +0530" stop="20240430210000 +0530">
     <title lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</title>
     <desc lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</desc>
     <icon src="https://i.ytimg.com/vi/a3T2UxA-zEY/maxresdefault_live.jpg"/>
