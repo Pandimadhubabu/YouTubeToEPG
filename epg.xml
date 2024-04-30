@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240430070000 +0530" stop="20240430080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ac0m1jVpJhQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240430080000 +0530" stop="20240430090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ac0m1jVpJhQ/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/nFuhrXZwqK4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240430090000 +0530" stop="20240430100000 +0530">
+    <title lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/nFuhrXZwqK4/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240430080000 +0530" stop="20240430090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Dharashiv, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Dharashiv, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/NCUaPces4zQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240430090000 +0530" stop="20240430100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Dharashiv, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Dharashiv, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/NCUaPces4zQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240430070000 +0530" stop="20240430080000 +0530">
-    <title lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</title>
-    <desc lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</desc>
-    <icon src="https://i.ytimg.com/vi/MSrR3ZzSNMk/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240430080000 +0530" stop="20240430090000 +0530">
-    <title lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</title>
-    <desc lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</desc>
-    <icon src="https://i.ytimg.com/vi/MSrR3ZzSNMk/hqdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Katwa, West Bengal | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Katwa, West Bengal | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/fMzQPrcvtMQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240430090000 +0530" stop="20240430100000 +0530">
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Katwa, West Bengal | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Katwa, West Bengal | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/fMzQPrcvtMQ/maxresdefault_live.jpg"/>
   </programme>
 </tv>
