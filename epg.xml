@@ -1,26 +1,26 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240430130000 +0530" stop="20240430140000 +0530">
-    <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/SNRbcIDenc0/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240430140000 +0530" stop="20240430150000 +0530">
+    <title lang="en">LIVE: HM Amit Shah's Press Conference | Assam | Lok Sabha Election 2024 Latest News</title>
+    <desc lang="en">LIVE: HM Amit Shah's Press Conference | Assam | Lok Sabha Election 2024 Latest News</desc>
+    <icon src="https://i.ytimg.com/vi/oWI-spleBFA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240430140000 +0530" stop="20240430150000 +0530">
-    <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Parkala | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/SNRbcIDenc0/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240430150000 +0530" stop="20240430160000 +0530">
+    <title lang="en">LIVE: HM Amit Shah's Press Conference | Assam | Lok Sabha Election 2024 Latest News</title>
+    <desc lang="en">LIVE: HM Amit Shah's Press Conference | Assam | Lok Sabha Election 2024 Latest News</desc>
+    <icon src="https://i.ytimg.com/vi/oWI-spleBFA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240430130000 +0530" stop="20240430140000 +0530">
+  <programme channel="Reuters.yt" start="20240430140000 +0530" stop="20240430150000 +0530">
     <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
     <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
     <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240430140000 +0530" stop="20240430150000 +0530">
+  <programme channel="Reuters.yt" start="20240430150000 +0530" stop="20240430160000 +0530">
     <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
     <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
     <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
