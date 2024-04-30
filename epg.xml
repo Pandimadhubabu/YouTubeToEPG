@@ -2,40 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240430150000 +0530" stop="20240430160000 +0530">
-    <title lang="en">Live: “Scam Created By…” : BRS President and Former Telangana CM K. Chandrashekar Rao on Liquor Scam</title>
-    <desc lang="en">Live: “Scam Created By…” : BRS President and Former Telangana CM K. Chandrashekar Rao on Liquor Scam</desc>
-    <icon src="https://i.ytimg.com/vi/zIAw--TeIrU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240430160000 +0530" stop="20240430170000 +0530">
-    <title lang="en">Live: “Scam Created By…” : BRS President and Former Telangana CM K. Chandrashekar Rao on Liquor Scam</title>
-    <desc lang="en">Live: “Scam Created By…” : BRS President and Former Telangana CM K. Chandrashekar Rao on Liquor Scam</desc>
-    <icon src="https://i.ytimg.com/vi/zIAw--TeIrU/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ahmedabad, Gujarat | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ahmedabad, Gujarat | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/A-7qJWccyb0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240430170000 +0530" stop="20240430180000 +0530">
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ahmedabad, Gujarat | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ahmedabad, Gujarat | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/A-7qJWccyb0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240430150000 +0530" stop="20240430160000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
-    <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240430160000 +0530" stop="20240430170000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
-    <icon src="https://i.ytimg.com/vi/x13Ok8E7_Y8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Columbia University campus where pro-Palestinian protesters are occupying a building</title>
+    <desc lang="en">LIVE: Columbia University campus where pro-Palestinian protesters are occupying a building</desc>
+    <icon src="https://i.ytimg.com/vi/ZS2p8YDKBm0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240430150000 +0530" stop="20240430160000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at Balapur</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at Balapur</desc>
-    <icon src="https://i.ytimg.com/vi/Pzv4PkuJ2gc/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240430160000 +0530" stop="20240430170000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at Balapur</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at Balapur</desc>
-    <icon src="https://i.ytimg.com/vi/Pzv4PkuJ2gc/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240430170000 +0530" stop="20240430180000 +0530">
+    <title lang="en">LIVE: Columbia University campus where pro-Palestinian protesters are occupying a building</title>
+    <desc lang="en">LIVE: Columbia University campus where pro-Palestinian protesters are occupying a building</desc>
+    <icon src="https://i.ytimg.com/vi/ZS2p8YDKBm0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
