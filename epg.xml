@@ -2,12 +2,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240430200000 +0530" stop="20240430210000 +0530">
+  <programme channel="Reuters.yt" start="20240430210000 +0530" stop="20240430220000 +0530">
     <title lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
     <desc lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
     <icon src="https://i.ytimg.com/vi/wl8CNoHl1sw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240430210000 +0530" stop="20240430220000 +0530">
+  <programme channel="Reuters.yt" start="20240430220000 +0530" stop="20240430230000 +0530">
     <title lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
     <desc lang="en">LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
     <icon src="https://i.ytimg.com/vi/wl8CNoHl1sw/maxresdefault_live.jpg"/>
