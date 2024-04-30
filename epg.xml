@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240430090000 +0530" stop="20240430100000 +0530">
-    <title lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/nFuhrXZwqK4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240430100000 +0530" stop="20240430110000 +0530">
-    <title lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : సూర్యపేటలో తీన్మార్ మల్లన్న పర్యటన | Teenmar Mallanna | Suryapet | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/nFuhrXZwqK4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Huzurabad | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Huzurabad | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/K_BH9uUQfRE/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240430090000 +0530" stop="20240430100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Latur, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Latur, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/z2F3xpox0zM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240430100000 +0530" stop="20240430110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Latur, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Latur, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/z2F3xpox0zM/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240430110000 +0530" stop="20240430120000 +0530">
+    <title lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Huzurabad | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting | Jana Jathara Sabha | Revanth Reddy | Huzurabad | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/K_BH9uUQfRE/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240430090000 +0530" stop="20240430100000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Latur, Maharashtra | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Latur, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/NGHhQQHwGoo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240430100000 +0530" stop="20240430110000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Latur, Maharashtra | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Latur, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/NGHhQQHwGoo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Barwani, Madhya Pradesh |Lok Sabha Polls</title>
+    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Barwani, Madhya Pradesh |Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/lTk6dovaRXU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240430110000 +0530" stop="20240430120000 +0530">
+    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Barwani, Madhya Pradesh |Lok Sabha Polls</title>
+    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Barwani, Madhya Pradesh |Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/lTk6dovaRXU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240430100000 +0530" stop="20240430110000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Huzurabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Huzurabad</desc>
+    <icon src="https://i.ytimg.com/vi/G1DvV5WMH3I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240430110000 +0530" stop="20240430120000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Huzurabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Huzurabad</desc>
+    <icon src="https://i.ytimg.com/vi/G1DvV5WMH3I/maxresdefault_live.jpg"/>
   </programme>
 </tv>
