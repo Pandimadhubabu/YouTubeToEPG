@@ -2,40 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240430060000 +0530" stop="20240430070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ac0m1jVpJhQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240430070000 +0530" stop="20240430080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Ac0m1jVpJhQ/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240430060000 +0530" stop="20240430070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Madha, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Madha, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/XG5vVMFR-R0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240430070000 +0530" stop="20240430080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Madha, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Madha, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/XG5vVMFR-R0/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240430080000 +0530" stop="20240430090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Ac0m1jVpJhQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240430060000 +0530" stop="20240430070000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Madha, Maharashtra | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Madha, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/1gGZyca7Mrs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240430070000 +0530" stop="20240430080000 +0530">
-    <title lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Madha, Maharashtra | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE: PM Narendra Modi Addresses Public Meeting in Madha, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/1gGZyca7Mrs/maxresdefault_live.jpg"/>
+    <title lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</title>
+    <desc lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</desc>
+    <icon src="https://i.ytimg.com/vi/MSrR3ZzSNMk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240430080000 +0530" stop="20240430090000 +0530">
+    <title lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</title>
+    <desc lang="en">Live: JDS suspended Prajwal Revanna over Obscene video row till SIT probe report out | Hubbali</desc>
+    <icon src="https://i.ytimg.com/vi/MSrR3ZzSNMk/hqdefault_live.jpg"/>
   </programme>
 </tv>
