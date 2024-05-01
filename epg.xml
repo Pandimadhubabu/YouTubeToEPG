@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240501100000 +0530" stop="20240501110000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/qcWIyEymRK0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240501110000 +0530" stop="20240501120000 +0530">
     <title lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
     <desc lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/qcWIyEymRK0/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240501120000 +0530" stop="20240501130000 +0530">
+    <title lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/qcWIyEymRK0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240501110000 +0530" stop="20240501120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Banaskantha, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Banaskantha, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZEvwSSSzj3o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240501120000 +0530" stop="20240501130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Banaskantha, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Banaskantha, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/ZEvwSSSzj3o/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240501100000 +0530" stop="20240501110000 +0530">
-    <title lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</title>
-    <desc lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</desc>
-    <icon src="https://i.ytimg.com/vi/cZRJPoMeEVo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240501110000 +0530" stop="20240501120000 +0530">
-    <title lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</title>
-    <desc lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</desc>
-    <icon src="https://i.ytimg.com/vi/cZRJPoMeEVo/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi LIVE | जनसभा, बनासकांठा गुजरात | Lok Sabha Election | बीजेपी |BJP | लोकसभा |Gujarat| PM मोदी</title>
+    <desc lang="en">PM Modi LIVE | जनसभा, बनासकांठा गुजरात | Lok Sabha Election | बीजेपी |BJP | लोकसभा |Gujarat| PM मोदी</desc>
+    <icon src="https://i.ytimg.com/vi/UvxVWWM3uRc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240501120000 +0530" stop="20240501130000 +0530">
+    <title lang="en">PM Modi LIVE | जनसभा, बनासकांठा गुजरात | Lok Sabha Election | बीजेपी |BJP | लोकसभा |Gujarat| PM मोदी</title>
+    <desc lang="en">PM Modi LIVE | जनसभा, बनासकांठा गुजरात | Lok Sabha Election | बीजेपी |BJP | लोकसभा |Gujarat| PM मोदी</desc>
+    <icon src="https://i.ytimg.com/vi/UvxVWWM3uRc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
