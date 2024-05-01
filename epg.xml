@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240501150000 +0530" stop="20240501160000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240501160000 +0530" stop="20240501170000 +0530">
     <title lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/99xpPW-hTdM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240501160000 +0530" stop="20240501170000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240501170000 +0530" stop="20240501180000 +0530">
     <title lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/99xpPW-hTdM/maxresdefault_live.jpg"/>
@@ -15,40 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240501150000 +0530" stop="20240501160000 +0530">
-    <title lang="en">LIVE: President Droupadi Murmu in Ayodhya | LIVE aarti and Ram Lalla Darshan |Ram Mandir|Saryu Aarti</title>
-    <desc lang="en">LIVE: President Droupadi Murmu in Ayodhya | LIVE aarti and Ram Lalla Darshan |Ram Mandir|Saryu Aarti</desc>
-    <icon src="https://i.ytimg.com/vi/pUPp1Xj2AwY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240501160000 +0530" stop="20240501170000 +0530">
-    <title lang="en">LIVE: President Droupadi Murmu in Ayodhya | LIVE aarti and Ram Lalla Darshan |Ram Mandir|Saryu Aarti</title>
-    <desc lang="en">LIVE: President Droupadi Murmu in Ayodhya | LIVE aarti and Ram Lalla Darshan |Ram Mandir|Saryu Aarti</desc>
-    <icon src="https://i.ytimg.com/vi/pUPp1Xj2AwY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240501170000 +0530" stop="20240501180000 +0530">
+    <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240501150000 +0530" stop="20240501160000 +0530">
-    <title lang="en">LIVE: Planned Parenthood speaks about the Florida abortion ban</title>
-    <desc lang="en">LIVE: Planned Parenthood speaks about the Florida abortion ban</desc>
-    <icon src="https://i.ytimg.com/vi/w6_ProcTKw4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240501160000 +0530" stop="20240501170000 +0530">
-    <title lang="en">LIVE: Planned Parenthood speaks about the Florida abortion ban</title>
-    <desc lang="en">LIVE: Planned Parenthood speaks about the Florida abortion ban</desc>
-    <icon src="https://i.ytimg.com/vi/w6_ProcTKw4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Columbia University holds a briefing after police clear Gaza war protests encampment</title>
+    <desc lang="en">LIVE: Columbia University holds a briefing after police clear Gaza war protests encampment</desc>
+    <icon src="https://i.ytimg.com/vi/BnStW3qNVoY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240501150000 +0530" stop="20240501160000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Sherlingampally</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Sherlingampally</desc>
-    <icon src="https://i.ytimg.com/vi/sK8GXJF5lTY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240501160000 +0530" stop="20240501170000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Sherlingampally</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Sherlingampally</desc>
-    <icon src="https://i.ytimg.com/vi/sK8GXJF5lTY/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240501170000 +0530" stop="20240501180000 +0530">
+    <title lang="en">LIVE: Columbia University holds a briefing after police clear Gaza war protests encampment</title>
+    <desc lang="en">LIVE: Columbia University holds a briefing after police clear Gaza war protests encampment</desc>
+    <icon src="https://i.ytimg.com/vi/BnStW3qNVoY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
