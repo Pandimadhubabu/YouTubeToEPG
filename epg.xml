@@ -1,15 +1,1 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240430230000 +0530" stop="20240501000000 +0530">
-    <title lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</title>
-    <desc lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</desc>
-    <icon src="https://i.ytimg.com/vi/a3T2UxA-zEY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240501000000 +0530" stop="20240501010000 +0530">
-    <title lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</title>
-    <desc lang="en">LIVE: Protesters gather near Georgian parliament, as ‘foreign agents’ bill faces second reading i…</desc>
-    <icon src="https://i.ytimg.com/vi/a3T2UxA-zEY/maxresdefault_live.jpg"/>
-  </programme>
-</tv>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
