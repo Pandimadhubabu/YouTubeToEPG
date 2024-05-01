@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240501020000 +0530" stop="20240501030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240501030000 +0530" stop="20240501040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/JCOE4vcUUu8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240501030000 +0530" stop="20240501040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240501040000 +0530" stop="20240501050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/JCOE4vcUUu8/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240501020000 +0530" stop="20240501030000 +0530">
+  <programme channel="Reuters.yt" start="20240501030000 +0530" stop="20240501040000 +0530">
     <title lang="en">LIVE: Pro-Palestinian protests at Columbia University in New York | REUTERS</title>
     <desc lang="en">LIVE: Pro-Palestinian protests at Columbia University in New York | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/_ztwtGUob_E/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240501030000 +0530" stop="20240501040000 +0530">
+  <programme channel="Reuters.yt" start="20240501040000 +0530" stop="20240501050000 +0530">
     <title lang="en">LIVE: Pro-Palestinian protests at Columbia University in New York | REUTERS</title>
     <desc lang="en">LIVE: Pro-Palestinian protests at Columbia University in New York | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/_ztwtGUob_E/maxresdefault_live.jpg"/>
