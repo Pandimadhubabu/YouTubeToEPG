@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240501050000 +0530" stop="20240501060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240501060000 +0530" stop="20240501070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/JCOE4vcUUu8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240501060000 +0530" stop="20240501070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240501070000 +0530" stop="20240501080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/JCOE4vcUUu8/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240501050000 +0530" stop="20240501060000 +0530">
-    <title lang="en">LIVE: Several Delhi Schools Get Bomb Threat, Police appeals parents not to panic | Live Update</title>
-    <desc lang="en">LIVE: Several Delhi Schools Get Bomb Threat, Police appeals parents not to panic | Live Update</desc>
-    <icon src="https://i.ytimg.com/vi/_RT4-d-y2Y0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240501060000 +0530" stop="20240501070000 +0530">
-    <title lang="en">LIVE: Several Delhi Schools Get Bomb Threat, Police appeals parents not to panic | Live Update</title>
-    <desc lang="en">LIVE: Several Delhi Schools Get Bomb Threat, Police appeals parents not to panic | Live Update</desc>
-    <icon src="https://i.ytimg.com/vi/_RT4-d-y2Y0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Bhopuri film star and BJP candidate from North East Delhi, Manoj Tiwari holds Roadshow|LS Poll</title>
+    <desc lang="en">LIVE: Bhopuri film star and BJP candidate from North East Delhi, Manoj Tiwari holds Roadshow|LS Poll</desc>
+    <icon src="https://i.ytimg.com/vi/kvCRIHe50aY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240501070000 +0530" stop="20240501080000 +0530">
+    <title lang="en">LIVE: Bhopuri film star and BJP candidate from North East Delhi, Manoj Tiwari holds Roadshow|LS Poll</title>
+    <desc lang="en">LIVE: Bhopuri film star and BJP candidate from North East Delhi, Manoj Tiwari holds Roadshow|LS Poll</desc>
+    <icon src="https://i.ytimg.com/vi/kvCRIHe50aY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
