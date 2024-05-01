@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240501090000 +0530" stop="20240501100000 +0530">
-    <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/znnUdfw9uMY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240501100000 +0530" stop="20240501110000 +0530">
-    <title lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : తీన్మార్ మల్లన్న ప్రెస్ మీట్  | Teenmar Mallanna Press Meet |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/znnUdfw9uMY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/qcWIyEymRK0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240501110000 +0530" stop="20240501120000 +0530">
+    <title lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting @Korutla | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/qcWIyEymRK0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240501090000 +0530" stop="20240501100000 +0530">
-    <title lang="en">LIVE: BJP PC | BJP Leader Gaurav Bhatia addresses press conference | Delhi | Election</title>
-    <desc lang="en">LIVE: BJP PC | BJP Leader Gaurav Bhatia addresses press conference | Delhi | Election</desc>
-    <icon src="https://i.ytimg.com/vi/Van3ocLwPMM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240501100000 +0530" stop="20240501110000 +0530">
-    <title lang="en">LIVE: BJP PC | BJP Leader Gaurav Bhatia addresses press conference | Delhi | Election</title>
-    <desc lang="en">LIVE: BJP PC | BJP Leader Gaurav Bhatia addresses press conference | Delhi | Election</desc>
-    <icon src="https://i.ytimg.com/vi/Van3ocLwPMM/maxresdefault_live.jpg"/>
+    <title lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</title>
+    <desc lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</desc>
+    <icon src="https://i.ytimg.com/vi/cZRJPoMeEVo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240501110000 +0530" stop="20240501120000 +0530">
+    <title lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</title>
+    <desc lang="en">Yogi Adityanath LIVE | जनसभा, सोलापुर महाराष्ट्र | विशाल जनसभा | Election | बीजेपी | BJP | लोकसभा</desc>
+    <icon src="https://i.ytimg.com/vi/cZRJPoMeEVo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
