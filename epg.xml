@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240502020000 +0530" stop="20240502030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rMOy_DlL4M0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240502030000 +0530" stop="20240502040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rMOy_DlL4M0/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502010000 +0530" stop="20240502020000 +0530">
-    <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240502020000 +0530" stop="20240502030000 +0530">
-    <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
+    <title lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</title>
+    <desc lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</desc>
+    <icon src="https://i.ytimg.com/vi/9YWCH1MxzEI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240502030000 +0530" stop="20240502040000 +0530">
+    <title lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</title>
+    <desc lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</desc>
+    <icon src="https://i.ytimg.com/vi/9YWCH1MxzEI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
