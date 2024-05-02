@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502020000 +0530" stop="20240502030000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240502030000 +0530" stop="20240502040000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/rMOy_DlL4M0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240502030000 +0530" stop="20240502040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240502040000 +0530" stop="20240502050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/rMOy_DlL4M0/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502020000 +0530" stop="20240502030000 +0530">
-    <title lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</title>
-    <desc lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</desc>
-    <icon src="https://i.ytimg.com/vi/9YWCH1MxzEI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240502030000 +0530" stop="20240502040000 +0530">
     <title lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</title>
     <desc lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</desc>
     <icon src="https://i.ytimg.com/vi/9YWCH1MxzEI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240502040000 +0530" stop="20240502050000 +0530">
+    <title lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</title>
+    <desc lang="en">Live: “Mughalo Ki Aulaadein…”: CM Yogi Adityanath Launches scathing attack on Congress</desc>
+    <icon src="https://i.ytimg.com/vi/9YWCH1MxzEI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240502030000 +0530" stop="20240502040000 +0530">
+    <title lang="en">LIVE: Microsoft CEO Satya Nadella at AI event in Kuala Lumpur | REUTERS</title>
+    <desc lang="en">LIVE: Microsoft CEO Satya Nadella at AI event in Kuala Lumpur | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/hLhPEDw18Vg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240502040000 +0530" stop="20240502050000 +0530">
+    <title lang="en">LIVE: Microsoft CEO Satya Nadella at AI event in Kuala Lumpur | REUTERS</title>
+    <desc lang="en">LIVE: Microsoft CEO Satya Nadella at AI event in Kuala Lumpur | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/hLhPEDw18Vg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
