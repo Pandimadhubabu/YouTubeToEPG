@@ -2,38 +2,25 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/MP0bpwj7mn8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/MP0bpwj7mn8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : హరీష్ రావు అడ్డాలో రేవంత్ రెడ్డి | CM Revanth participate Rally In Siddipet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : హరీష్ రావు అడ్డాలో రేవంత్ రెడ్డి | CM Revanth participate Rally In Siddipet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ZBDc-PBcWJ8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/W3Vwv6YPX6Q/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/W3Vwv6YPX6Q/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240502140000 +0530" stop="20240502150000 +0530">
+    <title lang="en">LIVE : హరీష్ రావు అడ్డాలో రేవంత్ రెడ్డి | CM Revanth participate Rally In Siddipet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : హరీష్ రావు అడ్డాలో రేవంత్ రెడ్డి | CM Revanth participate Rally In Siddipet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ZBDc-PBcWJ8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
     <title lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
     <desc lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/Br-zAMPvk6w/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240502140000 +0530" stop="20240502150000 +0530">
     <title lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
     <desc lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/Br-zAMPvk6w/maxresdefault_live.jpg"/>
@@ -41,14 +28,27 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
-    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
-    <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
     <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
     <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
     <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240502140000 +0530" stop="20240502150000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Siddipet</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Siddipet</desc>
+    <icon src="https://i.ytimg.com/vi/1p3E6DwvAoM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240502140000 +0530" stop="20240502150000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Siddipet</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Siddipet</desc>
+    <icon src="https://i.ytimg.com/vi/1p3E6DwvAoM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
