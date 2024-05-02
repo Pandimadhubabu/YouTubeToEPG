@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502070000 +0530" stop="20240502080000 +0530">
-    <title lang="en">LIVE : గజ్వేల్ గడ్డపై రఘునందన్ రావు | Medak MP Candidate Raghunandhan Rao @Gajwel |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : గజ్వేల్ గడ్డపై రఘునందన్ రావు | Medak MP Candidate Raghunandhan Rao @Gajwel |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oWgs0VNLndM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">LIVE : గజ్వేల్ గడ్డపై రఘునందన్ రావు | Medak MP Candidate Raghunandhan Rao @Gajwel |  ManaTolivelugu</title>
-    <desc lang="en">LIVE : గజ్వేల్ గడ్డపై రఘునందన్ రావు | Medak MP Candidate Raghunandhan Rao @Gajwel |  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oWgs0VNLndM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eHgztQSpvSA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eHgztQSpvSA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/PlDZSSEy6cw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/PlDZSSEy6cw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502070000 +0530" stop="20240502080000 +0530">
-    <title lang="en">LIVE: Senior BJP Leader Smt. Baby Rani Maurya Addresses Press Conference | Delhi | Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Senior BJP Leader Smt. Baby Rani Maurya Addresses Press Conference | Delhi | Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/qGhlbkah05E/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">LIVE: Senior BJP Leader Smt. Baby Rani Maurya Addresses Press Conference | Delhi | Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Senior BJP Leader Smt. Baby Rani Maurya Addresses Press Conference | Delhi | Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/qGhlbkah05E/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/JB7FHTx8P1o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
+    <title lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/JB7FHTx8P1o/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240502070000 +0530" stop="20240502080000 +0530">
-    <title lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</title>
-    <desc lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/GTefg52Ty0o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</title>
-    <desc lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/GTefg52Ty0o/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
+    <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
