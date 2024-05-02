@@ -1,41 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502000000 +0530" stop="20240502010000 +0530">
-    <title lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/99xpPW-hTdM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240502010000 +0530" stop="20240502020000 +0530">
-    <title lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రేవంత్ గాడిద గుడ్డుపై ధర్మపురి అరవింద్ | Dharmapuri Arvind Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/99xpPW-hTdM/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502000000 +0530" stop="20240502010000 +0530">
-    <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240502010000 +0530" stop="20240502020000 +0530">
     <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
     <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
     <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240502000000 +0530" stop="20240502010000 +0530">
-    <title lang="en">LIVE: Harvey Weinstein is set to appear in court after rape conviction thrown out</title>
-    <desc lang="en">LIVE: Harvey Weinstein is set to appear in court after rape conviction thrown out</desc>
-    <icon src="https://i.ytimg.com/vi/sij31BHvbu8/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240502010000 +0530" stop="20240502020000 +0530">
-    <title lang="en">LIVE: Harvey Weinstein is set to appear in court after rape conviction thrown out</title>
-    <desc lang="en">LIVE: Harvey Weinstein is set to appear in court after rape conviction thrown out</desc>
-    <icon src="https://i.ytimg.com/vi/sij31BHvbu8/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240502020000 +0530" stop="20240502030000 +0530">
+    <title lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah holds Grand Roadshow in Hyderabad, Telangana | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/bhlia_-eoLg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
