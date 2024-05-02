@@ -2,66 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502110000 +0530" stop="20240502120000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/MP0bpwj7mn8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
     <title lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
     <desc lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/MP0bpwj7mn8/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
+    <title lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting @Asifabad | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/MP0bpwj7mn8/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/W3Vwv6YPX6Q/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/W3Vwv6YPX6Q/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502110000 +0530" stop="20240502120000 +0530">
-    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
-    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
-    <icon src="https://i.ytimg.com/vi/1FTad0VcQY8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</title>
-    <desc lang="en">LIVE: MEA Weekly Media Briefing by the Official Spokesperson</desc>
-    <icon src="https://i.ytimg.com/vi/1FTad0VcQY8/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Br-zAMPvk6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
+    <title lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live: PM Modi Addresses Public meeting in Jamnagar, Gujarat | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Br-zAMPvk6w/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240502110000 +0530" stop="20240502120000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240502110000 +0530" stop="20240502120000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</desc>
-    <icon src="https://i.ytimg.com/vi/JB2dpx6VfAw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</desc>
-    <icon src="https://i.ytimg.com/vi/JB2dpx6VfAw/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="IPRAPDept.yt">
-    <display-name lang="en">AP Government</display-name>
-  </channel>
-  <programme channel="IPRAPDept.yt" start="20240502110000 +0530" stop="20240502120000 +0530">
-    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
-    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
-    <icon src="https://i.ytimg.com/vi/Pr-NBrQmwvI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRAPDept.yt" start="20240502120000 +0530" stop="20240502130000 +0530">
-    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
-    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
-    <icon src="https://i.ytimg.com/vi/Pr-NBrQmwvI/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240502130000 +0530" stop="20240502140000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
   </programme>
 </tv>
