@@ -2,53 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/eHgztQSpvSA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
     <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/eHgztQSpvSA/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/PlDZSSEy6cw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Surendranagar, Gujarat | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/PlDZSSEy6cw/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240502100000 +0530" stop="20240502110000 +0530">
+    <title lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Bjp MLA Alleti Maheshwar Reddy Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/eHgztQSpvSA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/JB7FHTx8P1o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
-    <title lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: PM Modi hits out at Rahul Gandhi over ‘Constitution’ Remark | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/JB7FHTx8P1o/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP Leaders Joint PC on GST collection hits record high/ Indian Economy | Lok Sabha Polls 2024</title>
+    <desc lang="en">LIVE: BJP Leaders Joint PC on GST collection hits record high/ Indian Economy | Lok Sabha Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/_S6rkEyQFho/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240502100000 +0530" stop="20240502110000 +0530">
+    <title lang="en">LIVE: BJP Leaders Joint PC on GST collection hits record high/ Indian Economy | Lok Sabha Polls 2024</title>
+    <desc lang="en">LIVE: BJP Leaders Joint PC on GST collection hits record high/ Indian Economy | Lok Sabha Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/_S6rkEyQFho/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240502080000 +0530" stop="20240502090000 +0530">
-    <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
-    <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
-    <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
     <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
     <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
     <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240502100000 +0530" stop="20240502110000 +0530">
+    <title lang="en">LIVE: Rafah live stream, where many Gazans are displaced</title>
+    <desc lang="en">LIVE: Rafah live stream, where many Gazans are displaced</desc>
+    <icon src="https://i.ytimg.com/vi/BQf50o8EVYg/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240502090000 +0530" stop="20240502100000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</desc>
+    <icon src="https://i.ytimg.com/vi/JB2dpx6VfAw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240502100000 +0530" stop="20240502110000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Asifabad</desc>
+    <icon src="https://i.ytimg.com/vi/JB2dpx6VfAw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
