@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240502040000 +0530" stop="20240502050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240502050000 +0530" stop="20240502060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/rMOy_DlL4M0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240502050000 +0530" stop="20240502060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240502060000 +0530" stop="20240502070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/rMOy_DlL4M0/maxresdefault_live.jpg"/>
@@ -15,12 +15,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502040000 +0530" stop="20240502050000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240502050000 +0530" stop="20240502060000 +0530">
     <title lang="en">Live: Press Briefing by Rajya Sabha MP Kapil Sibal | Delhi | Lok Sabha Election 2024</title>
     <desc lang="en">Live: Press Briefing by Rajya Sabha MP Kapil Sibal | Delhi | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/N_NNRiw4SKQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240502050000 +0530" stop="20240502060000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240502060000 +0530" stop="20240502070000 +0530">
     <title lang="en">Live: Press Briefing by Rajya Sabha MP Kapil Sibal | Delhi | Lok Sabha Election 2024</title>
     <desc lang="en">Live: Press Briefing by Rajya Sabha MP Kapil Sibal | Delhi | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/N_NNRiw4SKQ/maxresdefault_live.jpg"/>
@@ -28,12 +28,12 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240502040000 +0530" stop="20240502050000 +0530">
+  <programme channel="Reuters.yt" start="20240502050000 +0530" stop="20240502060000 +0530">
     <title lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</title>
     <desc lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/GTefg52Ty0o/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240502050000 +0530" stop="20240502060000 +0530">
+  <programme channel="Reuters.yt" start="20240502060000 +0530" stop="20240502070000 +0530">
     <title lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</title>
     <desc lang="en">LIVE: Students continue pro-Palestinian protests at UCLA | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/GTefg52Ty0o/maxresdefault_live.jpg"/>
