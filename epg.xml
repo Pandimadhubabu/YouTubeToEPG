@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240502150000 +0530" stop="20240502160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240502160000 +0530" stop="20240502170000 +0530">
     <title lang="en">LIVE: “Dhool Chatane ka kaam…”Jyotiraditya Scindia launched sharp attack on Congress |BJP|PM Modi</title>
     <desc lang="en">LIVE: “Dhool Chatane ka kaam…”Jyotiraditya Scindia launched sharp attack on Congress |BJP|PM Modi</desc>
     <icon src="https://i.ytimg.com/vi/l1vxcr0xkQM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240502160000 +0530" stop="20240502170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240502170000 +0530" stop="20240502180000 +0530">
     <title lang="en">LIVE: “Dhool Chatane ka kaam…”Jyotiraditya Scindia launched sharp attack on Congress |BJP|PM Modi</title>
     <desc lang="en">LIVE: “Dhool Chatane ka kaam…”Jyotiraditya Scindia launched sharp attack on Congress |BJP|PM Modi</desc>
     <icon src="https://i.ytimg.com/vi/l1vxcr0xkQM/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240502150000 +0530" stop="20240502160000 +0530">
-    <title lang="en">LIVE: CIA Director Avril Haines testifies at US Senate hearing on global threats</title>
-    <desc lang="en">LIVE: CIA Director Avril Haines testifies at US Senate hearing on global threats</desc>
-    <icon src="https://i.ytimg.com/vi/YzbfpBmj4qs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240502160000 +0530" stop="20240502170000 +0530">
-    <title lang="en">LIVE: CIA Director Avril Haines testifies at US Senate hearing on global threats</title>
-    <desc lang="en">LIVE: CIA Director Avril Haines testifies at US Senate hearing on global threats</desc>
-    <icon src="https://i.ytimg.com/vi/YzbfpBmj4qs/maxresdefault_live.jpg"/>
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240502170000 +0530" stop="20240502180000 +0530">
+    <title lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</title>
+    <desc lang="en">DONALD TRUMP TRIAL LIVE: Trump's criminal trial over hush money payments resumes in NYC</desc>
+    <icon src="https://i.ytimg.com/vi/y4PW3d-uq9s/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240502160000 +0530" stop="20240502170000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Qutbullapur</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Qutbullapur</desc>
+    <icon src="https://i.ytimg.com/vi/k4ywOhbrpsc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240502170000 +0530" stop="20240502180000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Qutbullapur</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and corner meeting at Qutbullapur</desc>
+    <icon src="https://i.ytimg.com/vi/k4ywOhbrpsc/maxresdefault_live.jpg"/>
   </programme>
 </tv>
