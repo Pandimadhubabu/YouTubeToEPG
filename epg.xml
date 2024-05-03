@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/4YZqjcGfuY4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/4YZqjcGfuY4/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
-    <title lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</title>
-    <desc lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</desc>
-    <icon src="https://i.ytimg.com/vi/U59fPGNcj9E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
-    <title lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</title>
-    <desc lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</desc>
-    <icon src="https://i.ytimg.com/vi/U59fPGNcj9E/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240503160000 +0530" stop="20240503170000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</desc>
+    <icon src="https://i.ytimg.com/vi/7M7xegyo76s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240503160000 +0530" stop="20240503170000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</desc>
+    <icon src="https://i.ytimg.com/vi/7M7xegyo76s/maxresdefault_live.jpg"/>
   </programme>
 </tv>
