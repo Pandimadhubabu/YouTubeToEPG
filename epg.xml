@@ -2,51 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240503090000 +0530" stop="20240503100000 +0530">
-    <title lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oV0PMh3ATpo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
-    <title lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</title>
-    <desc lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oV0PMh3ATpo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ZVCiQIrYbK8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240503090000 +0530" stop="20240503100000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Bolpur, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Bolpur, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/R3-2xaf_zbk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Bolpur, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Bolpur, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/R3-2xaf_zbk/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
+    <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/ZVCiQIrYbK8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503090000 +0530" stop="20240503100000 +0530">
-    <title lang="en">LIVE:PM Narendra Modi Addresses Public Meeting in Bolpur, West Bengal | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE:PM Narendra Modi Addresses Public Meeting in Bolpur, West Bengal | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/k9_Nj3oYlxo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
-    <title lang="en">LIVE:PM Narendra Modi Addresses Public Meeting in Bolpur, West Bengal | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE:PM Narendra Modi Addresses Public Meeting in Bolpur, West Bengal | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/k9_Nj3oYlxo/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/en7lKRwhfdc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
+    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
+    <icon src="https://i.ytimg.com/vi/en7lKRwhfdc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240503090000 +0530" stop="20240503100000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
     <title lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</title>
     <desc lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</desc>
     <icon src="https://i.ytimg.com/vi/zC6EzTekU8E/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
     <title lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</title>
     <desc lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</desc>
     <icon src="https://i.ytimg.com/vi/zC6EzTekU8E/maxresdefault_live.jpg"/>
