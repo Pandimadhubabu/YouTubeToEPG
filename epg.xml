@@ -2,53 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240503060000 +0530" stop="20240503070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240503070000 +0530" stop="20240503080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240503060000 +0530" stop="20240503070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Bardhaman, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Bardhaman, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/y-1YZM5eWQY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240503070000 +0530" stop="20240503080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Bardhaman, West Bengal | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Bardhaman, West Bengal | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/y-1YZM5eWQY/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240503080000 +0530" stop="20240503090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503060000 +0530" stop="20240503070000 +0530">
-    <title lang="en">Live: Priyanka Gandhi holds election campaign for KL Sharma in Amethi | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Priyanka Gandhi holds election campaign for KL Sharma in Amethi | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/fDddRuoywrs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240503070000 +0530" stop="20240503080000 +0530">
-    <title lang="en">Live: Priyanka Gandhi holds election campaign for KL Sharma in Amethi | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: Priyanka Gandhi holds election campaign for KL Sharma in Amethi | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/fDddRuoywrs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</title>
+    <desc lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/-eBUzUq9fII/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240503060000 +0530" stop="20240503070000 +0530">
-    <title lang="en">Manifesto Release Program At Gandhi Bhavan.</title>
-    <desc lang="en">Manifesto Release Program At Gandhi Bhavan.</desc>
-    <icon src="https://i.ytimg.com/vi/jLC6LYSuU_s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240503070000 +0530" stop="20240503080000 +0530">
-    <title lang="en">Manifesto Release Program At Gandhi Bhavan.</title>
-    <desc lang="en">Manifesto Release Program At Gandhi Bhavan.</desc>
-    <icon src="https://i.ytimg.com/vi/jLC6LYSuU_s/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240503080000 +0530" stop="20240503090000 +0530">
+    <title lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</title>
+    <desc lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/-eBUzUq9fII/maxresdefault_live.jpg"/>
   </programme>
 </tv>
