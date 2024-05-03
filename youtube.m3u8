@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714756083/ei/k8U0ZvzcEpWBkucP2vWX4AY/ip/20.55.126.67/id/ZVCiQIrYbK8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f56uZcCPa-F4cbPAIZ_7y94rxHXZjAI4JG46bx2tKz1Lk3b0MCCmjIM5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK5wS4P3JRXCE5WgmJMUh5fwmheMmQYI-VXMnQyE3X66AiEAz_z8auA_U9pktiFDTLw1zXrEXIJDyTb2_1cK7nP-rtw%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714760172/ei/jNU0ZruDEMirlu8P_6WfuAE/ip/172.183.131.139/id/B5bnuQWAhmk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_ssVvUc2DLpAayCgMwwdC6lBorVMPfaGgTVWHzNXuEEN3X6I9Sq418g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdkzMvazBKpwAZwbZKPJBT_G3OzuYdc-iNDobKiBQz-kCIAJErzHLQOJfO5uHa2wdL1PIJbzsfESMc8t-7tviwsCV/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714756084/ei/lMU0ZueIHLCUkucPn7K40Ao/ip/20.55.126.67/id/qBQvHBmdmj4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118564/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_BX0GAFrgyn8jxMNaKmbxwuy3uikMV5SBQaQbXB0lQv0uVlotDVCGlS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIGsrP6TVHvD9j7Fm_NnnocsjLBIholHg22x6vq4-nPzAiEAiN2ekMGVST9cuJDRTdA-R7sMU-fc1DobIGDWHaZvQEw%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714760173/ei/jdU0Zu3DJtjFybgP_ZmtgAQ/ip/172.183.131.139/id/UwiVnOC2GAk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDknOP_jZtWTRUZlmA-j7hFgReiszEJS-_ewFPd23jYwCIQDrJECcjrYQlXUoUIjRNqKV73V07DAG0iC2TujEfmqiuA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="SAVYMedia.yt" tvg-name="TG Live" group-title="Telugu", TG Live
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714760174/ei/jtU0ZpTJJPihlu8Ph9aO2Ao/ip/172.183.131.139/id/TKXGsZbOBYc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f3pKkOwBRjy_wnsEcFlfzaqbDpoCZr7MvgY_un4ma4ic6wdGVpqBxl3a/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ1gRnZmIvOFS7ee5-nDHozYNH8DK3eYXB_AhA0vXW_zAiBawShiSWUA2ZfQmArQKjt7igIfOkIPxp9nJOsxCaN9wA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="IPRTelanganaGovt.yt" tvg-name="TG Government" group-title="Telugu", TG Government
 https://www.youtube.com/watch?v=1oh9IEwBbFY
