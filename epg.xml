@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240503180000 +0530" stop="20240503190000 +0530">
-    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre</title>
-    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre</desc>
-    <icon src="https://i.ytimg.com/vi/wwly-ObQhFs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240503190000 +0530" stop="20240503200000 +0530">
-    <title lang="en">LIVE: White House briefing with Karine Jean-Pierre</title>
-    <desc lang="en">LIVE: White House briefing with Karine Jean-Pierre</desc>
-    <icon src="https://i.ytimg.com/vi/wwly-ObQhFs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240503200000 +0530" stop="20240503210000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
