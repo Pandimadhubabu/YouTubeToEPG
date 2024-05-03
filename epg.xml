@@ -2,27 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240503160000 +0530" stop="20240503170000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</desc>
-    <icon src="https://i.ytimg.com/vi/7M7xegyo76s/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240503160000 +0530" stop="20240503170000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at  Sircilla.</desc>
-    <icon src="https://i.ytimg.com/vi/7M7xegyo76s/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240503170000 +0530" stop="20240503180000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
