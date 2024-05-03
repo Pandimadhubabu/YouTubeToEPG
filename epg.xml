@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503000000 +0530" stop="20240503010000 +0530">
-    <title lang="en">LIVE: BJP PC |Former Samajwadi Party Leader Raj Kishor Singh Along With Several Leaders Joins BJP</title>
-    <desc lang="en">LIVE: BJP PC |Former Samajwadi Party Leader Raj Kishor Singh Along With Several Leaders Joins BJP</desc>
-    <icon src="https://i.ytimg.com/vi/bc5082r8NzA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240503010000 +0530" stop="20240503020000 +0530">
-    <title lang="en">LIVE: BJP PC |Former Samajwadi Party Leader Raj Kishor Singh Along With Several Leaders Joins BJP</title>
-    <desc lang="en">LIVE: BJP PC |Former Samajwadi Party Leader Raj Kishor Singh Along With Several Leaders Joins BJP</desc>
-    <icon src="https://i.ytimg.com/vi/bc5082r8NzA/maxresdefault_live.jpg"/>
+    <title lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</title>
+    <desc lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</desc>
+    <icon src="https://i.ytimg.com/vi/WlkYX3b0VP4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240503020000 +0530" stop="20240503030000 +0530">
+    <title lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</title>
+    <desc lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</desc>
+    <icon src="https://i.ytimg.com/vi/WlkYX3b0VP4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
