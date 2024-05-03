@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240503130000 +0530" stop="20240503140000 +0530">
-    <title lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
-    <desc lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/4YZqjcGfuY4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
     <title lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
     <desc lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/4YZqjcGfuY4/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="ANINewsIndia.yt">
+  <programme channel="ManaTolivelugu.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
+    <title lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</title>
+    <desc lang="en">LIVE : Congress public Meeting @dhamapuri | Jana Jathara Sabha | Revanth Reddy | Mana Tolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/4YZqjcGfuY4/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503130000 +0530" stop="20240503140000 +0530">
-    <title lang="en">Poonch Police SOG Launches Search Operation After Receiving Information Of Suspicious Movement |J&amp;K</title>
-    <desc lang="en">Poonch Police SOG Launches Search Operation After Receiving Information Of Suspicious Movement |J&amp;K</desc>
-    <icon src="https://i.ytimg.com/vi/S_TSm3KSags/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
+    <title lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</title>
+    <desc lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</desc>
+    <icon src="https://i.ytimg.com/vi/U59fPGNcj9E/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
-    <title lang="en">Poonch Police SOG Launches Search Operation After Receiving Information Of Suspicious Movement |J&amp;K</title>
-    <desc lang="en">Poonch Police SOG Launches Search Operation After Receiving Information Of Suspicious Movement |J&amp;K</desc>
-    <icon src="https://i.ytimg.com/vi/S_TSm3KSags/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
+    <title lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</title>
+    <desc lang="en">LIVE: Ranchi's rousing welcome for PM Modi as he holds a roadshow</desc>
+    <icon src="https://i.ytimg.com/vi/U59fPGNcj9E/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240503130000 +0530" stop="20240503140000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Dharmapuri</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Dharmapuri</desc>
-    <icon src="https://i.ytimg.com/vi/TKXGsZbOBYc/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240503140000 +0530" stop="20240503150000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Dharmapuri</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Dharmapuri</desc>
-    <icon src="https://i.ytimg.com/vi/TKXGsZbOBYc/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240503150000 +0530" stop="20240503160000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/lLrvWrUzzIM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
