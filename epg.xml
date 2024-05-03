@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240503020000 +0530" stop="20240503030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240503030000 +0530" stop="20240503040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503010000 +0530" stop="20240503020000 +0530">
-    <title lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</title>
-    <desc lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</desc>
-    <icon src="https://i.ytimg.com/vi/WlkYX3b0VP4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240503020000 +0530" stop="20240503030000 +0530">
-    <title lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</title>
-    <desc lang="en">BCCI PC LIVE I Rohit Sharma &amp; Ajit Agarkar PC India's squad for T20 World Cup I Rinku Singh</desc>
-    <icon src="https://i.ytimg.com/vi/WlkYX3b0VP4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Suspense over Amethi- Raebareli Seat Continues| RaGA to contest from Raebareli ? | LS Election</title>
+    <desc lang="en">LIVE: Suspense over Amethi- Raebareli Seat Continues| RaGA to contest from Raebareli ? | LS Election</desc>
+    <icon src="https://i.ytimg.com/vi/pIobUfxv0Wg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240503030000 +0530" stop="20240503040000 +0530">
+    <title lang="en">LIVE: Suspense over Amethi- Raebareli Seat Continues| RaGA to contest from Raebareli ? | LS Election</title>
+    <desc lang="en">LIVE: Suspense over Amethi- Raebareli Seat Continues| RaGA to contest from Raebareli ? | LS Election</desc>
+    <icon src="https://i.ytimg.com/vi/pIobUfxv0Wg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
