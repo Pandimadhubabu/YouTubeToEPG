@@ -2,27 +2,27 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240503070000 +0530" stop="20240503080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240503080000 +0530" stop="20240503090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/H6D86vpANP8/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/oV0PMh3ATpo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240503090000 +0530" stop="20240503100000 +0530">
+    <title lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తీన్మార్ మల్లన్న నిమినేషన్ | Teenmar Malanna Nomination | Nalgonda | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/oV0PMh3ATpo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503070000 +0530" stop="20240503080000 +0530">
-    <title lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</title>
-    <desc lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/-eBUzUq9fII/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240503080000 +0530" stop="20240503090000 +0530">
-    <title lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</title>
-    <desc lang="en">LIVE: BJP National General Secretary Dushyant Kumar Gautam Addresses Press Conference |LS Polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/-eBUzUq9fII/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi to file his nomination from Raebareli Seat |Lok Sabha Polls 2024</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi to file his nomination from Raebareli Seat |Lok Sabha Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/zov7uztpU4Q/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240503090000 +0530" stop="20240503100000 +0530">
+    <title lang="en">LIVE: Congress Leader Rahul Gandhi to file his nomination from Raebareli Seat |Lok Sabha Polls 2024</title>
+    <desc lang="en">LIVE: Congress Leader Rahul Gandhi to file his nomination from Raebareli Seat |Lok Sabha Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/zov7uztpU4Q/maxresdefault_live.jpg"/>
   </programme>
 </tv>
