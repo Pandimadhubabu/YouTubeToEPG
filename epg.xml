@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
     <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</title>
     <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/ZVCiQIrYbK8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240503120000 +0530" stop="20240503130000 +0530">
     <title lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</title>
     <desc lang="en">LIVE : ఎమ్మెల్యే హరీష్ రావు లైవ్ | MLA Harish Rao | Kodangal | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/ZVCiQIrYbK8/maxresdefault_live.jpg"/>
@@ -15,27 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/en7lKRwhfdc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
-    <title lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah Addresses Public Meeting in Ratnagiri, Maharashtra | Lok Sabha Election 2024 |BJP</desc>
-    <icon src="https://i.ytimg.com/vi/en7lKRwhfdc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Aonla, Uttar Pradesh | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Aonla, Uttar Pradesh | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/qBQvHBmdmj4/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240503100000 +0530" stop="20240503110000 +0530">
-    <title lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</title>
-    <desc lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</desc>
-    <icon src="https://i.ytimg.com/vi/zC6EzTekU8E/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240503110000 +0530" stop="20240503120000 +0530">
-    <title lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</title>
-    <desc lang="en">Meet The Press with Sri. Madhu Yaskhi Goud</desc>
-    <icon src="https://i.ytimg.com/vi/zC6EzTekU8E/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240503120000 +0530" stop="20240503130000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Aonla, Uttar Pradesh | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Aonla, Uttar Pradesh | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/qBQvHBmdmj4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
