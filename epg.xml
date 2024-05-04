@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240504110000 +0530" stop="20240504120000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar press Conference | Lok Sabha Election 2024 | Odisha | India |  Growth</title>
-    <desc lang="en">LIVE: EAM S Jaishankar press Conference | Lok Sabha Election 2024 | Odisha | India |  Growth</desc>
+  <programme channel="ANINewsIndia.yt" start="20240504120000 +0530" stop="20240504130000 +0530">
+    <title lang="en">EAM S Jaishankar LIVE |Pakistan|Iran–Israel conflict | China | Border issue |Indian Army|PM Modi |US</title>
+    <desc lang="en">EAM S Jaishankar LIVE |Pakistan|Iran–Israel conflict | China | Border issue |Indian Army|PM Modi |US</desc>
     <icon src="https://i.ytimg.com/vi/cT7fPLOt-fw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240504120000 +0530" stop="20240504130000 +0530">
-    <title lang="en">LIVE: EAM S Jaishankar press Conference | Lok Sabha Election 2024 | Odisha | India |  Growth</title>
-    <desc lang="en">LIVE: EAM S Jaishankar press Conference | Lok Sabha Election 2024 | Odisha | India |  Growth</desc>
+  <programme channel="ANINewsIndia.yt" start="20240504130000 +0530" stop="20240504140000 +0530">
+    <title lang="en">EAM S Jaishankar LIVE |Pakistan|Iran–Israel conflict | China | Border issue |Indian Army|PM Modi |US</title>
+    <desc lang="en">EAM S Jaishankar LIVE |Pakistan|Iran–Israel conflict | China | Border issue |Indian Army|PM Modi |US</desc>
     <icon src="https://i.ytimg.com/vi/cT7fPLOt-fw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
