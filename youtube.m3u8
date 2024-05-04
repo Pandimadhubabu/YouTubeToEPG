@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714831865/ei/me01ZrrMK9CpkucPyMmzwAw/ip/40.67.141.246/id/-XJ02UNYXy0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5icNDJ2Uo6fjPOimvxyFA1L2cZIfa-hDtdx4WyCFYXJ-5ERwM5woqtJ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbAc0zb3NuSAT0-TCk0SzwPFV6jIm1zQvc6ubZHSK6EoCIQC2x0_cZ7h5djytZCRkNLRaVR8e3BcYuyIMzc3TGLLQsg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714828169/ei/Kd81Zsn6Nvi9sfIPoo6R-AM/ip/52.190.187.35/id/ilP-rCEtdMY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL0bAhPv7CqGHS8xrbmj4R5u9f49A_jZ7xo6IOnmOB7YAiANjZBjqL63cPCd5BNatdVVyOb7m5JW5i_TaYdkSuMGqg%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714828170/ei/Kt81ZonJK8_6sfIPvcKf6AE/ip/52.190.187.35/id/4lRb_ex64AU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMuDpQyEJMtTAvLr_4yLLqxlRYYQ0IZxKIFupLvdp8hHAiAsADZ0kym34agcd7cDwUxTqR8YkaA6k4oAW4bWayKdrA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714831866/ei/mu01ZrHpOJSBkucP_c2IiAw/ip/40.67.141.246/id/Ar60iBx0EnM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_XWT-_InH6cr4thGei-5a1Cw_0M2cPLc7meKRIYe9iZU23qZT5sneCY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeQqEaWK1vaSz-VOVe4t2EGBOF6h0S3C_PmgZg48iJG8CIQDhX5CRR0CxbnRDWgray2-IPu71qt3r372tnENTeyy4pg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="SAVYMedia.yt" tvg-name="TG Live" group-title="Telugu", TG Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714828171/ei/K981ZtaVIrK-sfIPg96lsAQ/ip/52.190.187.35/id/Z2o8OclOS9g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f1rYzJp0JwcTw_PdYr2sni_0KbohIJLQ-5LiDrUmwP0RCg4Qa44JS-_E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZ90_VO0XSO2XvoBTuwRT_PMIqCLHpae41aU1YTwMCDYCIQDoGDh3ClAgeZZsiwUyiBqtA4pHKWTzuwB8no2ILwkXlA%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="IPRTelanganaGovt.yt" tvg-name="TG Government" group-title="Telugu", TG Government
 https://www.youtube.com/watch?v=1oh9IEwBbFY

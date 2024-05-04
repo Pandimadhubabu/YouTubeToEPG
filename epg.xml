@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240504070000 +0530" stop="20240504080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Lohardaga, Jharkhand | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Lohardaga, Jharkhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ilP-rCEtdMY/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240504080000 +0530" stop="20240504090000 +0530">
+    <title lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/-XJ02UNYXy0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240504080000 +0530" stop="20240504090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Lohardaga, Jharkhand | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Lohardaga, Jharkhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ilP-rCEtdMY/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240504090000 +0530" stop="20240504100000 +0530">
+    <title lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/-XJ02UNYXy0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240504070000 +0530" stop="20240504080000 +0530">
-    <title lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Sabarkantha, Gujarat|Election 2024</title>
-    <desc lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Sabarkantha, Gujarat|Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/4lRb_ex64AU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240504080000 +0530" stop="20240504090000 +0530">
-    <title lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Sabarkantha, Gujarat|Election 2024</title>
-    <desc lang="en">LIVE: Congress Leader Priyanka Gandhi Addresses Public Meeting in Sabarkantha, Gujarat|Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/4lRb_ex64AU/maxresdefault_live.jpg"/>
+    <title lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</title>
+    <desc lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/Ar60iBx0EnM/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240504070000 +0530" stop="20240504080000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Kothagudem</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Kothagudem</desc>
-    <icon src="https://i.ytimg.com/vi/Z2o8OclOS9g/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240504080000 +0530" stop="20240504090000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Kothagudem</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Kothagudem</desc>
-    <icon src="https://i.ytimg.com/vi/Z2o8OclOS9g/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240504090000 +0530" stop="20240504100000 +0530">
+    <title lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</title>
+    <desc lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/Ar60iBx0EnM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
