@@ -1,41 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240504150000 +0530" stop="20240504160000 +0530">
-    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/yXSv4khudlw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240504160000 +0530" stop="20240504170000 +0530">
-    <title lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Good Evening Telangana With Journalist Anil |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/yXSv4khudlw/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240504150000 +0530" stop="20240504160000 +0530">
-    <title lang="en">LIVE: PM Modi attends 'Ardas' at a 'Gurudwara' in Kanpur, UP | Yogi Adityanath</title>
-    <desc lang="en">LIVE: PM Modi attends 'Ardas' at a 'Gurudwara' in Kanpur, UP | Yogi Adityanath</desc>
-    <icon src="https://i.ytimg.com/vi/xCNGBvYmd-g/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240504160000 +0530" stop="20240504170000 +0530">
-    <title lang="en">LIVE: PM Modi attends 'Ardas' at a 'Gurudwara' in Kanpur, UP | Yogi Adityanath</title>
-    <desc lang="en">LIVE: PM Modi attends 'Ardas' at a 'Gurudwara' in Kanpur, UP | Yogi Adityanath</desc>
-    <icon src="https://i.ytimg.com/vi/xCNGBvYmd-g/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress President Mallikarjun Kharge addresses Public Meeting in Kalaburgi | Karnataka</title>
+    <desc lang="en">LIVE: Congress President Mallikarjun Kharge addresses Public Meeting in Kalaburgi | Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/N9xoj7SLwQA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240504170000 +0530" stop="20240504180000 +0530">
+    <title lang="en">LIVE: Congress President Mallikarjun Kharge addresses Public Meeting in Kalaburgi | Karnataka</title>
+    <desc lang="en">LIVE: Congress President Mallikarjun Kharge addresses Public Meeting in Kalaburgi | Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/N9xoj7SLwQA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240504150000 +0530" stop="20240504160000 +0530">
-    <title lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Secunderabad</title>
-    <desc lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Secunderabad</desc>
-    <icon src="https://i.ytimg.com/vi/ZT0pSw_auzA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240504160000 +0530" stop="20240504170000 +0530">
-    <title lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Secunderabad</title>
-    <desc lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Secunderabad</desc>
-    <icon src="https://i.ytimg.com/vi/ZT0pSw_auzA/maxresdefault_live.jpg"/>
+    <title lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Musheerabad</title>
+    <desc lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Musheerabad</desc>
+    <icon src="https://i.ytimg.com/vi/h7g8UVfbGHE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240504170000 +0530" stop="20240504180000 +0530">
+    <title lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Musheerabad</title>
+    <desc lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and corner meeting at Musheerabad</desc>
+    <icon src="https://i.ytimg.com/vi/h7g8UVfbGHE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
