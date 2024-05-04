@@ -1,15 +1,41 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240504100000 +0530" stop="20240504110000 +0530">
+    <title lang="en">LIVE : సోషల్ మీడియా వారియర్స్ తో కొండా | Konda Vishweshwar Reddy with Social Media Warriors</title>
+    <desc lang="en">LIVE : సోషల్ మీడియా వారియర్స్ తో కొండా | Konda Vishweshwar Reddy with Social Media Warriors</desc>
+    <icon src="https://i.ytimg.com/vi/IOAxUZJPaxM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240504110000 +0530" stop="20240504120000 +0530">
+    <title lang="en">LIVE : సోషల్ మీడియా వారియర్స్ తో కొండా | Konda Vishweshwar Reddy with Social Media Warriors</title>
+    <desc lang="en">LIVE : సోషల్ మీడియా వారియర్స్ తో కొండా | Konda Vishweshwar Reddy with Social Media Warriors</desc>
+    <icon src="https://i.ytimg.com/vi/IOAxUZJPaxM/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240504100000 +0530" stop="20240504110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Darbhanga, Bihar | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Darbhanga, Bihar | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/OH6NDsIy9pg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240504110000 +0530" stop="20240504120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Darbhanga, Bihar | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Darbhanga, Bihar | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/OH6NDsIy9pg/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240504090000 +0530" stop="20240504100000 +0530">
-    <title lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</title>
-    <desc lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</desc>
-    <icon src="https://i.ytimg.com/vi/cpTVq4U3oZ4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240504100000 +0530" stop="20240504110000 +0530">
-    <title lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</title>
-    <desc lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</desc>
-    <icon src="https://i.ytimg.com/vi/cpTVq4U3oZ4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Farrukhabad, Uttar Pradesh | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Farrukhabad, Uttar Pradesh | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/p_faeKL-Gg8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240504110000 +0530" stop="20240504120000 +0530">
+    <title lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Farrukhabad, Uttar Pradesh | Lok Sabha Polls</title>
+    <desc lang="en">LIVE: UP CM Yogi Adityanath Addresses Public Meeting in Farrukhabad, Uttar Pradesh | Lok Sabha Polls</desc>
+    <icon src="https://i.ytimg.com/vi/p_faeKL-Gg8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
