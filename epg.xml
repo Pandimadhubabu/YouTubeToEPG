@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240504080000 +0530" stop="20240504090000 +0530">
-    <title lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/-XJ02UNYXy0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240504090000 +0530" stop="20240504100000 +0530">
-    <title lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Revanth Reddy Public Meeting @Kothagudem | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/-XJ02UNYXy0/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240504080000 +0530" stop="20240504090000 +0530">
-    <title lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</title>
-    <desc lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/Ar60iBx0EnM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240504090000 +0530" stop="20240504100000 +0530">
-    <title lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</title>
-    <desc lang="en">Live: “Mohabbat ki Dukaan me…”: BJP’s Sudhanshu Trivedi attacks on Rahul Gandhi | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/Ar60iBx0EnM/maxresdefault_live.jpg"/>
+    <title lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</title>
+    <desc lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</desc>
+    <icon src="https://i.ytimg.com/vi/cpTVq4U3oZ4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240504100000 +0530" stop="20240504110000 +0530">
+    <title lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</title>
+    <desc lang="en">Live: “Congress Ka Ek Aur Vibhajan…” : Acharya Pramod Krishnam’s Big prediction for Congress</desc>
+    <icon src="https://i.ytimg.com/vi/cpTVq4U3oZ4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
