@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505160000 +0530" stop="20240505170000 +0530">
-    <title lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</title>
-    <desc lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</desc>
-    <icon src="https://i.ytimg.com/vi/ZvUSH4kUt94/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505170000 +0530" stop="20240505180000 +0530">
-    <title lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</title>
-    <desc lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</desc>
-    <icon src="https://i.ytimg.com/vi/ZvUSH4kUt94/maxresdefault_live.jpg"/>
+    <title lang="en">K Annamalai LIVE | Social Media Volunteers' meet | Delhi BJP HQ | Lok Sabha Election |Tamil Nadu</title>
+    <desc lang="en">K Annamalai LIVE | Social Media Volunteers' meet | Delhi BJP HQ | Lok Sabha Election |Tamil Nadu</desc>
+    <icon src="https://i.ytimg.com/vi/AMB03546FcE/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240505160000 +0530" stop="20240505170000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</desc>
-    <icon src="https://i.ytimg.com/vi/OanGM6N94JI/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240505170000 +0530" stop="20240505180000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</desc>
-    <icon src="https://i.ytimg.com/vi/OanGM6N94JI/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240505180000 +0530" stop="20240505190000 +0530">
+    <title lang="en">K Annamalai LIVE | Social Media Volunteers' meet | Delhi BJP HQ | Lok Sabha Election |Tamil Nadu</title>
+    <desc lang="en">K Annamalai LIVE | Social Media Volunteers' meet | Delhi BJP HQ | Lok Sabha Election |Tamil Nadu</desc>
+    <icon src="https://i.ytimg.com/vi/AMB03546FcE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
