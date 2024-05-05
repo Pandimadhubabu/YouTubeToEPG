@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240505020000 +0530" stop="20240505030000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/_cfkn0colR8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240505030000 +0530" stop="20240505040000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/_cfkn0colR8/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505010000 +0530" stop="20240505020000 +0530">
-    <title lang="en">TN BJP President K Annamalai LIVE | Dialogue with Annamalai | BJP | Kalburgi | Karnataka| Election</title>
-    <desc lang="en">TN BJP President K Annamalai LIVE | Dialogue with Annamalai | BJP | Kalburgi | Karnataka| Election</desc>
-    <icon src="https://i.ytimg.com/vi/YfSG2OnlVD4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505020000 +0530" stop="20240505030000 +0530">
-    <title lang="en">TN BJP President K Annamalai LIVE | Dialogue with Annamalai | BJP | Kalburgi | Karnataka| Election</title>
-    <desc lang="en">TN BJP President K Annamalai LIVE | Dialogue with Annamalai | BJP | Kalburgi | Karnataka| Election</desc>
-    <icon src="https://i.ytimg.com/vi/YfSG2OnlVD4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Annamalai blasts Congress, Rahul Gandhi | Rohith Vemula| |Wayanad | Raebareli |Lok Sabha poll</title>
+    <desc lang="en">LIVE: Annamalai blasts Congress, Rahul Gandhi | Rohith Vemula| |Wayanad | Raebareli |Lok Sabha poll</desc>
+    <icon src="https://i.ytimg.com/vi/lYZstUR5gbI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240505030000 +0530" stop="20240505040000 +0530">
+    <title lang="en">LIVE: Annamalai blasts Congress, Rahul Gandhi | Rohith Vemula| |Wayanad | Raebareli |Lok Sabha poll</title>
+    <desc lang="en">LIVE: Annamalai blasts Congress, Rahul Gandhi | Rohith Vemula| |Wayanad | Raebareli |Lok Sabha poll</desc>
+    <icon src="https://i.ytimg.com/vi/lYZstUR5gbI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
