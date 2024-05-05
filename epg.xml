@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240505090000 +0530" stop="20240505100000 +0530">
-    <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/hrLibXfo4gc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240505100000 +0530" stop="20240505110000 +0530">
     <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</title>
     <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hrLibXfo4gc/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240505110000 +0530" stop="20240505120000 +0530">
+    <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/hrLibXfo4gc/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240505100000 +0530" stop="20240505110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/V80-wQmdB7I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240505110000 +0530" stop="20240505120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/V80-wQmdB7I/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505090000 +0530" stop="20240505100000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Kadapa, Andhra Pradesh| Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Kadapa, Andhra Pradesh| Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/5-HYmg2EJHg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505100000 +0530" stop="20240505110000 +0530">
-    <title lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Kadapa, Andhra Pradesh| Lok Sabha Polls</title>
-    <desc lang="en">LIVE: Raksha Mantri Rajnath Singh Addresses Public Rally in Kadapa, Andhra Pradesh| Lok Sabha Polls</desc>
-    <icon src="https://i.ytimg.com/vi/5-HYmg2EJHg/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/hkAEULNuIXw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240505110000 +0530" stop="20240505120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Etawah, Uttar Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/hkAEULNuIXw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
