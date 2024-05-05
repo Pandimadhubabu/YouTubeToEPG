@@ -2,40 +2,14 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240505120000 +0530" stop="20240505130000 +0530">
-    <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/K06N5qkaWF0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240505130000 +0530" stop="20240505140000 +0530">
     <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</title>
     <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/K06N5qkaWF0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240505120000 +0530" stop="20240505130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Dhaurehra, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Dhaurehra, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ncc3Gxe6L2U/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240505130000 +0530" stop="20240505140000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Dhaurehra, Uttar Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Dhaurehra, Uttar Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/ncc3Gxe6L2U/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240505120000 +0530" stop="20240505130000 +0530">
-    <title lang="en">Congress Jana Jathara Sabha at Gadwal</title>
-    <desc lang="en">Congress Jana Jathara Sabha at Gadwal</desc>
-    <icon src="https://i.ytimg.com/vi/VJ6VjmZNDQ0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240505130000 +0530" stop="20240505140000 +0530">
-    <title lang="en">Congress Jana Jathara Sabha at Gadwal</title>
-    <desc lang="en">Congress Jana Jathara Sabha at Gadwal</desc>
-    <icon src="https://i.ytimg.com/vi/VJ6VjmZNDQ0/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240505140000 +0530" stop="20240505150000 +0530">
+    <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/K06N5qkaWF0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
