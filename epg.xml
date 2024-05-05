@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240505030000 +0530" stop="20240505040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240505040000 +0530" stop="20240505050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_cfkn0colR8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240505040000 +0530" stop="20240505050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240505050000 +0530" stop="20240505060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_cfkn0colR8/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505030000 +0530" stop="20240505040000 +0530">
-    <title lang="en">“Pakistan Must Get A Message”: Defence experts react | Terrorists attack IAF convoy in J&amp;K’s Poonch</title>
-    <desc lang="en">“Pakistan Must Get A Message”: Defence experts react | Terrorists attack IAF convoy in J&amp;K’s Poonch</desc>
-    <icon src="https://i.ytimg.com/vi/ngoE9sXoWLY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505040000 +0530" stop="20240505050000 +0530">
-    <title lang="en">“Pakistan Must Get A Message”: Defence experts react | Terrorists attack IAF convoy in J&amp;K’s Poonch</title>
-    <desc lang="en">“Pakistan Must Get A Message”: Defence experts react | Terrorists attack IAF convoy in J&amp;K’s Poonch</desc>
-    <icon src="https://i.ytimg.com/vi/ngoE9sXoWLY/maxresdefault_live.jpg"/>
+    <title lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</title>
+    <desc lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</desc>
+    <icon src="https://i.ytimg.com/vi/sGBROgY5JYw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240505050000 +0530" stop="20240505060000 +0530">
+    <title lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</title>
+    <desc lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</desc>
+    <icon src="https://i.ytimg.com/vi/sGBROgY5JYw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
