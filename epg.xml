@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240505040000 +0530" stop="20240505050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240505050000 +0530" stop="20240505060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_cfkn0colR8/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240505050000 +0530" stop="20240505060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240505060000 +0530" stop="20240505070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/_cfkn0colR8/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505040000 +0530" stop="20240505050000 +0530">
-    <title lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</title>
-    <desc lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</desc>
-    <icon src="https://i.ytimg.com/vi/sGBROgY5JYw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505050000 +0530" stop="20240505060000 +0530">
-    <title lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</title>
-    <desc lang="en">Live: “We are the most…” : Foreign Minister Dr. S Jaishankar  rejects Biden's 'xenophobia' comment</desc>
-    <icon src="https://i.ytimg.com/vi/sGBROgY5JYw/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Press Briefing by Karnataka CM Siddaramaiah, Deputy CM DK Shivakumar  | Belagavi | Karnataka</title>
+    <desc lang="en">Live: Press Briefing by Karnataka CM Siddaramaiah, Deputy CM DK Shivakumar  | Belagavi | Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/Zmv7rq-rXAs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240505060000 +0530" stop="20240505070000 +0530">
+    <title lang="en">Live: Press Briefing by Karnataka CM Siddaramaiah, Deputy CM DK Shivakumar  | Belagavi | Karnataka</title>
+    <desc lang="en">Live: Press Briefing by Karnataka CM Siddaramaiah, Deputy CM DK Shivakumar  | Belagavi | Karnataka</desc>
+    <icon src="https://i.ytimg.com/vi/Zmv7rq-rXAs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
