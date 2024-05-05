@@ -1,54 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240505150000 +0530" stop="20240505160000 +0530">
-    <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/K06N5qkaWF0/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240505160000 +0530" stop="20240505170000 +0530">
-    <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</title>
-    <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @Alampur | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/K06N5qkaWF0/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240505150000 +0530" stop="20240505160000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today</desc>
-    <icon src="https://i.ytimg.com/vi/MEWmav_6eTE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240505160000 +0530" stop="20240505170000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today</desc>
-    <icon src="https://i.ytimg.com/vi/MEWmav_6eTE/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505150000 +0530" stop="20240505160000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Re0G4BN16Ik/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505160000 +0530" stop="20240505170000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Ayodhya, Uttar Pradesh today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Re0G4BN16Ik/maxresdefault_live.jpg"/>
+    <title lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</title>
+    <desc lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</desc>
+    <icon src="https://i.ytimg.com/vi/ZvUSH4kUt94/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240505170000 +0530" stop="20240505180000 +0530">
+    <title lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</title>
+    <desc lang="en">EAM S Jaishankar LIVE| An interactive session in Sambalpur, Odisha | PM Modi |'Intellectual Meet'</desc>
+    <icon src="https://i.ytimg.com/vi/ZvUSH4kUt94/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240505150000 +0530" stop="20240505160000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Tukkuguda</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Tukkuguda</desc>
-    <icon src="https://i.ytimg.com/vi/BzdKzb4tY6U/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240505160000 +0530" stop="20240505170000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Tukkuguda</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Tukkuguda</desc>
-    <icon src="https://i.ytimg.com/vi/BzdKzb4tY6U/maxresdefault_live.jpg"/>
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</desc>
+    <icon src="https://i.ytimg.com/vi/OanGM6N94JI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240505170000 +0530" stop="20240505180000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner meeting at Shamshabad</desc>
+    <icon src="https://i.ytimg.com/vi/OanGM6N94JI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
