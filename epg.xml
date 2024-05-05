@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240505070000 +0530" stop="20240505080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240505080000 +0530" stop="20240505090000 +0530">
     <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</title>
     <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hrLibXfo4gc/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240505080000 +0530" stop="20240505090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240505090000 +0530" stop="20240505100000 +0530">
     <title lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</title>
     <desc lang="en">LIVE : రాహుల్ గాంధీ బహిరంగ సభ | Rahul Gandhi Public Meeting | Revanth | @|Nirmal | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/hrLibXfo4gc/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240505070000 +0530" stop="20240505080000 +0530">
-    <title lang="en">Live: EAM Dr  S Jaishankar attends intellectuals &amp; Professionals meeting in Cuttack | Odisha</title>
-    <desc lang="en">Live: EAM Dr  S Jaishankar attends intellectuals &amp; Professionals meeting in Cuttack | Odisha</desc>
-    <icon src="https://i.ytimg.com/vi/-mLBk3m2TgI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240505080000 +0530" stop="20240505090000 +0530">
-    <title lang="en">Live: EAM Dr  S Jaishankar attends intellectuals &amp; Professionals meeting in Cuttack | Odisha</title>
-    <desc lang="en">Live: EAM Dr  S Jaishankar attends intellectuals &amp; Professionals meeting in Cuttack | Odisha</desc>
-    <icon src="https://i.ytimg.com/vi/-mLBk3m2TgI/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Press Briefing by TMC leader Sagarika Ghosh on Sandeshkhali | Delhi</title>
+    <desc lang="en">Live: Press Briefing by TMC leader Sagarika Ghosh on Sandeshkhali | Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/3GeEHepRAgU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240505090000 +0530" stop="20240505100000 +0530">
+    <title lang="en">Live: Press Briefing by TMC leader Sagarika Ghosh on Sandeshkhali | Delhi</title>
+    <desc lang="en">Live: Press Briefing by TMC leader Sagarika Ghosh on Sandeshkhali | Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/3GeEHepRAgU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240505070000 +0530" stop="20240505080000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240505080000 +0530" stop="20240505090000 +0530">
     <title lang="en">Congress Jana Jathara Sabha at Nirmal</title>
     <desc lang="en">Congress Jana Jathara Sabha at Nirmal</desc>
     <icon src="https://i.ytimg.com/vi/bc0q8zemTSY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240505080000 +0530" stop="20240505090000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240505090000 +0530" stop="20240505100000 +0530">
     <title lang="en">Congress Jana Jathara Sabha at Nirmal</title>
     <desc lang="en">Congress Jana Jathara Sabha at Nirmal</desc>
     <icon src="https://i.ytimg.com/vi/bc0q8zemTSY/maxresdefault_live.jpg"/>
