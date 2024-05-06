@@ -1,1 +1,15 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240506180000 +0530" stop="20240506190000 +0530">
+    <title lang="en">LIVE: Israelis join families of Israeli hostages taken by Hamas</title>
+    <desc lang="en">LIVE: Israelis join families of Israeli hostages taken by Hamas</desc>
+    <icon src="https://i.ytimg.com/vi/w-LbZHpV_5A/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240506190000 +0530" stop="20240506200000 +0530">
+    <title lang="en">LIVE: Israelis join families of Israeli hostages taken by Hamas</title>
+    <desc lang="en">LIVE: Israelis join families of Israeli hostages taken by Hamas</desc>
+    <icon src="https://i.ytimg.com/vi/w-LbZHpV_5A/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
