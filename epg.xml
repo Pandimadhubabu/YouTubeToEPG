@@ -1,1 +1,41 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240506160000 +0530" stop="20240506170000 +0530">
+    <title lang="en">“Dono hi Samaj ke liye…”BJP’s Madhavi Latha slams Rahul Gandhi, Owaisi | Lok Sabha Election | BJP</title>
+    <desc lang="en">“Dono hi Samaj ke liye…”BJP’s Madhavi Latha slams Rahul Gandhi, Owaisi | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/n4GURPLgJaA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240506170000 +0530" stop="20240506180000 +0530">
+    <title lang="en">“Dono hi Samaj ke liye…”BJP’s Madhavi Latha slams Rahul Gandhi, Owaisi | Lok Sabha Election | BJP</title>
+    <desc lang="en">“Dono hi Samaj ke liye…”BJP’s Madhavi Latha slams Rahul Gandhi, Owaisi | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/n4GURPLgJaA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240506160000 +0530" stop="20240506170000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush-money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush-money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vjX9Nwn_Z_s/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240506170000 +0530" stop="20240506180000 +0530">
+    <title lang="en">LIVE: Donald Trump's criminal trial over hush-money payment</title>
+    <desc lang="en">LIVE: Donald Trump's criminal trial over hush-money payment</desc>
+    <icon src="https://i.ytimg.com/vi/vjX9Nwn_Z_s/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240506160000 +0530" stop="20240506170000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Corner Meeting at Secunderabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Corner Meeting at Secunderabad</desc>
+    <icon src="https://i.ytimg.com/vi/YtSSnUm10e0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240506170000 +0530" stop="20240506180000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Corner Meeting at Secunderabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Corner Meeting at Secunderabad</desc>
+    <icon src="https://i.ytimg.com/vi/YtSSnUm10e0/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
