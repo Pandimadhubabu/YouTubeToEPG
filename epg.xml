@@ -1,1 +1,28 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240506080000 +0530" stop="20240506090000 +0530">
+    <title lang="en">LIVE: K Annamalai Addresses Public Meeting in Karimnagar, Telangana | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: K Annamalai Addresses Public Meeting in Karimnagar, Telangana | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DIvDC4Bz39w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240506090000 +0530" stop="20240506100000 +0530">
+    <title lang="en">LIVE: K Annamalai Addresses Public Meeting in Karimnagar, Telangana | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: K Annamalai Addresses Public Meeting in Karimnagar, Telangana | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/DIvDC4Bz39w/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240506080000 +0530" stop="20240506090000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/-m89Y_i2UTM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240506090000 +0530" stop="20240506100000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/-m89Y_i2UTM/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
