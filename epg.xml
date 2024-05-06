@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240506040000 +0530" stop="20240506050000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/XwavJuLg8S0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240506050000 +0530" stop="20240506060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/XwavJuLg8S0/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240506060000 +0530" stop="20240506070000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/XwavJuLg8S0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240506050000 +0530" stop="20240506060000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/cEUX5uHdAsU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240506060000 +0530" stop="20240506070000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/cEUX5uHdAsU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240506040000 +0530" stop="20240506050000 +0530">
-    <title lang="en">Live | Charanjit Channi’s “stuntbaazi” comment on terror attack | BJP leaders slams ex-Punjab CM</title>
-    <desc lang="en">Live | Charanjit Channi’s “stuntbaazi” comment on terror attack | BJP leaders slams ex-Punjab CM</desc>
-    <icon src="https://i.ytimg.com/vi/Q3P72wCCfH8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240506050000 +0530" stop="20240506060000 +0530">
-    <title lang="en">Live | Charanjit Channi’s “stuntbaazi” comment on terror attack | BJP leaders slams ex-Punjab CM</title>
-    <desc lang="en">Live | Charanjit Channi’s “stuntbaazi” comment on terror attack | BJP leaders slams ex-Punjab CM</desc>
-    <icon src="https://i.ytimg.com/vi/Q3P72wCCfH8/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi Addresses Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024 | BJP Vs BJD</title>
+    <desc lang="en">Live: PM Modi Addresses Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024 | BJP Vs BJD</desc>
+    <icon src="https://i.ytimg.com/vi/4FEGxNCeUds/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240506060000 +0530" stop="20240506070000 +0530">
+    <title lang="en">Live: PM Modi Addresses Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024 | BJP Vs BJD</title>
+    <desc lang="en">Live: PM Modi Addresses Public meeting in Brahmapur, Odisha | Lok Sabha Election 2024 | BJP Vs BJD</desc>
+    <icon src="https://i.ytimg.com/vi/4FEGxNCeUds/maxresdefault_live.jpg"/>
   </programme>
 </tv>
