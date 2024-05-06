@@ -2,14 +2,14 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240506210000 +0530" stop="20240506220000 +0530">
-    <title lang="en">LIVE: Celebrities leave the Carlyle Hotel to attend Met Gala</title>
-    <desc lang="en">LIVE: Celebrities leave the Carlyle Hotel to attend Met Gala</desc>
-    <icon src="https://i.ytimg.com/vi/7tIJAx1x9uA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240506220000 +0530" stop="20240506230000 +0530">
-    <title lang="en">LIVE: Celebrities leave the Carlyle Hotel to attend Met Gala</title>
-    <desc lang="en">LIVE: Celebrities leave the Carlyle Hotel to attend Met Gala</desc>
-    <icon src="https://i.ytimg.com/vi/7tIJAx1x9uA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Celebrities arrive at the 2024 Met Gala</title>
+    <desc lang="en">LIVE: Celebrities arrive at the 2024 Met Gala</desc>
+    <icon src="https://i.ytimg.com/vi/A029ezjiUp0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240506230000 +0530" stop="20240507000000 +0530">
+    <title lang="en">LIVE: Celebrities arrive at the 2024 Met Gala</title>
+    <desc lang="en">LIVE: Celebrities arrive at the 2024 Met Gala</desc>
+    <icon src="https://i.ytimg.com/vi/A029ezjiUp0/maxresdefault_live.jpg"/>
   </programme>
 </tv>
