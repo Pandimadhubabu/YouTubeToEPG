@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507030000 +0530" stop="20240507040000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240507040000 +0530" stop="20240507050000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240507040000 +0530" stop="20240507050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240507050000 +0530" stop="20240507060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507030000 +0530" stop="20240507040000 +0530">
-    <title lang="en">Live: Union Home Minister Amit Shah to cast his vote at Naranpura in Ahmedabad |Lok Sabha Elections</title>
-    <desc lang="en">Live: Union Home Minister Amit Shah to cast his vote at Naranpura in Ahmedabad |Lok Sabha Elections</desc>
+  <programme channel="ANINewsIndia.yt" start="20240507040000 +0530" stop="20240507050000 +0530">
+    <title lang="en">Live: Union Home Minister Amit Shah cast his vote at Naranpura in Ahmedabad |Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Union Home Minister Amit Shah cast his vote at Naranpura in Ahmedabad |Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/zqvx_pVBoqE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240507040000 +0530" stop="20240507050000 +0530">
-    <title lang="en">Live: Union Home Minister Amit Shah to cast his vote at Naranpura in Ahmedabad |Lok Sabha Elections</title>
-    <desc lang="en">Live: Union Home Minister Amit Shah to cast his vote at Naranpura in Ahmedabad |Lok Sabha Elections</desc>
+  <programme channel="ANINewsIndia.yt" start="20240507050000 +0530" stop="20240507060000 +0530">
+    <title lang="en">Live: Union Home Minister Amit Shah cast his vote at Naranpura in Ahmedabad |Lok Sabha Election 2024</title>
+    <desc lang="en">Live: Union Home Minister Amit Shah cast his vote at Naranpura in Ahmedabad |Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/zqvx_pVBoqE/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507030000 +0530" stop="20240507040000 +0530">
+  <programme channel="Reuters.yt" start="20240507040000 +0530" stop="20240507050000 +0530">
     <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240507040000 +0530" stop="20240507050000 +0530">
+  <programme channel="Reuters.yt" start="20240507050000 +0530" stop="20240507060000 +0530">
     <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
