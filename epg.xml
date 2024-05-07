@@ -2,38 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
-    <title lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</desc>
+  <programme channel="ManaTolivelugu.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
+    <title lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</title>
+    <desc lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</desc>
     <icon src="https://i.ytimg.com/vi/S3q_nSBxmWk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
-    <title lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</desc>
+  <programme channel="ManaTolivelugu.yt" start="20240507120000 +0530" stop="20240507130000 +0530">
+    <title lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</title>
+    <desc lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</desc>
     <icon src="https://i.ytimg.com/vi/S3q_nSBxmWk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
-    <title lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</title>
-    <desc lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</desc>
-    <icon src="https://i.ytimg.com/vi/0cIm5zNMWOA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
-    <title lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</title>
-    <desc lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</desc>
-    <icon src="https://i.ytimg.com/vi/0cIm5zNMWOA/maxresdefault_live.jpg"/>
+    <title lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</title>
+    <desc lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</desc>
+    <icon src="https://i.ytimg.com/vi/gpePMhbd02Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507120000 +0530" stop="20240507130000 +0530">
+    <title lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</title>
+    <desc lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</desc>
+    <icon src="https://i.ytimg.com/vi/gpePMhbd02Y/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
+  <programme channel="Reuters.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
     <title lang="en">LIVE: View from Israel of southern Gaza</title>
     <desc lang="en">LIVE: View from Israel of southern Gaza</desc>
     <icon src="https://i.ytimg.com/vi/qMidhDbnOfA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
+  <programme channel="Reuters.yt" start="20240507120000 +0530" stop="20240507130000 +0530">
     <title lang="en">LIVE: View from Israel of southern Gaza</title>
     <desc lang="en">LIVE: View from Israel of southern Gaza</desc>
     <icon src="https://i.ytimg.com/vi/qMidhDbnOfA/maxresdefault_live.jpg"/>
