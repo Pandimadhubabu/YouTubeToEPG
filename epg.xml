@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
-    <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/KNOAGM-ziYI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
-    <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
-    <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/KNOAGM-ziYI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/S3q_nSBxmWk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
+    <title lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : తెలంగాణ జర్నలిస్టుల రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/S3q_nSBxmWk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
-    <title lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</title>
-    <desc lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</desc>
-    <icon src="https://i.ytimg.com/vi/hyYsNg08lGw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
-    <title lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</title>
-    <desc lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</desc>
-    <icon src="https://i.ytimg.com/vi/hyYsNg08lGw/maxresdefault_live.jpg"/>
+    <title lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</title>
+    <desc lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</desc>
+    <icon src="https://i.ytimg.com/vi/0cIm5zNMWOA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
+    <title lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</title>
+    <desc lang="en">Delhi Election Commission PC LIVE | P. Krishnamurthy, CEO Delhi brief on preparedness of Election</desc>
+    <icon src="https://i.ytimg.com/vi/0cIm5zNMWOA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
-    <title lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</title>
-    <desc lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</desc>
-    <icon src="https://i.ytimg.com/vi/_kWnEtz654o/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
-    <title lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</title>
-    <desc lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</desc>
-    <icon src="https://i.ytimg.com/vi/_kWnEtz654o/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View from Israel of southern Gaza</title>
+    <desc lang="en">LIVE: View from Israel of southern Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/qMidhDbnOfA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240507110000 +0530" stop="20240507120000 +0530">
+    <title lang="en">LIVE: View from Israel of southern Gaza</title>
+    <desc lang="en">LIVE: View from Israel of southern Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/qMidhDbnOfA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
