@@ -1,1 +1,28 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240507190000 +0530" stop="20240507200000 +0530">
+    <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
+    <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
+    <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507200000 +0530" stop="20240507210000 +0530">
+    <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
+    <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
+    <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240507190000 +0530" stop="20240507200000 +0530">
+    <title lang="en">LIVE: White House briefing with Press Secretary Karine Jean-Pierre</title>
+    <desc lang="en">LIVE: White House briefing with Press Secretary Karine Jean-Pierre</desc>
+    <icon src="https://i.ytimg.com/vi/vi0SC6cDxLI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240507200000 +0530" stop="20240507210000 +0530">
+    <title lang="en">LIVE: White House briefing with Press Secretary Karine Jean-Pierre</title>
+    <desc lang="en">LIVE: White House briefing with Press Secretary Karine Jean-Pierre</desc>
+    <icon src="https://i.ytimg.com/vi/vi0SC6cDxLI/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
