@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
     <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/KNOAGM-ziYI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
     <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
     <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/KNOAGM-ziYI/maxresdefault_live.jpg"/>
@@ -15,27 +15,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
-    <title lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</title>
-    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/0gUZNM2RN7U/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
-    <title lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</title>
-    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/0gUZNM2RN7U/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</title>
+    <desc lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</desc>
+    <icon src="https://i.ytimg.com/vi/hyYsNg08lGw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
+    <title lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</title>
+    <desc lang="en">LIVE: Putin officially commences new term as Russian president | Russia | Moscow</desc>
+    <icon src="https://i.ytimg.com/vi/hyYsNg08lGw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
-    <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
-    <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
-    <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
-    <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</title>
+    <desc lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/_kWnEtz654o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240507100000 +0530" stop="20240507110000 +0530">
+    <title lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</title>
+    <desc lang="en">LIVE: UN agencies briefing with focus expected on situation in Gaza</desc>
+    <icon src="https://i.ytimg.com/vi/_kWnEtz654o/maxresdefault_live.jpg"/>
   </programme>
 </tv>
