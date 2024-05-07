@@ -2,27 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507200000 +0530" stop="20240507210000 +0530">
-    <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
-    <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
-    <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507210000 +0530" stop="20240507220000 +0530">
     <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
     <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
     <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240507200000 +0530" stop="20240507210000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ggi2t4bHMwU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240507210000 +0530" stop="20240507220000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ggi2t4bHMwU/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240507220000 +0530" stop="20240507230000 +0530">
+    <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
+    <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
+    <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
