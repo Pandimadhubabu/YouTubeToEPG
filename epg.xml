@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507120000 +0530" stop="20240507130000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240507130000 +0530" stop="20240507140000 +0530">
     <title lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</title>
     <desc lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</desc>
     <icon src="https://i.ytimg.com/vi/S3q_nSBxmWk/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240507130000 +0530" stop="20240507140000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
     <title lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</title>
     <desc lang="en">LIVE : రాజ్యాంగం , హక్కులు, రిజర్వేషన్ల పై రౌండ్ టేబుల్ సమావేశం | Telangana Journalists Press Meet</desc>
     <icon src="https://i.ytimg.com/vi/S3q_nSBxmWk/maxresdefault_live.jpg"/>
@@ -15,25 +15,25 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507120000 +0530" stop="20240507130000 +0530">
-    <title lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</title>
-    <desc lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</desc>
-    <icon src="https://i.ytimg.com/vi/gpePMhbd02Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507130000 +0530" stop="20240507140000 +0530">
-    <title lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</title>
-    <desc lang="en">Congress Press Conference LIVE | Congress Party Briefing by Pawan Khera | Delhi | INC</desc>
-    <icon src="https://i.ytimg.com/vi/gpePMhbd02Y/maxresdefault_live.jpg"/>
+    <title lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</title>
+    <desc lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</desc>
+    <icon src="https://i.ytimg.com/vi/aBRlkz_R-WU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
+    <title lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</title>
+    <desc lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</desc>
+    <icon src="https://i.ytimg.com/vi/aBRlkz_R-WU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507120000 +0530" stop="20240507130000 +0530">
+  <programme channel="Reuters.yt" start="20240507130000 +0530" stop="20240507140000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/ggi2t4bHMwU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240507130000 +0530" stop="20240507140000 +0530">
+  <programme channel="Reuters.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
     <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/ggi2t4bHMwU/maxresdefault_live.jpg"/>
