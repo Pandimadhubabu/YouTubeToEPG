@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</title>
     <desc lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</desc>
     <icon src="https://i.ytimg.com/vi/aBRlkz_R-WU/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240507160000 +0530" stop="20240507170000 +0530">
     <title lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</title>
     <desc lang="en">Top TRF Terrorist Commander Basit Dar Killed In Kulgam encounter | Indian Army |Jammu &amp;Kashmir |J&amp;K</desc>
     <icon src="https://i.ytimg.com/vi/aBRlkz_R-WU/maxresdefault_live.jpg"/>
@@ -15,14 +15,27 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ggi2t4bHMwU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ggi2t4bHMwU/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Biden makes keynote address at Holocaust remembrance ceremony</title>
+    <desc lang="en">LIVE: Biden makes keynote address at Holocaust remembrance ceremony</desc>
+    <icon src="https://i.ytimg.com/vi/Hi2GxCS7TT8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240507160000 +0530" stop="20240507170000 +0530">
+    <title lang="en">LIVE: Biden makes keynote address at Holocaust remembrance ceremony</title>
+    <desc lang="en">LIVE: Biden makes keynote address at Holocaust remembrance ceremony</desc>
+    <icon src="https://i.ytimg.com/vi/Hi2GxCS7TT8/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
+    <title lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and Corner meeting at Warangal East</title>
+    <desc lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and Corner meeting at Warangal East</desc>
+    <icon src="https://i.ytimg.com/vi/pt4uF3in4X8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240507160000 +0530" stop="20240507170000 +0530">
+    <title lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and Corner meeting at Warangal East</title>
+    <desc lang="en">Hon'ble C M Sri. A.Revanth Reddy will participate in Rally and Corner meeting at Warangal East</desc>
+    <icon src="https://i.ytimg.com/vi/pt4uF3in4X8/maxresdefault_live.jpg"/>
   </programme>
 </tv>
