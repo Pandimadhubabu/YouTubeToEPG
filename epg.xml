@@ -2,38 +2,51 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507060000 +0530" stop="20240507070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/1ZiE-daNA-4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/1ZiE-daNA-4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507060000 +0530" stop="20240507070000 +0530">
-    <title lang="en">Live: Inaugural address by EAM Jaishankar at Abhigyaan - The Annual Lecture Series | Delhi</title>
-    <desc lang="en">Live: Inaugural address by EAM Jaishankar at Abhigyaan - The Annual Lecture Series | Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/TT4MAkAJDF0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
-    <title lang="en">Live: Inaugural address by EAM Jaishankar at Abhigyaan - The Annual Lecture Series | Delhi</title>
-    <desc lang="en">Live: Inaugural address by EAM Jaishankar at Abhigyaan - The Annual Lecture Series | Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/TT4MAkAJDF0/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</title>
+    <desc lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</desc>
+    <icon src="https://i.ytimg.com/vi/TuGiK11mdWM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
+    <title lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</title>
+    <desc lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</desc>
+    <icon src="https://i.ytimg.com/vi/TuGiK11mdWM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507060000 +0530" stop="20240507070000 +0530">
+  <programme channel="Reuters.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
     <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
+  <programme channel="Reuters.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
     <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
