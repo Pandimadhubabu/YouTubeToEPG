@@ -2,51 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/oGYsySbShdI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/KNOAGM-ziYI/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/1ZiE-daNA-4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Dhar, Madhya Pradesh | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/1ZiE-daNA-4/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
+    <title lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</title>
+    <desc lang="en">LIVE : Etela Rajender Press Meet | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/KNOAGM-ziYI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
-    <title lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</title>
-    <desc lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</desc>
-    <icon src="https://i.ytimg.com/vi/TuGiK11mdWM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
-    <title lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</title>
-    <desc lang="en">LIVE: Actor Shekhar Suman and Radhika Khera join BJP  Lok Sabha Election | BJP Press conference</desc>
-    <icon src="https://i.ytimg.com/vi/TuGiK11mdWM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</title>
+    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/0gUZNM2RN7U/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
+    <title lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</title>
+    <desc lang="en">LIVE: CM Yogi Adityanath Addresses Public Rally in Sitapur, Uttar Pradesh | BJP | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/0gUZNM2RN7U/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240507070000 +0530" stop="20240507080000 +0530">
+  <programme channel="Reuters.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
     <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240507080000 +0530" stop="20240507090000 +0530">
+  <programme channel="Reuters.yt" start="20240507090000 +0530" stop="20240507100000 +0530">
     <title lang="en">LIVE: Third phase of India's general election | REUTERS</title>
     <desc lang="en">LIVE: Third phase of India's general election | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/Nl-G3WBjmYA/maxresdefault_live.jpg"/>
