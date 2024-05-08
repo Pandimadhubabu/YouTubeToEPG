@@ -1,15 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240508130000 +0530" stop="20240508140000 +0530">
+    <title lang="en">Kangana Ranaut LIVE | Public Rally, Mandi Himachal | Lok Sabha Election | BJP</title>
+    <desc lang="en">Kangana Ranaut LIVE | Public Rally, Mandi Himachal | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/6i-sZMW13Ps/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">Kangana Ranaut LIVE | Public Rally, Mandi Himachal | Lok Sabha Election | BJP</title>
+    <desc lang="en">Kangana Ranaut LIVE | Public Rally, Mandi Himachal | Lok Sabha Election | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/6i-sZMW13Ps/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240508120000 +0530" stop="20240508130000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/oLD5eo-PrOw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240508130000 +0530" stop="20240508140000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/oLD5eo-PrOw/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: View of Israel-Gaza border</title>
+    <desc lang="en">LIVE: View of Israel-Gaza border</desc>
+    <icon src="https://i.ytimg.com/vi/2N_eTfqaomU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">LIVE: View of Israel-Gaza border</title>
+    <desc lang="en">LIVE: View of Israel-Gaza border</desc>
+    <icon src="https://i.ytimg.com/vi/2N_eTfqaomU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
