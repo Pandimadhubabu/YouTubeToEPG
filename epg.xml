@@ -1,39 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
-    <title lang="en">LIVE:-- KCR Participating in Road Show at Narsapur|| కెసిఆర్ రోడ్డుషో  నర్సాపూర్ ||  ManaTolivelugu</title>
-    <desc lang="en">LIVE:-- KCR Participating in Road Show at Narsapur|| కెసిఆర్ రోడ్డుషో  నర్సాపూర్ ||  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/TFftzztiSw4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240508150000 +0530" stop="20240508160000 +0530">
-    <title lang="en">LIVE:-- KCR Participating in Road Show at Narsapur|| కెసిఆర్ రోడ్డుషో  నర్సాపూర్ ||  ManaTolivelugu</title>
-    <desc lang="en">LIVE:-- KCR Participating in Road Show at Narsapur|| కెసిఆర్ రోడ్డుషో  నర్సాపూర్ ||  ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/TFftzztiSw4/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Vijayawada, Andhra Pradesh today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Vijayawada, Andhra Pradesh today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/MTWQl-FUeDM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240508150000 +0530" stop="20240508160000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Vijayawada, Andhra Pradesh today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Vijayawada, Andhra Pradesh today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/MTWQl-FUeDM/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240508150000 +0530" stop="20240508160000 +0530">
     <title lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</title>
     <desc lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</desc>
     <icon src="https://i.ytimg.com/vi/CRk59xEEqF4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240508150000 +0530" stop="20240508160000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240508160000 +0530" stop="20240508170000 +0530">
     <title lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</title>
     <desc lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</desc>
     <icon src="https://i.ytimg.com/vi/CRk59xEEqF4/maxresdefault_live.jpg"/>
@@ -41,27 +15,27 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
-    <title lang="en">LIVE: Brazilians brace for more flooding and devastation as death toll rises</title>
-    <desc lang="en">LIVE: Brazilians brace for more flooding and devastation as death toll rises</desc>
-    <icon src="https://i.ytimg.com/vi/DzZ56h_VaDM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240508150000 +0530" stop="20240508160000 +0530">
-    <title lang="en">LIVE: Brazilians brace for more flooding and devastation as death toll rises</title>
-    <desc lang="en">LIVE: Brazilians brace for more flooding and devastation as death toll rises</desc>
-    <icon src="https://i.ytimg.com/vi/DzZ56h_VaDM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: U.S. Secretary of Defense Austin, Chairman of the Joint Chiefs of Staff Brown testify befor…</title>
+    <desc lang="en">LIVE: U.S. Secretary of Defense Austin, Chairman of the Joint Chiefs of Staff Brown testify befor…</desc>
+    <icon src="https://i.ytimg.com/vi/d_z6RwJ6nug/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240508160000 +0530" stop="20240508170000 +0530">
+    <title lang="en">LIVE: U.S. Secretary of Defense Austin, Chairman of the Joint Chiefs of Staff Brown testify befor…</title>
+    <desc lang="en">LIVE: U.S. Secretary of Defense Austin, Chairman of the Joint Chiefs of Staff Brown testify befor…</desc>
+    <icon src="https://i.ytimg.com/vi/d_z6RwJ6nug/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at  Armoor.</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at  Armoor.</desc>
-    <icon src="https://i.ytimg.com/vi/kutbiah3zdA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240508150000 +0530" stop="20240508160000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at  Armoor.</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally and corner meeting at  Armoor.</desc>
-    <icon src="https://i.ytimg.com/vi/kutbiah3zdA/maxresdefault_live.jpg"/>
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Nizamabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Nizamabad</desc>
+    <icon src="https://i.ytimg.com/vi/XIR5oFg0KyM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240508160000 +0530" stop="20240508170000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Nizamabad</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; Corner Meeting at Nizamabad</desc>
+    <icon src="https://i.ytimg.com/vi/XIR5oFg0KyM/maxresdefault_live.jpg"/>
   </programme>
 </tv>
