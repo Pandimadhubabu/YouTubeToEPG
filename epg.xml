@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240507230000 +0530" stop="20240508000000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240508000000 +0530" stop="20240508010000 +0530">
     <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
     <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
     <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240508000000 +0530" stop="20240508010000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240508010000 +0530" stop="20240508020000 +0530">
     <title lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</title>
     <desc lang="en">Madhavi Latha Roadshow LIVE | Rajasthan CM Bhajan Lal Sharma | Hyderabad |Telangana |BJP| Election</desc>
     <icon src="https://i.ytimg.com/vi/1iSvgi59zeE/maxresdefault_live.jpg"/>
