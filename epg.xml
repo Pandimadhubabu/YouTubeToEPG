@@ -1,1 +1,54 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240508110000 +0530" stop="20240508120000 +0530">
+    <title lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</title>
+    <desc lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rFcezEctwWk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240508120000 +0530" stop="20240508130000 +0530">
+    <title lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</title>
+    <desc lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rFcezEctwWk/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240508110000 +0530" stop="20240508120000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Rajampet, Andhra Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Rajampet, Andhra Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/e4RvVYqu0V0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240508120000 +0530" stop="20240508130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Rajampet, Andhra Pradesh | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Rajampet, Andhra Pradesh | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/e4RvVYqu0V0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240508110000 +0530" stop="20240508120000 +0530">
+    <title lang="en">HM Amit Shah LIVE |Public meeting in Kannauj, Uttar Pradesh | Lok Sabha Election 2024| BJP|अमित शाह</title>
+    <desc lang="en">HM Amit Shah LIVE |Public meeting in Kannauj, Uttar Pradesh | Lok Sabha Election 2024| BJP|अमित शाह</desc>
+    <icon src="https://i.ytimg.com/vi/GIb0v0_kCuU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240508120000 +0530" stop="20240508130000 +0530">
+    <title lang="en">HM Amit Shah LIVE |Public meeting in Kannauj, Uttar Pradesh | Lok Sabha Election 2024| BJP|अमित शाह</title>
+    <desc lang="en">HM Amit Shah LIVE |Public meeting in Kannauj, Uttar Pradesh | Lok Sabha Election 2024| BJP|अमित शाह</desc>
+    <icon src="https://i.ytimg.com/vi/GIb0v0_kCuU/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240508110000 +0530" stop="20240508120000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/oLD5eo-PrOw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240508120000 +0530" stop="20240508130000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/oLD5eo-PrOw/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
