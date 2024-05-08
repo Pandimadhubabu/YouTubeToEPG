@@ -2,53 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240508080000 +0530" stop="20240508090000 +0530">
-    <title lang="en">LIVE : స్వతంత్ర MLC అభ్యర్థి అశోక్ నామినేషన్ ర్యాలీ | Ashok  Nomination Ryali | ManaTolivelugu</title>
-    <desc lang="en">LIVE : స్వతంత్ర MLC అభ్యర్థి అశోక్ నామినేషన్ ర్యాలీ | Ashok  Nomination Ryali | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/aJnW70eyKtY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240508090000 +0530" stop="20240508100000 +0530">
-    <title lang="en">LIVE : స్వతంత్ర MLC అభ్యర్థి అశోక్ నామినేషన్ ర్యాలీ | Ashok  Nomination Ryali | ManaTolivelugu</title>
-    <desc lang="en">LIVE : స్వతంత్ర MLC అభ్యర్థి అశోక్ నామినేషన్ ర్యాలీ | Ashok  Nomination Ryali | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/aJnW70eyKtY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</title>
+    <desc lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rFcezEctwWk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240508100000 +0530" stop="20240508110000 +0530">
+    <title lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</title>
+    <desc lang="en">LIVE : BJP Dharmapuri Arvind LIVE | Nizamabad | Lok sabha Election 2024 | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/rFcezEctwWk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240508080000 +0530" stop="20240508090000 +0530">
-    <title lang="en">Yogi Adityanath LIVE| Public Rally in Akbarpur, Uttar Pradesh | BJP | Election | अकबरपुर| जनसभा</title>
-    <desc lang="en">Yogi Adityanath LIVE| Public Rally in Akbarpur, Uttar Pradesh | BJP | Election | अकबरपुर| जनसभा</desc>
-    <icon src="https://i.ytimg.com/vi/SlhwgSL_SIA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240508090000 +0530" stop="20240508100000 +0530">
-    <title lang="en">Yogi Adityanath LIVE| Public Rally in Akbarpur, Uttar Pradesh | BJP | Election | अकबरपुर| जनसभा</title>
-    <desc lang="en">Yogi Adityanath LIVE| Public Rally in Akbarpur, Uttar Pradesh | BJP | Election | अकबरपुर| जनसभा</desc>
-    <icon src="https://i.ytimg.com/vi/SlhwgSL_SIA/maxresdefault_live.jpg"/>
+    <title lang="en">HM Amit Shah LIVE |Public meeting in Hardoi, Uttar Pradesh | Lok Sabha Election | BJP|अमित शाह</title>
+    <desc lang="en">HM Amit Shah LIVE |Public meeting in Hardoi, Uttar Pradesh | Lok Sabha Election | BJP|अमित शाह</desc>
+    <icon src="https://i.ytimg.com/vi/fXWnyyVCuzc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240508100000 +0530" stop="20240508110000 +0530">
+    <title lang="en">HM Amit Shah LIVE |Public meeting in Hardoi, Uttar Pradesh | Lok Sabha Election | BJP|अमित शाह</title>
+    <desc lang="en">HM Amit Shah LIVE |Public meeting in Hardoi, Uttar Pradesh | Lok Sabha Election | BJP|अमित शाह</desc>
+    <icon src="https://i.ytimg.com/vi/fXWnyyVCuzc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240508080000 +0530" stop="20240508090000 +0530">
-    <title lang="en">LIVE: Rescue efforts after building collapse in South Africa</title>
-    <desc lang="en">LIVE: Rescue efforts after building collapse in South Africa</desc>
-    <icon src="https://i.ytimg.com/vi/yOciEsmFC8I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240508090000 +0530" stop="20240508100000 +0530">
-    <title lang="en">LIVE: Rescue efforts after building collapse in South Africa</title>
-    <desc lang="en">LIVE: Rescue efforts after building collapse in South Africa</desc>
-    <icon src="https://i.ytimg.com/vi/yOciEsmFC8I/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: French President Emmanuel Macron attends ceremony to commemorate the end of World War Two</title>
+    <desc lang="en">LIVE: French President Emmanuel Macron attends ceremony to commemorate the end of World War Two</desc>
+    <icon src="https://i.ytimg.com/vi/8dKu6nIErvs/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240508080000 +0530" stop="20240508090000 +0530">
-    <title lang="en">Hon'ble.Sri Komatireddy Venkat Reddy will participate  In Press meet At Press Club Hyderabad.</title>
-    <desc lang="en">Hon'ble.Sri Komatireddy Venkat Reddy will participate  In Press meet At Press Club Hyderabad.</desc>
-    <icon src="https://i.ytimg.com/vi/kMODUtVAafU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240508090000 +0530" stop="20240508100000 +0530">
-    <title lang="en">Hon'ble.Sri Komatireddy Venkat Reddy will participate  In Press meet At Press Club Hyderabad.</title>
-    <desc lang="en">Hon'ble.Sri Komatireddy Venkat Reddy will participate  In Press meet At Press Club Hyderabad.</desc>
-    <icon src="https://i.ytimg.com/vi/kMODUtVAafU/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240508100000 +0530" stop="20240508110000 +0530">
+    <title lang="en">LIVE: French President Emmanuel Macron attends ceremony to commemorate the end of World War Two</title>
+    <desc lang="en">LIVE: French President Emmanuel Macron attends ceremony to commemorate the end of World War Two</desc>
+    <icon src="https://i.ytimg.com/vi/8dKu6nIErvs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
