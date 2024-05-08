@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240508040000 +0530" stop="20240508050000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/53h1Aqra0CY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240508050000 +0530" stop="20240508060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/53h1Aqra0CY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/U_bp1kGhj7I/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
+    <title lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/U_bp1kGhj7I/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240508050000 +0530" stop="20240508060000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Ayrw2PPE9BM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Ayrw2PPE9BM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240508040000 +0530" stop="20240508050000 +0530">
-    <title lang="en">“Voting for Congress means voting for Pakistan…” BJP's Navneet Rana in Telangana| Lok Sabha Election</title>
-    <desc lang="en">“Voting for Congress means voting for Pakistan…” BJP's Navneet Rana in Telangana| Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/HSddE6ApL6w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240508050000 +0530" stop="20240508060000 +0530">
-    <title lang="en">“Voting for Congress means voting for Pakistan…” BJP's Navneet Rana in Telangana| Lok Sabha Election</title>
-    <desc lang="en">“Voting for Congress means voting for Pakistan…” BJP's Navneet Rana in Telangana| Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/HSddE6ApL6w/maxresdefault_live.jpg"/>
+    <title lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</title>
+    <desc lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</desc>
+    <icon src="https://i.ytimg.com/vi/3mlrMLzv5fA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
+    <title lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</title>
+    <desc lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</desc>
+    <icon src="https://i.ytimg.com/vi/3mlrMLzv5fA/maxresdefault_live.jpg"/>
   </programme>
 </tv>
