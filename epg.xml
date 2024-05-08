@@ -2,40 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240508050000 +0530" stop="20240508060000 +0530">
-    <title lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</title>
-    <desc lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/U_bp1kGhj7I/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
     <title lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</title>
     <desc lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/U_bp1kGhj7I/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240508050000 +0530" stop="20240508060000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Ayrw2PPE9BM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Karimnagar, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Ayrw2PPE9BM/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240508070000 +0530" stop="20240508080000 +0530">
+    <title lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మోడీ బహిరంగ సభ | Modi Public Meeting Vemulawada | Karimnagar | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/U_bp1kGhj7I/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240508050000 +0530" stop="20240508060000 +0530">
-    <title lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</title>
-    <desc lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</desc>
-    <icon src="https://i.ytimg.com/vi/3mlrMLzv5fA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
     <title lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</title>
     <desc lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</desc>
     <icon src="https://i.ytimg.com/vi/3mlrMLzv5fA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240508070000 +0530" stop="20240508080000 +0530">
+    <title lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</title>
+    <desc lang="en">PM Narendra Modi LIVE|Public meeting, Karimnagar,Telangana|Lok Sabha Election | BJP |PM मोदी|बीजेपी</desc>
+    <icon src="https://i.ytimg.com/vi/3mlrMLzv5fA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240508060000 +0530" stop="20240508070000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/oLD5eo-PrOw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240508070000 +0530" stop="20240508080000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/oLD5eo-PrOw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
