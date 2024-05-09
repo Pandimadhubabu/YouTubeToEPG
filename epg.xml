@@ -1,1 +1,15 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240509010000 +0530" stop="20240509020000 +0530">
+    <title lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</title>
+    <desc lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</desc>
+    <icon src="https://i.ytimg.com/vi/CRk59xEEqF4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240509020000 +0530" stop="20240509030000 +0530">
+    <title lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</title>
+    <desc lang="en">HM Amit Shah LIVE |Public meeting in Jalna,Maharashtra |Lok Sabha Election |BJP|अमित शाह| महाराष्ट्र</desc>
+    <icon src="https://i.ytimg.com/vi/CRk59xEEqF4/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
