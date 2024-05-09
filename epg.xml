@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ANINewsIndia.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="ANINewsIndia.yt" start="20240509180000 +0530" stop="20240509190000 +0530">
-    <title lang="en">President Murmu presents Padma Awards 2024|Civil Investiture Ceremony-II|Rashtrapati Bhavan |PM Modi</title>
-    <desc lang="en">President Murmu presents Padma Awards 2024|Civil Investiture Ceremony-II|Rashtrapati Bhavan |PM Modi</desc>
-    <icon src="https://i.ytimg.com/vi/UWa17z35gPQ/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ANINewsIndia.yt" start="20240509190000 +0530" stop="20240509200000 +0530">
-    <title lang="en">President Murmu presents Padma Awards 2024|Civil Investiture Ceremony-II|Rashtrapati Bhavan |PM Modi</title>
-    <desc lang="en">President Murmu presents Padma Awards 2024|Civil Investiture Ceremony-II|Rashtrapati Bhavan |PM Modi</desc>
-    <icon src="https://i.ytimg.com/vi/UWa17z35gPQ/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240509180000 +0530" stop="20240509190000 +0530">
-    <title lang="en">LIVE: Protests against Israeli Eurovision participation as people arrive for semi-final</title>
-    <desc lang="en">LIVE: Protests against Israeli Eurovision participation as people arrive for semi-final</desc>
-    <icon src="https://i.ytimg.com/vi/uCS-NGyHr3s/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240509190000 +0530" stop="20240509200000 +0530">
-    <title lang="en">LIVE: Protests against Israeli Eurovision participation as people arrive for semi-final</title>
-    <desc lang="en">LIVE: Protests against Israeli Eurovision participation as people arrive for semi-final</desc>
-    <icon src="https://i.ytimg.com/vi/uCS-NGyHr3s/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Moscow concludes its Victory Day celebrations with fireworks</title>
+    <desc lang="en">LIVE: Moscow concludes its Victory Day celebrations with fireworks</desc>
+    <icon src="https://i.ytimg.com/vi/v6V3sjWBD1o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240509200000 +0530" stop="20240509210000 +0530">
+    <title lang="en">LIVE: Moscow concludes its Victory Day celebrations with fireworks</title>
+    <desc lang="en">LIVE: Moscow concludes its Victory Day celebrations with fireworks</desc>
+    <icon src="https://i.ytimg.com/vi/v6V3sjWBD1o/maxresdefault_live.jpg"/>
   </programme>
 </tv>
