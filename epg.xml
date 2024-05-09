@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
-    <title lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</title>
-    <desc lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/YaF9aHCUyzc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
-    <title lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</title>
-    <desc lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/YaF9aHCUyzc/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : రాహుల్ బహిరంగ సభ | Congress Public Meeting @Medak | Rahul | Revanth Reddy | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రాహుల్ బహిరంగ సభ | Congress Public Meeting @Medak | Rahul | Revanth Reddy | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/YowwRq2X78k/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240509120000 +0530" stop="20240509130000 +0530">
+    <title lang="en">LIVE : రాహుల్ బహిరంగ సభ | Congress Public Meeting @Medak | Rahul | Revanth Reddy | ManaTolivelugu</title>
+    <desc lang="en">LIVE : రాహుల్ బహిరంగ సభ | Congress Public Meeting @Medak | Rahul | Revanth Reddy | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/YowwRq2X78k/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
-    <title lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</title>
-    <desc lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/TN-hVL21spw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
-    <title lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</title>
-    <desc lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/TN-hVL21spw/maxresdefault_live.jpg"/>
+    <title lang="en">MOSCOW, RUSSIA | Victory Day | Putin warns of global clash as Russia marks victory in World War Two</title>
+    <desc lang="en">MOSCOW, RUSSIA | Victory Day | Putin warns of global clash as Russia marks victory in World War Two</desc>
+    <icon src="https://i.ytimg.com/vi/qXXmQuW68cQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240509120000 +0530" stop="20240509130000 +0530">
+    <title lang="en">MOSCOW, RUSSIA | Victory Day | Putin warns of global clash as Russia marks victory in World War Two</title>
+    <desc lang="en">MOSCOW, RUSSIA | Victory Day | Putin warns of global clash as Russia marks victory in World War Two</desc>
+    <icon src="https://i.ytimg.com/vi/qXXmQuW68cQ/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240509120000 +0530" stop="20240509130000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
+    <title lang="en">Congress Jana Jathara Sabha at Narsapur</title>
+    <desc lang="en">Congress Jana Jathara Sabha at Narsapur</desc>
+    <icon src="https://i.ytimg.com/vi/Xdc4NahK38w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240509120000 +0530" stop="20240509130000 +0530">
+    <title lang="en">Congress Jana Jathara Sabha at Narsapur</title>
+    <desc lang="en">Congress Jana Jathara Sabha at Narsapur</desc>
+    <icon src="https://i.ytimg.com/vi/Xdc4NahK38w/maxresdefault_live.jpg"/>
   </programme>
 </tv>
