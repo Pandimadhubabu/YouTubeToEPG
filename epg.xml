@@ -2,38 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240509060000 +0530" stop="20240509070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/QTItFOJ7qio/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240509070000 +0530" stop="20240509080000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/QTItFOJ7qio/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</title>
+    <desc lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/YaF9aHCUyzc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240509080000 +0530" stop="20240509090000 +0530">
+    <title lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</title>
+    <desc lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/YaF9aHCUyzc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240509060000 +0530" stop="20240509070000 +0530">
-    <title lang="en">Robert Vadra Exclusive|Joining Politics |Gandhi Family|Sam Pitroda | Rift between Rahul and Priyanka</title>
-    <desc lang="en">Robert Vadra Exclusive|Joining Politics |Gandhi Family|Sam Pitroda | Rift between Rahul and Priyanka</desc>
-    <icon src="https://i.ytimg.com/vi/vcjPFZVbJfs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240509070000 +0530" stop="20240509080000 +0530">
-    <title lang="en">Robert Vadra Exclusive|Joining Politics |Gandhi Family|Sam Pitroda | Rift between Rahul and Priyanka</title>
-    <desc lang="en">Robert Vadra Exclusive|Joining Politics |Gandhi Family|Sam Pitroda | Rift between Rahul and Priyanka</desc>
-    <icon src="https://i.ytimg.com/vi/vcjPFZVbJfs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Priyanka Gandhi addresses a corner meeting in Raebareli, Uttar Pradesh| Election| Congress</title>
+    <desc lang="en">LIVE: Priyanka Gandhi addresses a corner meeting in Raebareli, Uttar Pradesh| Election| Congress</desc>
+    <icon src="https://i.ytimg.com/vi/B8UsKvSmbXU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240509080000 +0530" stop="20240509090000 +0530">
+    <title lang="en">LIVE: Priyanka Gandhi addresses a corner meeting in Raebareli, Uttar Pradesh| Election| Congress</title>
+    <desc lang="en">LIVE: Priyanka Gandhi addresses a corner meeting in Raebareli, Uttar Pradesh| Election| Congress</desc>
+    <icon src="https://i.ytimg.com/vi/B8UsKvSmbXU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240509060000 +0530" stop="20240509070000 +0530">
+  <programme channel="Reuters.yt" start="20240509070000 +0530" stop="20240509080000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240509070000 +0530" stop="20240509080000 +0530">
+  <programme channel="Reuters.yt" start="20240509080000 +0530" stop="20240509090000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
