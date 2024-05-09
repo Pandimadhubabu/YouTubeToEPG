@@ -2,38 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240509090000 +0530" stop="20240509100000 +0530">
-    <title lang="en">LIVE : కడియం కావ్య ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం కావ్య ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/wmI0bKRsR_c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
-    <title lang="en">LIVE : కడియం కావ్య ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</title>
-    <desc lang="en">LIVE : కడియం కావ్య ప్రెస్ మీట్ | Congress Kadiyam Srihari And Kavya LIVE | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/wmI0bKRsR_c/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</title>
+    <desc lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/YaF9aHCUyzc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
+    <title lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</title>
+    <desc lang="en">LIVE : భువనగిరి గడ్డపై అమిత్ షా బహిరంగ సభ | BJP Public Meeting | Boora Narsaiah Goud |ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/YaF9aHCUyzc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240509090000 +0530" stop="20240509100000 +0530">
-    <title lang="en">Yogi Adityanath LIVE|Public Meeting in Dhaurahra,Uttar Pradesh |BJP|धौरहरा |जनसभा|Lok Sabha Election</title>
-    <desc lang="en">Yogi Adityanath LIVE|Public Meeting in Dhaurahra,Uttar Pradesh |BJP|धौरहरा |जनसभा|Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/v6ujwm2bqgA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
-    <title lang="en">Yogi Adityanath LIVE|Public Meeting in Dhaurahra,Uttar Pradesh |BJP|धौरहरा |जनसभा|Lok Sabha Election</title>
-    <desc lang="en">Yogi Adityanath LIVE|Public Meeting in Dhaurahra,Uttar Pradesh |BJP|धौरहरा |जनसभा|Lok Sabha Election</desc>
-    <icon src="https://i.ytimg.com/vi/v6ujwm2bqgA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</title>
+    <desc lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/TN-hVL21spw/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
+    <title lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</title>
+    <desc lang="en">LIVE: BJP President JP Nadda addresses public meeting in Fatehpur, Uttar Pradesh |Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/TN-hVL21spw/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240509090000 +0530" stop="20240509100000 +0530">
+  <programme channel="Reuters.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240509100000 +0530" stop="20240509110000 +0530">
+  <programme channel="Reuters.yt" start="20240509110000 +0530" stop="20240509120000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/kLyJIfdTPOs/maxresdefault_live.jpg"/>
