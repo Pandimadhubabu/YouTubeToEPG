@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
-    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</title>
-    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/3yE2-LHq49M/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510150000 +0530" stop="20240510160000 +0530">
-    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</title>
-    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</desc>
-    <icon src="https://i.ytimg.com/vi/3yE2-LHq49M/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: HM Amit Shah addresses public meeting in Nadia, West Bengal | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses public meeting in Nadia, West Bengal | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/p1hUMj9F-iU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510160000 +0530" stop="20240510170000 +0530">
+    <title lang="en">LIVE: HM Amit Shah addresses public meeting in Nadia, West Bengal | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">LIVE: HM Amit Shah addresses public meeting in Nadia, West Bengal | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/p1hUMj9F-iU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
-    <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240510150000 +0530" stop="20240510160000 +0530">
-    <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</title>
+    <desc lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</desc>
+    <icon src="https://i.ytimg.com/vi/cLgwvffRfgs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240510160000 +0530" stop="20240510170000 +0530">
+    <title lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</title>
+    <desc lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</desc>
+    <icon src="https://i.ytimg.com/vi/cLgwvffRfgs/maxresdefault_live.jpg"/>
   </programme>
 </tv>
