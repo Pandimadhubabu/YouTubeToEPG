@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240510050000 +0530" stop="20240510060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
@@ -15,27 +15,40 @@
   <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240510050000 +0530" stop="20240510060000 +0530">
-    <title lang="en">PM Modi's interview to Republic TV</title>
-    <desc lang="en">PM Modi's interview to Republic TV</desc>
-    <icon src="https://i.ytimg.com/vi/ujz1k_-e_zg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="NarendraModi.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
-    <title lang="en">PM Modi's interview to Republic TV</title>
-    <desc lang="en">PM Modi's interview to Republic TV</desc>
-    <icon src="https://i.ytimg.com/vi/ujz1k_-e_zg/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/EHy4D9VaERk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/EHy4D9VaERk/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510050000 +0530" stop="20240510060000 +0530">
-    <title lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</title>
-    <desc lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</desc>
-    <icon src="https://i.ytimg.com/vi/l4WU3OPXn2c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
-    <title lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</title>
-    <desc lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</desc>
-    <icon src="https://i.ytimg.com/vi/l4WU3OPXn2c/maxresdefault_live.jpg"/>
+    <title lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</title>
+    <desc lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/GLiJK_AqchA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
+    <title lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</title>
+    <desc lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</desc>
+    <icon src="https://i.ytimg.com/vi/GLiJK_AqchA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Reuters.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="Reuters.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
