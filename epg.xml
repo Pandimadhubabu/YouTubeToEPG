@@ -1,41 +1,54 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240510100000 +0530" stop="20240510110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5eaRqZa23kU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240510110000 +0530" stop="20240510120000 +0530">
+    <title lang="en">LIVE : మోడీ బహిరంగ సభ మహబూబ్ నగర్ | Modi Public Meeting | Mahabub Nagar | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మోడీ బహిరంగ సభ మహబూబ్ నగర్ | Modi Public Meeting | Mahabub Nagar | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/VNr4q1wyTgo/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240510110000 +0530" stop="20240510120000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/5eaRqZa23kU/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
+    <title lang="en">LIVE : మోడీ బహిరంగ సభ మహబూబ్ నగర్ | Modi Public Meeting | Mahabub Nagar | ManaTolivelugu</title>
+    <desc lang="en">LIVE : మోడీ బహిరంగ సభ మహబూబ్ నగర్ | Modi Public Meeting | Mahabub Nagar | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/VNr4q1wyTgo/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510100000 +0530" stop="20240510110000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/vGa7L-yZ-0M/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510110000 +0530" stop="20240510120000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Mahabubnagar, Telangana | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/vGa7L-yZ-0M/maxresdefault_live.jpg"/>
+    <title lang="en">Asaduddin Owaisi’s most Aggressive Speech |Madhavi latha|Navneet Rana|PM Modi|Pakistan |Congress|BJP</title>
+    <desc lang="en">Asaduddin Owaisi’s most Aggressive Speech |Madhavi latha|Navneet Rana|PM Modi|Pakistan |Congress|BJP</desc>
+    <icon src="https://i.ytimg.com/vi/Fd14An6HV40/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
+    <title lang="en">Asaduddin Owaisi’s most Aggressive Speech |Madhavi latha|Navneet Rana|PM Modi|Pakistan |Congress|BJP</title>
+    <desc lang="en">Asaduddin Owaisi’s most Aggressive Speech |Madhavi latha|Navneet Rana|PM Modi|Pakistan |Congress|BJP</desc>
+    <icon src="https://i.ytimg.com/vi/Fd14An6HV40/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510100000 +0530" stop="20240510110000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240510110000 +0530" stop="20240510120000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240510110000 +0530" stop="20240510120000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Makthal</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Makthal</desc>
+    <icon src="https://i.ytimg.com/vi/u933EgN9ZHg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Makthal</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Jana Jathara Sabha at Makthal</desc>
+    <icon src="https://i.ytimg.com/vi/u933EgN9ZHg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
