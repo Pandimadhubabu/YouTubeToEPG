@@ -1,54 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ka4Nwr99cpE/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
-    <title lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Ka4Nwr99cpE/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</title>
-    <desc lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</desc>
-    <icon src="https://i.ytimg.com/vi/yibHZD2TK1c/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
-    <title lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</title>
-    <desc lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</desc>
-    <icon src="https://i.ytimg.com/vi/yibHZD2TK1c/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</title>
+    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/3yE2-LHq49M/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510150000 +0530" stop="20240510160000 +0530">
+    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</title>
+    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Speech | Tihar Jail | AAP Workers Celebrate |SC | AAP | LS Polls 2024</desc>
+    <icon src="https://i.ytimg.com/vi/3yE2-LHq49M/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
-    <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
     <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
     <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</desc>
-    <icon src="https://i.ytimg.com/vi/sMgARp4rb6o/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</desc>
-    <icon src="https://i.ytimg.com/vi/sMgARp4rb6o/maxresdefault_live.jpg"/>
+  <programme channel="Reuters.yt" start="20240510150000 +0530" stop="20240510160000 +0530">
+    <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
+    <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
