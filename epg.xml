@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240510040000 +0530" stop="20240510050000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240510050000 +0530" stop="20240510060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240510050000 +0530" stop="20240510060000 +0530">
+    <title lang="en">PM Modi's interview to Republic TV</title>
+    <desc lang="en">PM Modi's interview to Republic TV</desc>
+    <icon src="https://i.ytimg.com/vi/ujz1k_-e_zg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
+    <title lang="en">PM Modi's interview to Republic TV</title>
+    <desc lang="en">PM Modi's interview to Republic TV</desc>
+    <icon src="https://i.ytimg.com/vi/ujz1k_-e_zg/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510040000 +0530" stop="20240510050000 +0530">
-    <title lang="en">LIVE: Padma Shri Awardee Dr KS Rajanna's Candid Conversation with PM Narendra Modi goes viral</title>
-    <desc lang="en">LIVE: Padma Shri Awardee Dr KS Rajanna's Candid Conversation with PM Narendra Modi goes viral</desc>
-    <icon src="https://i.ytimg.com/vi/6yx9PThvSJs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510050000 +0530" stop="20240510060000 +0530">
-    <title lang="en">LIVE: Padma Shri Awardee Dr KS Rajanna's Candid Conversation with PM Narendra Modi goes viral</title>
-    <desc lang="en">LIVE: Padma Shri Awardee Dr KS Rajanna's Candid Conversation with PM Narendra Modi goes viral</desc>
-    <icon src="https://i.ytimg.com/vi/6yx9PThvSJs/maxresdefault_live.jpg"/>
+    <title lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</title>
+    <desc lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</desc>
+    <icon src="https://i.ytimg.com/vi/l4WU3OPXn2c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
+    <title lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</title>
+    <desc lang="en">“Balasaheb kahte the… Har@#*, Ki@#$” Sanjay Nirupam’s abusive rant against Congress, Uddhav Thackrey</desc>
+    <icon src="https://i.ytimg.com/vi/l4WU3OPXn2c/maxresdefault_live.jpg"/>
   </programme>
 </tv>
