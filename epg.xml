@@ -2,40 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/m0ZeCzYY-C4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510180000 +0530" stop="20240510190000 +0530">
     <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/m0ZeCzYY-C4/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Reuters.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="Reuters.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
-    <title lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</title>
-    <desc lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</desc>
-    <icon src="https://i.ytimg.com/vi/QdqRmGjUmoM/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Reuters.yt" start="20240510180000 +0530" stop="20240510190000 +0530">
-    <title lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</title>
-    <desc lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</desc>
-    <icon src="https://i.ytimg.com/vi/QdqRmGjUmoM/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</desc>
-    <icon src="https://i.ytimg.com/vi/XFPc1AHNXCw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240510180000 +0530" stop="20240510190000 +0530">
-    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</title>
-    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</desc>
-    <icon src="https://i.ytimg.com/vi/XFPc1AHNXCw/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240510190000 +0530" stop="20240510200000 +0530">
+    <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/m0ZeCzYY-C4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
