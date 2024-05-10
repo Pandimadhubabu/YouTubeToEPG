@@ -1,41 +1,54 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ManaTolivelugu.yt">
+    <display-name lang="en">ManaTolivelugu</display-name>
+  </channel>
+  <programme channel="ManaTolivelugu.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
+    <title lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Ka4Nwr99cpE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
+    <title lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</title>
+    <desc lang="en">LIVE : ఎల్బీ స్టేడియం లో మోడీ బహిరంగ సభ | Modi Public Meeting @Lb Stadium | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Ka4Nwr99cpE/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
-    <title lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Puri, Odisha |BJP |Election</title>
-    <desc lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Puri, Odisha |BJP |Election</desc>
-    <icon src="https://i.ytimg.com/vi/iUdRZAot3fA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Puri, Odisha |BJP |Election</title>
-    <desc lang="en">LIVE: Defence Minister Rajnath Singh Addresses public meeting in Puri, Odisha |BJP |Election</desc>
-    <icon src="https://i.ytimg.com/vi/iUdRZAot3fA/maxresdefault_live.jpg"/>
+    <title lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</title>
+    <desc lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</desc>
+    <icon src="https://i.ytimg.com/vi/yibHZD2TK1c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
+    <title lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</title>
+    <desc lang="en">Rahul Gandhi LIVE| ’Rashtriya Samvidhaan Sammelan’ | Lucknow |Uttar Pradesh | Election|Congress</desc>
+    <icon src="https://i.ytimg.com/vi/yibHZD2TK1c/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+  <programme channel="Reuters.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
+    <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="Reuters.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">LIVE: Donald Trump's criminal trial over hush money payment</title>
-    <desc lang="en">LIVE: Donald Trump's criminal trial over hush money payment</desc>
+  <programme channel="Reuters.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
+    <title lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</title>
+    <desc lang="en">Trump trial livestream: Donald Trump's criminal trial over hush money payment</desc>
     <icon src="https://i.ytimg.com/vi/ZxyrfTEm7NY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240510120000 +0530" stop="20240510130000 +0530">
-    <title lang="en">Congress President Shri.Mallikarjun Kharge will participate in Jana Jathara Sabha at Nakrekal</title>
-    <desc lang="en">Congress President Shri.Mallikarjun Kharge will participate in Jana Jathara Sabha at Nakrekal</desc>
-    <icon src="https://i.ytimg.com/vi/8aBQg0tfmyA/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240510130000 +0530" stop="20240510140000 +0530">
-    <title lang="en">Congress President Shri.Mallikarjun Kharge will participate in Jana Jathara Sabha at Nakrekal</title>
-    <desc lang="en">Congress President Shri.Mallikarjun Kharge will participate in Jana Jathara Sabha at Nakrekal</desc>
-    <icon src="https://i.ytimg.com/vi/8aBQg0tfmyA/hqdefault_live.jpg"/>
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</desc>
+    <icon src="https://i.ytimg.com/vi/sMgARp4rb6o/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240510140000 +0530" stop="20240510150000 +0530">
+    <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</title>
+    <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Rally &amp; corner meeting at Shadnagar</desc>
+    <icon src="https://i.ytimg.com/vi/sMgARp4rb6o/maxresdefault_live.jpg"/>
   </programme>
 </tv>
