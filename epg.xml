@@ -1,26 +1,13 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240510160000 +0530" stop="20240510170000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/cPOOI2dcgTA/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
-    <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
-    <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/cPOOI2dcgTA/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510160000 +0530" stop="20240510170000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
     <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/m0ZeCzYY-C4/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240510180000 +0530" stop="20240510190000 +0530">
     <title lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</title>
     <desc lang="en">LIVE: PM Modi's roadshow in Bhubaneswar, Odisha today | Lok Sabha Election 2024</desc>
     <icon src="https://i.ytimg.com/vi/m0ZeCzYY-C4/maxresdefault_live.jpg"/>
@@ -28,25 +15,25 @@
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510160000 +0530" stop="20240510170000 +0530">
-    <title lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</title>
-    <desc lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</desc>
-    <icon src="https://i.ytimg.com/vi/cLgwvffRfgs/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
-    <title lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</title>
-    <desc lang="en">LIVE: Palestinians seek UN General Assembly backing for membership</desc>
-    <icon src="https://i.ytimg.com/vi/cLgwvffRfgs/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</title>
+    <desc lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</desc>
+    <icon src="https://i.ytimg.com/vi/QdqRmGjUmoM/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240510180000 +0530" stop="20240510190000 +0530">
+    <title lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</title>
+    <desc lang="en">LIVE: Two train collision leaves several injured in Buenos Aires</desc>
+    <icon src="https://i.ytimg.com/vi/QdqRmGjUmoM/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240510160000 +0530" stop="20240510170000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
     <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</title>
     <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</desc>
     <icon src="https://i.ytimg.com/vi/XFPc1AHNXCw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240510170000 +0530" stop="20240510180000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240510180000 +0530" stop="20240510190000 +0530">
     <title lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</title>
     <desc lang="en">Hon'ble Chief Minister Sri. A.Revanth Reddy will participate in Meet The Press at Taj Krishna Hotel</desc>
     <icon src="https://i.ytimg.com/vi/XFPc1AHNXCw/maxresdefault_live.jpg"/>
