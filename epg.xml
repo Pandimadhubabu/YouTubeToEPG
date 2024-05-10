@@ -2,53 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/EHy4D9VaERk/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Nandurbar, Maharashtra | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/EHy4D9VaERk/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240510080000 +0530" stop="20240510090000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/bopJqhLuui0/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
-    <title lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</title>
-    <desc lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/GLiJK_AqchA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
-    <title lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</title>
-    <desc lang="en">BJP PC LIVE | Union Minister Rajeev Chandrasekhar addresses press conference | Delhi</desc>
-    <icon src="https://i.ytimg.com/vi/GLiJK_AqchA/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Congress president Mallikarjun Kharge Addresses Press Conference | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Congress president Mallikarjun Kharge Addresses Press Conference | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/MKXDTlSrUJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510080000 +0530" stop="20240510090000 +0530">
+    <title lang="en">LIVE: Congress president Mallikarjun Kharge Addresses Press Conference | Lok Sabha Election 2024</title>
+    <desc lang="en">LIVE: Congress president Mallikarjun Kharge Addresses Press Conference | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/MKXDTlSrUJA/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510060000 +0530" stop="20240510070000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
     <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
     <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
     <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240510080000 +0530" stop="20240510090000 +0530">
+    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
+    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
+    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240510070000 +0530" stop="20240510080000 +0530">
+    <title lang="en">Congress President Shri.Mallikarjun Kharge will Address the Media at Taj Krishna Hotel</title>
+    <desc lang="en">Congress President Shri.Mallikarjun Kharge will Address the Media at Taj Krishna Hotel</desc>
+    <icon src="https://i.ytimg.com/vi/ss_pHizy7VA/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240510080000 +0530" stop="20240510090000 +0530">
+    <title lang="en">Congress President Shri.Mallikarjun Kharge will Address the Media at Taj Krishna Hotel</title>
+    <desc lang="en">Congress President Shri.Mallikarjun Kharge will Address the Media at Taj Krishna Hotel</desc>
+    <icon src="https://i.ytimg.com/vi/ss_pHizy7VA/hqdefault_live.jpg"/>
   </programme>
 </tv>
