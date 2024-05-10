@@ -2,27 +2,27 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240510080000 +0530" stop="20240510090000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses public meeting in Khunti, Jharkhand | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses public meeting in Khunti, Jharkhand | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/_XGfVJAl9eI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240510090000 +0530" stop="20240510100000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses public meeting in Khunti, Jharkhand | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses public meeting in Khunti, Jharkhand | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/_XGfVJAl9eI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Delhi liquor scam | Arvind Kejriwal Gets Bail | Supreme Court |Delhi | Live News</title>
+    <desc lang="en">LIVE: Delhi liquor scam | Arvind Kejriwal Gets Bail | Supreme Court |Delhi | Live News</desc>
+    <icon src="https://i.ytimg.com/vi/_2sC8dlHiwY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240510100000 +0530" stop="20240510110000 +0530">
+    <title lang="en">LIVE: Delhi liquor scam | Arvind Kejriwal Gets Bail | Supreme Court |Delhi | Live News</title>
+    <desc lang="en">LIVE: Delhi liquor scam | Arvind Kejriwal Gets Bail | Supreme Court |Delhi | Live News</desc>
+    <icon src="https://i.ytimg.com/vi/_2sC8dlHiwY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Reuters.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="Reuters.yt" start="20240510080000 +0530" stop="20240510090000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Reuters.yt" start="20240510090000 +0530" stop="20240510100000 +0530">
-    <title lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</title>
-    <desc lang="en">LIVE: View from camp for displaced people in Rafah | REUTERS</desc>
-    <icon src="https://i.ytimg.com/vi/RNKnuVyarJI/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: UN agencies hold a bi-weekly briefing</title>
+    <desc lang="en">LIVE: UN agencies hold a bi-weekly briefing</desc>
+    <icon src="https://i.ytimg.com/vi/PsKOTdjxBao/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Reuters.yt" start="20240510100000 +0530" stop="20240510110000 +0530">
+    <title lang="en">LIVE: UN agencies hold a bi-weekly briefing</title>
+    <desc lang="en">LIVE: UN agencies hold a bi-weekly briefing</desc>
+    <icon src="https://i.ytimg.com/vi/PsKOTdjxBao/maxresdefault_live.jpg"/>
   </programme>
 </tv>
