@@ -1,28 +1,15 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="NarendraModi.yt">
+  <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="NarendraModi.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Ilxx0IM0N5k/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240511130000 +0530" stop="20240511140000 +0530">
+    <title lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/qGxZroPbnJI/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="NarendraModi.yt" start="20240511130000 +0530" stop="20240511140000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/Ilxx0IM0N5k/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="SAVYMedia.yt">
-    <display-name lang="en">TG Live</display-name>
-  </channel>
-  <programme channel="SAVYMedia.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
-    <title lang="en">Congress Rally and Corner Meeting at Kammareddy</title>
-    <desc lang="en">Congress Rally and Corner Meeting at Kammareddy</desc>
-    <icon src="https://i.ytimg.com/vi/KsM4hwF8eE4/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="SAVYMedia.yt" start="20240511130000 +0530" stop="20240511140000 +0530">
-    <title lang="en">Congress Rally and Corner Meeting at Kammareddy</title>
-    <desc lang="en">Congress Rally and Corner Meeting at Kammareddy</desc>
-    <icon src="https://i.ytimg.com/vi/KsM4hwF8eE4/maxresdefault_live.jpg"/>
+  <programme channel="ANINewsIndia.yt" start="20240511140000 +0530" stop="20240511150000 +0530">
+    <title lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
+    <desc lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/qGxZroPbnJI/maxresdefault_live.jpg"/>
   </programme>
 </tv>
