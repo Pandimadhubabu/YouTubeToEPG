@@ -2,14 +2,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240511130000 +0530" stop="20240511140000 +0530">
-    <title lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/qGxZroPbnJI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240511140000 +0530" stop="20240511150000 +0530">
-    <title lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
-    <desc lang="en">Live: PM Modi addresses Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/qGxZroPbnJI/maxresdefault_live.jpg"/>
+    <title lang="en">Live: Union Home Minister Amit Shah Perform "Ganga Aarti" at Dashashwamedh Ghat, Varanasi</title>
+    <desc lang="en">Live: Union Home Minister Amit Shah Perform "Ganga Aarti" at Dashashwamedh Ghat, Varanasi</desc>
+    <icon src="https://i.ytimg.com/vi/AHrLgL5vCpU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240511150000 +0530" stop="20240511160000 +0530">
+    <title lang="en">Live: Union Home Minister Amit Shah Perform "Ganga Aarti" at Dashashwamedh Ghat, Varanasi</title>
+    <desc lang="en">Live: Union Home Minister Amit Shah Perform "Ganga Aarti" at Dashashwamedh Ghat, Varanasi</desc>
+    <icon src="https://i.ytimg.com/vi/AHrLgL5vCpU/maxresdefault_live.jpg"/>
   </programme>
 </tv>
