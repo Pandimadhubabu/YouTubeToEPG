@@ -2,51 +2,38 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
-    <title lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</title>
-    <desc lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/bpBH1VuTIME/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
     <title lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</title>
     <desc lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/bpBH1VuTIME/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="NarendraModi.yt">
-    <display-name lang="en">Live Events</display-name>
-  </channel>
-  <programme channel="NarendraModi.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/xLyUsSH_f-w/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="NarendraModi.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
-    <title lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</title>
-    <desc lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</desc>
-    <icon src="https://i.ytimg.com/vi/xLyUsSH_f-w/maxresdefault_live.jpg"/>
+  <programme channel="ManaTolivelugu.yt" start="20240511090000 +0530" stop="20240511100000 +0530">
+    <title lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</title>
+    <desc lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/bpBH1VuTIME/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
-    <title lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/yqhlPx-g2Dc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
-    <title lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</title>
-    <desc lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</desc>
-    <icon src="https://i.ytimg.com/vi/yqhlPx-g2Dc/maxresdefault_live.jpg"/>
+    <title lang="en">Rahul Gandhi LIVE | Public Meeting in Kadapa, Andhra Pradesh | Congress | Lok Sabha Election</title>
+    <desc lang="en">Rahul Gandhi LIVE | Public Meeting in Kadapa, Andhra Pradesh | Congress | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/DErFLLxDM18/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240511090000 +0530" stop="20240511100000 +0530">
+    <title lang="en">Rahul Gandhi LIVE | Public Meeting in Kadapa, Andhra Pradesh | Congress | Lok Sabha Election</title>
+    <desc lang="en">Rahul Gandhi LIVE | Public Meeting in Kadapa, Andhra Pradesh | Congress | Lok Sabha Election</desc>
+    <icon src="https://i.ytimg.com/vi/DErFLLxDM18/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
     <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
     <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
     <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="SAVYMedia.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
+  <programme channel="SAVYMedia.yt" start="20240511090000 +0530" stop="20240511100000 +0530">
     <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
     <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
     <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
