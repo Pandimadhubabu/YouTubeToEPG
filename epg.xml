@@ -2,14 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240511050000 +0530" stop="20240511060000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/63wijJmecUM/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240511060000 +0530" stop="20240511070000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/63wijJmecUM/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/AuBLePXqWuE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
+    <title lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</title>
+    <desc lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/AuBLePXqWuE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="ANINewsIndia.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="ANINewsIndia.yt" start="20240511060000 +0530" stop="20240511070000 +0530">
+    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</title>
+    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</desc>
+    <icon src="https://i.ytimg.com/vi/BOm_HS7wPMc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
+    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</title>
+    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</desc>
+    <icon src="https://i.ytimg.com/vi/BOm_HS7wPMc/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="SAVYMedia.yt">
+    <display-name lang="en">TG Live</display-name>
+  </channel>
+  <programme channel="SAVYMedia.yt" start="20240511060000 +0530" stop="20240511070000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</desc>
+    <icon src="https://i.ytimg.com/vi/Cf-YLnShxJg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
+    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</title>
+    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</desc>
+    <icon src="https://i.ytimg.com/vi/Cf-YLnShxJg/maxresdefault_live.jpg"/>
   </programme>
 </tv>
