@@ -1,54 +1,28 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="ManaTolivelugu.yt">
-    <display-name lang="en">ManaTolivelugu</display-name>
-  </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
-    <title lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/6uuLZyYVbyw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
-    <title lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</title>
-    <desc lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/6uuLZyYVbyw/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="ANINewsIndia.yt">
+  <channel id="NarendraModi.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
-    <title lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</title>
-    <desc lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</desc>
-    <icon src="https://i.ytimg.com/vi/gqaKmnXhdfI/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Ilxx0IM0N5k/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
-    <title lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</title>
-    <desc lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</desc>
-    <icon src="https://i.ytimg.com/vi/gqaKmnXhdfI/maxresdefault_live.jpg"/>
+  <programme channel="NarendraModi.yt" start="20240511130000 +0530" stop="20240511140000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Chatra, Jharkhand | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/Ilxx0IM0N5k/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
-    <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
-    <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
-    <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
-    <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
-    <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
-    <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
+    <title lang="en">Congress Rally and Corner Meeting at Kammareddy</title>
+    <desc lang="en">Congress Rally and Corner Meeting at Kammareddy</desc>
+    <icon src="https://i.ytimg.com/vi/KsM4hwF8eE4/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="IPRAPDept.yt">
-    <display-name lang="en">AP Government</display-name>
-  </channel>
-  <programme channel="IPRAPDept.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
-    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
-    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
-    <icon src="https://i.ytimg.com/vi/94Yvyzr_mVY/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="IPRAPDept.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
-    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
-    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
-    <icon src="https://i.ytimg.com/vi/94Yvyzr_mVY/maxresdefault_live.jpg"/>
+  <programme channel="SAVYMedia.yt" start="20240511130000 +0530" stop="20240511140000 +0530">
+    <title lang="en">Congress Rally and Corner Meeting at Kammareddy</title>
+    <desc lang="en">Congress Rally and Corner Meeting at Kammareddy</desc>
+    <icon src="https://i.ytimg.com/vi/KsM4hwF8eE4/maxresdefault_live.jpg"/>
   </programme>
 </tv>
