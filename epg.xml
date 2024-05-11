@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240511100000 +0530" stop="20240511110000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
     <title lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</title>
     <desc lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/6uuLZyYVbyw/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
     <title lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</title>
     <desc lang="en">LIVE : ప్రియాంక గాంధీ బహిరంగ సభ | Priyanka Gandhi Public Meeting | Thandur | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/6uuLZyYVbyw/maxresdefault_live.jpg"/>
@@ -15,27 +15,40 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240511100000 +0530" stop="20240511110000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses press conference in Hyderabad, Telangana</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses press conference in Hyderabad, Telangana</desc>
-    <icon src="https://i.ytimg.com/vi/XDXLFsmBwj4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
-    <title lang="en">LIVE: HM Amit Shah addresses press conference in Hyderabad, Telangana</title>
-    <desc lang="en">LIVE: HM Amit Shah addresses press conference in Hyderabad, Telangana</desc>
-    <icon src="https://i.ytimg.com/vi/XDXLFsmBwj4/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</title>
+    <desc lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</desc>
+    <icon src="https://i.ytimg.com/vi/gqaKmnXhdfI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
+    <title lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</title>
+    <desc lang="en">LIVE: Priyanka Gandhi ji addresses Nyay Sankalp Sabha in Tandur, Telangana.</desc>
+    <icon src="https://i.ytimg.com/vi/gqaKmnXhdfI/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240511100000 +0530" stop="20240511110000 +0530">
-    <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
-    <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
-    <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
     <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
     <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
     <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
+    <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
+    <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
+    <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="IPRAPDept.yt">
+    <display-name lang="en">AP Government</display-name>
+  </channel>
+  <programme channel="IPRAPDept.yt" start="20240511110000 +0530" stop="20240511120000 +0530">
+    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
+    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
+    <icon src="https://i.ytimg.com/vi/94Yvyzr_mVY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="IPRAPDept.yt" start="20240511120000 +0530" stop="20240511130000 +0530">
+    <title lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</title>
+    <desc lang="en">Press Conference by C.E.O, AP &amp; E.O. Principal Secretary to Govt. at Election Media Center</desc>
+    <icon src="https://i.ytimg.com/vi/94Yvyzr_mVY/maxresdefault_live.jpg"/>
   </programme>
 </tv>
