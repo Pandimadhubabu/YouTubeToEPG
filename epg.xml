@@ -2,40 +2,53 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240511060000 +0530" stop="20240511070000 +0530">
-    <title lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</title>
-    <desc lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/AuBLePXqWuE/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
-    <title lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</title>
-    <desc lang="en">LIVE :  Motkupally Narsimhulu Sensational Press Meet | Revanth reddy | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/AuBLePXqWuE/maxresdefault_live.jpg"/>
+    <title lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</title>
+    <desc lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/bpBH1VuTIME/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
+    <title lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</title>
+    <desc lang="en">LIVE: రేవంత్ రెడ్డి పబ్లిక్ మీటింగ్ | Revanth reddy Public Meeting | Patan cheru | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/bpBH1VuTIME/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/xLyUsSH_f-w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Balangir, Odisha | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/xLyUsSH_f-w/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240511060000 +0530" stop="20240511070000 +0530">
-    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</title>
-    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</desc>
-    <icon src="https://i.ytimg.com/vi/BOm_HS7wPMc/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
-    <title lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</title>
-    <desc lang="en">LIVE: Delhi CM Arvind Kejriwal Offers Prayer at CP Hanuman Mandir with AAP Leaders</desc>
-    <icon src="https://i.ytimg.com/vi/BOm_HS7wPMc/maxresdefault_live.jpg"/>
+    <title lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/yqhlPx-g2Dc/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
+    <title lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</title>
+    <desc lang="en">Live: PM Modi addresses Public meeting in Balangir, Odisha | Lok Sabha Election 2024 | BJP</desc>
+    <icon src="https://i.ytimg.com/vi/yqhlPx-g2Dc/maxresdefault_live.jpg"/>
   </programme>
   <channel id="SAVYMedia.yt">
     <display-name lang="en">TG Live</display-name>
   </channel>
-  <programme channel="SAVYMedia.yt" start="20240511060000 +0530" stop="20240511070000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</desc>
-    <icon src="https://i.ytimg.com/vi/Cf-YLnShxJg/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SAVYMedia.yt" start="20240511070000 +0530" stop="20240511080000 +0530">
-    <title lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</title>
-    <desc lang="en">Hon'ble CM Sri. A.Revanth Reddy will participate in Rally and Corner Meeting at Patancheru</desc>
-    <icon src="https://i.ytimg.com/vi/Cf-YLnShxJg/maxresdefault_live.jpg"/>
+    <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
+    <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
+    <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SAVYMedia.yt" start="20240511080000 +0530" stop="20240511090000 +0530">
+    <title lang="en">Congress Jana Jathara Sabha at Tandur</title>
+    <desc lang="en">Congress Jana Jathara Sabha at Tandur</desc>
+    <icon src="https://i.ytimg.com/vi/fTufAzEQ1gE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
