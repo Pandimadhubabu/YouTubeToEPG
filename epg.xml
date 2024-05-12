@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240512040000 +0530" stop="20240512050000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240512050000 +0530" stop="20240512060000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240512050000 +0530" stop="20240512060000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240512060000 +0530" stop="20240512070000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240512040000 +0530" stop="20240512050000 +0530">
-    <title lang="en">Massive Protests in PoK | Thousands on streets in Muzaffarabad | Pakistan | Army | India</title>
-    <desc lang="en">Massive Protests in PoK | Thousands on streets in Muzaffarabad | Pakistan | Army | India</desc>
-    <icon src="https://i.ytimg.com/vi/07aPOgbs01g/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240512050000 +0530" stop="20240512060000 +0530">
-    <title lang="en">Massive Protests in PoK | Thousands on streets in Muzaffarabad | Pakistan | Army | India</title>
-    <desc lang="en">Massive Protests in PoK | Thousands on streets in Muzaffarabad | Pakistan | Army | India</desc>
-    <icon src="https://i.ytimg.com/vi/07aPOgbs01g/maxresdefault_live.jpg"/>
+    <title lang="en">Afghanistan floods kill at least 153 |Taliban | interior ministry | Heavy Rain | World News | Rescue</title>
+    <desc lang="en">Afghanistan floods kill at least 153 |Taliban | interior ministry | Heavy Rain | World News | Rescue</desc>
+    <icon src="https://i.ytimg.com/vi/DsrE6bEAyZE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240512060000 +0530" stop="20240512070000 +0530">
+    <title lang="en">Afghanistan floods kill at least 153 |Taliban | interior ministry | Heavy Rain | World News | Rescue</title>
+    <desc lang="en">Afghanistan floods kill at least 153 |Taliban | interior ministry | Heavy Rain | World News | Rescue</desc>
+    <icon src="https://i.ytimg.com/vi/DsrE6bEAyZE/maxresdefault_live.jpg"/>
   </programme>
 </tv>
