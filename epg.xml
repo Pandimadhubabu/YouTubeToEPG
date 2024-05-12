@@ -2,27 +2,40 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240512080000 +0530" stop="20240512090000 +0530">
-    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
-    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
-    <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ManaTolivelugu.yt" start="20240512090000 +0530" stop="20240512100000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="ManaTolivelugu.yt" start="20240512100000 +0530" stop="20240512110000 +0530">
+    <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
+    <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
+    <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="NarendraModi.yt">
+    <display-name lang="en">Live Events</display-name>
+  </channel>
+  <programme channel="NarendraModi.yt" start="20240512090000 +0530" stop="20240512100000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Arambagh, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Arambagh, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/L9xT_OzazAQ/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="NarendraModi.yt" start="20240512100000 +0530" stop="20240512110000 +0530">
+    <title lang="en">PM Modi Live | Public meeting in Arambagh, West Bengal | Lok Sabha Election 2024</title>
+    <desc lang="en">PM Modi Live | Public meeting in Arambagh, West Bengal | Lok Sabha Election 2024</desc>
+    <icon src="https://i.ytimg.com/vi/L9xT_OzazAQ/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240512080000 +0530" stop="20240512090000 +0530">
-    <title lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</title>
-    <desc lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</desc>
-    <icon src="https://i.ytimg.com/vi/zScD-JvHDmo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240512090000 +0530" stop="20240512100000 +0530">
-    <title lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</title>
-    <desc lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</desc>
-    <icon src="https://i.ytimg.com/vi/zScD-JvHDmo/maxresdefault_live.jpg"/>
+    <title lang="en">PM Modi LIVE| Public meeting| Arambagh, West Bengal | Lok Sabha Election| BJP | जनसभा|PM मोदी |चुनाव</title>
+    <desc lang="en">PM Modi LIVE| Public meeting| Arambagh, West Bengal | Lok Sabha Election| BJP | जनसभा|PM मोदी |चुनाव</desc>
+    <icon src="https://i.ytimg.com/vi/HbexdTgn7po/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240512100000 +0530" stop="20240512110000 +0530">
+    <title lang="en">PM Modi LIVE| Public meeting| Arambagh, West Bengal | Lok Sabha Election| BJP | जनसभा|PM मोदी |चुनाव</title>
+    <desc lang="en">PM Modi LIVE| Public meeting| Arambagh, West Bengal | Lok Sabha Election| BJP | जनसभा|PM मोदी |चुनाव</desc>
+    <icon src="https://i.ytimg.com/vi/HbexdTgn7po/maxresdefault_live.jpg"/>
   </programme>
 </tv>
