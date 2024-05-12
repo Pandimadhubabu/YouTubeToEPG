@@ -37,7 +37,7 @@ Generate 3-hourly blocks of times based on a current date
 
 def build_xml_tv(streams: list) -> bytes:
     """
-Build an XMLTV file based on provided stream information
+    Build an XMLTV file based on provided stream information
     :param streams: List of tuples containing channel/stream name, ID and category
     :return: XML as bytes
     """
@@ -63,15 +63,16 @@ Build an XMLTV file based on provided stream information
 
             title = etree.SubElement(programme, "title")
             title.set('lang', 'en')
-            title.text = stream[3] if stream[3] != '' else f'LIVE: {stream[0]}'
+            title.text = "You're watching this channel from YouTube"
+
             description = etree.SubElement(programme, "desc")
             description.set('lang', 'en')
-            description.text = stream[4] if stream[4] != '' else 'No description provided'
+            description.text = "You're watching this channel from YouTube. For more, visit the site."
+
             icon = etree.SubElement(programme, "icon")
-            icon.set('src', stream[5])
+            icon.set('src', "https://c4.wallpaperflare.com/wallpaper/900/92/1002/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg")
 
     return etree.tostring(data, pretty_print=True, encoding='utf-8')
-
 
 def grab(url: str):
     """
