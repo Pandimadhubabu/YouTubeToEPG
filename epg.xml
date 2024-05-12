@@ -2,12 +2,12 @@
   <channel id="ManaTolivelugu.yt">
     <display-name lang="en">ManaTolivelugu</display-name>
   </channel>
-  <programme channel="ManaTolivelugu.yt" start="20240512070000 +0530" stop="20240512080000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240512080000 +0530" stop="20240512090000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="ManaTolivelugu.yt" start="20240512080000 +0530" stop="20240512090000 +0530">
+  <programme channel="ManaTolivelugu.yt" start="20240512090000 +0530" stop="20240512100000 +0530">
     <title lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</title>
     <desc lang="en">LIVE: Good Morning Telangana With Journalist Raghu |Today News Paper Main Headlines | ManaTolivelugu</desc>
     <icon src="https://i.ytimg.com/vi/Xa4rPEM8uzQ/maxresdefault_live.jpg"/>
@@ -15,14 +15,14 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240512070000 +0530" stop="20240512080000 +0530">
-    <title lang="en">Yogi Adityanath LIVE | Public meeting Sitapur, Uttar Pradesh | Election | BJP | मोहनलालगंज | जनसभा</title>
-    <desc lang="en">Yogi Adityanath LIVE | Public meeting Sitapur, Uttar Pradesh | Election | BJP | मोहनलालगंज | जनसभा</desc>
-    <icon src="https://i.ytimg.com/vi/NSqJ71Uezmk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ANINewsIndia.yt" start="20240512080000 +0530" stop="20240512090000 +0530">
-    <title lang="en">Yogi Adityanath LIVE | Public meeting Sitapur, Uttar Pradesh | Election | BJP | मोहनलालगंज | जनसभा</title>
-    <desc lang="en">Yogi Adityanath LIVE | Public meeting Sitapur, Uttar Pradesh | Election | BJP | मोहनलालगंज | जनसभा</desc>
-    <icon src="https://i.ytimg.com/vi/NSqJ71Uezmk/maxresdefault_live.jpg"/>
+    <title lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</title>
+    <desc lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</desc>
+    <icon src="https://i.ytimg.com/vi/zScD-JvHDmo/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ANINewsIndia.yt" start="20240512090000 +0530" stop="20240512100000 +0530">
+    <title lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</title>
+    <desc lang="en">Arvind Kejriwal &amp; Bhagwant Maan LIVE | AAP Party Press Conference | Election |Delhi |BJP |Punjab</desc>
+    <icon src="https://i.ytimg.com/vi/zScD-JvHDmo/maxresdefault_live.jpg"/>
   </programme>
 </tv>
