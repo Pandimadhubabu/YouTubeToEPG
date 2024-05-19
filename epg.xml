@@ -2,12 +2,12 @@
   <channel id="ANINewsIndia.yt">
     <display-name lang="en">Live Events</display-name>
   </channel>
-  <programme channel="ANINewsIndia.yt" start="20240519180000 +0530" stop="20240519190000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240519190000 +0530" stop="20240519200000 +0530">
     <title lang="en">You're watching this channel from YouTube</title>
     <desc lang="en">You're watching this channel from YouTube. For more, visit the site.</desc>
     <icon src="https://c4.wallpaperflare.com/wallpaper/900/92/1002/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg"/>
   </programme>
-  <programme channel="ANINewsIndia.yt" start="20240519190000 +0530" stop="20240519200000 +0530">
+  <programme channel="ANINewsIndia.yt" start="20240519200000 +0530" stop="20240519210000 +0530">
     <title lang="en">You're watching this channel from YouTube</title>
     <desc lang="en">You're watching this channel from YouTube. For more, visit the site.</desc>
     <icon src="https://c4.wallpaperflare.com/wallpaper/900/92/1002/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg"/>
