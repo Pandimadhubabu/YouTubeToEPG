@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ManaTolivelugu.yt" tvg-name="ManaTolivelugu" group-title="News", ManaTolivelugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719825111/ei/dx6CZvyeMai0kucPy8KjqAQ/ip/20.55.86.182/id/kOJe63OOVf4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwaemJdYoIcdwKTQguMj8QG5paZeTuPG191Y1RC7VOR3R11EiPtjlwfjp40/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPB9uXs4QfcPPh7JgScSXQGhRJveuZKCg1ZdiZyCvNOhAiABvrEAzwqoPHjFTt3_O2MPrao9QQrmr0mIDraWeuH4zQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719828745/ei/qSyCZtbgF62GkucPk6C_oAg/ip/20.84.127.109/id/kOJe63OOVf4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3l57_GYimGZv2-vLmQkJBj5t6ulR-5qaLXmph9LIqohgYRtbSVX-1I3XAs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgV_t9tWwbJr26WqvF7siOT5rlLJfK37dTt5YhBnqeoZwCIQDOi8mGQ1KvjRUgwXu4hGqpAYdSp4TlU__rPKmAa-f2Dg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NarendraModi.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ANINewsIndia.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719825112/ei/eB6CZqrTJaGBkucPzbKGsAg/ip/20.55.86.182/id/G3HlKUeZwAc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181251/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0lVHqOhHRdx65Omaqklk1GxxZ2nE1kF_XdEsMp72leN7gFvfkRMElQW09M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANXeu0T5v04_hJK5WtkxWHFP7wKe5Gxnm9Cy2zMQNPvDAiEA06MV7SYVE0XdNo7QERgFNTW0bu-lYWYtHeoM9wkd3kw%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719828746/ei/qiyCZueHCbSykucPptO3qAI/ip/20.84.127.109/id/78cvYQF0xpo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214392/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4rryh6CzZ_vMIvAq6fWLmFyVzCKisqrZYuKBJKqUZ39LHvLPSYdgsak2RQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOt5Z1KvLaN0I8TRChp1FQ19IyBdqir2QDfwAuGf7q0EAiAsawbaZg3vmiNGWOWKSh2JQgk-Lv_0KVHo02QrmNRl_g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters.yt" tvg-name="Live Events" group-title="Exclusive", Live Events
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="IPRAPDept.yt" tvg-name="AP Government" group-title="Telugu", AP Government
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719825113/ei/eR6CZvGdLPmHkucP1pqamA4/ip/20.55.86.182/id/U1vU5kxPOd8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5RW2jXJ6-ImG9Y0-3kysGc9WC4dBTVskpWEdZHWRIaZhXPJXdKxuOmHu9I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM4utm1djZqGjuRD_3ZWlT6eGKQjPFY7C4kqvMRoKTnbAiAvui-ofFL3sp-qIHdBIeCRtrTMiPZXYv4clZcyvEIP7g%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=1oh9IEwBbFY
